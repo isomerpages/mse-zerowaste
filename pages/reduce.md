@@ -5,6 +5,9 @@ permalink: /reduce/
 breadcrumb: Reduce
 ---
 
-### **What is Lorem Ipsum?**
+### **Reduce Waste**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Reduce/Reduction: to make something smaller or use less, resulting in a smaller amount of waste.<P>
+"Source reduction" is reducing waste before you purchase it, or by purchasing products that are not wasteful in their packaging or use.<P>
+A key part of waste "reduction" is "conservation"—using natural resources wisely, and using less than usual in order avoid waste.<P>
+You can practice reduction by selecting products that do not have to be added to landfills or the waste stream in general. This is really easy to do...
