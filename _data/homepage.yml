@@ -23,15 +23,13 @@ button:
 key-highlights:
   - title: E-Waste
     description: Important highlight A is important
-    url: https://google.com
-    external: true
+    url: /e-waste/
   - title: Food Waste
     description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
+    url: /food-waste/
   - title: Packaging Waste
     description: Page A is important too
-    url: /page-A/
+    url: /packaging-waste/
 
 resources-title: News
 resources-subtitle: Be in the know
