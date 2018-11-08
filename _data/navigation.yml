@@ -4,11 +4,11 @@
 #                                #
 ##################################
 
-- title: Simplepage A
+- title: Reduce
   url: /simplepage-A/
-- title: Simplepage B
+- title: Reuse
   url: /simplepage-B/
-- title: Left Nav One
+- title: Recycle
   url: /left-nav-one/sub-page-A/
   sub-links:
   - title: Sub Page A
