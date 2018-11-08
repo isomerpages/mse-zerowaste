@@ -5,9 +5,9 @@
 ##################################
 
 - title: Reduce
-  url: /simplepage-A/
+  url: /Reduce/
 - title: Reuse
-  url: /simplepage-B/
+  url: /Reuse/
 - title: Recycle
   url: /left-nav-one/sub-page-A/
   sub-links:
