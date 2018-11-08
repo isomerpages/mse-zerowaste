@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: E-Waste
-permalink: /ewaste/
+permalink: /e-waste/
 breadcrumb: E-Waste
 ---
 
