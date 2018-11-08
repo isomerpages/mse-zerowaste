@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Simplepage A
-permalink: /simplepage-A/
-breadcrumb: Simplepage A
+title: Reduce
+permalink: /reduce/
+breadcrumb: Reduce
 ---
 
 ### **What is Lorem Ipsum?**
