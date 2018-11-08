@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: Simplepage A
   url: /simplepage-A/
 - title: Simplepage B
@@ -37,3 +35,5 @@
     url: /resource-room/subcategory-B/
   - title: Subcategory C
     url: /resource-room/subcategory-C/
+  - title: Contact Us
+    url: /contact-us/
