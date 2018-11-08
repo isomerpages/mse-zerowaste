@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/logo.png
 
 # Hero Banner
-hero-title: MEWR Zero Waste 2
-hero-subtitle: Hero subtitle
+hero-title: Towards Zero Waste
+hero-subtitle: For a Sustainable Singapore
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -21,15 +21,15 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
+  - title: E-Waste
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
+  - title: Food Waste
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page A
+  - title: Packaging Waste
     description: Page A is important too
     url: /page-A/
 
