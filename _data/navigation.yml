@@ -17,6 +17,8 @@
     url: /left-nav-one/sub-page-A/
   - title: Sub Page B
     url: /left-nav-one/sub-page-B/
+  - title: Sub Page C
+    url: /left-nav-one/sub-page-C/
 - title: Left Nav Two
   url: /left-nav-two/sub-page-C/
   sub-links:
