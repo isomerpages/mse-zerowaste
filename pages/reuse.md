@@ -11,4 +11,4 @@ You can "reuse" materials in their original form instead of throwing them away, 
 
 Take along washable cups or travel mugs instead of disposables; a lot of restaurants and stores will be glad to fill or refill your own mug.
 
-![zero waste truck](/images/Zero-Waste-Truck.jpg)
+![reuse wine bottles](/images/Wine-Bottles.jpg)
