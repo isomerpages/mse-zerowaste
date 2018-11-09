@@ -11,14 +11,14 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/logo.png
 
 # Hero Banner
-hero-title: Towards Zero Waste
-hero-subtitle: For a Sustainable Singapore
+hero-title: From Trash to Treasure
+hero-subtitle: How we're transforming to become a Zero Waste Nation
 hero-banner: /images/herobanner.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/
     
 key-highlights:
   - title: E-Waste
