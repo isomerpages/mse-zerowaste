@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Sub Page B
-permalink: /left-nav-one/sub-page-B/
+permalink: /recycle/sub-page-B/
 breadcrumb: Sub Page B
 collection_name: recycle
 ---
