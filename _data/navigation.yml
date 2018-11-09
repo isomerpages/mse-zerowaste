@@ -32,10 +32,12 @@
   - title: All
     url: /resource-room/
   - title: Videos
-    url: /resource-room/subcategory-A/
+    url: /resource-room/video/
   - title: Infographics
-    url: /resource-room/subcategory-B/
+    url: /resource-room/infographics/
   - title: Publications
-    url: /resource-room/subcategory-C/
+    url: /resource-room/publications/
+  - title: Statistics
+    url: /resource-room/statistics/
 - title: Contact Us
   url: /contact-us/
