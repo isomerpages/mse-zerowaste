@@ -24,6 +24,7 @@ key-highlights:
   - title: E-Waste
     description: Important highlight A is important
     url: /e-waste/
+    external: false
   - title: Food Waste
     description: Important highlight B is equally important
     url: /food-waste/
