@@ -32,12 +32,12 @@
   - title: All
     url: /resource/
   - title: Videos
-    url: /resource/videos/
+    url: /resources/videos/
   - title: Infographics
-    url: /resource/infographics/
+    url: /resources/infographics/
   - title: Publications
-    url: /resource/publications/
+    url: /resources/publications/
   - title: Statistics
-    url: /resource/statistics/
+    url: /resources/statistics/
 - title: Contact Us
   url: /contact-us/
