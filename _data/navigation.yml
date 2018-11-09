@@ -26,16 +26,16 @@
     url: /left-nav-two/sub-page-C/
   - title: Sub Page D
     url: /left-nav-two/sub-page-D/
-- title: Resource Room
+- title: Resources
   url: /resource-room/
   sub-links:
   - title: All
     url: /resource-room/
-  - title: Subcategory A
+  - title: Videos
     url: /resource-room/subcategory-A/
-  - title: Subcategory B
+  - title: Infographics
     url: /resource-room/subcategory-B/
-  - title: Subcategory C
+  - title: Publications
     url: /resource-room/subcategory-C/
 - title: Contact Us
   url: /contact-us/
