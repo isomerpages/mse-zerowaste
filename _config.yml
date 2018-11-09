@@ -45,4 +45,4 @@ collections:
     output: true
   left-nav-two:
     output: true
-resources_name: resource
+resources_name: resources
