@@ -41,7 +41,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 baseurl: /isomerpages-mewr-zerowaste
 collections:
-  left-nav-one:
+  recycle:
     output: true
   left-nav-two:
     output: true
