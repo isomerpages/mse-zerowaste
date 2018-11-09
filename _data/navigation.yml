@@ -30,14 +30,14 @@
   url: /resource-room/
   sub-links:
   - title: All
-    url: /resource-room/
+    url: /resource/
   - title: Videos
-    url: /resource-room/videos/
+    url: /resource/videos/
   - title: Infographics
-    url: /resource-room/infographics/
+    url: /resource/infographics/
   - title: Publications
-    url: /resource-room/publications/
+    url: /resource/publications/
   - title: Statistics
-    url: /resource-room/statistics/
+    url: /resource/statistics/
 - title: Contact Us
   url: /contact-us/
