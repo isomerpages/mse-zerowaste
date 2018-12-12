@@ -35,13 +35,6 @@
     url: /recycle/sub-page-C/
   - title: Where to Recycle
     url: /recycle/sub-page-C/
-- title: Left Nav Two
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Sub Page C
-    url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
-    url: /left-nav-two/sub-page-D/
 - title: Resources
   url: /resources/
   sub-links:
@@ -55,5 +48,7 @@
     url: /resources/publications/
   - title: Statistics
     url: /resources/statistics/
+- title: Get Involved
+  url: /get-involved/
 - title: Contact Us
   url: /contact-us/
