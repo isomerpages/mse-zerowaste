@@ -5,27 +5,38 @@
 ##################################
 
 - title: About
-  url: /about/
-- title: Reduce
-  url: /reduce/
-- title: Reuse
-  url: /reuse/
-- title: Recycle
-  url: /recycle/sub-page-A/
+  url: /about/index/
   sub-links:
-  - title: Sub Page A
-    url: /recycle/sub-page-A/
-  - title: Sub Page B
-    url: /recycle/sub-page-B/
-  - title: Sub Page C
-    url: /recycle/sub-page-C/
-- title: Left Nav Two
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Sub Page C
+  - title: What is zero waste?
     url: /left-nav-two/sub-page-C/
-  - title: Sub Page D
+  - title: Our waste situation in Singapore
     url: /left-nav-two/sub-page-D/
+  - title: Our waste management strategies
+    url: /left-nav-two/sub-page-D/
+  - title: - Our Targets
+    url: /left-nav-two/sub-page-D/
+- title: Waste Streams
+  url: /waste-streams/index/
+  sub-links:
+  - title: e-Waste
+    url: /waste-streams/e-Waste/
+  - title: Food Waste
+    url: /waste-streams/food-waste/
+  - title: Packaging Waste
+    url: /waste-streams/packaging-waste/
+- title: Reduce and Reuse
+  url: /reduce-and-reuse/
+- title: Recycle Right
+  url: /recycle/index/
+  sub-links:
+  - title: Why recycle
+    url: /recycle/sub-page-A/
+  - title: How to recycle
+    url: /recycle/sub-page-B/
+  - title: Where to recycle
+    url: /recycle/sub-page-C/
+  - title: What to recycle
+    url: /recycle/sub-page-C/
 - title: Resources
   url: /resource-room/
   sub-links:
@@ -39,5 +50,7 @@
     url: /resources/publications/
   - title: Statistics
     url: /resources/statistics/
-- title: Contact Us
+- title: Get Involved
+  url: /getinvolved/
+- title: Contact
   url: /contact-us/
