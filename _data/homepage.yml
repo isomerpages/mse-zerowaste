@@ -12,7 +12,7 @@ agency-logo: /images/logo.png
 
 # Hero Banner
 hero-title: From Trash to Treasure
-hero-subtitle: How we're transforming to become a Zero Waste Nation
+hero-subtitle: How Singapore transforming to become a Zero Waste Nation
 hero-banner: /images/herobanner.jpg
 
 #Call to Action Button
@@ -32,7 +32,7 @@ key-highlights:
     description: Page A is important too
     url: /packaging-waste/
 
-resources-title: News
+resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-more-button-url: resources/
