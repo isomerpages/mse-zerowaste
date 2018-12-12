@@ -11,5 +11,5 @@ Recycling is beneficial to the environment as it conserves resources. By recycli
 [Find out more about what you can or cannot recycle](https://mewr.sg/2PTynb6){:target="_blank"} 
 
 <div class="bp-youtube">
-      <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMEWRsingapore%2Fvideos%2F324701011634661%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+      <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMEWRsingapore%2Fvideos%2F324701011634661%2F&show_text=0&width=476" width="476" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
