@@ -8,13 +8,13 @@
   url: /about/index/
   sub-links:
   - title: What is zero waste?
-    url: /left-nav-two/sub-page-C/
+    url: /about/sub-page-C/
   - title: Our waste situation in Singapore
-    url: /left-nav-two/sub-page-D/
+    url: /about/sub-page-D/
   - title: Our waste management strategies
-    url: /left-nav-two/sub-page-D/
+    url: /about/sub-page-D/
   - title: - Our Targets
-    url: /left-nav-two/sub-page-D/
+    url: /about/sub-page-D/
 - title: Waste Streams
   url: /waste-streams/index/
   sub-links:
