@@ -14,14 +14,14 @@
   - title: Our Waste Management Strategy
     url: /recycle/sub-page-C/
 - title: Waste Streams
-  url: /about/
+  url: /#/
   sub-links:
   - title: E-waste
-    url: /recycle/sub-page-A/
+    url: /e-waste/
   - title: Food Waste
-    url: /recycle/sub-page-B/
+    url: /food-waste/
   - title: Packaging Waste
-    url: /recycle/sub-page-C/
+    url: /packaging-waste/
 - title: Reduce and Reuse
   url: /reduce/
 - title: Recycle Right
