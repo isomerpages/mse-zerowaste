@@ -13,6 +13,15 @@
     url: /recycle/sub-page-B/
   - title: Our Waste Management Strategy
     url: /recycle/sub-page-C/
+- title: Waste Streams
+  url: /about/
+  sub-links:
+  - title: What is Zero Waste
+    url: /recycle/sub-page-A/
+  - title: Our waste situation in Singapore
+    url: /recycle/sub-page-B/
+  - title: Our Waste Management Strategy
+    url: /recycle/sub-page-C/
 - title: Reduce
   url: /reduce/
 - title: Reuse
@@ -34,7 +43,7 @@
   - title: Sub Page D
     url: /left-nav-two/sub-page-D/
 - title: Resources
-  url: /resource-room/
+  url: /resources/
   sub-links:
   - title: All
     url: /resources/
