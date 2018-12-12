@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: E-Waste
 permalink: /e-waste/
 breadcrumb: E-Waste
