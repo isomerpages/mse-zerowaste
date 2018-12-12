@@ -16,17 +16,15 @@
 - title: Waste Streams
   url: /about/
   sub-links:
-  - title: What is Zero Waste
+  - title: E-waste
     url: /recycle/sub-page-A/
-  - title: Our waste situation in Singapore
+  - title: Food Waste
     url: /recycle/sub-page-B/
-  - title: Our Waste Management Strategy
+  - title: Packaging Waste
     url: /recycle/sub-page-C/
-- title: Reduce
+- title: Reduce and Reuse
   url: /reduce/
-- title: Reuse
-  url: /reuse/
-- title: Recycle
+- title: Recycle Right
   url: /recycle/sub-page-A/
   sub-links:
   - title: Sub Page A
