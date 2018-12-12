@@ -2,7 +2,7 @@
 layout: post
 title:  Behind the scenes at a Materials Recovery Facility
 date:   2018-09-11
-permalink: /resources/video/test
+permalink: /resources/video/materials-recovery-facility
 ---
 Ever wondered what happens to your recyclables after you’ve dropped them into the blue bins?
 
