@@ -6,6 +6,13 @@
 
 - title: About2
   url: /about/
+  sub-links:
+  - title: Sub Page A
+    url: /recycle/sub-page-A/
+  - title: Sub Page B
+    url: /recycle/sub-page-B/
+  - title: Sub Page C
+    url: /recycle/sub-page-C/
 - title: Reduce
   url: /reduce/
 - title: Reuse
