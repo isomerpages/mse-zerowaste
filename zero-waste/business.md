@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Zero Waste Business
 permalink: zero-waste/business/
 breadcrumb: Business
-collection_name: zero-waste-collection
+collection_name: zero-waste
 ---
 
 ### Reducing waste and developing a circular economy will benefit the environment and create economic opportunities.
