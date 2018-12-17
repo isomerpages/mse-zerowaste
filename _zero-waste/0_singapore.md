@@ -31,7 +31,7 @@ Semakau Landfill is Singapore's one and only landfill.
 
 At our current rate of waste growth, Semakau Landfill will run out of space by 2035. A new waste-to-energy incineration plant will be needed every 7 to 10 years and a new offshore landfill will be needed every 30 to 35 years. This is unsustainable in land scarce Singapore.
 
-[Read more about Semakau Landfill](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/semakau-landfill) {:target="_blank"} 
+[Read more about Semakau Landfill](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/semakau-landfill){:target="_blank"} 
 
 
 # How will we achieve Towards a Zero Waste Nation?
