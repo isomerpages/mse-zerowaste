@@ -4,15 +4,15 @@
 #                                #
 ##################################
 
-- title: About
-  url: /about/
+- title: Zero Waste
+  url: /zero-waste/
   sub-links:
-  - title: What is Zero Waste
-    url: /recycle/sub-page-A/
-  - title: Our waste situation in Singapore
-    url: /recycle/sub-page-B/
-  - title: Our Waste Management Strategy
-    url: /recycle/sub-page-C/
+  - title: In Singapore
+    url: /zero-waste/Singapore/
+  - title: In Business
+    url: /zero-waste/business/
+  - title: In Lifestyle
+    url: /zero-waste/lifestyle/
 - title: Waste Streams
   url: /#/
   sub-links:
