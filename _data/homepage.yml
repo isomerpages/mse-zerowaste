@@ -23,17 +23,17 @@ button:
 # I want to dropdown
 i-want-to:
   - title: Individuals
-    url: 
+    url: /about/
   - title: Business
-    url: 
+    url: /about/
   - title: NGO
-    url: 
+    url: /about/
   - title: Public Sector Organisation
-    url: 
+    url: /about/
   - title: Teacher
-    url: 
+    url: /about/
   - title: Media
-    url: 
+    url: /about/
 
 resources-title: Resources
 resources-subtitle: Be in the know
