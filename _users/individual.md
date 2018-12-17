@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: What you can do as an individual
-permalink: /individual/
+permalink: /users/individual/
 breadcrumb: Individual
 collection_name: users
 ---
