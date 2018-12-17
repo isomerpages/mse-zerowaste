@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Zero Waste Singapore
 permalink: zero-waste/singapore/
-breadcrumb: Food Waste
+breadcrumb: Zero Waste Singapore
 collection_name: zero-waste
 ---
 
