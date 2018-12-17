@@ -2,7 +2,7 @@
 layout: post
 title:  10 plastic items you didn't know can be recycled
 date:   2018-12-12
-permalink: /resources/video/10-plastic-items-you-didnt-know-can-be-recycled
+permalink: /resources/videos/10-plastic-items-you-didnt-know-can-be-recycled
 ---
 A recent study has shown that 7 in 10 people in Singapore do not know what plastics to recycle. But fret no more. Here’s a quick guide to get you started!
 
