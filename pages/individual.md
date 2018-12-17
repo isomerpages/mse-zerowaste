@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: What you can do as an individual
 permalink: /individual/
 breadcrumb: Individual
