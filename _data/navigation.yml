@@ -13,28 +13,17 @@
     url: /zero-waste/business/
   - title: In Lifestyle
     url: /zero-waste/lifestyle/
-- title: Waste Streams
-  url: /#/
+- title: Get Involved
+  url: /get-involved/
   sub-links:
-  - title: E-waste
+  - title: Reduce
     url: /e-waste/
-  - title: Food Waste
+  - title: Reuse
     url: /food-waste/
-  - title: Packaging Waste
+  - title: Recycle
     url: /packaging-waste/
-- title: Reduce and Reuse
+- title: Inspirations
   url: /reduce/
-- title: Recycle Right
-  url: /recycle/sub-page-A/
-  sub-links:
-  - title: Why Recycle
-    url: /recycle/sub-page-A/
-  - title: What to Recycle
-    url: /recycle/sub-page-B/
-  - title: How to Recycle
-    url: /recycle/sub-page-C/
-  - title: Where to Recycle
-    url: /recycle/sub-page-C/
 - title: Resources
   url: /resources/
   sub-links:
