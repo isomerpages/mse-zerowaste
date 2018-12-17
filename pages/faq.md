@@ -9,7 +9,7 @@ title: Frequently Asked Questions
 
 ### 1. Why are commingled recycling bins used in Singapore?
 
-A blue commingled recycling bin is provided to every HDB block and private landed property to make it more convenient for residents to recycle. Residents do not need to segregate their recyclables nor set aside additional space to store the different types of recyclables (paper, plastic, metal and glass) separately in their homes. All the recyclables can be placed in a bag and deposited into the commingled recycling bin at any time. Commingled or single stream collection of recyclables is a cost-effective method of collection practised in several US cities as well as some parts of Europe and Australia.
+Our co-mingled recycling system makes it cost effective for recyclables to be collected and easy for residents to recycle. Residents do not need to segregate their recyclables nor set aside additional space to store the different types of recyclables (paper, plastic, metal and glass) separately in their homes. All the recyclables can be placed in a bag and deposited into the commingled recycling bin at any time. Commingled or single stream collection of recyclables is a cost-effective method of collection practised in several US cities as well as some parts of Europe and Australia.
 
 ### 2. Why don’t we need to sort our recyclables in Singapore?
 
@@ -17,7 +17,9 @@ Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at pos
 
 ### 3. Where can I find my nearest recycling bin?
 
-For HDB estates, commingled blue recycling bins are placed at open areas that are convenient and accessible to the residents. The bins are not placed at void decks for fire safety reasons.
+A blue commingled recycling bin is provided to every HDB block and private landed property to make it more convenient for residents to recycle.
+
+For HDB estate, commingled blue recycling bins are placed at open areas that are convenient and accessible to the residents. The bins are not placed at void decks for fire safety reasons.
 
 For newer BTOs, there are dual chutes
 
