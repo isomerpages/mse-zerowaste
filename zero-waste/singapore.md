@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Zero Waste Singapore
-permalink: /singapore/
+permalink: zero-waste/singapore/
 breadcrumb: Food Waste
 collection_name: zero-waste
 ---
