@@ -20,17 +20,20 @@ button:
   - text: Learn More
     url: /about/
     
-key-highlights:
-  - title: E-Waste
-    description: Important highlight A is important
-    url: /e-waste/
-    external: false
-  - title: Food Waste
-    description: Important highlight B is equally important
-    url: /food-waste/
-  - title: Packaging Waste
-    description: Page A is important too
-    url: /packaging-waste/
+# I want to dropdown
+i-want-to:
+  - title: Individuals
+    url: 
+  - title: Business
+    url: 
+  - title: NGO
+    url: 
+  - title: Public Sector Organisation
+    url: 
+  - title: Teacher
+    url: 
+  - title: Media
+    url: 
 
 resources-title: Resources
 resources-subtitle: Be in the know
