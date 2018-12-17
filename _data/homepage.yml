@@ -16,19 +16,19 @@ hero-subtitle: How Singapore transforming to become a Zero Waste Nation
 hero-banner: /images/herobanner.jpg
 
 # I want to dropdown
-i-am-a:
-  - title: Individuals
-    url: /about/
+i-want-to:
+  - title: Individual
+    url: /individual/
   - title: Business
-    url: /about/
+    url: /business/
   - title: NGO
-    url: /about/
+    url: /ngo/
   - title: Public Sector Organisation
-    url: /about/
+    url: /publicsector/
   - title: Teacher
-    url: /about/
-  - title: Media
-    url: /about/
+    url: /teacher/
+  - title: Journalist
+    url: /journalist/
 
 resources-title: Resources
 resources-subtitle: Be in the know
