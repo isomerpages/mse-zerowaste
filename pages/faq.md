@@ -5,7 +5,7 @@ breadcrumb: FAQ
 title: Frequently Asked Questions 
 ---
 
-> Can't find the answers to what you are looking for? Drop us a note at climateactionsg@gmail.com 
+> Can't find the answers to what you are looking for? Drop us a note at <climateactionsg@gmail.com> 
 
 ### 1. Why are commingled recycling bins used in Singapore?
 
