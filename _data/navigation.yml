@@ -17,13 +17,13 @@
   url: /get-involved/
   sub-links:
   - title: Reduce
-    url: /e-waste/
+    url: /reduce/
   - title: Reuse
-    url: /food-waste/
+    url: /reuse/
   - title: Recycle
-    url: /packaging-waste/
+    url: /recycle/
 - title: Inspirations
-  url: /reduce/
+  url: /inspirations/
 - title: Resources
   url: /resources/
   sub-links:
@@ -37,7 +37,7 @@
     url: /resources/publications/
   - title: Statistics
     url: /resources/statistics/
-- title: Get Involved
-  url: /get-involved/
+  - title: FAQs
+    url: /resources/faqs/
 - title: Contact Us
   url: /contact-us/
