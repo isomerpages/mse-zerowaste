@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Zero Waste Singapore
-permalink: zero-waste/singapore/
+permalink: /zero-waste/singapore/
 breadcrumb: Zero Waste Singapore
 collection_name: zero-waste
 ---
