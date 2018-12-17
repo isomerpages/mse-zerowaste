@@ -20,6 +20,10 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
+collections:
+  zero-waste:
+    output: true
+
 # Resource Room and Pagination
 paginate: 12
 
