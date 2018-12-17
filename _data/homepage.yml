@@ -15,11 +15,6 @@ hero-title: From Trash to Treasure
 hero-subtitle: How Singapore transforming to become a Zero Waste Nation
 hero-banner: /images/herobanner.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /about/
-    
 # I want to dropdown
 i-want-to:
   - title: Individuals
