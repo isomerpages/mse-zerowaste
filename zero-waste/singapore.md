@@ -24,6 +24,15 @@ At our current rate of waste growth, Semakau Landfill will run out of space by 2
 Each person throws away 810g of waste per day
 
  In 2017, 1.67 million tonnes of waste were disposed of by the domestic sector. Of this, about one-third is packaging waste. At the current rate of waste disposal, a new waste-to-energy plant is required to be built every seven to 10 years, and a new landfill is needed every 35 years. This is not sustainable given Singapore’s land constraints. Hence, it is important for everyone to play their part in minimising packaging waste.
+ 
+ 
+ 
+# How will we achieve Towards a Zero Waste Nation?
+
+* Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
+* Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
+*  Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
+*  Introduction of more initiatives to reduce food waste in F&B businesses and to improve recycling of electrical and electronic waste
 
 
 
