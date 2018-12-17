@@ -45,4 +45,6 @@ collections:
     output: true
   left-nav-two:
     output: true
+  zero-waste-collection:
+    output: true
 resources_name: resources
