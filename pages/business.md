@@ -10,21 +10,31 @@ collection_name: users
 
 The Corporate Environment Champions (Corp EC) Programme provides training workshops to equip appointed representatives of various corporate and non-government organisations with the skills and knowledge to implement environmental initiatives. It also provides a platform for all Corp ECs to network and explore opportunities for collaboration.
 
-# Engage: Project Management
+#### Engage: Project Management
 
 This 1.5-day workshop focuses on practical training in project management that helps new Corp ECs to conceptualise, manage and publicise environmental programmes for their organisations. Participants also gain further insights through the educational site visit and sharing sessions by veteran NGO and corporate partners of NEA.
 
-# Discover: Systems Thinking
+#### Discover: Systems Thinking
 
 This module teaches Corp ECs to use Systems Thinking to develop holistic environmental initiatives from a macroscopic perspective. Systems Thinking is a useful tool that can help you reduce uncertainty in decision making, and respond to changing conditions quickly.
 
-# Innovate: Design Thinking
+#### Innovate: Design Thinking
 
 This Design Thinking workshop helps Corp ECs develop effective environmental programmes by adopting a consumer-centric approach that matches user needs with possible solutions to facilitate and influence positive behavioural change.
 
 To register or make enquiries, please contact:
 
 1800-CALL NEA (1800-2255 632) or submit your enquiries electronically via NEA's [Online Feedback Form](https://www.nea.gov.sg/corporate-functions/feedback){:target="_blank"}  or myENV mobile application.
+
+
+## Quick Starts in the office
+
+Start an office recycling corner to cultivate good recycling habits among co-workers. Encourage the recycling of office supplies like paper, bottles, ink cartridges and electronic wastes etc. It is easy. Just follow the step-by-step
+guidelines on http://bit.ly/1hcGp9K.
+
+
+Encourage your colleagues to practise 3Rs in the office such as printing on both sides of the paper or using their own cutleries and coffee mug. Here are some 3R tips that they may find useful http://bit.ly/1qldaC7.
+
 
 ## Funding
 
