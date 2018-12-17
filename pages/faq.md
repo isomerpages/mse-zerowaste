@@ -2,12 +2,11 @@
 layout: simple-page
 permalink: /faq/
 breadcrumb: FAQ
-title: FAQ
+title: Frequently Asked Questions 
 ---
 
-### **FAQ**
 
-#1. Why are commingled recycling bins used in Singapore?#
+###1. Why are commingled recycling bins used in Singapore?
 
 A blue commingled recycling bin is provided to every HDB block and private landed property to make it more convenient for residents to recycle. Residents do not need to segregate their recyclables nor set aside additional space to store the different types of recyclables (paper, plastic, metal and glass) separately in their homes. All the recyclables can be placed in a bag and deposited into the commingled recycling bin at any time. Commingled or single stream collection of recyclables is a cost-effective method of collection practised in several US cities as well as some parts of Europe and Australia.
 
