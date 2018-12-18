@@ -49,4 +49,6 @@ collections:
     output: true
   users:
     output: true
+  waste-streams:
+    output: true
 resources_name: resources
