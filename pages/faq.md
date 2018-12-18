@@ -32,8 +32,18 @@ The recyclables in the recycling bins in HDB estates are collected thrice a week
 
 https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme
 
-### Who collects the recyclables in my estate?
+### 5. Who collects the recyclables in my estate?
 
 It depends on where you stay. 
 Under this programme launched in April 2001, the public waste collectors (PWCs) licensed by NEA are required to provide recycling bins and recycling collection services to all HDB estates, private landed properties and condominiums/private apartments opted into the public waste collection scheme.
 https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme
+
+
+### 6. What's the point of recycling? 
+
+Recycling stops tonnes of rubbish being buried in landfill
+
+
+### 7. Doesn't my recycling end up getting thrown away with the rubbish anyway?
+
+This couldn’t be further from the truth! Your recycled material is a valuable resource. Once it has been collected (this includes recycling collected in the back of bin lorries) from your doorstep it's taken away to be sorted, bailed and then transported to reprocessors to be made into new products.
