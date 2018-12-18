@@ -13,6 +13,15 @@
     url: /zero-waste/business/
   - title: In Lifestyle
     url: /zero-waste/lifestyle/
+- title: Our Focus Areas
+  url: /waste-streams/e-waste/
+  sub-links:
+  - title: e-Waste
+    url: /waste-streams/e-waste/
+  - title: Packaging Waste
+    url: /waste-streams/packaging-waste/
+  - title: Food Waste
+    url: /waste-streams/food-waste/
 - title: Get Involved
   url: /get-involved/
   sub-links:
