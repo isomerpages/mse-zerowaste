@@ -27,8 +27,6 @@ i-want-to:
     url: /users/publicsector/
   - title: Teacher
     url: /users/teacher/
-  - title: Journalist
-    url: /users/journalist/
 
 resources-title: Resources
 resources-subtitle: Be in the know
