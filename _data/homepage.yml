@@ -12,23 +12,23 @@ agency-logo: /images/zerowastelogo.png
 
 # Hero Banner
 hero-title: From Trash to Treasure
-hero-subtitle: How Singapore transforming to become a Zero Waste Nation
+hero-subtitle: How Singapore is transforming to become a Zero Waste Nation
 hero-banner: /images/herobanner.jpg
 
 # I want to dropdown
 i-want-to:
   - title: Individual
-    url: /individual/
+    url: /users/individual/
   - title: Business
-    url: /business/
+    url: /users/business/
   - title: NGO
-    url: /ngo/
+    url: /users/ngo/
   - title: Public Sector Organisation
-    url: /publicsector/
+    url: /users/publicsector/
   - title: Teacher
-    url: /teacher/
+    url: /users/teacher/
   - title: Journalist
-    url: /journalist/
+    url: /users/journalist/
 
 resources-title: Resources
 resources-subtitle: Be in the know
