@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: E-Waste
-permalink: /e-waste/
+permalink: /waste-stream/e-waste/
 breadcrumb: Our Focus Areas
 collection_name: waste-stream
 ---
