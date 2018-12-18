@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What happens to Food Waste in Singapore
+title:  Consumer survey on food wastage 
 date:   2018-10-10
 permalink: /resources/infographics/food-waste
 ---
