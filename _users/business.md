@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: What you can do as an a business
 permalink: /users/business/
-breadcrumb: business
+breadcrumb: What you can do 
 collection_name: users
 ---
 
