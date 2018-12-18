@@ -6,7 +6,6 @@ breadcrumb: Individual
 collection_name: users
 ---
 
-
 # 10 easy ways to get started on your zero waste journey
 
 
