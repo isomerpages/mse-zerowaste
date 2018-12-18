@@ -2,7 +2,7 @@
 layout: post
 title:  Waste management statistics and overall recycling measures
 date:   2018-01-01
-permalink: /resources/statistics/test
+permalink: /resources/statistics/waste-management-statistics-overall-recycling
 ---
 
 In 2017, 7.70 million tonnes of solid waste was generated, a decrease of 110,000 tonnes from 7.81 million tonnes in 2016. The amount of waste recycled also fell by 50,000 tonnes from 4.77 million tonnes in 2016 to 4.72 million tonnes in 2017. Overall, the recycling rate remained unchanged at 61 per cent from 2016.
@@ -11,7 +11,7 @@ The decrease in the amount of waste recycled in 2017 was largely due to lower am
 
 Both the non-domestic and domestic recycling rates remained stable at 76% and 21% respectively from 2016.
 
-## Waste management and recycling statistics for 2017
+### Waste management and recycling statistics for 2017
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
