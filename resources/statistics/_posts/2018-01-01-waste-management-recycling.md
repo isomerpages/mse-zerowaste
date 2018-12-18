@@ -135,8 +135,8 @@ Both the non-domestic and domestic recycling rates remained stable at 76% and 21
 </table>
 
 
-Note:      
+###Note:      
 Metal recovered from IBA for recycling is excluded from total waste disposed.
 Wood and horticultural waste recycled include 347,300 tonnes used as fuel in biomass power plants.
 
-For waste management and recycling statistics from 2003 to 2016, please refer to the following here [PDF, 459.18 KB].
+For waste management and recycling statistics from 2003 to 2016, please refer to the following [here](https://www.nea.gov.sg/docs/default-source/our-services/waste-management/wastestats-2003-20164197a3fd04d34770bafba09393d0fdf0.pdf){:target="_blank"}  [PDF, 459.18 KB].
