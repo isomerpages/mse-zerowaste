@@ -47,4 +47,6 @@ collections:
     output: true
   zero-waste:
     output: true
+  users:
+    output: true
 resources_name: resources
