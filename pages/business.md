@@ -8,7 +8,7 @@ collection_name: users
 
 ## Capacity Building
 
-The Corporate Environment Champions (Corp EC) Programme provides training workshops to equip appointed representatives of various corporate and non-government organisations with the skills and knowledge to implement environmental initiatives. It also provides a platform for all Corp ECs to network and explore opportunities for collaboration.
+The Corporate Environment Champions (Corp EC) Programme by NEA provides training workshops to equip appointed representatives of various corporate and non-government organisations with the skills and knowledge to implement environmental initiatives. It also provides a platform for all Corp ECs to network and explore opportunities for collaboration.
 
 **Engage: Project Management** 
 
@@ -29,11 +29,16 @@ To register or make enquiries, please contact:
 
 ## Quick Starts in the office
 
-Start an office recycling corner to cultivate good recycling habits among co-workers. Encourage the recycling of office supplies like paper, bottles, ink cartridges and electronic wastes etc. It is easy. [Just follow the step-by-step
+Start an office recycling corner to cultivate good recycling habits among co-workers. Encourage the recycling of office supplies like paper, bottles, ink cartridges and electronic waste etc. [Follow the step-by-step
 guidelines here!](https://www.nea.gov.sg/docs/default-source/resource/participate/3r-guidebook-for-offices.pdf){:target="_blank"}
 
 
-Encourage your colleagues to practise 3Rs in the office such as printing on both sides of the paper or using their own cutleries and coffee mug. Here are some [3R tips](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work){:target="_blank"} that they may find useful
+Encourage your colleagues to practise 3Rs in the office such as printing on both sides of the paper or using their own cutleries and coffee mug. Here are some [3R tips](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work){:target="_blank"} to get your started.
+
+
+Planning for an event? We have developed a guide with useful tips to help event organisers plan a more environmentally-friendly event. Check out the [best practices for events here](https://www.mewr.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf){:target="_blank"}.
+
+
 
 
 ## Funding
