@@ -133,3 +133,10 @@ Both the non-domestic and domestic recycling rates remained stable at 76% and 21
     <td class="tg-0pky">61%</td>
   </tr>
 </table>
+
+
+Note:      
+Metal recovered from IBA for recycling is excluded from total waste disposed.
+Wood and horticultural waste recycled include 347,300 tonnes used as fuel in biomass power plants.
+
+For waste management and recycling statistics from 2003 to 2016, please refer to the following here [PDF, 459.18 KB].
