@@ -14,6 +14,8 @@ To overcome these challenges and continue to grow sustainably, Singapore must em
 
 We are now turning our attention to closing the waste loop. The Sustainable Singapore Blueprint outlines part of our strategy to become a Zero Waste Nation and achieve a 70% recycling rate by 2030. We will go further. Upstream – to encourage product design for ease of recycling, and a repair culture among consumers. And downstream – to maximise resource recovery from waste. 
 
+![balance economic development with sustainability](/images/sustainability.png)
+
 
 ## What is a circular economy?
 
