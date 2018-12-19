@@ -49,3 +49,5 @@ National Recycling rate: 70%
 Domestical recycling rate: 30%
 
 Non-domestic recycling rate: 81%
+
+![Our recycling targets for 2030](/images/our-recycling-targets.png)
