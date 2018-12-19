@@ -2,9 +2,8 @@
 layout: post
 title:  Waste stats
 date:   2018-12-18
-permalink: /statistics/waste
+permalink: /resources/statistics/waste-stats
 ---
-
 
 <table class="table-h">
   <tr>
