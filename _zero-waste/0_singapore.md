@@ -40,3 +40,10 @@ At our current rate of waste growth, Semakau Landfill will run out of space by 2
 * Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
 *  Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
 *  Introduction of more initiatives to reduce food waste in F&B businesses and to improve recycling of electrical and electronic waste
+
+
+# Our 2030 Targets
+
+National Recycling rate: 70%
+Domestical recycling rate: 30%
+Non-domestic recycling rate: 81%
