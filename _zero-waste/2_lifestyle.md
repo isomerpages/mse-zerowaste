@@ -11,3 +11,6 @@ collection_name: zero-waste
 How you can help:
 1)     Reduce waste [Be a responsible consumer, reduce and reuse]
 2)     Recycle more and recycle right [No food or liquids in the blue bin]
+
+
+Make 2019 the year you join the zero waste journey! 
