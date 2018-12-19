@@ -5,6 +5,9 @@ date:   2018-12-18
 permalink: /resources/statistics/waste-stats
 ---
 
+
+<iframe width="600" height="400" src="https://data.gov.sg/dataset/resource-conservation-recycling-rate-by-waste-type/resource/4d83d0be-55ba-46de-8430-2ff708fede5c/view/dba2f26f-4a5f-4b80-971e-bb8e7dc74e15" frameBorder="0"> </iframe>
+
 <table class="table-h">
   <tr>
     <th class="tg-0pky">Solid Waste Management</th>
