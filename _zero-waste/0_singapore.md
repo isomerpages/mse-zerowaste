@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Zero Waste Singapore
 permalink: /zero-waste/singapore/
-breadcrumb: Zero Waste Singapore
+breadcrumb: Zero Waste 
 collection_name: zero-waste
 ---
 
@@ -45,5 +45,7 @@ At our current rate of waste growth, Semakau Landfill will run out of space by 2
 # Our 2030 Targets
 
 National Recycling rate: 70%
+
 Domestical recycling rate: 30%
+
 Non-domestic recycling rate: 81%
