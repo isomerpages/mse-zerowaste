@@ -43,8 +43,6 @@ baseurl: ""
 collections:
   recycle:
     output: true
-  left-nav-two:
-    output: true
   zero-waste:
     output: true
   users:
