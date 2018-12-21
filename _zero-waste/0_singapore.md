@@ -19,6 +19,7 @@ Everyday, about 37% of our waste generated will be incinerated at one of our fou
 
 The resulting incineratied ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
 
+![Semakau Landfill](/images/semakau.jpg)
  
 ### Semakau Landfill
 
