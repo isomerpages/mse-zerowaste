@@ -8,19 +8,16 @@ collection_name: zero-waste
 
 ### Singapore is working towards becoming a zero waste nation by reducing our consumption of materials, and reusing and recycling them to give them a second lease of life. 
 
-Singapore's growing population and economy have contributed to a **seven-fold increase** in the amount of solid waste disposed of from 1,260 tonnes per day in 1970 to 8,443 tonnes per day in 2017.
+In 2017, Singapore generated over 7.7 million tonnes of waste. That’s enough to fill 3,000 Olympic-sized swimming pools!
 
-In 2017 alone, Singapore generated a whooping 7.7 million tonnes of waste. 
+Singapore's growing population and economy have also contributed to a **seven-fold increase** in the amount of solid waste disposed of from 1,260 tonnes per day in 1970 to 8,443 tonnes per day in 2017.
 
-That’s enough to fill 3,000 Olympic-sized swimming pools!
-
-![waste statistics for 2017](/images/waste_statistics.jpeg)
  
 ### Where does our waste go?
 
 Everyday, about 37% of our waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. Incineration reduces the volume of solid waste by about 90 per cent.
 
-The incineration ash from the WTE plants and non-incinerable solid wastes will then make their way to Semakau Landfill. 
+The resulting incineratied ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
 
  
 ### Semakau Landfill
