@@ -26,7 +26,7 @@ The resulting incineratied ash as well as other non-incinerable solid wastes wil
 Semakau Landfill is Singapore's one and only landfill. It receives more than 2,000 tonnes of WTE incineration ash and non-
 incinerable waste daily.
 
-At our current rate of waste growth, Semakau Landfill will run out of space by 2035. 
+At our current rate of waste growth, **Semakau Landfill will run out of space by 2035**. 
 
 It is estimated that a new waste-to-energy incineration plant will be needed every 7 to 10 years and a new offshore landfill will be needed every 30 to 35 years. This is unsustainable in land scarce Singapore.
 
@@ -37,13 +37,24 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 
 ### How will we achieve Towards a Zero Waste Nation?
 
+Current Plans
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
 * Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
 *  Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
 *  Introduction of more initiatives to reduce food waste in F&B businesses and to improve recycling of electrical and electronic waste
 
 
-### Our 2030 Targets
+Upcoming Plans
+First, we plan to introduce policies to encourage sustainable production and consumption. This includes Extended Producer Responsibility (EPR), starting with electronic-waste, which we will introduce by 2021. When producers are responsible for the ‘end-of-life’ of their products, they will be more incentivised to design products that are easily recycled, or come up with innovative circular business models to close their waste loop.
+
+ 5.      Apart from e-waste, we are studying the feasibility of extending EPR to plastic and packaging waste. To start off, we will introduce a mandatory reporting framework for packaging data and waste reduction plans in 2020. Businesses such as brand owners, importers, large retailers and supermarkets will need to start collecting data on the types and amount of packaging they place in the market and submit plans for reduction.
+
+ 6.      Second, we will support and partner industries to grow a circular economy. NEA recently launched a research grant call under the “Closing the Waste Loop Initiative” for the sustainable design of plastic materials. The goal is to allow for plastics to be more reusable, easier to recycle, and to extract value from waste plastics. By encouraging collaboration between the institutes of higher learning, research institutes and businesses, we will be in a stronger position to introduce fresh approaches to solving the longstanding plastic challenge, and capture the innovation value.
+
+ 7.      Third, and perhaps most important, we must raise awareness among the public to love and to take care of our environment. Government and businesses can only do so much. We cannot legislate desirable behaviour – we need to change societal norms and people’s mindsets, so that individuals are personally committed to living a “zero waste 3R lifestyle”.
+ 
+
+### Our 2030 Recycling Targets
 
 National Recycling rate: 70%
 
