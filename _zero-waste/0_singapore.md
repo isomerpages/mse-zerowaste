@@ -22,7 +22,7 @@ Everyday, about 37% of our waste generated will be incinerated at one of our fou
 The incineration ash from the WTE plants and non-incinerable solid wastes will then make their way to Semakau Landfill. 
 
  
-# Semakau Landfill
+### Semakau Landfill
 
 Semakau Landfill is Singapore's one and only landfill. It receives more than 2,000 tonnes of WTE incineration ash and non-
 incinerable waste daily.
@@ -36,7 +36,7 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 [Read more about Semakau Landfill](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/semakau-landfill){:target="_blank"} 
 
 
-# How will we achieve Towards a Zero Waste Nation?
+### How will we achieve Towards a Zero Waste Nation?
 
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
 * Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
@@ -44,7 +44,7 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 *  Introduction of more initiatives to reduce food waste in F&B businesses and to improve recycling of electrical and electronic waste
 
 
-# Our 2030 Targets
+### Our 2030 Targets
 
 National Recycling rate: 70%
 
