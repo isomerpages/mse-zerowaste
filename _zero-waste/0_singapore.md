@@ -37,6 +37,9 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 
 ### How will we achieve Towards a Zero Waste Nation?
 
+By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
+
+
 Current Plans
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
 * Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
