@@ -14,6 +14,7 @@ In 2017 alone, Singapore generated a whooping 7.7 million tonnes of waste.
 
 That’s enough to fill 3,000 Olympic-sized swimming pools!
 
+![waste statistics for 2017](/images/waste_statistics.jpeg)
  
 ### Where does our waste go?
 
