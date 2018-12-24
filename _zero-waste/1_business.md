@@ -17,14 +17,14 @@ To overcome these challenges and continue to grow sustainably, Singapore must em
 ![balance economic development with sustainability](/images/sustainability.png)
 
 
-## What is a circular economy?
+### What is a circular economy?
 
 A circular economy is an alternative to a traditional linear economy (take, make, waste) in which we keep resources in use for as long as possible, extract the maximum value from them whilst in use, then recover and regenerate products and materials at the end of each service life.
 
 ![Circular Economy](/images/circular.png)
 
 
-## Why a circular economy is important
+### Why a circular economy is important
 
 As well as creating new opportunities for growth, a more circular economy will:
 
@@ -35,7 +35,16 @@ As well as creating new opportunities for growth, a more circular economy will:
 * help reduce the environmental impacts of our production and consumption in both Singapore and abroad
 
 
-## Supporting and partnering industries to grow a circular economy
+### Extended Producer Responsibility
+
+Singapore will introduce policies to encourage sustainable production and consumption.
+
+This includes Extended Producer Responsibility (EPR), starting with electronic-waste, which we will introduce by 2021.
+
+When producers are responsible for the ‘end-of-life’ of their products, they will be more incentivised to design products that are easily recycled, or come up with innovative circular business models to close their waste loop.
+
+
+### Supporting and partnering industries to grow a circular economy
 
 A research grant call under the “[Closing the Waste Loop Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"}” was launched for the sustainable design of plastic materials. The goal is to allow for plastics to be more reusable, easier to recycle, and to extract value from waste plastics. By encouraging collaboration between the institutes of higher learning, research institutes and businesses, we will be in a stronger position to introduce fresh approaches to solving the longstanding plastic challenge, and capture the innovation value.
 
