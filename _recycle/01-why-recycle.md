@@ -6,6 +6,9 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
+Of the waste generated in 2017, more than half - almost 4.72 million tonnes - was recycled. Even so, the amount of refuse sent for disposal has climbed over the years. 
+
+
 We can all make a difference.
 
 By recycling we reduce the need to use more natural resources.
