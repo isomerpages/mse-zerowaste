@@ -20,5 +20,6 @@ When producers are responsible for the ‘end-of-life’ of their products, they
 
 ![E-waste Management System](/images/e-waste-management.jpg)
 
+For more information, [visit NEA's website](https://www.nea.gov.sg/media/news/news/index/nea-to-implement-e-waste-management-system-for-singapore-by-2021){:target="_blank"} . 
 
 
