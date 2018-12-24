@@ -5,14 +5,13 @@ permalink: /Extended-Producer-Responsibility/
 breadcrumb: Extended Producer Responsibility 
 ---
 
-### Extended Producer Responsibility 
+### Introducing policies to encourage sustainable production and consumption
 
+Building on existing voluntary e-waste recycling initiatives, an e-waste management system will be established by 2021. Through the Extended Producer Responsibility (EPR) framework, responsibilities will be assigned to the key stakeholders in the e-waste value chain. 
 
-Singapore will introduce policies to encourage sustainable production and consumption. 
+Under the EPR framework, producers of covered electrical and electronic equipment will be required to take on responsibility for the collection and proper treatment of e-waste. These producers are companies that manufacture or import covered electrical and electronic equipment for supply on the local market. 
 
-This includes Extended Producer Responsibility (EPR), starting with electronic-waste, which we will introduce by 2021. 
-
-Under the EPR framework, producers of covered electrical and electronic equipment will be required to take on responsibility for the collection and proper treatment of e-waste. These producers are companies that manufacture or import covered electrical and electronic equipment for supply on the local market. Producers will have to fulfil collection targets set by NEA and ensure that the end-of-life electronic equipment collected are channelled for proper recycling and disposal. 
+Producers will have to fulfil collection targets set by NEA and ensure that the end-of-life electronic equipment collected are channelled for proper recycling and disposal. 
 
 The system will cover end-of-life information and communications technology (ICT) equipment, solar photovoltaic panels, batteries and lamps, and certain household appliances. 
 
