@@ -38,10 +38,10 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 ### How will we achieve our Zero Waste vision?
 
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
-* Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
-* Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
-* Introduction of Extended Producer Responsibility framework by 2021 to enhance recycling and manage electrical and electronic waste. 
-* Implementation of mandatory reporting of packaging data and packaging waste reduction plans by 2021, 
+* [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns to support convenient and hygienic waste disposal
+* Build an [Integrated Waste Management Facility](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  which will have the capacity to segregate recyclables from waste
+* Introduction of [Extended Producer Responsibility](#) framework by 2021 to enhance recycling and manage electrical and electronic waste. 
+* Implementation of [mandatory reporting of packaging data](#) and packaging waste reduction plans by 2021, 
 * Support the wider use of on-site food waste digesters at commercial premises and hawker centres. 
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill.
 
