@@ -39,7 +39,7 @@ As well as creating new opportunities for growth, a more circular economy will:
 
 Singapore will introduce policies to encourage sustainable production and consumption.
 
-This includes Extended Producer Responsibility (EPR), starting with electronic-waste, which we will introduce by 2021.
+This includes [Extended Producer Responsibility (EPR)](/extended-producer-responsibility/), starting with electronic-waste, which we will introduce by 2021. Apart from e-waste, we are studying the feasibility of [extending EPR to plastic and packaging waste](/mandatory-reporting-packaging-waste/). 
 
 When producers are responsible for the ‘end-of-life’ of their products, they will be more incentivised to design products that are easily recycled, or come up with innovative circular business models to close their waste loop.
 
