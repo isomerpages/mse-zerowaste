@@ -51,15 +51,11 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 Government and businesses can only do so much. We cannot legislate desirable behaviour – we need to change societal norms and people’s mindsets, so that individuals are personally committed to living a “zero waste 3R lifestyle”.
 We must raise awareness among the public to love and to take care of our environment.
 
-     
-
+  
 
 ### Our 2030 Recycling Targets
 
-Our National Recycling rate
-![Our recycling targets for 2030](/images/our-recycling-targets.png)
+Singapore has set a national recycling rate target of 70% in 2030, with the increase in domestic recycling rate from 20% in 2013 to 30% in 2030, and the increase for non-domestic recycling rate from 77% in 2013 to 81% in 2030.
 
-Note: 
-Domestical recycling rate: 30%
-Non-domestic recycling rate: 81%
+![Our recycling targets for 2030](/images/our-recycling-targets.png)
 
