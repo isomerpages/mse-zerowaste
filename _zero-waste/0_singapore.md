@@ -17,7 +17,7 @@ Singapore's growing population and economy have also contributed to a **seven-fo
 
 Everyday, about 37% of our waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. Incineration reduces the volume of solid waste by about 90 per cent.
 
-The resulting incineratied ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
+The resulting incinerated ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
 
 ![Semakau Landfill](/images/semakau.jpg)
  
