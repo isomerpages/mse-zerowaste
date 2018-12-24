@@ -46,17 +46,16 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill.
 
 
+### Your role as an individual
 
+Government and businesses can only do so much. We cannot legislate desirable behaviour – we need to change societal norms and people’s mindsets, so that individuals are personally committed to living a “zero waste 3R lifestyle”.
+We must raise awareness among the public to love and to take care of our environment.
 
 By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
 
+     
 
 
- 
-
- 6.      
-
- 7.      Third, and perhaps most important, we must raise awareness among the public to love and to take care of our environment. Government and businesses can only do so much. We cannot legislate desirable behaviour – we need to change societal norms and people’s mindsets, so that individuals are personally committed to living a “zero waste 3R lifestyle”.
  
 
 ### Our 2030 Recycling Targets
