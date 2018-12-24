@@ -51,14 +51,14 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 Government and businesses can only do so much. We cannot legislate desirable behaviour – we need to change societal norms and people’s mindsets, so that individuals are personally committed to living a “zero waste 3R lifestyle”.
 We must raise awareness among the public to love and to take care of our environment.
 
-By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
-
      
 
 
- 
-
 ### Our 2030 Recycling Targets
+
+Overall, the recycling rate remained unchanged at 61 per cent from 2016.
+
+Of the waste generated in 2017, more than half - almost 4.72 million tonnes - was recycled. Even so, the amount of refuse sent for disposal has climbed over the years. 
 
 National Recycling rate: 70%
 
@@ -68,16 +68,3 @@ Non-domestic recycling rate: 81%
 
 ![Our recycling targets for 2030](/images/our-recycling-targets.png)
 
-
-
-
-
-Overall, the recycling rate remained unchanged at 61 per cent from 2016.
-
-Of the waste generated in 2017, more than half - almost 4.72 million tonnes - was recycled. Even so, the amount of refuse sent for disposal has climbed over the years. 
-
-
-
- 
- 
- It keeps Singapore clean and healthy, conserves precious resources, and frees up land that would have otherwise been used for landfills. 
