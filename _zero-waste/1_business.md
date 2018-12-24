@@ -14,8 +14,6 @@ Growing our economy consumes energy, water and other resources which we lack, an
 
 To overcome these challenges and continue to grow sustainably, Singapore must embrace the **circular economy**. This requires a shift from the ‘use and throw’ mentality, to one where resources are re-used for as long as possible. 
 
-Upstream, we hope to encourage product design for ease of recycling, and a repair culture among consumers. And downstream, we aim to maximise resource recovery from waste. 
-
 ![balance economic development with sustainability](/images/sustainability.png)
 
 
@@ -39,5 +37,5 @@ As well as creating new opportunities for growth, a more circular economy will:
 
 ## Supporting and partnering industries to grow a circular economy
 
-A research grant call under the “[Closing the Waste Loop Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} ” was launched for the sustainable design of plastic materials. The goal is to allow for plastics to be more reusable, easier to recycle, and to extract value from waste plastics. By encouraging collaboration between the institutes of higher learning, research institutes and businesses, we will be in a stronger position to introduce fresh approaches to solving the longstanding plastic challenge, and capture the innovation value.
+A research grant call under the “[Closing the Waste Loop Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"}” was launched for the sustainable design of plastic materials. The goal is to allow for plastics to be more reusable, easier to recycle, and to extract value from waste plastics. By encouraging collaboration between the institutes of higher learning, research institutes and businesses, we will be in a stronger position to introduce fresh approaches to solving the longstanding plastic challenge, and capture the innovation value.
 
