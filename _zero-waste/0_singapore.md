@@ -35,19 +35,21 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 [Read more about Semakau Landfill](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/semakau-landfill){:target="_blank"} 
 
 
-### How will we achieve Towards a Zero Waste Nation?
+### How will we achieve our Zero Waste vision?
+
+* Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
+* Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
+* Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
+* Introduction of Extended Producer Responsibility framework by 2021 to enhance recycling and manage electrical and electronic waste. 
+* Implementation of mandatory reporting of packaging data and packaging waste reduction plans by 2021, 
+* Support the wider use of on-site food waste digesters at commercial premises and hawker centres. 
+* Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill.
+
+
+
 
 By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
 
-
-Current Plans
-* Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
-* Pneumatic Waste Conveyance Systems introduced in HDB towns to support convenient and hygienic waste disposal
-*  Build an Integrated Waste Management Facility which will have the capacity to segregate recyclables from waste
-*  Introduction of more initiatives to reduce food waste in F&B businesses and to improve recycling of electrical and electronic waste
-
-
-Upcoming Plans
 First, we plan to introduce policies to encourage sustainable production and consumption. This includes Extended Producer Responsibility (EPR), starting with electronic-waste, which we will introduce by 2021. When producers are responsible for the ‘end-of-life’ of their products, they will be more incentivised to design products that are easily recycled, or come up with innovative circular business models to close their waste loop.
 
  5.      Apart from e-waste, we are studying the feasibility of extending EPR to plastic and packaging waste. To start off, we will introduce a mandatory reporting framework for packaging data and waste reduction plans in 2020. Businesses such as brand owners, importers, large retailers and supermarkets will need to start collecting data on the types and amount of packaging they place in the market and submit plans for reduction.
