@@ -7,6 +7,10 @@ breadcrumb: Reduce
 
 ### **Reduce Waste**
 
+
+By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
+
+
 Reduce/Reduction: to make something smaller or use less, resulting in a smaller amount of waste.
 
 "Source reduction" is reducing waste before you purchase it, or by purchasing products that are not wasteful in their packaging or use.
