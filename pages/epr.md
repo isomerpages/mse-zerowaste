@@ -5,7 +5,7 @@ permalink: /Extended-Producer-Responsibility/
 breadcrumb: Extended Producer Responsibility 
 ---
 
-### Introducing policies to encourage sustainable production and consumption
+### This will ensure e-waste is managed effectively and efficiently; consumers will also benefit from greater convenience in collection of e-waste
 
 Building on existing voluntary e-waste recycling initiatives, an e-waste management system will be established by 2021. Through the Extended Producer Responsibility (EPR) framework, responsibilities will be assigned to the key stakeholders in the e-waste value chain. 
 
