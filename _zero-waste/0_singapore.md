@@ -56,15 +56,10 @@ We must raise awareness among the public to love and to take care of our environ
 
 ### Our 2030 Recycling Targets
 
-Overall, the recycling rate remained unchanged at 61 per cent from 2016.
-
-Of the waste generated in 2017, more than half - almost 4.72 million tonnes - was recycled. Even so, the amount of refuse sent for disposal has climbed over the years. 
-
-National Recycling rate: 70%
-
-Domestical recycling rate: 30%
-
-Non-domestic recycling rate: 81%
-
+Our National Recycling rate
 ![Our recycling targets for 2030](/images/our-recycling-targets.png)
+
+Note: 
+Domestical recycling rate: 30%
+Non-domestic recycling rate: 81%
 
