@@ -40,8 +40,8 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
 * [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns to support convenient and hygienic waste disposal
 * Build an [Integrated Waste Management Facility](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  which will have the capacity to segregate recyclables from waste
-* Introduction of [Extended Producer Responsibility](#) framework by 2021 to enhance recycling and manage electrical and electronic waste. 
-* Implementation of [mandatory reporting of packaging data](#) and packaging waste reduction plans by 2021, 
+* Introduction of [Extended Producer Responsibility](/Extended-Producer-Responsibility/) framework by 2021 to enhance recycling and manage electrical and electronic waste. 
+* Implementation of [mandatory reporting of packaging data](/Mandatory-Reporting-Packaging-Waste/) and packaging waste reduction plans by 2021, 
 * Support the wider use of on-site food waste digesters at commercial premises and hawker centres. 
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill.
 
@@ -52,7 +52,7 @@ By reducing our waste and diverting recyclable materials from the rubbish chute,
 
 
 
- 5.      Apart from e-waste, we are studying the feasibility of extending EPR to plastic and packaging waste. To start off, we will introduce a mandatory reporting framework for packaging data and waste reduction plans in 2020. Businesses such as brand owners, importers, large retailers and supermarkets will need to start collecting data on the types and amount of packaging they place in the market and submit plans for reduction.
+ 
 
  6.      
 
@@ -79,7 +79,6 @@ Of the waste generated in 2017, more than half - almost 4.72 million tonnes - wa
 
 
 
- In 2017, 1.67 million tonnes of waste were disposed of by the domestic sector. Of this, about one-third is packaging waste. At the current rate of waste disposal, a new waste-to-energy plant is required to be built every seven to 10 years, and a new landfill is needed every 35 years. This is not sustainable given Singapore’s land constraints. Hence, it is important for everyone to play their part in minimising packaging waste.
  
  
  It keeps Singapore clean and healthy, conserves precious resources, and frees up land that would have otherwise been used for landfills. 
