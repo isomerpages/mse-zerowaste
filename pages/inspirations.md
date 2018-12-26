@@ -14,7 +14,8 @@ ZeroWasteSG
 etc etc
 
 
-
+<script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/assets/js/jquery-1.9.1.min.js"></script> 
+<script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/owl-carousel/owl.carousel.js"></script>
 
 <script>
  $(document).ready(function() {
