@@ -81,11 +81,12 @@ Established in 1995, the Singapore Environment Council (SEC) is an independently
 
 ***************
 
-Singpapore Youth Against Climate Action
+#### Singpapore Youth Against Climate Action
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+Singapore Youth for Climate Action (S-Y-C-A) was co-founded by Singapore youths ready to take on responsibility of climate action, and being able to relate what we want for our shared future with decisions and negotiations happening at the global United Nations platform. 
+* [Facebook](https://www.facebook.com/sgyouthclimateaction/){:target="_blank"} 
+* [Website](https://sgyouthforclimateaction.com/){:target="_blank"} 
+* [Instagram](#){:target="_blank"} 
 
 
 * [Facebook](){:target="_blank"} 
