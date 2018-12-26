@@ -11,6 +11,8 @@ Building on existing voluntary e-waste recycling initiatives in Singapore, an e-
 
 Under the EPR framework, producers of covered electrical and electronic equipment will be required to take on responsibility for the collection and proper treatment of e-waste. These producers are companies that manufacture or import covered electrical and electronic equipment for supply on the local market. 
 
+![E-waste](/images/e-waste.jpg)
+
 For example, producers have to ensure that their products are properly recycled upon reaching their end of life, by fulfilling e-waste collection targets and channelling the e-waste collected to formal recyclers. 
 
 As retailers are the touch points for consumers, the e-waste management system will also rope in retailers to provide convenient collection options for consumers.
