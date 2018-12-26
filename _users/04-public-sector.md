@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: What you can do as an a public sector
-permalink: /users/public-sector-organisation/
+permalink: /users/publicsector/
 breadcrumb: What you can do 
 collection_name: users
 ---
