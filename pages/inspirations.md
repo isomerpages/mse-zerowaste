@@ -16,31 +16,43 @@ etc etc
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
 
-<style>
+<script>
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+</script>
 
-#owl-demo .item{
-  margin: 3px;
-}
-#owl-demo .item img{
-  display: block;
-  width: 100%;
-  height: auto;
-}
-</style>
 
-
-<div id="owl-demo">
-          
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl1.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl2.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl3.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl4.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl5.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl6.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl7.jpg" alt="Owl Image"></div>
-  <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl8.jpg" alt="Owl Image"></div>
- 
+<div class="owl-carousel owl-theme">
+    <div class="item"><h4>1</h4></div>
+    <div class="item"><h4>2</h4></div>
+    <div class="item"><h4>3</h4></div>
+    <div class="item"><h4>4</h4></div>
+    <div class="item"><h4>5</h4></div>
+    <div class="item"><h4>6</h4></div>
+    <div class="item"><h4>7</h4></div>
+    <div class="item"><h4>8</h4></div>
+    <div class="item"><h4>9</h4></div>
+    <div class="item"><h4>10</h4></div>
+    <div class="item"><h4>11</h4></div>
+    <div class="item"><h4>12</h4></div>
 </div>
+
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
