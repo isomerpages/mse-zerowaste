@@ -36,9 +36,10 @@ guidelines here!](https://www.nea.gov.sg/docs/default-source/resource/participat
 Encourage your colleagues to practise 3Rs in the office such as printing on both sides of the paper or using their own cutleries and coffee mug. Here are some [3R tips](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work){:target="_blank"} to get your started.
 
 
-Planning for an event? We have developed a guide with useful tips to help event organisers plan a more environmentally-friendly event. Check out the [best practices for events here](https://www.mewr.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf){:target="_blank"}.
 
+## Environmentally Friendly Events
 
+Be a role model and show support for the environment through your actions. Make sure your event is an environmentally-friendly one. Refer to the following guides to help you [plan an eco-friendly event](https://www.mewr.gov.sg/docs/default-source/default-document-library/faq/guide-to-implementing-environmentally-friendly-best-practices-for-events.pdf){:target="_blank"}.
 
 
 ## Funding
