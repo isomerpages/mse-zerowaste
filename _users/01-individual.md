@@ -24,7 +24,7 @@ Need some ideas on how minimise waste in your life? Here are some ideas to get y
 
 
 #### Need more ideas? Join a zero waste community! 
-There are several zero waste communities online such as the [Journey to Zero Waste Singapore](https://www.facebook.com/groups/ZeroWasteJourneySg/){:target="_blank"} and [Green Drinks Singapore](https://www.facebook.com/groups/greendrinkssingapore/){:target="_blank"}. Get inspiration, communicate with other zero waste-ers in the process when you have questions or concerns, be supported by other people – not intimidated.
+There are several zero waste communities such as the [Journey to Zero Waste Singapore](https://www.facebook.com/groups/ZeroWasteJourneySg/){:target="_blank"} and [Green Drinks Singapore](https://www.facebook.com/groups/greendrinkssingapore/){:target="_blank"}. Get inspiration from fellow zero waste-ers, ask questions or share your concerns! 
 
 #### Volunteer
 Want to take your zero waste passion one step further? Consider volunteering with [NEA](https://www.cgs.sg/volunteer){:target="_blank"} or the [environmental / green groups in Singapore](/green-groups-in-singapore/)!
