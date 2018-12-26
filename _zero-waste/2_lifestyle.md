@@ -8,11 +8,11 @@ collection_name: zero-waste
 
 ### The amount of waste we generate is not sustainable and is contributing to climate change.
 
-The zero waste movement is gradually gaining traction in Singapore, as more and more individuals become aware of the impact that their actions have on earth. 
 
-While you don’t have to go right to zero (or limit yourself to a mason jar of trash in a year), there are small, simple steps you can take to avoid unnecessary waste and reduce the amount of trash you produce.
 
-Is Zero Waste really possible at home? It all starts with purchasing decisions, proper planning and setting up a system for what and how materials enter your home in the first place.
+Living a zero waste lifestyle is not just about limiting yourself to a mason jar of trash in a year. It's about being mindful about what you consume, taking steps to avoid unnecessary waste and reducing the amount of trash you produce.
+
+Ultimately, zero waste is a goal that we strive for. It is not a destination, but a journey.
 
 While the government and businesses can only do so much, we hope that more individuals will become personally committed to living a “zero waste 3R lifestyle" and learn to love and to take care of our environment.
 
@@ -21,7 +21,12 @@ While the government and businesses can only do so much, we hope that more indiv
 * Reduce waste [Be a responsible consumer, reduce and reuse]
 * Recycle more and recycle right [No food or liquids in the blue bin]
 
-Make 2019 the year you join the zero waste journey! 
+Make 2019 the year you embark on a zero waste journey! 
+
+
+
+
+
 
 
 
