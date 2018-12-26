@@ -17,21 +17,6 @@ etc etc
 <script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/assets/js/jquery-1.9.1.min.js"></script> 
 <script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/owl-carousel/owl.carousel.js"></script>
 
-<script>
- $(document).ready(function() {
- 
-  $("#owl-demo").owlCarousel({
- 
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
- 
-      items : 4,
-      itemsDesktop : [1199,3],
-      itemsDesktopSmall : [979,3]
- 
-  });
- 
-});
- </script>
 
 <style>
 
