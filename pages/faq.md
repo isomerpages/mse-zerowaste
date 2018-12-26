@@ -30,13 +30,13 @@ For private landed estates, a commingled blue recycling bin, in addition to the 
 
 The recyclables in the recycling bins in HDB estates are collected thrice a week, while the private landed properties are provided with weekly collection of recyclables and garden waste collection. Please refer to the table below for the collection frequencies of each PWC sector.
 
-https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme
+[https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"}
 
 ### 5. Who collects the recyclables in my estate?
 
 It depends on where you stay. 
 Under this programme launched in April 2001, the public waste collectors (PWCs) licensed by NEA are required to provide recycling bins and recycling collection services to all HDB estates, private landed properties and condominiums/private apartments opted into the public waste collection scheme.
-https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme
+[https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"}
 
 
 ### 6. What's the point of recycling? 
