@@ -26,8 +26,6 @@ i-want-to:
     url: /users/business/
   - title: NGO
     url: /users/ngo/
-  - title: Public Sector Organisation
-    url: /users/publicsector/
   - title: Teacher
     url: /users/teacher/
 
