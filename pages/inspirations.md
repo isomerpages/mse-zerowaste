@@ -13,10 +13,8 @@ UglyFood
 ZeroWasteSG
 etc etc
 
-
-<script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/assets/js/jquery-1.9.1.min.js"></script> 
-<script src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/owl-carousel/owl.carousel.js"></script>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
 
 <style>
 
@@ -43,3 +41,6 @@ etc etc
   <div class="item"><img src="https://www.ophtec.com/themes/ophtec/extra/carousel/owl/demos/assets/owl8.jpg" alt="Owl Image"></div>
  
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
