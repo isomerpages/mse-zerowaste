@@ -23,10 +23,8 @@ Need some ideas on how minimise waste in your life? Here are some ideas to get y
 10. Avoid impulse buys  
 
 
-
-
-### Need more ideas? Join a zero waste community! 
+#### Need more ideas? Join a zero waste community! 
 There are several zero waste communities online such as the [Journey to Zero Waste Singapore](https://www.facebook.com/groups/ZeroWasteJourneySg/){:target="_blank"} and [Green Drinks Singapore](https://www.facebook.com/groups/greendrinkssingapore/){:target="_blank"}. Get inspiration, communicate with other zero waste-ers in the process when you have questions or concerns, be supported by other people – not intimidated.
 
-### Volunteer
-If you have a passion for promoting sustainable living and resource conservation, consider joining NEA as a volunteer to raise public awareness on the 3Rs within the community. Please contact us at 1800 CALL NEA (1800 -225 5632) or [register online](https://www.cgs.sg/volunteer){:target="_blank"} here.
+#### Volunteer
+Want to take your zero waste passion one step further? Consider volunteering with [NEA](https://www.cgs.sg/volunteer){:target="_blank"} or the [environmental / green groups in Singapore](/green-groups-in-singapore/)!
