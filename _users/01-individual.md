@@ -8,7 +8,17 @@ collection_name: users
 
 # 10 easy ways to get started on your zero waste journey
 
+Need some ideas on how minimise waste in your life? Here are some ideas to get you started! 
 
-reduce the use of single-use plastics for eg plastic cutleries, bottles etc
 
-join a zero waste community 
+1. Swap out plastic bags for reusable bags
+2. Don't leave your house without a full reusable water bottle.
+3. Instead of ordering coffee to go, order coffee 'to stay'
+4. Ditch cling wrap and use beeswax or silicon wraps
+5. Bring your own containers to the market of bulk food store. 
+
+
+
+
+# join a zero waste community 
+There are several zero waste communities online such as the [Journey to Zero Waste Singapore](https://www.facebook.com/groups/ZeroWasteJourneySg/){:target="_blank"} and [Green Drinks Singapore](https://www.facebook.com/groups/greendrinkssingapore/){:target="_blank"}. Get inspiration, communicate with other zero waste-ers in the process when you have questions or concerns, be supported by other people – not intimidated.
