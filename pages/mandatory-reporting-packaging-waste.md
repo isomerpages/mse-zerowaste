@@ -11,4 +11,13 @@ In 2017, 1.67 million tonnes of waste were disposed of by the domestic sector. O
 
 At the current rate of waste disposal, a new waste-to-energy plant is required to be built every seven to 10 years, and a new landfill is needed every 35 years. This is not sustainable given Singapore’s land constraints. Hence, it is important for everyone to play their part in minimising packaging waste.
 
-Apart from e-waste, we are studying the feasibility of extending EPR to plastic and packaging waste. To start off, we will introduce a mandatory reporting framework for packaging data and waste reduction plans in 2020. Businesses such as brand owners, importers, large retailers and supermarkets will need to start collecting data on the types and amount of packaging they place in the market and submit plans for reduction.
+![Packaging Waste](/images/packaging.jpg)
+
+Mandatory reporting is the first step towards sustainable packaging waste management. 
+
+Under the mandatory reporting framework, companies that place packaging on the consumer market will be required to report information on the types and amounts of packaging they are placing on the market annually, and develop packaging waste reduction plans. 
+
+The mandatory reporting framework will be implemented in 2020, beginning with the registration of businesses such as brand owners, importers and large retailers including supermarkets. These businesses will also be required to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.  
+
+We are also studying the feasibility of extending the EPR framework to cover packaging waste, including plastics.
+
