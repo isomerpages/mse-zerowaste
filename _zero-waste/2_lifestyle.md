@@ -12,9 +12,7 @@ collection_name: zero-waste
 
 Living a zero waste lifestyle is not just about limiting yourself to a mason jar of trash in a year. It's about being mindful about what you consume, taking steps to avoid unnecessary waste and reducing the amount of trash you produce.
 
-Ultimately, zero waste is a goal that we strive for. It is not a destination, but a journey.
-
-While the government and businesses can only do so much, we hope that more individuals will become personally committed to living a “zero waste 3R lifestyle" and learn to love and to take care of our environment.
+Ultimately, zero waste is a goal that we work towards. It is not a destination, but a journey towards waste minimisation.
 
 ![zero waste lifestyle](/images/lifestyle.jpg)
 
