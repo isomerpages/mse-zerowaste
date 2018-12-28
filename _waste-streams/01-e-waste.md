@@ -94,4 +94,4 @@ IKEA is the first major retailer in Singapore to provide light bulb recycling se
 
 **6. Other Recycling Programmes**
 
-For the most updated list of where you can drop off your e-waste for recycling, please visit [NEA's website](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste) {:target="_blank"} or use the myENV app
+For the most updated list of where you can drop off your e-waste for recycling, please visit [NEA's website](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"} or use the myENV app
