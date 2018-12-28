@@ -84,7 +84,7 @@ If you are heading to City Square Mall, bring your unwanted e-waste along. The e
 
 **4. Project Homecoming - Ink & Toner Cartridge Recycling Programme**
 Project Homecoming is an ink and toner cartridge recycling programme led by Canon and Epson, with the National Library Board (NLB) as its venue partner. Project Homecoming collection boxes can be found at 20 library branches around Singapore. The cartridges are then sent to the appointed recycling partner, TES (Singapore), where they are recycled in an environmentally sound manner. 
-* Where to Recycle: Refer to the [Project Homecoming website](https://sg.canon/en/consumer/web/ecoproject-recycling-program) {:target="_blank"} for a list of locations of Project Homecoming boxes
+* Where to Recycle: Refer to the [Project Homecoming website](https://sg.canon/en/consumer/web/ecoproject-recycling-program){:target="_blank"} for a list of locations of Project Homecoming boxes
 * What to Recycle: All ink and toner cartridges, regardless of brand
 
 **5. IKEA's Light Bulb Recycling Programme**
