@@ -66,11 +66,19 @@ Instead of throwing away your leftovers, turn them into tasty new dishes. Learn 
 
 **1. Offer different portion sizes options and indicate serving sizes**
 
-
+![smaller portions](/images/smaller-portions.jpg)
 
 Food retail establishments and supermarkets can help reduce food wastage by offering different portion sizes and indicate serving sizes for consumers. This gives consumers an option to buy and order just the right amount of food for themselves, instead of having to purchase one standard size. 
+
+![small medium large](/images/SML.jpg)
+
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
-2. Donate excess food
+
+
+**2. Donate excess food**
+
+![donate excess food](/images/donate-excess-food.jpg)
 
 Donate excess food to the needy via organisations such as the Food Bank Singapore, Food from the Heart, Fei Yue Community Services and Willing Hearts. 
+
 Check out our Handy Guide to Reducing Food Wastage & Saving Money here.
