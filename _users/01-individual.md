@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Individuals
+title: What you can do as an individual
 permalink: /users/individual/
-breadcrumb: RESOURCES FOR
+breadcrumb: WHAT YOU CAN DO
 collection_name: users
 ---
 
