@@ -9,7 +9,7 @@ collection_name: waste-streams
 
 Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
 
-### What is avoidable food waste? **
+### What is avoidable food waste?
 
 ![Examples of avoidable food waste](/images/avoidable-food-waste.jpg)
 
@@ -34,21 +34,37 @@ Here are 5 simple tips to minimise food wastage.
 Before going grocery shopping, make a shopping list of things you need so you won’t overbuy. Don’t forget to check your fridge and cabinet so you don’t end up buying things you already have. Not only will this minimise food waste, you won’t overspend too. ;)
 
 
+**2. Practise “first to expire, first out”**
 
-2. Practise “first to expire, first out”
+![First in, first out](/images/expired-food.jpg)
 
- It is always good to properly label all your food products, and store them according to the ‘First Expire First Out’ (FEFO) principle. This means placing food products nearer to their expiry dates at the front of the fridge or cabinet, which would remind you to use them as soon as possible, minimising unnecessary food wastage. 
-3. Follow storage instructions
+It is always good to properly label all your food products, and store them according to the ‘First Expire First Out’ (FEFO) principle. This means placing food products nearer to their expiry dates at the front of the fridge or cabinet, which would remind you to use them as soon as possible, minimising unnecessary food wastage. 
+
+
+**3. Follow storage instructions**
+
+![storage instructions](/images/storage-instructions.jpg)
 
 Storage requirements differ from product to product, so be sure to read the instructions before putting them away! Storage instructions are often indicated on the product’s packaging by the manufacturer. 
-4. Cook just enough
+
+
+**4. Cook just enough**
+
+![cook just enough](/images/cook-just-enough.jpg)
 
 Find out who’s coming home for dinner and plan how much food to cook accordingly. If you plan on cooking a variety of dishes for your family, downsize the portions to avoid wasting food. Also, don’t get distracted while cooking…you wouldn’t want the food to get burnt and have to be thrown away!
-5. Make use of leftovers for the next meal
+
+
+**5. Make use of leftovers for the next meal**
+
+![leftovers](/images/leftovers.jpg)
 
 Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, here.
-Retailers and manufacturers can help too!
-1. Offer different portion sizes options and indicate serving sizes
+
+
+### Retailers and manufacturers can help too!
+
+**1. Offer different portion sizes options and indicate serving sizes**
 
 
 
