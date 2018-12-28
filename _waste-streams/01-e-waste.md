@@ -68,30 +68,30 @@ The best way to dispose off e-waste is through e-waste recycling programmes. Thi
 
 StarHub has partnered with DHL Express Singapore and TES (Singapore) to place over 400 green e-waste recycling bins around Singapore. The e-waste is picked up by DHL and sent to TES (Singapore) for recycling. 
 
-* Where to Recycle: Refer to StarHub's website for a list of locations of RENEW bins
+* Where to Recycle: Refer to [StarHub's website](http://www.starhub.com/about-us/corporate-sustainability/recycling-nations-electronic-waste.html){:target="_blank"} for a list of locations of RENEW bins
 * What to Recycle: Most electronic products, regardless of brand, measuring less than 47 cm x 12 cm (length x width) can fit through the deposit slot: mobile phones, mobile phone batteries, laptops, keyboards, modems, computer mice, docking stations, hard disk drives, printed circuit boards, DVD players, VCD players, set-top boxes, MP3 players, VCRs, remote controls, car stereos, telephones, answering machines, cables, plugs and wires
 
 **2. ReCYCLE: Singtel x SingPost E-Waste Recycling Programme**
 
 A collaboration between Singtel and SingPost, e-waste bins have been placed in selected Singtel shops and Singtel exclusive Retailer outlets. You can also ask for a ReCYCLE envelope from any Singtel Shop and Singtel Exclusive Retailer outlets, and Post Offices, and mail your mobile device and accessories at no charge as postage is waived.
-* Where to Recycle: Refer to the ReCYCLE website for a list of locations of ReCYCLE bins 
+* Where to Recycle: Refer to the [ReCYCLE website](http://recycle.sg/){:target="_blank"} for a list of locations of ReCYCLE bins 
 * What to Recycle: Mobile and internet related electronic products, regardless of brand, that fit through the deposit slot which includes mobile phones, chargers, laptops, tablets, modems, routers and other related accessories such as lithium batteries and cables
 
 **3. City Square Mall E-Waste Recycling Programme**
 If you are heading to City Square Mall, bring your unwanted e-waste along. The eco-mall accepts small e-waste items and sends them for recycling. 
-* Where to Recycle: City Square Mall's L2 Customer Service Counter (visit City Square Mall's website for more info)
+* Where to Recycle: City Square Mall's L2 Customer Service Counter (visit [City Square Mall's website](https://www.citysquaremall.com.sg/happenings/events-promotions/e-waste-recycling-programme){:target="_blank"} for more info)
 * What to Recycle: Most electronic or electrical items, including PCs, laptops, mobile phones, electric desk fans, radios, kettles, electric irons, etc. (No bulky items such as washing machines and TV sets)
 
 **4. Project Homecoming - Ink & Toner Cartridge Recycling Programme**
 Project Homecoming is an ink and toner cartridge recycling programme led by Canon and Epson, with the National Library Board (NLB) as its venue partner. Project Homecoming collection boxes can be found at 20 library branches around Singapore. The cartridges are then sent to the appointed recycling partner, TES (Singapore), where they are recycled in an environmentally sound manner. 
-* Where to Recycle: Refer to the Project Homecoming website for a list of locations of Project Homecoming boxes
+* Where to Recycle: Refer to the [Project Homecoming website](https://sg.canon/en/consumer/web/ecoproject-recycling-program) {:target="_blank"} for a list of locations of Project Homecoming boxes
 * What to Recycle: All ink and toner cartridges, regardless of brand
 
 **5. IKEA's Light Bulb Recycling Programme**
 IKEA is the first major retailer in Singapore to provide light bulb recycling services. The collection bins can be found at the lighting department and wrapping stations at both IKEA outlets. 
-* Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit IKEA's website for more info)
+* Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit [IKEA's website](https://www.ikea.com/ms/en_SG/this-is-ikea/people-and-planet/local-efforts/index.html){:target="_blank"} for more info)
 * What to Recycle: Light bulbs and fluorescent tubes
 
 **6. Other Recycling Programmes**
 
-For the most updated list of where you can drop off your e-waste for recycling, please visit NEA's website or use the myENV app
+For the most updated list of where you can drop off your e-waste for recycling, please visit [NEA's website](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste) {:target="_blank"} or use the myENV app
