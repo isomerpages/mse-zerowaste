@@ -74,28 +74,24 @@ StarHub has partnered with DHL Express Singapore and TES (Singapore) to place ov
 **2. ReCYCLE: Singtel x SingPost E-Waste Recycling Programme**
 
 A collaboration between Singtel and SingPost, e-waste bins have been placed in selected Singtel shops and Singtel exclusive Retailer outlets. You can also ask for a ReCYCLE envelope from any Singtel Shop and Singtel Exclusive Retailer outlets, and Post Offices, and mail your mobile device and accessories at no charge as postage is waived.
-· Where to Recycle: Refer to the ReCYCLE website for a list of locations of ReCYCLE bins 
-· What to Recycle: Mobile and internet related electronic products, regardless of brand, that fit through the deposit slot which includes mobile phones, chargers, laptops, tablets, modems, routers and other related accessories such as lithium batteries and cables
+* Where to Recycle: Refer to the ReCYCLE website for a list of locations of ReCYCLE bins 
+* What to Recycle: Mobile and internet related electronic products, regardless of brand, that fit through the deposit slot which includes mobile phones, chargers, laptops, tablets, modems, routers and other related accessories such as lithium batteries and cables
 
-3. City Square Mall E-Waste Recycling Programme
+**3. City Square Mall E-Waste Recycling Programme**
 If you are heading to City Square Mall, bring your unwanted e-waste along. The eco-mall accepts small e-waste items and sends them for recycling. 
-· Where to Recycle: City Square Mall's L2 Customer Service Counter (visit City Square Mall's website for more info)
-· What to Recycle: Most electronic or electrical items, including PCs, laptops, mobile phones, electric desk fans, radios, kettles, electric irons, etc. (No bulky items such as washing machines and TV sets)
+* Where to Recycle: City Square Mall's L2 Customer Service Counter (visit City Square Mall's website for more info)
+* What to Recycle: Most electronic or electrical items, including PCs, laptops, mobile phones, electric desk fans, radios, kettles, electric irons, etc. (No bulky items such as washing machines and TV sets)
 
-4. Project Homecoming - Ink & Toner Cartridge Recycling Programme
+**4. Project Homecoming - Ink & Toner Cartridge Recycling Programme**
 Project Homecoming is an ink and toner cartridge recycling programme led by Canon and Epson, with the National Library Board (NLB) as its venue partner. Project Homecoming collection boxes can be found at 20 library branches around Singapore. The cartridges are then sent to the appointed recycling partner, TES (Singapore), where they are recycled in an environmentally sound manner. 
-· Where to Recycle: Refer to the Project Homecoming website for a list of locations of Project Homecoming boxes
-· What to Recycle: All ink and toner cartridges, regardless of brand
+* Where to Recycle: Refer to the Project Homecoming website for a list of locations of Project Homecoming boxes
+* What to Recycle: All ink and toner cartridges, regardless of brand
 
-5. IKEA's Light Bulb Recycling Programme
+**5. IKEA's Light Bulb Recycling Programme**
 IKEA is the first major retailer in Singapore to provide light bulb recycling services. The collection bins can be found at the lighting department and wrapping stations at both IKEA outlets. 
-· Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit IKEA's website for more info)
-· What to Recycle: Light bulbs and fluorescent tubes
+* Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit IKEA's website for more info)
+* What to Recycle: Light bulbs and fluorescent tubes
 
-6. Other Recycling Programmes
+**6. Other Recycling Programmes**
 
 For the most updated list of where you can drop off your e-waste for recycling, please visit NEA's website or use the myENV app
-
-
-
-![e-waste infographic](/images/ewaste-infographics.jpg)
