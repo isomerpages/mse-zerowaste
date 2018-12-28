@@ -79,6 +79,6 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 ![donate excess food](/images/donate-excess-food.jpg)
 
-Donate excess food to the needy via organisations such as the Food Bank Singapore, Food from the Heart, Fei Yue Community Services and Willing Hearts. 
+Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
 
-Check out our Handy Guide to Reducing Food Wastage & Saving Money here.
+Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"}  here.
