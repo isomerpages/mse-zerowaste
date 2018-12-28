@@ -6,6 +6,7 @@ breadcrumb: What you can do
 collection_name: users
 ---
 
+![Photos of students in a classroom](/images/schools.jpg)
 
 ### Programme for schools
 
