@@ -28,3 +28,10 @@ By reducing our waste we decrease the need for more landfill.
 By reusing more we can save money and reduce the need to consume and produce more waste.
 
 You can make a difference!
+
+
+### Did you know?
+
+* Recycling 1,000kg of paper saves 17 trees.
+* Recycling an aluminium can saves 95% of the energy used to make a new one.
+* Recycling a glass bottle saves 30% of the energy used to make a new one.
