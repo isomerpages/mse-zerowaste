@@ -203,9 +203,15 @@ collection_name: recycle
 ### Plastic
 
 <table class="table-h">
+    <tr>
+    <th class="tg-0lax">S/N</th>
+    <th class="tg-0lax">Item</th>
+    <th class="tg-0lax">Can recycle?</th>
+    <th class="tg-0lax">Remarks</th>
+  </tr>
   <tr>
     <th class="tg-0lax">1</th>
-    <th class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</th>
+    <th class="tg-0lax">Plastic bottle/container - Food or Beverage <br />(e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</th>
     <th class="tg-0lax">YES</th>
     <th class="tg-0lax">Please empty and rinse when necessary</th>
   </tr>
