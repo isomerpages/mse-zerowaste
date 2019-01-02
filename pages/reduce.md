@@ -10,15 +10,14 @@ breadcrumb: Reduce
 
 **Tips to reduce waste at home**
 
-
 * Plan a shopping list to avoid impulsive purchases
 * Bring a reusable shopping bag to reduce usage of plastic or paper bags
 * Purchase items
   * with less packaging
   * that will last longer
   * that are refillable
-  *that will not go out of fashion quickly
-*Borrow, share or hire things that are only needed occasionally
+  *that will not go out of fashion quickly  
+* Borrow, share or hire things that are only needed occasionally
 * Store perishable food in the refrigerator
 * Cook just sufficient food for meals
 * Minimise the use of disposable wares, e.g. disposable forks, spoons, cups
@@ -29,7 +28,7 @@ breadcrumb: Reduce
 * Use rag instead of paper tissue or wet wipes for cleaning
 
 
-**Tips to reduce waste at work*
+**Tips to reduce waste at work**
 
 * Proofread documents on screen before printing
 * Print on both sides of paper
