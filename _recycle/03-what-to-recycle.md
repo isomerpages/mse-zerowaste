@@ -210,10 +210,10 @@ collection_name: recycle
     <th class="tg-0lax">Remarks</th>
   </tr>
   <tr>
-    <tr class="tg-0lax">1</th>
-    <tr class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</th>
-    <tr class="tg-0lax">YES</th>
-    <tr class="tg-0lax">Please empty and rinse when necessary</th>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
