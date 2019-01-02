@@ -57,8 +57,8 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Book</td>
+    <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Donate if it is in good condition</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
@@ -117,14 +117,14 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">17</td>
     <td class="tg-0lax">Carton box</td>
+    <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">18</td>
     <td class="tg-0lax">Paper packaging (e.g. printed paper box etc)</td>
+    <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">19</td>
@@ -135,8 +135,8 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">20</td>
     <td class="tg-0lax">Beverage carton (e.g. milk, juice and drink packet)</td>
+    <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary. Please flatten</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">21</td>
@@ -159,13 +159,13 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">24</td>
     <td class="tg-0lax">Used paper disposables (e.g. paper cup, plate etc)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">25</td>
     <td class="tg-0lax">Tissue paper</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">NO</td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
