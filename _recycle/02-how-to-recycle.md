@@ -8,15 +8,17 @@ collection_name: recycle
 
 ### 40% of materials placed inside our recycling bins are not suitable for recycling. These include food and liquid waste, which contaminate other recyclables.
 
-Do remember to practise the 5 steps of proper recycling!
+Do remember to practise these steps of proper recycling!
 
-1. Know what can or cannot be recycled
+** 1. Know what can or cannot be recycled ** 
 * Do not deposit food waste and non-recyclables into recycling bins.
 * Do not dispose bulky items like furniture and renovation waste at recycling bins.
 
 2. Empty recyclable containers of their contents
+** For example, food containers, shampoo/detergent bottles, canned drinks etc
 
-3. Rinse and dry them 
+3. Rinse and dry the containers
+** If containers are wet, greasy or contain food scraps, they will contaminate the rest of the items in the recycling bin.
 
 4. Deposit recyclables into recycling bins.
 
