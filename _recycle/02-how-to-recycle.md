@@ -6,13 +6,18 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-Remember to practise the 5 steps of proper recycling!
+### 40% of materials placed inside our recycling bins are not suitable for recycling. Therese include food and liquid waste, which contaminate other recyclables.
 
-Recycle paper, plastic, metal, glass and old clothing
+Do remember to practise the 5 steps of proper recycling!
 
-Empty recyclable containers of their contents
+1. Know what can or cannot be recycled
 
-Deposit recyclables into recycling bins instead of leaving them outside.
+2. Empty recyclable containers of their contents
+
+3. Rinse and dry them 
+
+4. Deposit recyclables into recycling bins.
+
 
 Do not deposit food waste and non-recyclables into recycling bins.
 
