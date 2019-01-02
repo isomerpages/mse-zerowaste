@@ -13,12 +13,13 @@ Do remember to practise these steps of proper recycling!
 **1. [Know what can or cannot be recycled](/recycle/what-to-recycle/)** 
 * Do not deposit food waste and non-recyclables into recycling bins.
 * Do not dispose bulky items like furniture and renovation waste at recycling bins.
+* Single-use packaging such as disposable containers and cups often cannot be recycled as they are contaminated with food.
 
 **2. Empty recyclable containers of their contents**
-* For example, food containers, shampoo/detergent bottles, canned drinks etc
+* For example, plastic takeaway food containers, shampoo/detergent bottles, canned/bottled drinks, cosmetic jars, jam jars etc
 
-**3. Rinse and dry the containers**
-* If containers are wet, greasy or contain food scraps, they will contaminate the rest of the items in the recycling bin.
+**3. Rinse and dry the containers when necessary**
+* If containers are wet, greasy or contain food, they will contaminate the rest of the items in the recycling bin.
 
 **4. Deposit recyclables into recycling bins**
 
