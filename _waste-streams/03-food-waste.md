@@ -7,7 +7,12 @@ collection_name: waste-streams
 ---
 
 
+### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by 50% over the last 10 years. 
+
+810 million kg of food waste was generated in 2017 - that's the weight of 3,500 MRT trains!
+
 Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
+
 
 ### What is avoidable food waste?
 
