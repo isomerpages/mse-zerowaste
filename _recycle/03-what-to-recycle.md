@@ -260,7 +260,7 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Plastic disposables - cutlery and crockery</td>
-    <td class="tg-0lax"><span style="color:red">NO</span>/td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
