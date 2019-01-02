@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Towards Zero Waste Singapore
+description: Join us in the journey towards becoming a Zero Waste Nation
 permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage 
