@@ -15,8 +15,8 @@ collection_name: recycle
   <tr>
     <th class="tg-0lax">S/N</th>
     <th class="tg-0lax">Item</th>
-    <th class="tg-0lax">Items that can be placed in the blue commingled recycling bins</th>
-    <th class="tg-0lax">Items that cannot be placed in the blue commingled recycling bins</th>
+    <th class="tg-0lax">Can recycle?</th>
+    <th class="tg-0lax">Remarks</th>
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
