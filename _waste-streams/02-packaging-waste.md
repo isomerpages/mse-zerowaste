@@ -12,6 +12,7 @@ Most packaging for consumer goods, such as food, drinks, cleaning products, sham
 
 Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
 
+![Alternative text for screen readers](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
 ### A waste of resources
 
