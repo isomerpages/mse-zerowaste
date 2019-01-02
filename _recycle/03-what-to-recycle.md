@@ -202,3 +202,102 @@ collection_name: recycle
 
 
 **Plastic**
+
+<table class="table-h">
+  <tr>
+    <th class="tg-0lax">1</th>
+    <th class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</th>
+    <th class="tg-0lax">YES</th>
+    <th class="tg-0lax">Please empty and rinse when necessary</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Plastic bottle/container - Non-food (e.g. shampoo, bodywash, facial cleanser, detergent etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">CD and CD casing</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Plastic bag (except for oxo- and bio-degradable bags)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Plastic film/flexible packaging (e.g. magazine wrapper, film packaging for packet drinks, bubble wrap etc.)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Plastic packaging (e.g. sliced bread bag and egg trays)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty contents</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Plastic clothes hanger</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Non-polystyrene foam takeaway food container</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Polystyrene foam product (e.g. Styrofoam cup, clam shell container)</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">Plastic disposables - cutlery and crockery</td>
+    <td class="tg-0lax"><span style="color:red">NO</span>/td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">Plastic packaging with foil (e.g. potato chip bags, empty blister pack etc.)</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">Oxo- and bio-degradable bags</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">Drinking straw</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">Cassette and video tape</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">Plastic packaging contaminated with food</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16</td>
+    <td class="tg-0lax">Melamine products (e.g. Melamine cups, melamine plates etc)</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+</table>
