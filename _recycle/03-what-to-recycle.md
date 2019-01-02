@@ -9,7 +9,7 @@ collection_name: recycle
 ### Common recyclable items include paper, glass, metal, and plastics.
 
 
-** Paper **
+**Paper**
 
 <table class="table-h">
   <tr>
@@ -200,3 +200,5 @@ collection_name: recycle
   </tr>
 </table>
 
+
+**Plastic**
