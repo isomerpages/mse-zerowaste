@@ -6,10 +6,5 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-You’re right! The following items can all be recycled.
-Paper 
-Glass
-Metal 
-Cans 
-Clothes
-Plastic
+Common recyclable items include paper, glass, metal, and plastics.
+
