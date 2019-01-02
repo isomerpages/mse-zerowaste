@@ -6,7 +6,13 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-Packaging waste is a large waste stream, making up one-third of domestic waste disposed of. There is potential to further reduce packaging waste.
+### Of the 1.6 million tonnes of domestic waste disposed of in 2017, packaging consists of one-third. There is potential to further reduce packaging waste.
+
+Carbonated beverages, chilled juice, fresh milk, cooking oil, dishwashing liquid - all these items come with packaging. 
+
+
+
+
 
 A life-cycle assessment study commissioned by the NEA showed that different materials have different environmental impacts. Therefore, promoting certain types of materials over others, may not be better for the environment.
 
