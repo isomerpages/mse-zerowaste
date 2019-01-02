@@ -10,6 +10,9 @@ favicon: /images/favicon.ico
 # Agency logo
 agency-logo: /images/Zerowastelogo-01.png
 
+# Google analytics
+google-analytics: UA-131465347-1
+
 # Hero Banner
 hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Join us in the journey towards becoming a Zero Waste Nation"
