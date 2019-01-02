@@ -6,16 +6,17 @@ breadcrumb: Zero Waste
 collection_name: zero-waste
 ---
 
-### Singapore is working towards becoming a zero waste nation by reducing our consumption of materials, and reusing and recycling them to give them a second lease of life. 
+### Singapore has designated 2019 as the Year Towards Zero Waste. We are working towards becoming a zero waste nation by reducing our consumption of materials, and reusing and recycling them to give them a second lease of life. 
 
-In 2017, Singapore generated over 7.7 million tonnes of waste. That’s enough to fill 3,000 Olympic-sized swimming pools!
 
-Singapore's growing population and economy have also contributed to a **seven-fold increase** in the amount of solid waste disposed of from 1,260 tonnes per day in 1970 to 8,443 tonnes per day in 2017.
+In 2017, Singapore generated over 7.7 million tonnes of waste. 
+
+This is a **seven-fold increase** from 40 years ago, and is enough to fill 3,000 Olympic-sized swimming pools!
 
  
 ### Where does our waste go?
 
-Everyday, about 37% of our waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. Incineration reduces the volume of solid waste by about 90 per cent.
+Everyday, about 37% of our waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. However, the more waste we incinerate, the higher our carbon footprint - this contributes to global warming and climate change. 
 
 The resulting incinerated ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
 
@@ -36,6 +37,10 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 
 
 ### How will we achieve our Zero Waste vision?
+
+Singapore will adopt a circular economy approach to sustainable waste and resource management. We will strive to close the waste loop, just like how we have closed the water loop by recycling waste endlessly.
+
+Some of the initiatives that we will be implementing include:
 
 * Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
 * [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns to support convenient and hygienic waste disposal
