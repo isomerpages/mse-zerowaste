@@ -147,8 +147,8 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">22</td>
     <td class="tg-0lax">Tissue box</td>
+    <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">23</td>
@@ -165,37 +165,37 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">25</td>
     <td class="tg-0lax">Tissue paper</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">26</td>
     <td class="tg-0lax">Paper towel</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">27</td>
     <td class="tg-0lax">Toilet paper</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">28</td>
     <td class="tg-0lax">Disposable wooden chopstick</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">29</td>
     <td class="tg-0lax">Wax paper</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">30</td>
     <td class="tg-0lax">Paper packaging that are contaminated with food (eg pizza box, paper bag for pastries)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
 </table>
