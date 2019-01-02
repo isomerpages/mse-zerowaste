@@ -6,7 +6,9 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-### 40% of materials placed inside our recycling bins are not suitable for recycling. These include food and liquid waste, which contaminate other recyclables.
+### 40% of materials placed inside the blue recycling bins are not suitable for recycling. These include food and liquid waste, which contaminate other recyclables.
+
+![recycling bin in singapore](/images/recycling-bin-in-singapore.jpg)
 
 Do remember to practise these steps of proper recycling!
 
