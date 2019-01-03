@@ -11,11 +11,11 @@ collection_name: recycle
 ### Paper
 
 <table class="table-h">
-  <tr>
-    <th class="tg-0lax">S/N</th>
-    <th class="tg-0lax">Item</th>
-    <th class="tg-0lax">Can recycle?</th>
-    <th class="tg-0lax">Remarks</th>
+<tr>
+    <th width ="5%" class="tg-0lax">S/N</th>
+    <th width ="55%" class="tg-0lax">Item</th>
+    <th width ="10%" class="tg-0lax">Can recycle?</th>
+    <th width ="30%"  class="tg-0lax">Remarks</th>
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
@@ -203,11 +203,11 @@ collection_name: recycle
 ### Plastic
 
 <table class="table-h">
-    <tr>
-    <th class="tg-0lax">S/N</th>
-    <th class="tg-0lax">Item</th>
-    <th class="tg-0lax">Can recycle?</th>
-    <th class="tg-0lax">Remarks</th>
+<tr>
+    <th width ="5%" class="tg-0lax">S/N</th>
+    <th width ="55%" class="tg-0lax">Item</th>
+    <th width ="10%" class="tg-0lax">Can recycle?</th>
+    <th width ="30%"  class="tg-0lax">Remarks</th>
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
