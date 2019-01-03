@@ -306,3 +306,76 @@ collection_name: recycle
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
 </table>
+
+
+### Glass
+
+
+<table class="table-h">
+<tr>
+    <th class="tg-0lax">S/N</th>
+    <th class="tg-0lax">Item</th>
+    <th class="tg-0lax">Can recycle?</th>
+    <th class="tg-0lax">Remarks</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Glass bottle - Beverage (e.g. carbonated drink, beer, wine)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Glass bottle - Food (e.g. sauce and condiment bottle, jam spread etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Glass bottle - Cosmetic</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Glass bottle - Medicine and supplement</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Glassware - Cup, plate</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Borosilicate or Pyrex glassware (e.g. bakeware)</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Windows</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Mirror</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good condition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot etc)</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good condition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">Light bulb</td>
+    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax">Could be recycled at specific collection points which can be found on onemap.sg, under Lighting waste collection points</td>
+  </tr>
+</table>
