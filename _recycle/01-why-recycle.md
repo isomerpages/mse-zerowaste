@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Why Should We Recycle?
-permalink: /recycle/why-recycle/
+permalink: /recycle/
 breadcrumb: Recycle
 collection_name: recycle
 ---
