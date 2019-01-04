@@ -377,19 +377,13 @@ collection_name: recycle
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Light bulb</td>
     <td class="tg-0lax">MAYBE</td>
-    <td class="tg-0lax">Can only be recycled at [specific collection points](/recycle/where-to-recycle/) </td>
+    <td class="tg-0lax">Can only be recycled at specific collection points</td>
   </tr>
 </table>
 
 
 ### Metal
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0lax">1</th>
@@ -432,12 +426,6 @@ collection_name: recycle
 
 ### Others
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0lax">1</th>
