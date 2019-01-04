@@ -11,7 +11,7 @@ collection_name: zero-waste
 
 In 2017, Singapore generated over 7.7 million tonnes of waste. 
 
-This is a **seven-fold increase** from 40 years ago, and is enough to fill 3,000 Olympic-sized swimming pools!
+This is a **seven-fold increase** from 40 years ago, and is enough to fill 15,000 Olympic-sized swimming pools!
 
  
 ### Where does our waste go?
@@ -38,7 +38,7 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 
 ### How will we achieve our Zero Waste vision?
 
-Singapore will adopt a circular economy approach to sustainable waste and resource management. We will strive to close the waste loop, just like how we have closed the water loop by recycling waste endlessly.
+Singapore will adopt a circular economy approach to sustainable waste and resource management. We will strive to close the waste loop, just like how we have closed the water loop by recycling water endlessly.
 
 Some of the initiatives that we will be implementing include:
 
