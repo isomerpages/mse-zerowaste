@@ -443,19 +443,19 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</td>
-    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Electronic waste (e.g. Used mobile phone, tablet, laptop etc)</td>
-    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">Rechargable battery</td>
-    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
   <tr>
@@ -503,7 +503,7 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">11</td>
     <td class="tg-0lax">Plant and horticultural waste</td>
-    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Only for landed estates: bag and place outside your unit on collection days</td>
   </tr>
   <tr>
