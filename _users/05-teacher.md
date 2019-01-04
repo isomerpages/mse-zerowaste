@@ -31,6 +31,14 @@ Youth for the Environment Day (YED) is a key platform to engage the youth to cha
 
 [More information](https://www.cgs.sg/programmes/youth-for-the-environment-day/home){:target="_blank"}
 
+### Learning Journeys
+
+Pique your students' interest in environment and waste issues with experiential learning at the following places:
+* [Semakau Landfill](https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"} 
+* [Incineration Plant](https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"} 
+* [Sustainable Singapore Gallery](https://www.pub.gov.sg/marinabarrage/ssg){:target="_blank"} 
+
+
 
 
 
