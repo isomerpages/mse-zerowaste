@@ -461,43 +461,43 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Household battery</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
     <td class="tg-0lax">Old items which are not in good condition (e.g. clothes, shoes, bag, soft toy, umbrella etc)</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">Old items which are in good condition (e.g. clothes, shoes, bag, soft toy, umbrella, spectacle etc)</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Food waste</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">Leftover medicine</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Diaper and sanitary pad</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Stationery - Pen and pencil</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
@@ -509,13 +509,13 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">12</td>
     <td class="tg-0lax">Luggage bag</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">Bulky waste (e.g. Furniture, standing fan etc)</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition<br />Contact Town council to remove from your residential premises</td>
   </tr>
 </table>
