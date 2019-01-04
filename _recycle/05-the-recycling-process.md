@@ -20,3 +20,5 @@ collection_name: recycle
 
 
 Learn more about the [recycling process](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/types-of-recyclables-and-recycling-processes){:target="_blank"} 
+
+Also, watch what happens at a [Materials Recovery Facility (MRF)](/resources/videos/materials-recovery-facility)
