@@ -40,15 +40,19 @@ It is estimated that a new waste-to-energy incineration plant will be needed eve
 
 Singapore will adopt a circular economy approach to sustainable waste and resource management. We will strive to close the waste loop, just like how we have closed the water loop by recycling water endlessly.
 
-Some of the initiatives that we will be implementing include:
+Current/Future initiatives:
 
-* Better recycling infrastructure support to facilitate better recycling practices, such as centralized chutes for all new HDB flats.
+* Improved infrastructure to facilitate recycling, such as centralized chutes for all new HDB flats.
 * [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns to support convenient and hygienic waste disposal
 * Build an [Integrated Waste Management Facility](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  which will have the capacity to segregate recyclables from waste
-* Introduction of [Extended Producer Responsibility](/Extended-Producer-Responsibility/) framework by 2021 to enhance recycling and manage electrical and electronic waste
+* Introduction of [Extended Producer Responsibility](/Extended-Producer-Responsibility/) framework by 2021 
 * Implementation of [Mandatory Reporting of Packaging Waste](/Mandatory-Reporting-Packaging-Waste/) and packaging waste reduction plans by 2021
 * Support the wider use of on-site food waste digesters at commercial premises and hawker centres
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill
 
 
+### Zero Waste Masterplan
 
+We will be publishing an inaugural Zero Waste Masterplan this year to raise awareness of waste issues in Singapore and articulate the government’s efforts to adopt a circular economy approach to sustainable waste and resource management. 
+
+The Masterplan will detail the key policies and strategies that the government will be implementing in the next few years, supported by industry transformation and research and development.
