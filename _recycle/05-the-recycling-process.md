@@ -7,7 +7,7 @@ collection_name: recycle
 ---
 
 
-![Recycling Proces](/images/recycling-process.jpeg)
+![Recycling Process](/images/recycling-process.jpeg)
 
 
 1. Recyclables are collected by a dedicated recycling truck and sent to a Materials Recovery Facility (MRF).
