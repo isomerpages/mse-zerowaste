@@ -13,17 +13,13 @@ Our co-mingled recycling system makes it cost effective for recyclables to be co
 
 ### 2. Why don’t we need to sort our recyclables in Singapore?
 
-Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+We want to provide households with an accessible, reliable and convenient avenue to recycle so as to encourage more households to recycle. 
 
 ### 3. Where can I find my nearest recycling bin?
 
-A blue commingled recycling bin is provided to every HDB block and private landed property to make it more convenient for residents to recycle.
+Blue recycling bins for comingled recyclables are placed at every block in public housing estates and are provided to every household living in landed homes. All condominiums will also have recycling bins within their estates. 
 
-For HDB estate, commingled blue recycling bins are placed at open areas that are convenient and accessible to the residents. The bins are not placed at void decks for fire safety reasons.
-
-For newer BTOs, there are dual chutes
-
-For private landed estates, a commingled blue recycling bin, in addition to the refuse green bin, is provided to each house.
+To make recycling even more convenient, new public housing developments launched since 2014 are fitted with dual chutes for refuse and recyclables. The measure will also apply to new non-landed private residential development applications submitted to URA from 1 April 2018. With these chutes in place, households will find it just as convenient to recycle as to dispose of their waste.
 
 
 ### 4. How often are recyclables collected?
