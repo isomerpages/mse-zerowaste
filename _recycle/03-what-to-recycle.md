@@ -380,3 +380,141 @@ collection_name: recycle
     <td class="tg-0lax">Can only be recycled at [specific collection points](/recycle/where-to-recycle/) </td>
   </tr>
 </table>
+
+
+### Metal
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">1</th>
+    <th class="tg-0lax">Metal can - Beverage (e.g. carbonated drink, beer etc)</th>
+    <th class="tg-0lax">YES</th>
+    <th class="tg-0lax">Please empty and rinse when necessary</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Metal can - Food (e.g. biscuit and food tin, canned food etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Metal bottle cap</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Aerosol can</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty contents</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Clean aluminium tray and foil</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please rinse when necessary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Metal container - Non-food (e.g. paint container etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty contents</td>
+  </tr>
+</table>
+
+
+### Others
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">1</th>
+    <th class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</th>
+    <th class="tg-0lax">MAYBE</th>
+    <th class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Electronic waste (e.g. Used mobile phone, tablet, laptop etc)</td>
+    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Rechargable battery</td>
+    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Household battery</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Old items which are not in good condition (e.g. clothes, shoes, bag, soft toy, umbrella etc)</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Old items which are in good condition (e.g. clothes, shoes, bag, soft toy, umbrella, spectacle etc)</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good condition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Food waste</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Leftover medicine</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Diaper and sanitary pad</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">Stationery - Pen and pencil</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good condition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">Plant and horticultural waste</td>
+    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax">Only for landed estates: bag and place outside your unit on collection days</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">Luggage bag</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good condition</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">Bulky waste (e.g. Furniture, standing fan etc)</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Donate if it is in good conditionContact Town council to remove from your residential premises</td>
+  </tr>
+</table>
