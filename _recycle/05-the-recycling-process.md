@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What happens to recyclables after it is collected
+title: What happens to recyclables
 permalink: /recycle/what-happens-to-recyclables/
 breadcrumb: Recycle 
 collection_name: recycle
