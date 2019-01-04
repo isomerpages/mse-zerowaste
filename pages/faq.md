@@ -30,13 +30,13 @@ To make recycling even more convenient, new public housing developments launched
 
 The recyclables in the recycling bins in HDB estates are collected thrice a week, while the private landed properties are provided with weekly collection of recyclables and garden waste collection. 
 
-Find out [collection frequencies](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"} here!
+Find out [collection frequencies](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"} here.
 
 ### 5. Who collects the recyclables in my estate?
 
 It depends on where you stay. There are four public waste collectors (PWCs) licensed by NEA and they provide recycling bins and recycling collection services to different areas of Singaore.
 
-[Refer to this map to find out who your public waste collector is!](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"
+[Refer to this map to find out who your public waste collector is](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"
 
 
 ### 6. Are the items placed inside recycle bins really recycled? Or does they get thrown away? 
