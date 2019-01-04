@@ -6,13 +6,16 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-### E-waste
+### Where to recycle 
 
-Drop off your e-waste at these designated recycling points offered by retailers and our industry partners. ** (Please note that e-waste cannot be placed inside the blue recycling bins) **
+
+### Where to recycle E-waste
+
+Drop off your e-waste at these designated recycling points offered by retailers and our [industry partners](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"}. 
+** (Please note that e-waste cannot be placed inside the blue recycling bins) **
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Bn8CGXvzTo87GVGps37EoshoTtA" width="640" height="480"></iframe>
 
-More information can be found here.
 
 ### Donation / Collection 
 
