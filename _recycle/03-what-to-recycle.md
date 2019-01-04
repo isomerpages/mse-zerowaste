@@ -385,12 +385,18 @@ Can only be recycled at [specific collection points](#)
 
 ### Metal
 
-<table class="tg">
+<table class="table-h">
+<tr>
+    <th width ="5%" class="tg-0lax">S/N</th>
+    <th width ="55%" class="tg-0lax">Item</th>
+    <th width ="10%" class="tg-0lax">Can recycle?</th>
+    <th width ="30%"  class="tg-0lax">Remarks</th>
+  </tr>
   <tr>
-    <th class="tg-0lax">1</th>
-    <th class="tg-0lax">Metal can - Beverage (e.g. carbonated drink, beer etc)</th>
-    <th class="tg-0lax">YES</th>
-    <th class="tg-0lax">Please empty and rinse when necessary</th>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Metal can - Beverage (e.g. carbonated drink, beer etc)</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
@@ -427,12 +433,18 @@ Can only be recycled at [specific collection points](#)
 
 ### Others
 
-<table class="tg">
+<table class="table-h">
+<tr>
+    <th width ="5%" class="tg-0lax">S/N</th>
+    <th width ="55%" class="tg-0lax">Item</th>
+    <th width ="10%" class="tg-0lax">Can recycle?</th>
+    <th width ="30%"  class="tg-0lax">Remarks</th>
+  </tr>
   <tr>
-    <th class="tg-0lax">1</th>
-    <th class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</th>
-    <th class="tg-0lax">MAYBE</th>
-    <th class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</th>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</td>
+    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
