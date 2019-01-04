@@ -12,12 +12,16 @@ You can recycle metal, paper, glass and plastics by despositing them into blue r
 
 Recycling bins are also given to every household living in landed homes. All condominiums will also have recycling bins within their estates.
 
+![recycling bin in Singapore](/images/recycling-bin-in-singapore.jpg)
+
 ### Where to recycle e-waste
 
 Drop off your e-waste at these designated recycling points offered by [various retailers and our industry partners](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"}. 
 **(Please note that e-waste cannot be placed inside the blue recycling bins)**
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Bn8CGXvzTo87GVGps37EoshoTtA" width="640" height="480"></iframe>
+
+![e-waste-bin](/images/e-waste-bin.jpg)
 
 
 ### Donation / Collection 
