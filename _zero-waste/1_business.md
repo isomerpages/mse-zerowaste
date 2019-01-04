@@ -10,7 +10,7 @@ collection_name: zero-waste
 
 As a small city state, Singapore has always been aware of the need to balance economic development and environmental sustainability. 
 
-Growing our economy consumes energy, water and other resources which we lack, and generates sewerage and solid waste that must be disposed of. Challenges for any country; but especially so for Singapore where resources and land are scarce. Our remaining Semakau Landfill will be filled up within years at our current rate of waste generation.
+Growing our economy consumes energy, water and other resources which we lack, and generates sewerage and solid waste that must be disposed of. These are challenges for any country, but especially so for Singapore where resources and land are scarce. Our only landfill, the Semakau Landfill, will be filled up within years at our current rate of waste generation.
 
 To overcome these challenges and continue to grow sustainably, Singapore must embrace the **circular economy**. This requires a shift from the ‘use and throw’ mentality, to one where resources are re-used for as long as possible. 
 
