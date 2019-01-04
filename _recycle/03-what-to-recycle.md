@@ -6,7 +6,8 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-**Common recyclable items include paper, glass, metal, and plastics**
+### Not sure what you can or cannot recycle? Let this list help you!
+
 
 ### Paper
 
@@ -376,6 +377,6 @@ collection_name: recycle
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Light bulb</td>
     <td class="tg-0lax">MAYBE</td>
-    <td class="tg-0lax">Could be recycled at specific collection points which can be found on onemap.sg, under Lighting waste collection points</td>
+    <td class="tg-0lax">Can only be recycled at [specific collection points](/recycle/where-to-recycle/)</td>
   </tr>
 </table>
