@@ -6,17 +6,24 @@ breadcrumb: Recycle
 collection_name: recycle
 ---
 
-### Where to recycle 
+### Where to recycle metal, paper, glass, plastics
 
+You can recycle metal, paper, glass and plastics at the blue recycling bins. These bins are placed at every block in public housing estates and are provided to every household living in landed homes. All condominiums will also have recycling bins within their estates.
+
+If you live in public housing developments launched after 2014, you will also have a dual chutes for refuse and recyclables on your floor. 
 
 ### Where to recycle E-waste
 
-Drop off your e-waste at these designated recycling points offered by retailers and our [industry partners](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"}. 
-** (Please note that e-waste cannot be placed inside the blue recycling bins) **
+Drop off your e-waste at these designated recycling points offered by [various retailers and our industry partners](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"}. 
+**(Please note that e-waste cannot be placed inside the blue recycling bins)**
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Bn8CGXvzTo87GVGps37EoshoTtA" width="640" height="480"></iframe>
 
 
 ### Donation / Collection 
 
-Collection centres for trading or donation of used goods in working condition can also be found here.
+If the item you wish to recycle is still in good working condition, you might want to consider donating or selling them. 
+
+[Find locations of collection and donation points](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/recycling-collection-points){:target="_blank"} 
+
+
