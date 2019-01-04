@@ -18,16 +18,6 @@ hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
 hero-banner: /images/herobanner_semakau.jpg
 
-# Key Highlights
-# Setting [external: true] will open the url in a new window
-key-highlights:
-  - title: STRATEGIC NATIONAL PROJECTS
-    url: /media/media-releases/strategic-national-projects-to-build-a-smart-nation
-    external: true
-  - title: DIGITAL GOVERNMENT BLUEPRINT
-    description: To create a Government that is “Digital to the Core, and Serves with Heart
-    url: /digital-government-blueprint/
-
 # Hero Dropdown Main Text
 hero-dropdown-text: "I am a..."
 
@@ -41,8 +31,6 @@ i-want-to:
     url: /users/ngo/
   - title: Teacher
     url: /users/teacher/
-
-
 
 
 resources-title: Resources
