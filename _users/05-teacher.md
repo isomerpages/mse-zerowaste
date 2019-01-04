@@ -38,6 +38,11 @@ Pique your students' interest in environment and waste issues with experiential 
 * [Incineration Plant](https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"} 
 * [Sustainable Singapore Gallery](https://www.pub.gov.sg/marinabarrage/ssg){:target="_blank"} 
 
+### Educational Resource Materials
+
+* [Resource packs are available for pre-school teachers](https://www.cgs.sg/programmes/pre-school-educational-resource-materials-and-programmes){:target="_blank"} 
+* [Downloadable resources, presentation slides, posters etc](https://www.cgs.sg/resources){:target="_blank"}  (filter by 3Rs: Reduce Reuse and Recycle)
+
 
 
 
