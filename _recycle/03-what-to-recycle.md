@@ -352,31 +352,31 @@ collection_name: recycle
   <tr>
     <td class="tg-0lax">6</td>
     <td class="tg-0lax">Borosilicate or Pyrex glassware (e.g. bakeware)</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Windows</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">Mirror</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot etc)</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Light bulb</td>
-    <td class="tg-0lax">MAYBE</td>
+    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can only be recycled at [specific collection points](#)</td>
   </tr>
 </table>
