@@ -377,6 +377,6 @@ collection_name: recycle
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Light bulb</td>
     <td class="tg-0lax">MAYBE</td>
-    <td class="tg-0lax">Can only be recycled at [specific collection points](/recycle/where-to-recycle/)</td>
+    <td class="tg-0lax">Can only be recycled at [specific collection points](/recycle/where-to-recycle/) </td>
   </tr>
 </table>
