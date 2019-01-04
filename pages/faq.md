@@ -11,9 +11,15 @@ title: Frequently Asked Questions
 
 Our co-mingled recycling system makes it cost effective for recyclables to be collected and easy for residents to recycle. Residents do not need to segregate their recyclables nor set aside additional space to store the different types of recyclables (paper, plastic, metal and glass) separately in their homes. All the recyclables can be placed in a bag and deposited into the commingled recycling bin at any time. Commingled or single stream collection of recyclables is a cost-effective method of collection practised in several US cities as well as some parts of Europe and Australia.
 
+#######
+
+
 ### 2. Why don’t we need to sort our recyclables in Singapore?
 
 We want to provide households with an accessible, reliable and convenient avenue to recycle so as to encourage more households to recycle. 
+
+Items deposited in the blue bins will be collected and eventuallay sorted by workers at materials recovery facilities into different waste streams for recycling.
+
 
 ### 3. Where can I find my nearest recycling bin?
 
