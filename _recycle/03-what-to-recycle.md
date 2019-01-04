@@ -381,6 +381,7 @@ collection_name: recycle
   </tr>
 </table>
 
+Can only be recycled at [specific collection points](#)
 
 ### Metal
 
