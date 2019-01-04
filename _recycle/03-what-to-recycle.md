@@ -377,11 +377,11 @@ collection_name: recycle
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Light bulb</td>
     <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can only be recycled at [specific collection points](#)</td>
+      <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points]</a></td>
   </tr>
 </table>
 
-Can only be recycled at [specific collection points](#)
+
 
 ### Metal
 
@@ -444,7 +444,7 @@ Can only be recycled at [specific collection points](#)
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</td>
     <td class="tg-0lax">MAYBE</td>
-    <td class="tg-0lax">Can be recycled through specific collection points which can be found on onemap.sg, under E-waste Recycling</td>
+    <td class="tg-0lax">Can be recycled through [specific collection points which can be found on onemap.sg, under E-waste Recycling</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
@@ -516,6 +516,6 @@ Can only be recycled at [specific collection points](#)
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">Bulky waste (e.g. Furniture, standing fan etc)</td>
     <td class="tg-0lax">NO</td>
-    <td class="tg-0lax">Donate if it is in good conditionContact Town council to remove from your residential premises</td>
+    <td class="tg-0lax">Donate if it is in good condition<br />Contact Town council to remove from your residential premises</td>
   </tr>
 </table>
