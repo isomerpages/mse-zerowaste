@@ -21,7 +21,7 @@ Drop off your e-waste at these designated recycling points offered by [various r
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Bn8CGXvzTo87GVGps37EoshoTtA" width="640" height="480"></iframe>
 
-![e-waste-bin](/images/e-waste-bin.jpg)
+![e-waste-bin](/images/e-waste-bins.jpg)
 
 
 ### Donation / Collection 
