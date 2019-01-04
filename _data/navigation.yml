@@ -31,13 +31,13 @@
     url: /reuse/
   - title: Recycle
     url: /recycle/why-recycle
-- title: Inspirations
-  url: /inspirations/
 - title: Resources
   url: /resources/
   sub-links:
   - title: All
     url: /resources/
+  - title: Blog
+    url: /resources/blog/
   - title: Videos
     url: /resources/videos/
   - title: Infographics
