@@ -5,13 +5,11 @@ breadcrumb: FAQ
 title: Frequently Asked Questions 
 ---
 
-> Can't find the answers to what you are looking for? Drop us a note at <climateactionsg@gmail.com> 
+> Can't find the answers to what you are looking for? Drop us a note at <mewr_feedback@mewr.gov.sg> 
 
 ### 1. Why are commingled recycling bins used in Singapore?
 
 Our co-mingled recycling system makes it cost effective for recyclables to be collected and easy for residents to recycle. Residents do not need to segregate their recyclables nor set aside additional space to store the different types of recyclables (paper, plastic, metal and glass) separately in their homes. All the recyclables can be placed in a bag and deposited into the commingled recycling bin at any time. Commingled or single stream collection of recyclables is a cost-effective method of collection practised in several US cities as well as some parts of Europe and Australia.
-
-#######
 
 
 ### 2. Why don’t we need to sort our recyclables in Singapore?
@@ -30,9 +28,9 @@ To make recycling even more convenient, new public housing developments launched
 
 ### 4. How often are recyclables collected?
 
-The recyclables in the recycling bins in HDB estates are collected thrice a week, while the private landed properties are provided with weekly collection of recyclables and garden waste collection. Please refer to the table below for the collection frequencies of each PWC sector.
+The recyclables in the recycling bins in HDB estates are collected thrice a week, while the private landed properties are provided with weekly collection of recyclables and garden waste collection. 
 
-[https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"}
+Click [here](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"} to find out more!
 
 ### 5. Who collects the recyclables in my estate?
 
