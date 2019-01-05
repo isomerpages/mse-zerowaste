@@ -14,7 +14,7 @@ E-waste refers to electrical and electronic waste, such as computers, laptops, m
 
 ![e-waste infographic](/images/Co2.jpg)
 
-When e-waste is disposed of and incinerated, it results in the loss of resources as well as carbon emissions that contribute to global warming and climate change. E-waste also contains small amounts of heavy metals. Hence, recycling our e-waste reduces the amount of heavy metals in our incineration ash. 
+When e-waste is disposed of and incinerated, it results in the loss of resources as well as carbon emissions that contribute to global warming and climate change. E-waste also contains small amounts of heavy metals that can be hazardous to the environment and health. Hence, recycling our e-waste reduces the amount of heavy metals in our incineration ash. 
 
 ### Prevention is better than cure 
 
