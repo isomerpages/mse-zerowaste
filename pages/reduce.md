@@ -5,7 +5,7 @@ permalink: /reduce/
 breadcrumb: Reduce
 ---
 
-### By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and length its lifespan
+### The best way to reduce our waste is to simply consume less. By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and extend its lifespan.
 
 
 **Tips to reduce waste at home**
@@ -16,7 +16,7 @@ breadcrumb: Reduce
   * with less packaging
   * that will last longer
   * that are refillable
-  *that will not go out of fashion quickly  
+  * that will not go out of fashion quickly  
 * Borrow, share or hire things that are only needed occasionally
 * Store perishable food in the refrigerator
 * Cook just sufficient food for meals
