@@ -12,7 +12,7 @@ Most packaging for consumer goods, such as food, drinks, cleaning products, sham
 
 Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
 
-![Alternative text for screen readers](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
+![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
 ### A waste of resources
 
@@ -24,3 +24,7 @@ Often, elaborate packaging is also used to make products appear more attractive.
 #### Singapore Packaging Agreement
 
 We are working with industry partners and NGOs through the [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} to reduce packaging waste. Companies which sign the voluntary Agreement commit to reducing their packaging waste over a period of five years. They do this by redesigning their production processes, reducing the size and thickness of the physical packaging produced, eliminating unnecessary packaging, and changing the way that products are packaged. Since the SPA was introduced in 2007, member companies have collectively reduced 46,000 tonnes of packaging.
+
+
+![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
+
