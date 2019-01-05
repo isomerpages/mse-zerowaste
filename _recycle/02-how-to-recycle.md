@@ -13,7 +13,7 @@ collection_name: recycle
 Do remember to practise these steps of proper recycling!
 
 **1. [Know what can or cannot be recycled](/recycle/what-to-recycle/)** 
-* Do not deposit food waste and non-recyclables into blue recycling bins.
+* Do not deposit food and liquid waste and non-recyclables into blue recycling bins.
 * Do not dispose bulky items like furniture and renovation waste at recycling bins.
 * Single-use packaging such as disposable containers and cups often cannot be recycled as they are contaminated with food.
 * While [food waste](https://isomer-mewrzerowaste-staging.netlify.com/waste-streams/food-waste/) and [e-waste](/waste-streams/e-waste/) can be recycled, they cannot be deposited inside the blue recycling bins. Please refer to the respective waste stream pages to find out how they can recycled.
