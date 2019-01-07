@@ -19,17 +19,17 @@ hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
 hero-banner: /images/herobanner_semakau.jpg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "I am a..."
+hero-dropdown-text: "I am..."
 
 # I want to dropdown
 i-want-to:
-  - title: Individual
+  - title: an Individual
     url: /users/individual/
-  - title: Business
+  - title: acBusiness
     url: /users/business/
-  - title: NGO
+  - title: an NGO
     url: /users/ngo/
-  - title: Teacher
+  - title: a Teacher
     url: /users/teacher/
 
 
