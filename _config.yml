@@ -26,6 +26,7 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: true
 homepage_resources: true
+homepage_programmes: true
 
 # Feedback Form URL
 feedback_form_url: "https://www.mewr.gov.sg/top/feedback"
