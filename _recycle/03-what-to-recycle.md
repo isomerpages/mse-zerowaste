@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: What to recycle
 permalink: /recycle/what-to-recycle/
-breadcrumb: Recycle 
+breadcrumb: What to Recycle 
 collection_name: recycle
 ---
 
