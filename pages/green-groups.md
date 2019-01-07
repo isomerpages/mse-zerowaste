@@ -104,27 +104,31 @@ Food from the Heart is a non-profit charity organization that aims to re-channel
 
 #### Ugly Food
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+UglyFood strives to maximise value of food resources. We do this by partnering with fresh produce retailers, suppliers and wholesalers, purchasing fresh produce that would otherwise go to waste, and transforming them into appealing, nutritious and delectable food products (fruit teas, cold-pressed juices, and popsicles) for our customers.
 
-
-***************
-
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+* [Facebook](https://www.facebook.com/uglyfoodco/){:target="_blank"} 
+* [Website](https://www.uglyfood.com.sg/){:target="_blank"}
 
 ***************
 
+#### LepakInSg
 
-#### Name of NGO
+LepakInSG is an informal environmental group who runs an online calendar of environmental events. We also organise activities to raise action and awareness about environmental issues!
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+* [Facebook](https://www.facebook.com/lepakinsg/){:target="_blank"} 
+* [Website](https://lepakinsg.wordpress.com){:target="_blank"} 
+* [Instagram](https://www.instagram.com/lepakinsg/){:target="_blank"} 
+
+***************
+
+
+#### World Wildlife Fund (WWF)
+
+Through our awareness campaigns and outreach activities, WWF Singapore aims to educate individuals from all walks of life on how a simple action can add up to make a big difference to our environment and safeguard the world’s biodiversity. We also work with businesses both locally and within the Asia Pacific region to help them identify sustainable business practices, as well as on how they can reduce their ecological foot print on the planet.
+
+* [Facebook](https://www.facebook.com/wwfsg){:target="_blank"} 
+* [Website](http://www.wwf.sg/){:target="_blank"} 
+* [Instagram](https://www.instagram.com/wwfsg/){:target="_blank"} 
 
 
 ***************
