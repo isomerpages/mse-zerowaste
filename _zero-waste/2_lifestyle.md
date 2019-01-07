@@ -17,8 +17,9 @@ Ultimately, zero waste is a goal that we work towards. It is not a destination, 
 ![zero waste lifestyle](/images/lifestyle.jpg)
 
 ### How you can help:
-* Reduce waste [Be a responsible consumer, reduce and reuse]
-* Recycle more and recycle right [No food or liquids in the blue bin]
+* [Reduce](/reduce/)
+* [Reuse](/reuse/)
+* [Recycle right](/recycle/)
 
 Make 2019 the year you embark on a zero waste journey! 
 
