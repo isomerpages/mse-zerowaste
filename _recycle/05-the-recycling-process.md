@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: What happens to recyclables
 permalink: /recycle/what-happens-to-recyclables/
-breadcrumb: Recycle 
+breadcrumb: What happens to recyclables  
 collection_name: recycle
 ---
 
