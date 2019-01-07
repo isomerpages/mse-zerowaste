@@ -41,43 +41,13 @@ Established in 1995, the Singapore Environment Council (SEC) is an independently
 
 ***************
 
-#### Name of NGO
+#### Repair Kopitiam
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+Repair Kopitiam is an initiative to bring the community together to repair so as to combat the throw away culture for a sustainable world.
 
-***************
+* [Facebook](https://www.facebook.com/repairkopitiam/){:target="_blank"} 
+* [Website](http://repairkopitiam.sg){:target="_blank"} 
 
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
-
-***************
-
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
-
-***************
-
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
-
-***************
-
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
 
 ***************
 
@@ -89,8 +59,45 @@ Singapore Youth for Climate Action (S-Y-C-A) was co-founded by Singapore youths 
 * [Instagram](#){:target="_blank"} 
 
 
+***************
+
+#### Name of NGO
+
 * [Facebook](){:target="_blank"} 
 * [Website](){:target="_blank"} 
 * [Instagram](){:target="_blank"} 
 
-Want to be listed here? Contact us at climateactionsg@gmail.com!
+***************
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+***************
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+***************
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+***************
+
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+
