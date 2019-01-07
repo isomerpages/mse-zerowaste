@@ -5,7 +5,7 @@ permalink: /green-groups-in-singapore/
 breadcrumb: Directory of Environmental Partners
 ---
 
-#### ZeroWasteSG
+#### Zero Waste SG
 
 Zero Waste SG is a not-for-profit and non-governmental organisation dedicated to help Singapore eliminate the concept of waste, and accelerate the shift towards zero waste and the circular economy. It started as a website in 2008 providing tips and resources on waste minimisation and recycling, and is officially registered as a non-governmental organisation in 2015.
 * [Facebook](https://www.facebook.com/zerowastesg/){:target="_blank"} 
@@ -51,7 +51,7 @@ Repair Kopitiam is an initiative to bring the community together to repair so as
 
 ***************
 
-#### Singpapore Youth Against Climate Action
+#### Singpapore Youth for Climate Action
 
 Singapore Youth for Climate Action (S-Y-C-A) was co-founded by Singapore youths ready to take on responsibility of climate action, and being able to relate what we want for our shared future with decisions and negotiations happening at the global United Nations platform. 
 * [Facebook](https://www.facebook.com/sgyouthclimateaction/){:target="_blank"} 
@@ -88,6 +88,44 @@ The Food Bank Singapore is a place where companies or people can come to deposit
 * [Facebook](https://www.facebook.com/pg/thefoodbanksingapore){:target="_blank"} 
 * [Website](https://www.foodbank.sg){:target="_blank"} 
 * [Instagram](https://www.instagram.com/foodbanksg/){:target="_blank"} 
+
+***************
+
+#### Food from the Heart
+
+Food from the Heart is a non-profit charity organization that aims to re-channel unsold bread and non-perishable items to the underprivileged.
+
+* [Facebook](https://www.facebook.com/foodheart/){:target="_blank"} 
+* [Website](https://foodheart.org/){:target="_blank"} 
+* [Instagram](https://www.instagram.com/foodfromtheheartsg/){:target="_blank"} 
+
+***************
+
+
+#### Ugly Food
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+
+***************
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
+***************
+
+
+#### Name of NGO
+
+* [Facebook](){:target="_blank"} 
+* [Website](){:target="_blank"} 
+* [Instagram](){:target="_blank"} 
+
 
 ***************
 
