@@ -25,7 +25,7 @@ hero-dropdown-text: "I am..."
 i-want-to:
   - title: an Individual
     url: /users/individual/
-  - title: acBusiness
+  - title: a Business
     url: /users/business/
   - title: an NGO
     url: /users/ngo/
