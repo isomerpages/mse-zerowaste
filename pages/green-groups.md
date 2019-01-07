@@ -61,27 +61,33 @@ Singapore Youth for Climate Action (S-Y-C-A) was co-founded by Singapore youths 
 
 ***************
 
-#### Name of NGO
+#### Ground-Up Initiative (GUI)
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+Ground-Up Initiative (GUI) is a non-profit community, guided by the spirit of innovation, resilience and grounded leadership to demonstrate urban sustainability. With the power of community, GUI is building Kampung Kampus, a low-carbon footprint community campus, sited on a 2.6 hectares land plot in Yishun, Singapore. Kampung Kampus aims to be a role model in sustainable living and a School of Life; nurturing an eco-conscious community with the mind, the hands and the heart to be stewards of a more sustainable and happier future.
 
-***************
-
-#### Name of NGO
-
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+* [Facebook](https://www.facebook.com/groundupinitiative/){:target="_blank"} 
+* [Website](https://groundupinitiative.org){:target="_blank"} 
+* [Instagram](https://www.instagram.com/groundupinitiative/){:target="_blank"} 
 
 ***************
 
-#### Name of NGO
+#### Foodscape Collective
 
-* [Facebook](){:target="_blank"} 
-* [Website](){:target="_blank"} 
-* [Instagram](){:target="_blank"} 
+Foodscape Collective is a community initiative that connects stakeholders from across our local foodscape, empowers individuals with skills and knowledge in food sustainability, and supports projects for a fair and compassionate food system that protects our environment and communities.
+
+* [Facebook](https://www.facebook.com/FoodscapeCollective/){:target="_blank"} 
+* [Website](https://foodscapecollective.org){:target="_blank"} 
+* [Instagram](https://www.instagram.com/foodscapecollective/){:target="_blank"} 
+
+***************
+
+#### Foodbank Singapore
+
+The Food Bank Singapore is a place where companies or people can come to deposit/donate their unused or unwanted foods.
+
+* [Facebook](https://www.facebook.com/pg/thefoodbanksingapore){:target="_blank"} 
+* [Website](https://www.foodbank.sg){:target="_blank"} 
+* [Instagram](https://www.instagram.com/foodbanksg/){:target="_blank"} 
 
 ***************
 
