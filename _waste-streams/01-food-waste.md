@@ -79,7 +79,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 #### What can you do as an individual
 
-Here are 5 simple tips to minimise food wastage. 
+Here are 3 simple tips to minimise food wastage. 
 
 **1. Buy, order and cook only what you can finish**
 
