@@ -53,8 +53,10 @@ We are also studying the feasibility of extending the Extended Producer Responsi
 
 Consumer action can help nudge companies into making positive changes. You can make the right choice by:
 
-* Choose products with less/green packaging. Products that have reduced packaging bear the following eco-label
+* Choosing products with less/green packaging. Products that have reduced packaging bear the following eco-label
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
+
+<img src="/images/lprp.png" width="240">
 * Avoiding single-use disposables
 * Bringing your own reusable bags, containers and utensils
 
