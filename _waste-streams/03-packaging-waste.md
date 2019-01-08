@@ -11,10 +11,8 @@ collection_name: waste-streams
 -------------------
 
 
-[Why is this a problem?](#why) | [What is Govt doing?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
+[Why is this a problem?](#why) | [Government Efforts](#govt) | [What you can do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
 
-
-[The Issue](#why) | [Government Efforts?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
 
 -------------------
 
@@ -22,11 +20,10 @@ collection_name: waste-streams
 <a name="why"></a>
 #### Why is this a problem? 
 
+Packaging is required 
 Most packaging for consumer goods, such as food, drinks, cleaning products, shampoo etc is used just once before being thrown away.
 
 Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
-
-### A waste of resources
 
 Many people and companies simply throw packaging away without a thought, especially if the packaging was not designed to be reused or easily recycled.
 
@@ -43,7 +40,7 @@ Single-use packaging such as disposable containers and cups often cannot be recy
 -------------------
 
 <a name="govt"></a>
-### What is the government doing? 
+#### What is the government doing? 
 
 Mandatory reporting of packaging data and packaging waste reduction plans will be introduced in 2020.
 
@@ -53,7 +50,7 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 <a name="individual"></a>
 
-### What can you do as an individual
+#### What can you do as an individual
 
 * Avoid single-use disposables
 * Bring reusable bags, containers and utensils
@@ -65,7 +62,7 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 <a name="biz"></a>
 
-### What can you do as a business
+#### What can you do as a business
 
 Reducing packaging waste does not just benefit the environment – it also makes good business sense.
 
@@ -75,7 +72,7 @@ re-think their packaging practices and designs
 
 <a name="partners"></a>
 
-#### What others are doing?
+##### What others are doing?
 
 Singapore Packaging Agreement
 
