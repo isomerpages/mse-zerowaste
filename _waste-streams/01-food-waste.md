@@ -138,7 +138,7 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 ##### What are others doing?
 
-* Food from the Heart's Clean Plate Campaign
+* [Food from the Heart](www.foodfromtheheart.sg){:target="_blank"} started a Clean Plate Campaign in schools to raise awareness of the environmental and societal impact of food waste. Through the campaign, Clean Plate Ambassadors will visit the schools to share with pupils the message of not wasting food and to inculcate habits of mindful eating.
 
 * [SG Food Rescue](https://www.facebook.com/groups/sgfoodrescue/){:target="_blank"} brings together people who are passionate about reducing food waste in Singapore. Their main priority is food rescue. They redistribute unwanted food to whoever is willing to consume it, not just to the needy. 
 
