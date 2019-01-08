@@ -10,16 +10,13 @@ collection_name: waste-streams
 ### The amount of food waste generated in Singapore has increased by 40% over the last 10 years. In 2017 alone, 810 million kg of food waste was generated - equivalent to the weight of 3,500 MRT trains!
 -------------------
 
-[Why is this a problem?](#why) | [Government Efforts](#govt) | [What you can do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
-
+[Why is this a problem?](#why) | [What is the government doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
 
 -------------------
 
 
 <a name="why"></a>
 #### Why is this a problem? 
-
-Food waste accounts for about 10% of total waste generated in Singapore and only 16% was recycled in 2017.
 
 Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
 
@@ -77,7 +74,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 <a name="individual"></a>
 
-#### What can you do as an individual
+#### What can you do as an individual?
 
 Here are 3 simple tips to minimise food wastage. 
 
@@ -117,7 +114,7 @@ Also, don't forget to check out this [guide to reducing food waste](https://www.
 
 <a name="biz"></a>
 
-#### What can you do as a business
+#### What can you do as a business?
 
 Retailers and manufacturers can help too!
 
@@ -138,7 +135,7 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 <a name="partners"></a>
 
-##### What others are doing?
+##### What are others doing?
 
 * Food from the Heart's Clean Plate Campaign
 
