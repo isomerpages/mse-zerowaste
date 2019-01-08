@@ -8,8 +8,11 @@ collection_name: waste-streams
 
 ### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. There is potential to further reduce packaging waste.
 
+<div style="background-color:#edf9f0">
 
-[Why is this a problem?](#why) | [What is Govt doing?](#govt) | What can you do as an individual? | What you can do as a business? | What others are doing
+[Why is this a problem?](#why) | [What is Govt doing?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
+
+</div>
 
 
 <a name="why"></a>
