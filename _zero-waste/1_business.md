@@ -7,3 +7,5 @@ collection_name: zero-waste
 ---
 
 
+Businesses can have a great impact
+
