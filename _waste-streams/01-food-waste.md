@@ -45,6 +45,17 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 <a name="govt"></a>
 #### What is the government doing? 
 
+**For Corporates (e.g. commercial and industrial premises):**
+
+* Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
+
+* Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}. 
+
+* Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} with AVA
+
+* Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
+
+
 **For Consumers:**
 
 * Ongoing [Food Waste Reduction Outreach Programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste. Various collaterals have been developed for the campaign, including a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
@@ -56,16 +67,6 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 **For Schools:**
 
 * Ongoing [Love Your Food @ Schools](https://www.nea.gov.sg/media/news/news/index/nea-launches-love-your-food-@-schools-project-to-encourage-youth-to-cherish-and-not-waste-food){:target="_blank"} project at 10 schools to encourage students and staff to reduce the amount of food waste they generate and to garner the participation of students, staff and canteen stall holders to segregate their food waste for treatment using on-site food waste digesters.
-
-**For Corporates (e.g. commercial and industrial premises):**
-
-* Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} with AVA
-
-* Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
-
-* Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
-
-* Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}. 
 
 
 [Back to top](#top)
@@ -139,7 +140,7 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 * Food from the Heart's Clean Plate Campaign
 
-* SG Food Rescue
+* [SG Food Rescue](https://www.facebook.com/groups/sgfoodrescue/){:target="_blank"} brings together people who are passionate about reducing food waste in Singapore. Their main priority is food rescue. They redistribute unwanted food to whoever is willing to consume it, not just to the needy. 
 
 * ‘Foodprints @ South West’ Programme
 
@@ -153,4 +154,4 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 * Tree Dots
 
-* Treatsure
+* [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage
