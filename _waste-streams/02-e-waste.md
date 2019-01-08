@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: E-Waste
+title: Electronic Waste
 permalink: /waste-streams/e-waste/
 breadcrumb: Our Focus Areas
 collection_name: waste-streams
