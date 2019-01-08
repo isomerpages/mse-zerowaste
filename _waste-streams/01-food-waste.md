@@ -142,16 +142,14 @@ Food manufacturers can also help by packing food into smaller portions to cater 
 
 * [SG Food Rescue](https://www.facebook.com/groups/sgfoodrescue/){:target="_blank"} brings together people who are passionate about reducing food waste in Singapore. Their main priority is food rescue. They redistribute unwanted food to whoever is willing to consume it, not just to the needy. 
 
-* ‘Foodprints @ South West’ Programme
+* Foodprints @ South West - an initiative by the South West Community Development Council - is a first-in-Singapore labelling programme that aims to recognise schools, hotels, retail establishments and other organisations in the South West District that have taken steps to reduce the amount of food waste generated. Measures include designing food waste reduction posters which will be displayed around their school, and educating canteen food operators on good food management and storage practices.
 
-* ‘I Love My Food @ North East’ Programme
+* Community fridges have appeared in Queenstown, Yishun and Tampines. Donors are encouraged to leave fresh food produce in the fridge. Anyone who needs help to put food on the table can just help themselves and take what they need.
 
-* Community fridge initiative at Queenstown, Yishun and Tampines
+* [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage.
 
 * Ugly Food
 
 * Ugly Good
 
 * Tree Dots
-
-* [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage
