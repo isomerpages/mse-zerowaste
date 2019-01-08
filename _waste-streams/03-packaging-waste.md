@@ -47,6 +47,8 @@ The companies that will come under this framework include brand owners, importer
 
 We are also studying the feasibility of extending the Extended Producer Responsibility framework to cover packaging waste, including plastics.
 
+[Back to top](#top)
+
 -------------------
 
 <a name="individual"></a>
@@ -62,6 +64,8 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 ![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
+[Back to top](#top)
+
 -------------------
 
 <a name="biz"></a>
@@ -76,6 +80,8 @@ Reducing packaging waste does not just benefit the environment – it also makes
 * Change the way that products are packaged
 * Switch to more eco-friendly forms of packaging eg from plastic to paper 
 * Purchase the material in the proper sized container/package to reduce packaging waste
+
+[Back to top](#top)
 
 -------------------
 
@@ -93,3 +99,4 @@ Reducing packaging waste does not just benefit the environment – it also makes
 
 ![Bring Your Own Singapore Movement](/images/BYO-Singapore.png)
 
+[Back to top](#top)
