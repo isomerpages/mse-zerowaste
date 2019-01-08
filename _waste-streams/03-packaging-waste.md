@@ -20,15 +20,13 @@ collection_name: waste-streams
 <a name="why"></a>
 #### Why is this a problem? 
 
-Packaging is required 
-Most packaging for consumer goods, such as food, drinks, cleaning products, shampoo etc is used just once before being thrown away.
+Consumer products often comes with a great deal of packaging. Besides packaging required to contain the product itself, packaging is also used to protect the items during delivery and handling and for aesthetic and marketing purposes. 
+
+However, most packaging for consumer goods, such as food, drinks, cleaning products, shampoo etc is used just once before being thrown away. Many people and companies simply throw packaging away without a thought, especially if the packaging was not designed to be reused or easily recycled.
+
+![Packaging](/images/packaging.jpg)
 
 Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
-
-Many people and companies simply throw packaging away without a thought, especially if the packaging was not designed to be reused or easily recycled.
-
-Often, elaborate packaging is also used to make products appear more attractive. Consumers can help change wasteful practices by choosing products that have less packaging.
-
 
 A life-cycle assessment study commissioned by the NEA showed that different materials have different environmental impacts. Therefore, promoting certain types of materials over others, may not be better for the environment.
 
@@ -44,6 +42,14 @@ Single-use packaging such as disposable containers and cups often cannot be recy
 
 Mandatory reporting of packaging data and packaging waste reduction plans will be introduced in 2020.
 
+Mandatory reporting is the first step towards sustainable packaging waste management.
+
+Under the mandatory reporting framework, companies that place packaging on the consumer market will be required to report information on the types and amounts of packaging they are placing on the market annually, and develop packaging waste reduction plans.
+
+The mandatory reporting framework will be implemented in 2020, beginning with the registration of businesses such as brand owners, importers and large retailers including supermarkets. These businesses will also be required to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.
+
+We are also studying the feasibility of extending the EPR framework to cover packaging waste, including plastics.
+
 Studying feasibility of implementing Extended Producer Responsibility framework to manage  packaging waste.
 
 -------------------
@@ -54,7 +60,8 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 * Avoid single-use disposables
 * Bring reusable bags, containers and utensils
-* Choose products with less/green packaging
+* Choose products with less/green packaging. Products that have reduced packaging bear the following eco-label
+![Logo for Products with Reduced Packaging](/images/lprp.png)
 
 ![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
