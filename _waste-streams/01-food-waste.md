@@ -81,7 +81,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 Here are 5 simple tips to minimise food wastage. 
 
-**1. Plan your purchases**
+**1. Buy, order and cook only what you can finish**
 
 ![Plan your food purchases](/images/plan-your-purchase1.jpg)
 
@@ -89,44 +89,27 @@ Here are 5 simple tips to minimise food wastage.
 
 ![Plan your food purchases](/images/plan-your-purchase2.jpg)
 
-Before going grocery shopping, make a shopping list of things you need so you won’t overbuy. Don’t forget to check your fridge and cabinet so you don’t end up buying things you already have. Not only will this minimise food waste, you won’t overspend too. ;)
-
-
-**2. Practise “first to expire, first out”**
-
-![First in, first out](/images/expired-food.jpg)
-
-It is always good to properly label all your food products, and store them according to the ‘First Expire First Out’ (FEFO) principle. This means placing food products nearer to their expiry dates at the front of the fridge or cabinet, which would remind you to use them as soon as possible, minimising unnecessary food wastage. 
-
-
-**3. Follow storage instructions**
-
-![storage instructions](/images/storage-instructions.jpg)
-
-Storage requirements differ from product to product, so be sure to read the instructions before putting them away! Storage instructions are often indicated on the product’s packaging by the manufacturer. 
-
-
-**4. Cook just enough**
+Before going grocery shopping, make a shopping list of things you need so you won’t overbuy. Don’t forget to check your fridge and cabinet so you don’t end up buying things you already have. Not only will this minimise food waste, you won’t overspend too. 
 
 ![cook just enough](/images/cook-just-enough.jpg)
 
-Find out who’s coming home for dinner and plan how much food to cook accordingly. If you plan on cooking a variety of dishes for your family, downsize the portions to avoid wasting food. Also, don’t get distracted while cooking…you wouldn’t want the food to get burnt and have to be thrown away!
+Find out who’s coming home for dinner and plan how much food to cook accordingly. If you plan on cooking a variety of dishes for your family, downsize the portions to avoid wasting food. 
 
 
-**5. Make use of leftovers for the next meal**
+**2. Turn leftovers into new dishes**
 
 ![leftovers](/images/leftovers.jpg)
 
-Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, here.
+Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, [here](https://www.cgs.sg/FWRguide){:target="_blank"}
 
-
-**2. Donate excess food**
+**3. Donate your excess food**
 
 ![donate excess food](/images/donate-excess-food.jpg)
 
 Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
 
-Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"}  here.
+Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"} 
+
 
 [Back to top](#top)
 
@@ -135,7 +118,8 @@ Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Sa
 <a name="biz"></a>
 
 #### What can you do as a business
-### Retailers and manufacturers can help too!
+
+Retailers and manufacturers can help too!
 
 **1. Offer different portion sizes options and indicate serving sizes**
 
