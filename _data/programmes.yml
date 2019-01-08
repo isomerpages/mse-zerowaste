@@ -1,23 +1,20 @@
 - title: Semakau Landfill
-  category: CITIZEN
   desc: Singapore’s current rate of waste generation is increasing and not sustainable. Our only landfill in Singapore is expected to run out of space by 2035.
   img: /images/semakau-prog.png
   bg-color: bg-beeline
 
 - title: Circular Economy
-  category: CITIZEN
   desc: Developing a circular economy and becoming a Zero Waste Nation will help create jobs, and a sustainable Singapore for future generations. 
   img: https://www.tech.gov.sg/images/programmes/products-and-services/ParkingSG.png
   bg-color: bg-parkingsg
 
 - title: Government
-  category: CITIZEN
   desc: By developing infrastructure, policies, supporting industry transformation, and working with the community, 3P partners to care for the environment. 
   img: https://www.tech.gov.sg/images/programmes/products-and-services/SingPass.png
   bg-color: bg-parkingsg
 
 - title: Working Together
-  category: CITIZEN
   desc: Everyone – from organisations to individuals, needs to practise the 3Rs. Together we can make a difference to help Singapore develop a circular economy and become a Zero Waste Nation.
   img: https://www.tech.gov.sg/images/programmes/products-and-services/SingPass.png
-  bg-color: bg-parkingsg
+  bg-color: bg-beeline
+
