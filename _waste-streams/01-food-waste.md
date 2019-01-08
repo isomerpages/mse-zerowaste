@@ -8,7 +8,7 @@ collection_name: waste-streams
 
 
 ### The amount of food waste generated in Singapore has increased by 40% over the last 10 years. In 2017 alone, 810 million kg of food waste was generated - equivalent to the weight of 3,500 MRT trains!
-
+-------------------
 
 [Why is this a problem?](#why) | [Government Efforts](#govt) | [What you can do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
 
@@ -31,6 +31,48 @@ Food waste makes up about half of the average 1.5kg of waste disposed of by each
 Avoidable food waste refers to food items that could have been consumed if better managed. Examples of avoidable food waste are leftovers from a meal, expired food, stale food, and blemished fruits and vegetables. Avoidable food waste can be prevented by taking food wastage reduction actions such as buying, ordering and cooking only what is needed and adopting smart food storage and preparation practices. 
 
 Conversely, unavoidable food waste are parts/portions of food which were not intended for consumption, such as such as bones and egg shells.
+
+**What happens when you waste food**
+
+When food is wasted, more food has to be sourced to meet the food demand and this affects our food security since Singapore imports over 90% of our food supply.  
+
+Increasing amount of food waste puts pressure on our resources. We will need to build more waste disposal facilities, such as waste-to-energy plants and landfills for incineration ash. This is not sustainable for land-scarce Singapore.
+
+When food is wasted, so are all of the resources used to grow and deliver the food to our tables, as well as to dispose of it. This increases our carbon footprint, contributing to global warming and climate change.
+
+
+[Back to top](#top)
+
+-------------------
+
+<a name="govt"></a>
+#### What is the government doing? 
+
+
+
+Consumers: 
+Launched a Food Waste Reduction Outreach Programme (since Nov 15) to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
+
+Conducted a Household Waste Study (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
+
+Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
+
+Schools:
+Implemented the Love Your Food@Schools Project in Apr 2017, a 2-year food waste reduction and recycling project for 10 schools to spread the message of the importance of proper food waste management and encourage youth to reduce food waste
+
+Corporates (e.g. commercial and industrial premises):
+
+Developed Food Waste Minimisation Guidebooks for Food Retail Establishments/ Food Manufacturing Establishments/ Supermarkets with AVA
+
+Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
+
+Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
+
+Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s 3R Fund. 
+
+Developed standards on food waste management for food processing/manufacturing establishments (completed) and food retail and wholesale/distribution establishments (in progress) with SMF-SDO 
+
+
 
 
 
