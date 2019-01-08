@@ -8,6 +8,8 @@ collection_name: recycle
 
 ### Not sure what you can or cannot recycle? Let this list help you!
 
+![What you can or cannot recycle](/images/recycle-bin-artwork.jpeg)
+
 
 ### Paper
 
