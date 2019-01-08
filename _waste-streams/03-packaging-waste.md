@@ -32,6 +32,8 @@ Unnecessary packaging is not only a drain on resources, it is also adds to the p
 
 Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
 
+[Back to top](#top)
+
 -------------------
 
 <a name="govt"></a>
