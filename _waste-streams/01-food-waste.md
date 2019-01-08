@@ -72,13 +72,13 @@ Supported 24 premises, including hotels, malls and educational institutions, to 
 
 Developed standards on food waste management for food processing/manufacturing establishments (completed) and food retail and wholesale/distribution establishments (in progress) with SMF-SDO 
 
+[Back to top](#top)
 
+-------------------
 
+<a name="individual"></a>
 
-
-
-
-### How can we minimise food wastage?
+#### What can you do as an individual
 
 Here are 5 simple tips to minimise food wastage. 
 
@@ -121,6 +121,21 @@ Find out who’s coming home for dinner and plan how much food to cook according
 Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, here.
 
 
+**2. Donate excess food**
+
+![donate excess food](/images/donate-excess-food.jpg)
+
+Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
+
+Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"}  here.
+
+[Back to top](#top)
+
+-------------------
+
+<a name="biz"></a>
+
+#### What can you do as a business
 ### Retailers and manufacturers can help too!
 
 **1. Offer different portion sizes options and indicate serving sizes**
@@ -134,10 +149,24 @@ Food retail establishments and supermarkets can help reduce food wastage by offe
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
 
 
-**2. Donate excess food**
+[Back to top](#top)
 
-![donate excess food](/images/donate-excess-food.jpg)
+-------------------
 
-Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
+<a name="partners"></a>
 
-Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"}  here.
+##### What others are doing?
+
+•	Collaborated with organisations under the food waste reduction outreach programme (e.g. conducting food waste talks for organisations, display of educational materials at premises)
+
+•	Work with food retail establishments to carry out promotions and initiatives to encourage consumers to reduce food wastage
+
+•	Train and engage Food Wastage Reduction Ambassadors to share knowledge with their families and communities on how to reduce food wastage
+•	Create collaborative consortium for NGOs to develop food waste reduction action plans
+•	Partnership with National Geographic Explorer Tristram Stuart on school and community engagement (Aug 2017)
+•	Support collaboration between retail partners and school volunteers to promote food waste reduction to consumers
+•	‘Foodprints @ South West’ Programme
+
+•	‘I Love My Food @ North East’ Programme
+
+•	Community fridge initiative at Queenstown, Yishun and Tampines
