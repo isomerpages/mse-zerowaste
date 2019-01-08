@@ -12,10 +12,10 @@ collection_name: recycle
 <img src="/images/recycle-bin-artwork.jpeg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Can I recycle glass?" title="Can I recycle glass?" href="#glass" coords="100,672,1,1" shape="rect">
-    <area target="" alt="Can i recycle paper?" title="Can i recycle paper?" href="#paper" coords="209,0,781,672" shape="rect">
-    <area target="" alt="Can i recycle plastic?" title="Can i recycle plastic?" href="#plastic" coords="318,0,1198,672" shape="rect">
-    <area target="" alt="Can i recycle metal?" title="Can i recycle metal?" href="#metal" coords="400,4,1587,672" shape="rect">
+    <area target="" alt="Can i recycle glass?" title="Can i recycle glass?" href="#glass" coords="1,0,184,335" shape="rect">
+    <area target="" alt="Can i recycle glass?" title="Can i recycle glass?" href="#paper" coords="388,332,205,2" shape="rect">
+    <area target="" alt="Can i recycle plastic?" title="Can i recycle plastic?" href="#plastic" coords="594,335,410,0" shape="rect">
+    <area target="" alt="Can i recycle metal?" title="Can i recycle metal?" href="#metal" coords="800,335,614,0" shape="rect">
 </map>
 
 
