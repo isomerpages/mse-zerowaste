@@ -26,7 +26,7 @@ Food waste makes up about half of the average 1.5kg of waste disposed of by each
 
 **What is avoidable food waste?**
 
-![Examples of avoidable food waste](/images/avoidable-food-waste.jpg)
+![Examples of avoidable food waste](/images/avoidable-food-waste.png)
 
 Avoidable food waste refers to food items that could have been consumed if better managed. Examples of avoidable food waste are leftovers from a meal, expired food, stale food, and blemished fruits and vegetables. Avoidable food waste can be prevented by taking food wastage reduction actions such as buying, ordering and cooking only what is needed and adopting smart food storage and preparation practices. 
 
