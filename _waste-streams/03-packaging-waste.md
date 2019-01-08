@@ -11,7 +11,7 @@ collection_name: waste-streams
 -------------------
 
 
-[Why is this a problem?](#why) | [Government Efforts](#govt) | [What you can do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
+[Why is this a problem?](#why) | [What is Govt doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
 
 
 -------------------
@@ -53,7 +53,7 @@ We are also studying the feasibility of extending the Extended Producer Responsi
 
 <a name="individual"></a>
 
-#### What can you do as an individual
+#### What can you do an individual?
 
 Consumer action can help nudge companies into making positive changes. You can make the right choice by:
 
@@ -70,7 +70,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 <a name="biz"></a>
 
-#### What can you do as a business
+#### What can you do as a business?
 
 Reducing packaging waste does not just benefit the environment – it also makes good business sense. Some tips that businesses can practise include:
 
@@ -87,7 +87,7 @@ Reducing packaging waste does not just benefit the environment – it also makes
 
 <a name="partners"></a>
 
-##### What others are doing?
+##### What are others doing?
 
 * More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, member companies have collectively reduced 46,000 tonnes of packaging.
 
