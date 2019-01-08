@@ -50,19 +50,19 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 **For Consumers:**
 
-* Launched a [Food Waste Reduction Outreach Programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"}  since 2015 to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
+* Ongoing [Food Waste Reduction Outreach Programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste. Various collaterals have been developed for the campaign, including a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
 
-* Conducted a Household Waste Study (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
+* Conducted a [Household Waste Study](https://www.nea.gov.sg/media/news/news/index/saving-money-the-biggest-motivation-for-households-to-reduce-food-wastage-nea-ava-survey-2015-11-20){:target="_blank"} (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
 
 * Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
 
 **For Schools:**
 
-* Implemented the Love Your Food@Schools Project in Apr 2017, a 2-year food waste reduction and recycling project for 10 schools to spread the message of the importance of proper food waste management and encourage youth to reduce food waste
+* Ongoing [Love Your Food @ Schools](https://www.nea.gov.sg/media/news/index/nea-launches-love-your-food-@-schools-project-to-encourage-youth-to-cherish-and-not-waste-food) project at 10 schools to encourage students and staff to reduce the amount of food waste they generate and to garner the participation of students, staff and canteen stall holders to segregate their food waste for treatment using on-site food waste digesters.
 
 **For Corporates (e.g. commercial and industrial premises):**
 
-* Developed Food Waste Minimisation Guidebooks for Food Retail Establishments/ Food Manufacturing Establishments/ Supermarkets with AVA
+* Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60)/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e)/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a) with AVA
 
 * Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
 
