@@ -39,9 +39,9 @@ Given the lack of space for another landfill in Singapore, we need to reduce the
 
 Mandatory reporting is the first step towards sustainable packaging waste management.
 
-From 2020 onwards, companies that place packaging on the consumer market will be required to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.
+From 2020 onwards, we will require companies that place packaging on the consumer market to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.
 
-These companies include brand owners, importers and large retailers including supermarkets.
+The companies that will come under this framework include brand owners, importers and large retailers including supermarkets.
 
 We are also studying the feasibility of extending the Extended Producer Responsibility framework to cover packaging waste, including plastics.
 
@@ -53,10 +53,8 @@ We are also studying the feasibility of extending the Extended Producer Responsi
 
 Consumer action can help nudge companies into making positive changes. You can make the right choice by:
 
-* Choosing products with less/green packaging. Products that have reduced packaging bear the following eco-label
+* Choosing products with less or green packaging. Products that have reduced packaging bear the following eco-label
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
-
-<img src="/images/lprp.png" width="240">
 * Avoiding single-use disposables
 * Bringing your own reusable bags, containers and utensils
 
@@ -84,4 +82,10 @@ We are working with industry partners and NGOs through the [Singapore Packaging 
 
 
 ![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
+
+
+The voluntary Singapore Packaging Agreement (SPA) has cumulatively reduced 46,000 tonnes of packaging waste since its inception in 2007.
+
+Funding support for organisations with 3R initiatives (3R Fund, 3P Partnership Fund, Call for Ideas Fund). E.g. NEA supported Zero Waste SG’s Bring-Your-Own Campaign that brought 430 retailers and F&B companies together to incentivise consumers to bring their own reusable containers and bags
+
 
