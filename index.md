@@ -1,6 +1,6 @@
 ---
 layout: homepage
 title: Towards Zero Waste Singapore
-description: Join us in the journey towards becoming a Zero Waste Nation
+description: Be part of Singapore's journey to become a Zero Waste Nation
 permalink: /
 ---
