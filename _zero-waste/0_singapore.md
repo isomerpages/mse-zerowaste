@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Zero Waste Nation
-permalink: /zero-waste/zero-waste-nation/
+permalink: /zero-waste-nation/
 breadcrumb: Zero Waste 
 collection_name: zero-waste
 ---
