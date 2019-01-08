@@ -7,14 +7,24 @@ collection_name: waste-streams
 ---
 
 
-### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by 50% over the last 10 years. 
-
-810 million kg of food waste was generated in 2017 - that's the weight of 3,500 MRT trains!
-
-Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
+### The amount of food waste generated in Singapore has increased by 40% over the last 10 years. In 2017 alone, 810 million kg of food waste was generated - equivalent to the weight of 3,500 MRT trains!
 
 
-### What is avoidable food waste?
+[Why is this a problem?](#why) | [Government Efforts](#govt) | [What you can do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
+
+
+-------------------
+
+
+<a name="why"></a>
+#### Why is this a problem? 
+
+Food waste accounts for about 10% of total waste generated in Singapore and only 16% was recycled in 2017.
+
+Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common
+
+
+**What is avoidable food waste?**
 
 ![Examples of avoidable food waste](/images/avoidable-food-waste.jpg)
 
@@ -22,7 +32,9 @@ Avoidable food waste refers to food items that could have been consumed if bette
 
 Conversely, unavoidable food waste are parts/portions of food which were not intended for consumption, such as such as bones and egg shells.
 
-Food for thought: Why has the amount of food waste generated in Singapore increased over the past 10 years if most of the food waste could have been prevented?
+
+
+
 
 ### How can we minimise food wastage?
 
