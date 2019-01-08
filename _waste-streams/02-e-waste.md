@@ -8,7 +8,18 @@ collection_name: waste-streams
 
 ### Singapore generates about 60,000 tonnes of e-waste a year. That’s equivalent to discarding about 73 mobile phones per person in Singapore! This number is expected to increase with greater spending power and new technologies constantly replacing old ones. 
 
-![What is e-waste](/images/ewastebanner.jpg)
+-------------------
+
+[Why is this a problem?](#why) | [What is the government doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
+
+-------------------
+
+
+<a name="why"></a>
+#### Why is this a problem? 
+
+
+
 
 E-waste refers to electrical and electronic waste, such as computers, laptops, mobile phones and TVs. While these items can often be refurbished, repaired or recycled, they are usually discarded instead. Not only does e-waste contain valuable and scarce materials, there are also small amounts of harmful substances that could potentially harm our environment and health if not handled properly.   
 
