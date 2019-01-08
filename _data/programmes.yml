@@ -1,17 +1,17 @@
 - title: Semakau Landfill
   category: CITIZEN
-  desc: Our only landfill in Singapore will run out of space by 2035 at the rate we are producing waste.
+  desc: Singapore’s current rate of waste generation is increasing and not sustainable. Our only landfill in Singapore is expected to run out of space by 2035.
   img: /images/semakau-prog.png
   bg-color: bg-beeline
 
-- title: Recycle Right
+- title: Circular Economy
   category: CITIZEN
-  desc: Parking.sg allows you to pay short-term parking charges through your mobile device at all existing coupon-based public car parks.
+  desc: Developing a circular economy and becoming a Zero Waste Nation will help create jobs, and a sustainable Singapore for future generations. 
   img: https://www.tech.gov.sg/images/programmes/products-and-services/ParkingSG.png
   bg-color: bg-parkingsg
 
 - title: SingPass
   category: CITIZEN
-  desc: Launched in 2003, Singapore Personal Access (SingPass) allows users to access over hundreds of digital services provided by more than 60 government agencies easily and securely.
+  desc: By developing infrastructure, policies, supporting industry transformation, and working with the community, 3P partners to care for the environment. 
   img: https://www.tech.gov.sg/images/programmes/products-and-services/SingPass.png
   bg-color: bg-parkingsg
