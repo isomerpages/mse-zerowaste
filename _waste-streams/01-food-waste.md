@@ -26,7 +26,7 @@ Food waste makes up about half of the average 1.5kg of waste disposed of by each
 
 **What is avoidable food waste?**
 
-![Examples of avoidable food waste](/images/avoidable-food-waste.png)
+![Examples of avoidable food waste](/images/avoidable-food-waste.jpg)
 
 Avoidable food waste refers to food items that could have been consumed if better managed. Examples of avoidable food waste are leftovers from a meal, expired food, stale food, and blemished fruits and vegetables. Avoidable food waste can be prevented by taking food wastage reduction actions such as buying, ordering and cooking only what is needed and adopting smart food storage and preparation practices. 
 
@@ -48,29 +48,29 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 <a name="govt"></a>
 #### What is the government doing? 
 
+**For Consumers:**
 
+* Launched a Food Waste Reduction Outreach Programme (since Nov 15) to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
 
-Consumers: 
-Launched a Food Waste Reduction Outreach Programme (since Nov 15) to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
+* Conducted a Household Waste Study (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
 
-Conducted a Household Waste Study (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
+* Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
 
-Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
+**For Schools:**
 
-Schools:
-Implemented the Love Your Food@Schools Project in Apr 2017, a 2-year food waste reduction and recycling project for 10 schools to spread the message of the importance of proper food waste management and encourage youth to reduce food waste
+* Implemented the Love Your Food@Schools Project in Apr 2017, a 2-year food waste reduction and recycling project for 10 schools to spread the message of the importance of proper food waste management and encourage youth to reduce food waste
 
-Corporates (e.g. commercial and industrial premises):
+** For Corporates (e.g. commercial and industrial premises):**
 
-Developed Food Waste Minimisation Guidebooks for Food Retail Establishments/ Food Manufacturing Establishments/ Supermarkets with AVA
+* Developed Food Waste Minimisation Guidebooks for Food Retail Establishments/ Food Manufacturing Establishments/ Supermarkets with AVA
 
-Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
+* Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
 
-Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
+* Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
 
-Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s 3R Fund. 
+* Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s 3R Fund. 
 
-Developed standards on food waste management for food processing/manufacturing establishments (completed) and food retail and wholesale/distribution establishments (in progress) with SMF-SDO 
+* Developed standards on food waste management for food processing/manufacturing establishments (completed) and food retail and wholesale/distribution establishments (in progress) with SMF-SDO 
 
 [Back to top](#top)
 
