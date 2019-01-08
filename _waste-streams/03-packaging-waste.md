@@ -13,6 +13,9 @@ collection_name: waste-streams
 
 [Why is this a problem?](#why) | [What is Govt doing?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
 
+
+[The Issue](#why) | [Government Efforts?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
+
 -------------------
 
 
