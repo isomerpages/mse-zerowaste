@@ -6,13 +6,6 @@
 
 #Contact Us
 
-locations:
-  # MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES [REQUIRED]
-  - title:
-    address: "40 Scotts Road, #24-00<br>Environment Building<br>Singapore 228231"
-    find-directions: https://www.google.com.sg/maps/place/Ministry+of+the+Environment+and+Water+Resources/@1.3105975,103.8340776,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ec530c5bfd:0x32d41991caaa6849!8m2!3d1.3105921!4d103.8362663
-  # Operating Hours [OPTIONAL]
-
 
 # Contact Us
 column:
