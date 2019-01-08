@@ -55,7 +55,7 @@ We are also studying the feasibility of extending the Extended Producer Responsi
 
 Consumer action can help nudge companies into making positive changes. You can make the right choice by:
 
-* Choosing products with less or green packaging. Products that have reduced packaging bear the following eco-label
+* Choosing products with less or green packaging. Products that have reduced packaging carry this eco-label:
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
 * Avoiding single-use disposables
 * Bringing your own reusable bags, containers and utensils
@@ -68,7 +68,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 #### What can you do as a business
 
-Reducing packaging waste does not just benefit the environment – it also makes good business sense. Some tips that businesses can practice include:
+Reducing packaging waste does not just benefit the environment – it also makes good business sense. Some tips that businesses can practise include:
 
 * Re-think and re-design your production processes
 * Reduce the size and thickness of the physical packaging produced
