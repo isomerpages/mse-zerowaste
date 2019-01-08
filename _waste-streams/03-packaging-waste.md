@@ -81,3 +81,7 @@ re-think their packaging practices and designs
 
 
 * Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 where retailers offered incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
+
+
+![Bring Your Own Singapore Movement](/images/BYO-Singapore.png)
+
