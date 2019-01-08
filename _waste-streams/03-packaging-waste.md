@@ -6,7 +6,7 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. Most of this packaging is made of plastic, but only 6% of plastic waste is recycled. 
+### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. More than half of this packaging is made of plastic, but only 6% of plastic waste is recycled. 
 
 -------------------
 
@@ -24,33 +24,26 @@ Consumer products often comes with a great deal of packaging. Besides packaging 
 
 However, most packaging for consumer goods, such as food, drinks, cleaning products, shampoo etc is used just once before being thrown away. Many people and companies simply throw packaging away without a thought, especially if the packaging was not designed to be reused or easily recycled.
 
+Most of the time, single-use packaging such as disposable containers and cups also cannot be recycled as they are contaminated with food.
+
 ![Packaging](/images/packaging.jpg)
 
-Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
+Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. 
 
-A life-cycle assessment study commissioned by the NEA showed that different materials have different environmental impacts. Therefore, promoting certain types of materials over others, may not be better for the environment.
-
-A more sustainable approach would be to tackle the excessive consumption of all types of single-use packaging. 
-
-Single-use packaging such as disposable containers and cups often cannot be recycled as they are contaminated with food.
-
+Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
 
 -------------------
 
 <a name="govt"></a>
 #### What is the government doing? 
 
-Mandatory reporting of packaging data and packaging waste reduction plans will be introduced in 2020.
-
 Mandatory reporting is the first step towards sustainable packaging waste management.
 
-Under the mandatory reporting framework, companies that place packaging on the consumer market will be required to report information on the types and amounts of packaging they are placing on the market annually, and develop packaging waste reduction plans.
+From 2020 onwards, companies that place packaging on the consumer market will be required to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.
 
-The mandatory reporting framework will be implemented in 2020, beginning with the registration of businesses such as brand owners, importers and large retailers including supermarkets. These businesses will also be required to collect data on the types and amounts of packaging they place on the market and draw up plans for reducing the amount of packaging that will end up as waste for disposal.
+These companies include brand owners, importers and large retailers including supermarkets.
 
-We are also studying the feasibility of extending the EPR framework to cover packaging waste, including plastics.
-
-Studying feasibility of implementing Extended Producer Responsibility framework to manage  packaging waste.
+We are also studying the feasibility of extending the Extended Producer Responsibility framework to cover packaging waste, including plastics.
 
 -------------------
 
@@ -58,10 +51,12 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 #### What can you do as an individual
 
-* Avoid single-use disposables
-* Bring reusable bags, containers and utensils
+Consumer action can help nudge companies into making positive changes. You can make the right choice by:
+
 * Choose products with less/green packaging. Products that have reduced packaging bear the following eco-label
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
+* Avoiding single-use disposables
+* Bringing your own reusable bags, containers and utensils
 
 ![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
