@@ -6,7 +6,8 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. Also, only 6% of plastic waste generated in Singapore is recycled. There is potential to further reduce packaging waste.
+### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. Most of this packaging is made of plastic, but only 6% of plastic waste is recycled. 
+
 -------------------
 
 
