@@ -70,11 +70,12 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 Reducing packaging waste does not just benefit the environment – it also makes good business sense. Some tips that businesses can practice include:
 
-* Re-think your current packaging practices and designs
-* Reducing the weight/amount of materials used in packaging
-* Switching to more eco-friendly forms of packaging eg from plastic to paper 
+* Re-think and re-design your production processes
+* Reduce the size and thickness of the physical packaging produced
+* Eliminate unnecessary packaging
+* Change the way that products are packaged
+* Switch to more eco-friendly forms of packaging eg from plastic to paper 
 * Purchase the material in the proper sized container/package to reduce packaging waste
-
 
 -------------------
 
@@ -82,12 +83,12 @@ Reducing packaging waste does not just benefit the environment – it also makes
 
 ##### What others are doing?
 
-* More than 200 companies have signed the [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"}, and made the commitment to reduce packaging waste from consumer products and the supply chain. They do this by redesigning their production processes, reducing the size and thickness of the physical packaging produced, eliminating unnecessary packaging, and changing the way that products are packaged. Since the SPA was introduced in 2007, member companies have collectively reduced 46,000 tonnes of packaging.
+* More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, member companies have collectively reduced 46,000 tonnes of packaging.
 
 ![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
 
 
-* Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 where retailers offered incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
+* Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 to rally retailers to offer incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
 
 
 ![Bring Your Own Singapore Movement](/images/BYO-Singapore.png)
