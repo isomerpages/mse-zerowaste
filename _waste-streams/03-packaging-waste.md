@@ -62,7 +62,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 * Avoiding single-use disposables
 * Bringing your own reusable bags, containers and utensils
 
-![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
+![Tips for redudcing packaging](/images/packaging_issue.png)
 
 [Back to top](#top)
 
