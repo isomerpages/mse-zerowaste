@@ -50,7 +50,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 **For Consumers:**
 
-* Launched a Food Waste Reduction Outreach Programme (since Nov 15) to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
+* Launched a [Food Waste Reduction Outreach Programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"}  since 2015 to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste; includes development of a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
 
 * Conducted a Household Waste Study (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
 
@@ -60,7 +60,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 * Implemented the Love Your Food@Schools Project in Apr 2017, a 2-year food waste reduction and recycling project for 10 schools to spread the message of the importance of proper food waste management and encourage youth to reduce food waste
 
-** For Corporates (e.g. commercial and industrial premises):**
+**For Corporates (e.g. commercial and industrial premises):**
 
 * Developed Food Waste Minimisation Guidebooks for Food Retail Establishments/ Food Manufacturing Establishments/ Supermarkets with AVA
 
