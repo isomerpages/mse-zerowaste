@@ -16,12 +16,12 @@
 - title: Our Focus Areas
   url: /waste-streams/e-waste/
   sub-links:
-  - title: e-Waste
+  - title: Food Waste
+    url: /waste-streams/food-waste/
+  - title: Electronic Waste
     url: /waste-streams/e-waste/
   - title: Packaging Waste
     url: /waste-streams/packaging-waste/
-  - title: Food Waste
-    url: /waste-streams/food-waste/
 - title: Take Action
   url: /#/
   sub-links:
