@@ -9,15 +9,21 @@ collection_name: waste-streams
 ### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. There is potential to further reduce packaging waste.
 
 
-[Why is this a problem?](#why) | What is Govt doing? | What can you do as an individual? | What you can do as a business? | What others are doing
+[Why is this a problem?](#why) | [What is Govt doing?](#govt) | What can you do as an individual? | What you can do as a business? | What others are doing
 
 
-
-Why is this a problem? <a name="why"></a>
+<a name="why"></a>
+#### Why is this a problem? 
 
 Most packaging for consumer goods, such as food, drinks, cleaning products, shampoo etc is used just once before being thrown away.
 
 Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
+
+-------------------
+
+<a name="govt"></a>
+### What is the government doing? 
+
 
 ![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
