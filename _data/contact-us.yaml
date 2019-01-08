@@ -9,10 +9,10 @@
 
 # Contact Us
 column:
-  - title: General Enquiries & Feedback
+  - title: 
     content:
-    - line: +65 6731 9000
     - line: mewr_feedback@mewr.gov.sg (email)
+    - line: +65 6731 9000
     # If you have an email, put (email) after the actual email
 
 # Image
