@@ -49,8 +49,8 @@ resources-more-button-url: resources/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
-careers-title: Careers
-careers-subtitle: Be part of the digital transformation
-careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
-careers-more-button: Explore Opportunities
-careers-more-button-url: /careers/our-culture-and-values/
+
+careers-subtitle: Our Zero Waste Heroes
+careers-description: Read inspiring tales of the individuals who dared to make a difference.
+careers-more-button: MORE
+careers-more-button-url: /resources/blog
