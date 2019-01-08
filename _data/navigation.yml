@@ -22,6 +22,10 @@
     url: /waste-streams/e-waste/
   - title: Packaging Waste
     url: /waste-streams/packaging-waste/
+  - title: Recycling Right
+    url: /recycle/
+  - title: Circular Economy
+    url: /circular-economy/
 - title: Take Action
   url: /#/
   sub-links:
