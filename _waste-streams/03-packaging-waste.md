@@ -12,7 +12,7 @@ collection_name: waste-streams
 
 [Why is this a problem?](#why) | [What is Govt doing?](#govt) | [What can you do as an individual?](#individual) | [What you can do as a business?](#biz) | [What others are doing?](#partners)
 
-
+-------------------
 
 
 <a name="why"></a>
@@ -51,6 +51,10 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 ### What can you do as an individual
 
+* Avoid single-use disposables
+* Bring reusable bags, containers and utensils
+* Choose products with less/green packaging
+
 ![Tips for redudcing packaging](https://www.mewr.gov.sg/images/default-source/module/policy-topic/packaging/packaging_issue.png)
 
 -------------------
@@ -59,7 +63,9 @@ Studying feasibility of implementing Extended Producer Responsibility framework 
 
 ### What can you do as a business
 
+Reducing packaging waste does not just benefit the environment – it also makes good business sense.
 
+re-think their packaging practices and designs
 
 -------------------
 
