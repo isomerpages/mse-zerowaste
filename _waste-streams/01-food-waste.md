@@ -21,7 +21,7 @@ collection_name: waste-streams
 
 Food waste accounts for about 10% of total waste generated in Singapore and only 16% was recycled in 2017.
 
-Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common
+Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
 
 
 **What is avoidable food waste?**
@@ -32,7 +32,7 @@ Avoidable food waste refers to food items that could have been consumed if bette
 
 Conversely, unavoidable food waste are parts/portions of food which were not intended for consumption, such as such as bones and egg shells.
 
-**What happens when you waste food**
+**What happens when you waste food?**
 
 When food is wasted, more food has to be sourced to meet the food demand and this affects our food security since Singapore imports over 90% of our food supply.  
 
