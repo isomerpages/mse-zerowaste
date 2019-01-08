@@ -35,11 +35,11 @@ i-want-to:
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-programmes-title: Products and Services
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/
+
+programmes-subtitle: Working together for Singapore 
+programmes-description: Everyone needs to Reduce, Reuse and Recycle, to achieve Singapore’s goal of developing a Circular Economy and becoming a Zero Waste Nation
+programmes-more-button: More
+programmes-more-button-url: /zero-waste-nation/
 
 
 resources-title: Resources
