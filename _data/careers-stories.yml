@@ -1,11 +1,10 @@
-- title: Govtechies Stories
+- title: Stories
   name: Denise Keller
   position: Recycling Right Ambassador
   # dept: Government Digital Services, Data Science Division
-  story: We get to experiment and build meaningful things that can bring a positive impact to the lives of Singaporeans.
+  story: Let's recycling right
   img: images/denise.png
-  button-text: About Careers
-  button-url: /careers/our-culture-and-values/
+
 
 - title: Govtechies Stories
   name: Caleb Choo
@@ -13,13 +12,5 @@
   # dept: Government Digital Services, Data Science Division
   story: Because we have a limited amount of food in our world, we should treasure our food. Many other people do not have food.
   img: images/caleb.png
-  button-text: About Careers
-  button-url: /careers/students-and-graduates/
 
-- title: Govtechies Stories
-  name: Serena
-  position: Intern
-  # dept: Government Digital Services, Data Science Division
-  story: I like the flexibility of working here, the games provided in the office during our breaks, allows us to recharge ourselves.
-  img: images/career/stories/INTERN_serena.jpg
-  button-text: About Internships
+
