@@ -18,7 +18,7 @@ collection_name: waste-streams
 <a name="why"></a>
 #### Why is this a problem?
 
-E-waste refers to electrical and electronic waste, such as computers, laptops, mobile phones and TVs. While these items can often be refurbished, repaired or recycled, they are usually discarded instead. Not only does e-waste contain valuable and scarce materials, there are also small amounts of harmful substances that could potentially harm our environment and health if not handled properly.   
+E-waste refers to electrical and electronic waste, such as computers, laptops, mobile phones and TVs. While these items can often be refurbished, repaired or recycled, they are usually discarded instead. Not only does e-waste contain valuable and scarce materials such as silver and gold, there are also small amounts of harmful substances such as cadmium and lead that could potentially harm our environment and health if not handled properly.   
 
 ![e-waste infographic](/images/Co2.jpg)
 
@@ -71,8 +71,6 @@ There are many ways we can save the Earth; all we need to do is to pause and con
 ![how to repair e-waste](/images/repair.jpg)
 
 Instead of throwing away a faulty electrical appliance, you can send it for repair or learn how to repair them yourself. Not only does repairing your own items give you a sense of accomplishment; it helps you save money and protect the environment! 
-
-If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"}  where Repair Coaches can help with salvaging your faulty items.  
 
 
 **3. Donate your usable items**
@@ -130,3 +128,25 @@ IKEA is the first major retailer in Singapore to provide light bulb recycling se
 **6. Other Recycling Programmes**
 
 For the most updated list of where you can drop off your e-waste for recycling, please visit [NEA's website](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"} or use the myENV app
+
+[Back to top](#top)
+
+-------------------
+
+<a name="biz"></a>
+
+#### What can you do as a business?
+
+
+
+
+
+[Back to top](#top)
+
+-------------------
+
+<a name="partners"></a>
+
+##### What are others doing?
+
+* If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"}  where Repair Coaches can help with salvaging your faulty items.  
