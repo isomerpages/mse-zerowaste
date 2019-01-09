@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Directory of Environmental Partners
+title: Green Groups in Singapore
 permalink: /green-groups-in-singapore/
-breadcrumb: Directory of Environmental Partners
+breadcrumb: Resources
 ---
 
 #### Zero Waste SG
