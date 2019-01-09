@@ -92,11 +92,9 @@ Reducing packaging waste does not just benefit the environment – it also makes
 * More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, the signatories have reduced more than 46,000 tonnes of packaging waste.
 ![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
 
-
 * Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 to rally retailers to offer incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
 
 ![Bring Your Own Singapore Movement](/images/BYO-Singapore.png)
 
-* Packaging-free grocery stores such as Unpackt, Eco.Le, Reprovisions 
 
 [Back to top](#top)
