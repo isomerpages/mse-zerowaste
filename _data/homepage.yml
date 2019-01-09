@@ -5,33 +5,52 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Agency logo
-agency-logo: /images/logo.png
+agency-logo: /images/Zerowastelogo-01.png
+
+# Google analytics
+google-analytics: UA-131465347-1
 
 # Hero Banner
-hero-title: Towards Zero Waste
-hero-subtitle: For a Sustainable Singapore
-hero-banner: /images/herobanner.jpg
+hero-title: "Year Towards Zero Waste"
+hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
+hero-banner: /images/herobanner_semakau.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
-key-highlights:
-  - title: E-Waste
-    description: Important highlight A is important
-    url: /e-waste/
-  - title: Food Waste
-    description: Important highlight B is equally important
-    url: /food-waste/
-  - title: Packaging Waste
-    description: Page A is important too
-    url: /packaging-waste/
+# Hero Dropdown Main Text
+hero-dropdown-text: "I am..."
 
-resources-title: News
+# I want to dropdown
+i-want-to:
+  - title: an Individual
+    url: /users/individual/
+  - title: a Business
+    url: /users/business/
+  - title: an NGO
+    url: /users/ngo/
+  - title: a Teacher
+    url: /users/teacher/
+
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+
+programmes-subtitle: Let's reduce, reuse and recycle
+programmes-description: By working together, we can realise Singapore’s goal of developing a Circular Economy and becoming a Zero Waste Nation
+programmes-more-button: More
+programmes-more-button-url: /zero-waste-nation/
+
+
+resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-more-button-url: resources/
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: Our Zero Waste Heroes
+careers-description: Read inspiring tales of the individuals who dared to make a difference.
+careers-more-button: MORE
+careers-more-button-url: /resources/blog
