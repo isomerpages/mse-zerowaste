@@ -9,6 +9,8 @@ markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
 safe: false
 
+is_government: false
+
 plugins:
   - jekyll-feed
   - jekyll-assets
