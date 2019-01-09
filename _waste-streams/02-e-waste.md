@@ -16,10 +16,7 @@ collection_name: waste-streams
 
 
 <a name="why"></a>
-#### Why is this a problem? 
-
-
-
+#### Why is this a problem?
 
 E-waste refers to electrical and electronic waste, such as computers, laptops, mobile phones and TVs. While these items can often be refurbished, repaired or recycled, they are usually discarded instead. Not only does e-waste contain valuable and scarce materials, there are also small amounts of harmful substances that could potentially harm our environment and health if not handled properly.   
 
@@ -27,7 +24,24 @@ E-waste refers to electrical and electronic waste, such as computers, laptops, m
 
 When e-waste is disposed of and incinerated, it results in the loss of resources as well as carbon emissions that contribute to global warming and climate change. E-waste also contains small amounts of heavy metals that can be hazardous to the environment and health. Hence, recycling our e-waste reduces the amount of heavy metals in our incineration ash. 
 
-### Prevention is better than cure 
+
+[Back to top](#top)
+
+-------------------
+
+<a name="govt"></a>
+#### What is the government doing? 
+
+
+
+
+
+---
+
+
+
+
+**Prevention is better than cure **
 
 Dealing with e-waste starts with the way we consume our resources. Start by asking yourself before each purchase: “*Do I really need this*?”. If the item is indeed something you cannot do without, the next question is if you can reduce on your carbon footprint, such as the following:
 
