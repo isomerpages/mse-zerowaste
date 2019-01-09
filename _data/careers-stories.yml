@@ -4,7 +4,8 @@
   # dept: Government Digital Services, Data Science Division
   story: Let's recycle right!!
   img: images/denise.png
-
+  button-text: Read more
+  button-url: /careers/our-culture-and-values/
 
 - title: Stories
   name: Caleb Choo
@@ -12,5 +13,6 @@
   # dept: Government Digital Services, Data Science Division
   story: Because we have a limited amount of food in our world, we should treasure our food. Many other people do not have food.
   img: images/caleb.png
-
+  button-text: Read more
+  button-url: /careers/our-culture-and-values/
 
