@@ -95,7 +95,7 @@ Recycling e-waste is best done through recycling points put in place by recyclin
 
 ![here is how](/images/hereishow.jpg)
 
-#### Here are some e-waste recycling programmes around Singapore:
+#### Here are some e-waste recycling programmes around Singapore
 
 **1. StarHub's RENEW (REcycling Nation's Electronic Waste) Programme**
 
@@ -137,9 +137,9 @@ For the most updated list of where you can drop off your e-waste for recycling, 
 
 #### What can you do as a business?
 
-
-
-
+* Instead of purchasing entirely new devices or systems, start by replacing pieces of your equipment or update firmware and software as long as you can.
+* When it's time for a tech refresh, consider selling your IT equipment to companies that can refurbish or recycle them properly! Also, make sure to wipe out sensitive data before they get sold!
+* Consider purchasing equipment from companies who run  end-of-life takeback schemes
 
 [Back to top](#top)
 
@@ -149,4 +149,8 @@ For the most updated list of where you can drop off your e-waste for recycling, 
 
 ##### What are others doing?
 
-* If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"}  where Repair Coaches can help with salvaging your faulty items.  
+* Under the [National Voluntary Partnership for E-Waste Recycling](https://www.nea.gov.sg/programmes-grants/schemes/national-voluntary-partnership-for-e-waste-recycling){:target="_blank"}, industry partners assume a leading role in spearheading recycling programmes, with added support and recognition from NEA.
+
+* If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"} where Repair Coaches can help with salvaging your faulty items.  
+
+[Back to top](#top)
