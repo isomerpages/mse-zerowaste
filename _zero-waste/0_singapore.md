@@ -52,7 +52,7 @@ Current/Future initiatives:
 
 * Introduction of [Extended Producer Responsibility Framework](/Extended-Producer-Responsibility/) for e-waste management by 2021
 
-* Implementation of [mandatory reporting of packaging data and packaging waste reduction plans](/Mandatory-Reporting-Packaging-Waste/) by 2020
+* Implementation of [mandatory reporting of packaging data and packaging waste reduction plans](/Mandatory-Reporting-Packaging-Waste/) in 2020
 
 * Support the wider use of on-site food waste digesters at commercial premises and hawker centres
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill
