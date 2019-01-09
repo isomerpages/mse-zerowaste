@@ -56,8 +56,7 @@ For more information, [visit NEA's website](https://www.nea.gov.sg/media/news/ne
 
 #### What can you do an individual?
 
-
-**Prevention is better than cure **
+**1. Buy only what you need**
 
 Dealing with e-waste starts with the way we consume our resources. Start by asking yourself before each purchase: “*Do I really need this*?”. If the item is indeed something you cannot do without, the next question is if you can reduce on your carbon footprint, such as the following:
 
@@ -67,37 +66,32 @@ Dealing with e-waste starts with the way we consume our resources. Start by aski
 
 There are many ways we can save the Earth; all we need to do is to pause and consider our options to reduce our consumption and carbon footprint. 
 
-### What about existing electronic products at home? 
-
-There are various ways you can reduce e-waste as an individual or family:
-
-#### 1. Repair electrical and electronic equipment (EEE) where feasible
+**2. Repair instead of replace**
 
 ![how to repair e-waste](/images/repair.jpg)
 
-
-Instead of throwing away a faulty EEE, you can send it for repair or learn how to repair them yourself. Not only does repairing your own items give you a sense of accomplishment; it helps you save money and protect the environment! 
+Instead of throwing away a faulty electrical appliance, you can send it for repair or learn how to repair them yourself. Not only does repairing your own items give you a sense of accomplishment; it helps you save money and protect the environment! 
 
 If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"}  where Repair Coaches can help with salvaging your faulty items.  
 
 
-#### 2. Reuse/donate items in working condition
+**3. Donate your usable items**
 
-![how to repair e-waste](/images/donate.jpg)
+![donate e-waste](/images/donate.jpg)
 
-You may not have use for the EEE item anymore, but that does not mean it is of no use to others! 
+You may not have use for the electronic device anymore, but that does not mean it is of no use to others! 
 
-If you feel like you’ve had the item for some time and would like a change, why not pass the old one to someone who needs it? Donating EEE for reuse prolongs their lives and thus conserves our natural resources. 
+If you feel like you’ve had the item for some time and would like a change, why not pass the old one to someone who needs it? Donating these items for reuse prolongs their lives and thus conserves our natural resources. 
 
-Check out where you can drop off your EEE](http://bit.ly/DonationPoints){:target="_blank"} 
+Check out where you can [donate your electronic items here](http://bit.ly/DonationPoints){:target="_blank"} 
 
-#### 3. Recycle e-waste 
+**4. Recycle e-waste at designated bins**
 
 ![how to recycle e-waste](/images/recycleewaste.jpg)
 
 If the item is broken and can no longer be repaired or used, it should be recycled. Recycling allows for materials such as gold, silver, copper and plastics to be recovered and made into new products. We forgo this when we dispose of our e-waste and have them incinerated.  The simple act of recycling reduces the amount of new materials being used and our carbon footprint. 
 
-#### How to recycle your e-waste?
+*How to recycle your e-waste?*
 
 Recycling e-waste is best done through recycling points put in place by recycling programmes. This ensures that the items are sent to recycling facilities that dismantle and recycle e-waste in an environmentally-friendly manner. E-waste also comprises many different components, and these facilities can also extract the maximum amount of recyclable materials from e-waste using specialised equipment.
 
