@@ -130,7 +130,7 @@ Through our awareness campaigns and outreach activities, WWF Singapore aims to e
 * [Website](http://www.wwf.sg/){:target="_blank"} 
 * [Instagram](https://www.instagram.com/wwfsg/){:target="_blank"} 
 
-
+<!--
 ***************
 
 #### Name of NGO
@@ -147,5 +147,5 @@ Through our awareness campaigns and outreach activities, WWF Singapore aims to e
 * [Facebook](){:target="_blank"} 
 * [Website](){:target="_blank"} 
 * [Instagram](){:target="_blank"} 
-
+-->
 
