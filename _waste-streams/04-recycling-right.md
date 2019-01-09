@@ -39,6 +39,9 @@ collection_name: waste-streams
 
 #### What can you do an individual?
 
+*	Recycle more – deposit your waste at [designated collection points](/recycle/where-to-recycle/), eg blue bins 
+
+*	Recycle right - [Do not contaminate with food or liquid waste](/recycle/how-to-recycle/)
 
 
 [Back to top](#top)
