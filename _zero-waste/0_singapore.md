@@ -50,7 +50,7 @@ Current/Future initiatives:
 
 [For IWMF, please use Tuas Nexus instead. Will let WRMD suggest what we want to highlight about it, but I think the current line won’t work]
 
-* Introduction of [Extended Producer Responsibility Framework](/Extended-Producer-Responsibility/) for e-waste management by 2021
+* Introduction of [Extended Producer Responsibility Framework](/waste-streams/e-waste/#govt) for e-waste management by 2021
 
 * Implementation of [mandatory reporting of packaging data and packaging waste reduction plans](/waste-streams/packaging-waste/#govt) in 2020
 
