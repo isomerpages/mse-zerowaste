@@ -29,13 +29,13 @@ When e-waste is disposed of and incinerated, it results in the loss of resources
 
 ### Prevention is better than cure 
 
-Approaching the topic of e-waste with the right mentality is key. Start by asking yourself before each purchase: “*Do I really need this*?”. If the item is indeed something you cannot do without, the next question is if you can reduce on your carbon footprint, such as the following:
+Dealing with e-waste starts with the way we consume our resources. Start by asking yourself before each purchase: “*Do I really need this*?”. If the item is indeed something you cannot do without, the next question is if you can reduce on your carbon footprint, such as the following:
 
 *“Do I need a brand new one, or will a second-hand option fulfil my needs?”*
 *“How often will I use this? Could I borrow the item from my neighbour?”*
 *“Are there reusable options (such as rechargeable batteries) that I can consider?”*
 
-There are many ways we can save the Earth; all we need to do is to pause and consider our options. 
+There are many ways we can save the Earth; all we need to do is to pause and consider our options to reduce our consumption and carbon footprint. 
 
 ### What about existing electronic products at home? 
 
@@ -48,7 +48,7 @@ There are various ways you can reduce e-waste as an individual or family:
 
 Instead of throwing away a faulty EEE, you can send it for repair or learn how to repair them yourself. Not only does repairing your own items give you a sense of accomplishment; it helps you save money and protect the environment! 
 
-If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out Repair Kopitiam where Repair Coaches can help with salvaging your faulty items.  
+If fixing things isn’t your forte, but you want to combat the buy-and-throw-away culture in Singapore, check out [Repair Kopitiam](http://repairkopitiam.sg/){:target="_blank"}  where Repair Coaches can help with salvaging your faulty items.  
 
 
 #### 2. Reuse/donate items in working condition
@@ -65,11 +65,11 @@ Check out where you can drop off your EEE](http://bit.ly/DonationPoints){:target
 
 ![how to recycle e-waste](/images/recycleewaste.jpg)
 
-If the item is broken and can no longer be repaired or used, materials such as gold, silver, copper and plastics can still be recovered and made into new products. Simply drop the item off at a recycling point, so that some of the materials can still be used instead of being incinerated. This simple act reduces the amount of new materials being used. 
+If the item is broken and can no longer be repaired or used, it should be recycled. Recycling allows for materials such as gold, silver, copper and plastics to be recovered and made into new products. We forgo this when we dispose of our e-waste and have them incinerated.  The simple act of recycling reduces the amount of new materials being used and our carbon footprint. 
 
 #### How to recycle your e-waste?
 
-The best way to dispose off e-waste is through e-waste recycling programmes. This ensures that the items are sent to recycling facilities that dismantle and recycle e-waste in an environmentally-friendly manner. E-waste also comprises many different components, and these facilities can also extract the maximum amount of recyclable materials from e-waste using specialised equipment.
+Recycling e-waste is best done through recycling points put in place by recycling programmes. This ensures that the items are sent to recycling facilities that dismantle and recycle e-waste in an environmentally-friendly manner. E-waste also comprises many different components, and these facilities can also extract the maximum amount of recyclable materials from e-waste using specialised equipment.
 
 ![here is how](/images/hereishow.jpg)
 
