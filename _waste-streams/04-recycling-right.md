@@ -23,13 +23,13 @@ collection_name: waste-streams
 
 Contamination arises when wrong things are thrown into the blue recycling bin, such as food and liquid waste as well as items that cannot be recycled.
 
-When this happens, this will contaminated the rest of the recyclables collected and waste the efforts of everyone. 
+When this happens, this will contaminate the rest of the recyclables collected and waste the efforts of everyone. 
 
-If recyclables get contaminated by food or liquid waste, they're no different from general waste. They will then have been disposed of, incinerated and landfilled. 
+Recyclables that are contaminated by food or liquid waste cannot be recycled which makes them no different from general waste. They will then have been disposed of, incinerated and landfilled. 
 
 That's why putting the right stuff in the right bin is important. 
 
-While the recycling rate for the non-domestic sector has been high, our domestic recycling rate has grown only gradually, to 21% in 2017.
+
 
 [Back to top](#top)
 
@@ -38,9 +38,9 @@ While the recycling rate for the non-domestic sector has been high, our domestic
 <a name="govt"></a>
 #### What is the government doing? 
 
-We are making it easier for residents to recycle in order to increase the domestic recycling rate to 30% by 2030, which is one of the targets of our Sustainable Singapore Blueprint. 
+The recycling rate for the domestic sector is currently 21%. We are making it easier for residents to recycle in order to increase the domestic recycling rate to 30% by 2030, which is one of the targets of our [Sustainable Singapore Blueprint](www.sustainablesingapore.gov.sg){:target="_blank"}. 
 
-Infrastructure has been put in place to make recycling more convenient. Since 2014, every HDB block has been provided with a blue recycling bin - up from one bin for every five blocks. There are also dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments.
+Since 2014, every HDB block has been provided with a blue recycling bin - up from one bin for every five blocks. There are also dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments.
 
 We will also use regulatory measures to complement the new recycling infrastructure. For example, we will introduce a new framework to make it easier for Singaporeans to [recycle their e-waste](/waste-streams/e-waste/).
 
@@ -54,10 +54,10 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 #### What can you do an individual?
 
-*	Recycle more – deposit your waste at [designated collection points](/recycle/where-to-recycle/), eg blue bins 
+*	Recycle more – deposit your waste at [designated collection points](/recycle/where-to-recycle/), eg blue bins, e-waste bins
 
 *	Recycle right - [Do not contaminate with food or liquid waste](/recycle/how-to-recycle/)
-
+Make sure that containers are fully emptied before depositing them into the recycling bins, and food or liquid waste cannot be thrown into the recycling bins.
 
 [Back to top](#top)
 
@@ -67,6 +67,7 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 #### What can you do as a business?
 
+* [Set up a recycling programme in your office](https://www.nea.gov.sg/docs/default-source/resource/participate/3r-guidebook-for-offices.pdf){:target="_blank"}
 
 
 [Back to top](#top)
@@ -77,7 +78,9 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 ##### What are others doing?
 
+* Zero Waste SG launched a ["Let's Recycle Together"](http://www.zerowastesg.com/recycle/){:target="_blank"}
+ campaign to encourage more HDB residents to recycle using the existing blue recycling bins in their estates, and to educate them on recycling correctly.
 
-
+* On the second Sunday of each month, [Tzu Chi](https://www.tzuchi.org.sg/en/events/islandwide-recycling-day/){:target="_blank"} conducts recycling activities at over 30 recycling points in various neighbourhoods island-wide. Besides sorting recyclables, volunteers also share with residents ways to make environmental protection part of their daily lives.
 
 [Back to top](#top)
