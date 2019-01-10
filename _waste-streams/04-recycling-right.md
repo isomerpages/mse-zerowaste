@@ -57,6 +57,7 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 *	Recycle more – deposit your waste at [designated collection points](/recycle/where-to-recycle/), eg blue bins, e-waste bins
 
 *	Recycle right - [Do not contaminate with food or liquid waste](/recycle/how-to-recycle/)
+
 Make sure that containers are fully emptied before depositing them into the recycling bins, and food or liquid waste cannot be thrown into the recycling bins.
 
 [Back to top](#top)
