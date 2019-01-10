@@ -42,7 +42,7 @@ Singapore will adopt a circular economy approach to sustainable waste and resour
 
 Current/Future initiatives:
 
-* Improved infrastructure to facilitate recycling, such as dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments
+* Improved infrastructure to facilitate recycling, such as dual chutes for refuse and recyclables in all new HDB flats and new non-landed private residential developments above four storeys
 
 * [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns and on a district-level to optimise waste and collect and support hygienic waste disposal
 
