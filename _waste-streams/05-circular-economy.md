@@ -7,7 +7,7 @@ collection_name: waste-streams
 ---
 
 
-### Reducing waste and developing a circular economy will benefit the environment and create economic opportunities.
+### Reducing waste and adopting a circular economy approach will benefit the environment and create economic opportunities.
 
 As a small city state, Singapore has always been aware of the need to balance economic development and environmental sustainability. 
 
@@ -18,9 +18,10 @@ To overcome these challenges and continue to grow sustainably, Singapore must em
 ![balance economic development with sustainability](/images/sustainability.png)
 
 
+
 ### What is a circular economy?
 
-A circular economy is an alternative to a traditional linear economy (take, make, waste) in which we keep resources in use for as long as possible, extract the maximum value from them whilst in use, then recover and regenerate products and materials at the end of each service life.
+A circular economy is an alternative to a traditional linear economy (take, make, waste). It seeks to reduce waste, recovers resources at the end of a product’s life, and channels them back into production, thus significantly reducing pressure on the environment.
 
 ![Circular Economy](/images/circular.png)
 
