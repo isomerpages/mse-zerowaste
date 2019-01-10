@@ -6,7 +6,7 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. More than half of this packaging is made of plastic, but only 6% of plastic waste is recycled. 
+### Of the 1.6 million tonnes of domestic waste disposed of in 2017, one-third is made up of packaging. More than half of this packaging is made of plastic, but only 6% of plastic waste is recycled. There is potential to further reduce packaging waste.
 
 -------------------
 
@@ -28,7 +28,7 @@ Most of the time, single-use packaging such as disposable containers and cups al
 
 ![Packaging](/images/packaging.jpg)
 
-Unnecessary packaging is not only a drain on resources, it is also adds to the production of waste. 
+Unnecessary packaging is not only a drain on resources, it also adds to the production of waste. 
 
 Given the lack of space for another landfill in Singapore, we need to reduce the amount of waste we produce to prolong the lifespan of our landfill for as long as we can.
 
@@ -45,7 +45,7 @@ From 2020 onwards, we will require companies that place packaging on the consume
 
 The companies that will come under this framework include brand owners, importers and large retailers including supermarkets.
 
-We are also studying the feasibility of extending the Extended Producer Responsibility framework to cover packaging waste, including plastics.
+We are also studying the feasibility of implementing an Extended Producer Responsibility (EPR) system to manage packaging waste.
 
 [Back to top](#top)
 
@@ -74,7 +74,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 Reducing packaging waste does not just benefit the environment – it also makes good business sense. Some tips that businesses can practise include:
 
-* Re-think and re-design your production processes
+* Re-think and improve your production processes
 * Reduce the size and thickness of the physical packaging produced
 * Eliminate unnecessary packaging
 * Change the way that products are packaged
@@ -89,15 +89,12 @@ Reducing packaging waste does not just benefit the environment – it also makes
 
 ##### What are others doing?
 
-* More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, member companies have collectively reduced 46,000 tonnes of packaging.
-
+* More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, the signatories have reduced more than 46,000 tonnes of packaging waste.
 ![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
-
 
 * Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 to rally retailers to offer incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
 
 ![Bring Your Own Singapore Movement](/images/BYO-Singapore.png)
 
-* Packaging-free grocery stores such as Unpackt, Eco.Le, Reprovisions 
 
 [Back to top](#top)

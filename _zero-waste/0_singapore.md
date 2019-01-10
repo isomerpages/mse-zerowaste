@@ -16,9 +16,9 @@ This is a **seven-fold increase** from 40 years ago, and is enough to fill 15,00
  
 ### Where does our waste go?
 
-Everyday, about 37% of our waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. However, the more waste we incinerate, the higher our carbon footprint - this contributes to global warming and climate change. 
+Everyday, about 79% of our domestic waste generated will be incinerated at one of our four waste-to-energy (WTE) incineration plants. However, the more waste we incinerate, the higher our carbon footprint - this contributes to global warming and climate change. 
 
-The resulting incinerated ash as well as other non-incinerable solid wastes will then make their way to Semakau Landfill. 
+The resulting incinerated ash as well as other non-incinerable waste will then make their way to Semakau Landfill. 
 
 ![Semakau Landfill](/images/semakau.jpg)
  
@@ -42,11 +42,18 @@ Singapore will adopt a circular economy approach to sustainable waste and resour
 
 Current/Future initiatives:
 
-* Improved infrastructure to facilitate recycling, such as centralized chutes for all new HDB flats.
-* [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns to support convenient and hygienic waste disposal
+* Improved infrastructure to facilitate recycling, such as dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments
+
+* [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns and on a district-level to optimise waste and collect and support hygienic waste disposal
+
 * Build an [Integrated Waste Management Facility](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  which will have the capacity to segregate recyclables from waste
-* Introduction of [Extended Producer Responsibility](/Extended-Producer-Responsibility/) framework by 2021 
-* Implementation of [Mandatory Reporting of Packaging Waste](/Mandatory-Reporting-Packaging-Waste/) and packaging waste reduction plans by 2021
+
+[For IWMF, please use Tuas Nexus instead. Will let WRMD suggest what we want to highlight about it, but I think the current line won’t work]
+
+* Introduction of [Extended Producer Responsibility Framework](/waste-streams/e-waste/#govt) for e-waste management by 2021
+
+* Implementation of [mandatory reporting of packaging data and packaging waste reduction plans](/waste-streams/packaging-waste/#govt) in 2020
+
 * Support the wider use of on-site food waste digesters at commercial premises and hawker centres
 * Explore the reuse of incineration bottom ash to extend the lifespan of Semakau Landfill
 

@@ -7,7 +7,8 @@ collection_name: waste-streams
 ---
 
 
-### The amount of food waste generated in Singapore has increased by 40% over the last 10 years. In 2017 alone, 810 million kg of food waste was generated - equivalent to the weight of 3,500 MRT trains!
+### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 40% over the last 10 years. 810 million kg of food waste was generated in 2017 – that’s the weight of more than 55,000 double decker buses.
+
 -------------------
 
 [Why is this a problem?](#why) | [What is the government doing?](#govt) | [What can you do as an individual?](#individual) | [What can you do as a business?](#biz) | [What are others doing?](#partners)
@@ -18,7 +19,7 @@ collection_name: waste-streams
 <a name="why"></a>
 #### Why is this a problem? 
 
-Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Yet, more than half of household food waste can be prevented, of which rice, noodles and bread are the most common.
+Food waste makes up about half of the average 1.5kg of waste disposed of by each household in Singapore daily. Of which, more than half of household food waste can be prevented, with rice, noodles and bread being the most commonly wasted food items.
 
 
 **What is avoidable food waste?**
@@ -83,7 +84,7 @@ Here are 3 simple tips to minimise food wastage.
 
 ![Plan your food purchases](/images/plan-your-purchase1.jpg)
 
-24% of households threw away spoilt or rotten food because they either bought too much food or did not realise that they had food hidden at the back of their fridge. 
+24% of households often threw away spoilt or rotten food because they either bought too much food or did not realise that they had food hidden at the back of their fridge. 
 
 ![Plan your food purchases](/images/plan-your-purchase2.jpg)
 
@@ -106,7 +107,7 @@ Instead of throwing away your leftovers, turn them into tasty new dishes. Learn 
 
 Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
 
-Also, don't forget to check out this [guide to reducing food waste](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"} 
+Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"} 
 
 
 [Back to top](#top)
@@ -128,6 +129,8 @@ Food retail establishments and supermarkets can help reduce food wastage by offe
 ![small medium large](/images/SML.jpg)
 
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
+
+Also, don’t forget to check out to check out the food waste minimisation guidebooks for Food Manufacturing Establishments, Food Retail Establishments and Supermarkets at the NEA Food Waste Management webpage [here](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management){:target="_blank"} .
 
 
 [Back to top](#top)
