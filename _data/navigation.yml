@@ -5,14 +5,10 @@
 ##################################
 
 - title: Zero Waste
-  url: /zero-waste/singapore/
+  url: /zero-waste-nation/
   sub-links:
   - title: Zero Waste Nation
     url: /zero-waste-nation/
-  - title: Zero Waste Business
-    url: /zero-waste/business/
-  - title: Zero Waste Lifestyle
-    url: /zero-waste/lifestyle/
 - title: Our Focus Areas
   url: /waste-streams/e-waste/
   sub-links:
@@ -23,7 +19,7 @@
   - title: Packaging Waste
     url: /waste-streams/packaging-waste/
   - title: Recycling Right
-    url: /recycle/
+    url: /recycling-right/
   - title: Circular Economy
     url: /circular-economy/
 - title: Take Action
