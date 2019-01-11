@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What you can do as an a teacher
+title: What you can do as a teacher
 permalink: /users/teacher/
 breadcrumb: What you can do 
 collection_name: users
