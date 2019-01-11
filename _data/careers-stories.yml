@@ -2,19 +2,11 @@
   name: Denise Keller
   position: Zero Waste Ambassador
   # dept: Government Digital Services, Data Science Division
-  story: Let's recycle right!!
+  story: Starting this conversation is really empowering and also educating people about what we can recycle or what we can do. So being able to see this [zero waste] awakening is very exciting for me.
   img: images/denise.png
   button-text: Read more
-  button-url: /#/
+  button-url: https://www.facebook.com/MEWRsingapore
 
-- title: Stories
-  name: Caleb Choo
-  position: Student
-  # dept: Government Digital Services, Data Science Division
-  story: Because we have a limited amount of food in our world, we should treasure our food. Many other people do not have food.
-  img: images/caleb.png
-  button-text: Read more
-  button-url: /#/
 
 - title: Stories
   name: Sophia Huang
@@ -23,13 +15,6 @@
   story: I don’t like to throw something away without thinking what else it can be used for. I think it’s important to have a culture where people create and not just consume.
   img: images/sophia.png
   button-text: Read more
-  button-url: /#/
+  button-url: /resources/videos/sophia-huang/
 
-- title: Stories
-  name: Lim Wei Jie
-  position: Founder of Forward Coffee
-  # dept: Government Digital Services, Data Science Division
-  story: reduce waste are helping to awaken others to better possibilities for our environment.
-  img: images/WeiJie.png
-  button-text: Read more
-  button-url: /#/
+
