@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What you can do as an a NGO
+title: What you can do as an NGO
 permalink: /users/NGO/
 breadcrumb: What you can do 
 collection_name: users
