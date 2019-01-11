@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: What you can do as an a business
+title: What you can do as a business
 permalink: /users/business/
 breadcrumb: What you can do 
 collection_name: users
