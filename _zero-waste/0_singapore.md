@@ -42,13 +42,11 @@ Singapore will adopt a circular economy approach to sustainable waste and resour
 
 Current/Future initiatives:
 
-* Improved infrastructure to facilitate recycling, such as dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments
+* Improved infrastructure to facilitate recycling, such as dual chutes for refuse and recyclables in all new HDB flats and new non-landed private residential developments above four storeys
 
 * [Pneumatic Waste Conveyance Systems](https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management){:target="_blank"} introduced in HDB towns and on a district-level to optimise waste and collect and support hygienic waste disposal
 
-* Build an [Integrated Waste Management Facility](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  which will have the capacity to segregate recyclables from waste
-
-[For IWMF, please use Tuas Nexus instead. Will let WRMD suggest what we want to highlight about it, but I think the current line won’t work]
+* Development of [Tuas Nexus](https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/integrated-waste-management-facility){:target="_blank"}  a co-located integrated waste management and water reclaimation facility
 
 * Introduction of [Extended Producer Responsibility Framework](/waste-streams/e-waste/#govt) for e-waste management by 2021
 
