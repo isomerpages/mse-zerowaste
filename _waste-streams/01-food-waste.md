@@ -151,8 +151,4 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 
 * [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage.
 
-* Ugly Food
-
-* Ugly Good
-
-* Tree Dots
+* [Tree Dots](https://www.thetreedots.com/){:target="_blank"} aims to reduce the amount of food waste by creating a marketplace to link people with unsold inventory to potential buyers so as to not let them end up in the bin.
