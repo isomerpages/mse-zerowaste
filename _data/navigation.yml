@@ -36,6 +36,8 @@
   sub-links:
   - title: All
     url: /resources/
+  - title: News
+    url: /resources/news/
   - title: Videos
     url: /resources/videos/
   - title: Infographics
