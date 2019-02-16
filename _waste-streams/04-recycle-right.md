@@ -6,7 +6,7 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### 40% of what goes into recycling bins cannot be recycled. This is because some people throw in items which are unsuitable for recycling. Others treat the blue bins as general waste bins and throw in food and liquids. This contaminates the items in the recycling bin and makes them unsuitable for recycling. The items then end up incinerated instead of recycled.
+### 40% of what goes into recycling bins cannot be recycled. This is because some people throw in items which are unsuitable for recycling. 
 
 -------------------
 
