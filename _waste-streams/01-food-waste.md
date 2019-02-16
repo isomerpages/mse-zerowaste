@@ -7,7 +7,7 @@ collection_name: waste-streams
 ---
 
 
-### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 40% over the last 10 years. 810 million kg of food waste was generated in 2017 – that’s the weight of more than 55,000 double decker buses.
+### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 40% over the last 10 years. 810 million kg of food waste was generated in 2017 – that’s the weight of more than 54,000 double decker buses.
 
 -------------------
 
@@ -38,6 +38,7 @@ Increasing amount of food waste puts pressure on our resources. We will need to 
 
 When food is wasted, so are all of the resources used to grow and deliver the food to our tables, as well as to dispose of it. This increases our carbon footprint, contributing to global warming and climate change.
 
+To conserve precious resources, there is a need to minimise food wastage and recycle or treat unavoidable food waste. This starts with avoiding food wastage and excess food production. Where this is not possible, excess food should be re-distributed. Lastly, food waste should be segregated for recycling and treatment.
 
 [Back to top](#top)
 
@@ -45,6 +46,16 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 <a name="govt"></a>
 #### What is the government doing? 
+
+
+
+**For Consumers:**
+
+* Ongoing [food waste reduction publicity and outreach programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to increase awareness of the food waste situation in Singapore, as well as to encourage consumers to adopt smart food purchase, storage and preparation habits that can help them minimise food wastage. More than 400 Food Waste Reduction Ambassadors have also been trained to help spread the word on food waste reduction with their communities, families and friends.
+
+* Conducted a [Household Waste Study](https://www.nea.gov.sg/media/news/news/index/saving-money-the-biggest-motivation-for-households-to-reduce-food-wastage-nea-ava-survey-2015-11-20){:target="_blank"} (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
+
+* Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
 
 **For Corporates (e.g. commercial and industrial premises):**
 
@@ -59,13 +70,7 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 ![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
 
-**For Consumers:**
 
-* Ongoing [Food Waste Reduction Outreach Programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to encourage consumers to adopt smart purchasing, storage and preparation habits that help save money and reduce food waste. Various collaterals have been developed for the campaign, including a food wastage reduction guide for households, educational outreach through skits, cooking demos, roadshow engagements.
-
-* Conducted a [Household Waste Study](https://www.nea.gov.sg/media/news/news/index/saving-money-the-biggest-motivation-for-households-to-reduce-food-wastage-nea-ava-survey-2015-11-20){:target="_blank"} (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
-
-* Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
 
 **For Schools:**
 
@@ -83,6 +88,8 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 Here are 3 simple tips to minimise food wastage. 
 
 **1. Buy, order and cook only what you can finish**
+
+When eating out, order only what you can finish. Ask for less rice/noodles if you can’t finish them and say ‘No’ to side dishes you won’t eat.
 
 ![Plan your food purchases](/images/plan-your-purchase1.jpg)
 
@@ -149,8 +156,12 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 
 * Foodprints @ South West - an initiative by the South West Community Development Council - is a first-in-Singapore labelling programme that aims to recognise schools, hotels, retail establishments and other organisations in the South West District that have taken steps to reduce the amount of food waste generated. Measures include designing food waste reduction posters which will be displayed around their school, and educating canteen food operators on good food management and storage practices.
 
-* Community fridges have appeared in Queenstown, Yishun and Tampines. Donors are encouraged to leave fresh food produce in the fridge. Anyone who needs help to put food on the table can just help themselves and take what they need.
+* Community fridges have appeared in Queenstown, Yishun and Tampines. Residents are encouraged to donate unwanted food products that are still good for consumption, instead of discarding them.
+
+* [Foodscape Collective](https://foodscapecollective.org/){:target="_blank"} is a community of enthusiasts working towards creating sustainable and resilient food systems. Some of their initiatives include facilitating the redistribution of excess and yet-to-expire food and composting of kitchen scraps. 
 
 * [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage.
 
 * [Tree Dots](https://www.thetreedots.com/){:target="_blank"} aims to reduce the amount of food waste by creating a marketplace to link people with unsold inventory to potential buyers so as to not let them end up in the bin.
+
+* [UglyFood](https://www.uglyfood.com.sg/){:target="_blank"} is an F&B social enterprise that fights food waste as a result of cosmetic filtering.
