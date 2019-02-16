@@ -25,10 +25,12 @@ Do remember to practise these steps of proper recycling!
 * For example, plastic takeaway food containers, shampoo/detergent bottles, canned/bottled drinks, cosmetic jars, jam jars etc
 
 **4. Rinse and dry the containers when necessary**
-* If containers are wet, greasy or contain food, they will contaminate the rest of the items in the recycling bin.
+* If containers are wet, greasy or contain food, they will contaminate the rest of the items in the recycling bin. Give these containers a simple rinse before you put them into the blue bin.
 
 **5. Deposit recyclables into recycling bins**
+Find out [where to recycle here](/recycle/where-to-recycle/).
 
+Remember, there's no need to sort different types of recyclables for the blue bins because they will be [sorted centrally](/recycle/what-happens-to-recyclables/).
 
 Unsure whether something can be recyclable or not? Please contact NEA at 1800-CALL NEA (1800-2255 632)!
 
