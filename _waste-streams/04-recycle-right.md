@@ -54,11 +54,11 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 #### What can you do an individual?
 
-(i) Only put [recyclable items](/recycle/what-to-recycle/) into the blue bin. Don’t treat it like a trash bin. Follow the labels on the blue bin on what can be put inside.
+* Only put [recyclable items](/recycle/what-to-recycle/) into the blue bin. Don’t treat it like a trash bin. Follow the labels on the blue bin on what can be put inside.
 
-(ii) Make sure the recyclable items are **dry, clean and free from food and liquids**. If you have containers with food or liquids inside, [give them a simple rinse](/recycle/how-to-recycle/) before you put them into the blue bin. Otherwise you will contaminate the other recyclables and waste other people’s efforts in putting recyclables into the blue bin.
+* Make sure the recyclable items are **dry, clean and free from food and liquids**. If you have containers with food or liquids inside, [give them a simple rinse](/recycle/how-to-recycle/) before you put them into the blue bin. Otherwise you will contaminate the other recyclables and waste other people’s efforts in putting recyclables into the blue bin.
 
-(iii) No need to sort different types of recyclables for the blue bins because they will be sorted centrally.
+* No need to sort different types of recyclables for the blue bins because they will be sorted centrally.
 
 
 [Back to top](#top)
