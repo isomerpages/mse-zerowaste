@@ -47,15 +47,14 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 <a name="govt"></a>
 #### What is the government doing? 
 
-
-
-**For Consumers:**
+** Minimising food wastage**
 
 * Ongoing [food waste reduction publicity and outreach programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to increase awareness of the food waste situation in Singapore, as well as to encourage consumers to adopt smart food purchase, storage and preparation habits that can help them minimise food wastage. More than 400 Food Waste Reduction Ambassadors have also been trained to help spread the word on food waste reduction with their communities, families and friends.
 
-* Conducted a [Household Waste Study](https://www.nea.gov.sg/media/news/news/index/saving-money-the-biggest-motivation-for-households-to-reduce-food-wastage-nea-ava-survey-2015-11-20){:target="_blank"} (Nov 16 to Mar 17) to obtain quantitative data on food waste disposed of by households. Information used to aid development of food waste reduction programmes in Singapore.
+* Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} to further reduce food waste across the supply chain. The guidebooks provide a step-by-step guide and case studies to help such establishments develop a food waste minimisation plan tailored to their needs.
 
-* Embarked on household food waste segregation pilot (‘Food Waste? Don’t Waste!’ pilot) at Tampines Greenlace from August to November 2018. 
+** Developing novel solutions to treat food waste**
+
 
 **For Corporates (e.g. commercial and industrial premises):**
 
@@ -63,7 +62,7 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 * Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}. 
 
-* Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} with AVA
+
 
 * Conducted [demonstration project to co-digest food waste and used water sludge](https://www.facebook.com/PUBsg/posts/2006897306067607){:target="_blank"}. Results from a trial project have shown that the process can triple biogas yield, compared to the treatment of used water sludge alone. 
 
