@@ -66,6 +66,8 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 ![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
+* Conducted a “Food Waste, Don’t Waste!” pilot at Tampines Greenlace HDB estate, where residents segregated their food waste and disposed of it in dedicated food waste bins on the ground floor. The food waste was then recycled at Our Tampines Hub to produce fertiliser andnon-potable water.
+
 **Building up local R&D capabilities**
 
 * Looking into research & development (R&D) opportunities and considering developing pilot plants to test-bed innovative ways to recycle food waste. For example, NEA is working with the Agri-Food & Veterinary Authority (AVA) to encourage food manufacturers to carry out R&D and test-bed innovative solutions such as converting soya bean waste into useful products in our food chain. Through this and other projects, NEA hopes to build up local R&D capabilities and develop novel solutions in the management of food waste.
