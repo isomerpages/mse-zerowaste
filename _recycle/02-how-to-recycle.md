@@ -13,7 +13,7 @@ collection_name: recycle
 Do remember to practise these steps of proper recycling!
 
 **1. Use a bag or box to store your recyclables**
-*Separate reusables (clothes, shoes, stuffed toys) from recyclables. Reusables that are in good condition should be donated. Find out where you can donate the reusables [here](https://www.facebook.com/MEWRsingapore/posts/2248425458541997){:target="_blank"}!
+* Separate reusables (clothes, shoes, stuffed toys) from recyclables. Reusables that are in good condition should be donated. Find out where you can donate the reusables [here](https://www.facebook.com/MEWRsingapore/posts/2248425458541997){:target="_blank"}!
 
 **2. [Know what can or cannot be recycled](/recycle/what-to-recycle/)** 
 * Do not deposit food and liquid waste and non-recyclables into blue recycling bins.
