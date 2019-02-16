@@ -31,6 +31,9 @@ cause.
 
 A summary of NEA’s funding schemes for environmental initiatives are listed below.
 
+**Towards Zero Waste Grant**
+The [Towards Zero Waste Grant](https://www.nea.gov.sg/programmes-grants/grants-and-awards/towards-zero-waste-grant){:target="_blank"} has been created to support ground-up initiatives that drive waste reduction and recycling in any of the three key waste streams – packaging waste, food waste and electrical and electronic waste (e-waste) – or encourage households to recycle more and/or recycle right.
+
 **3P Partnership Fund**
 The 3P Partnership Fund is designed to encourage and assist organisations from the 3P sectors to work together to develop and
 implement innovative and sustainable environmental initiatives that advocate environmental responsibility and outreach to the
