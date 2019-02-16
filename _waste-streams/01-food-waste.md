@@ -161,3 +161,5 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 * [UglyFood](https://www.uglyfood.com.sg/){:target="_blank"} is an F&B social enterprise that fights food waste as a result of cosmetic filtering.
 
 * [Good for Food](https://www.goodforfood.sg/){:target="_blank"} is an IoT start-up that empowers hotels and large commercial kitchens with data analytics to understand their food waste generation and reduce their food waste, costs and environmental footprint.
+
+[Back to top](#top)
