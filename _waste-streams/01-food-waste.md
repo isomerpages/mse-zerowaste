@@ -47,33 +47,28 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 <a name="govt"></a>
 #### What is the government doing? 
 
-** Minimising food wastage**
+**Minimising food wastage**
 
 * Ongoing [food waste reduction publicity and outreach programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to increase awareness of the food waste situation in Singapore, as well as to encourage consumers to adopt smart food purchase, storage and preparation habits that can help them minimise food wastage. More than 400 Food Waste Reduction Ambassadors have also been trained to help spread the word on food waste reduction with their communities, families and friends.
 
 * Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} to further reduce food waste across the supply chain. The guidebooks provide a step-by-step guide and case studies to help such establishments develop a food waste minimisation plan tailored to their needs.
 
-** Developing novel solutions to treat food waste**
+* Ongoing [Love Your Food @ Schools](https://www.nea.gov.sg/media/news/news/index/nea-launches-love-your-food-@-schools-project-to-encourage-youth-to-cherish-and-not-waste-food){:target="_blank"} project at 10 schools to encourage students and staff to reduce the amount of food waste they generate and to garner the participation of students, staff and canteen stall holders to segregate their food waste for treatment using on-site food waste digesters.
 
 
-**For Corporates (e.g. commercial and industrial premises):**
+**Developing novel solutions to treat food waste**
 
-* Installed food waste treatment systems at 4 hawker centres - Block 628 Ang Mo Kio Ave 4 Market and Food Centre, Our Tampines Hub Hawker Centre, Jurong West Hawker Centre and Yishun Park Hawker Centre (as of Sep 2018)
+* Launched a pilot project to test the feasibility of using on-site systems to treat food waste at hawker centre. Based on the results from the pilot at Block 628 Ang Mo Kio Ave 4 Market and Food Centre, NEA has established that it is viable to use on-site systems to treat food waste at hawker centres if there is sufficient scale and active participation of the stall-holders to segregate the food waste. On-site food waste treatment systems have been implemented in seven hawker centres, and the insights gathered from the pilot are used to identify more hawker centres and markets for the implementation of food waste treatment options such as at Kampung Admiralty and Yishun Park hawker centres.
 
 * Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}. 
-
-
 
 * Conducted [demonstration project to co-digest food waste and used water sludge](https://www.facebook.com/PUBsg/posts/2006897306067607){:target="_blank"}. Results from a trial project have shown that the process can triple biogas yield, compared to the treatment of used water sludge alone. 
 
 ![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
+**Building up local R&D capabilities**
 
-
-
-**For Schools:**
-
-* Ongoing [Love Your Food @ Schools](https://www.nea.gov.sg/media/news/news/index/nea-launches-love-your-food-@-schools-project-to-encourage-youth-to-cherish-and-not-waste-food){:target="_blank"} project at 10 schools to encourage students and staff to reduce the amount of food waste they generate and to garner the participation of students, staff and canteen stall holders to segregate their food waste for treatment using on-site food waste digesters.
+* Looking into research & development (R&D) opportunities and considering developing pilot plants to test-bed innovative ways to recycle food waste. For example, NEA is working with the Agri-Food & Veterinary Authority (AVA) to encourage food manufacturers to carry out R&D and test-bed innovative solutions such as converting soya bean waste into useful products in our food chain. Through this and other projects, NEA hopes to build up local R&D capabilities and develop novel solutions in the management of food waste.
 
 
 [Back to top](#top)
