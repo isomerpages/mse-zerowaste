@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Recycling Right
-permalink: /recycling-right/
+title: Recycle Right
+permalink: /recycle-right/
 breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
