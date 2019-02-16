@@ -6,8 +6,7 @@
   img: images/denise.png
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
-
-
+  
 - title: Stories
   name: Sophia Huang
   position: Mother of Two
@@ -16,10 +15,8 @@
   img: images/sophia.png
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
-
   
-  
-  - title: Stories
+- title: Stories
   name: Lim Wei Jie
   position: Founder, Foreword Coffee
   # dept: Government Digital Services, Data Science Division
@@ -28,7 +25,7 @@
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=iMCQCh8aFzo
 
-  - title: Stories
+- title: Stories
   name: Pei Shan Yeo & Augustine Tan
   position: Co-founders, UglyFood
   # dept: Government Digital Services, Data Science Division
