@@ -17,3 +17,22 @@
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
 
+  
+  
+  - title: Stories
+  name: Lim Wei Jie
+  position: Founder, Foreword Coffee
+  # dept: Government Digital Services, Data Science Division
+  story: At the end of the day, it may be a simple cup of coffee. But I hope that through each drink, we can gradually reduce our reliance on disposables and do our bit for the world that we live in.
+  img: images/weijie.jpg
+  button-text: Read more
+  button-url: https://www.youtube.com/watch?v=iMCQCh8aFzo
+
+  - title: Stories
+  name: Pei Shan Yeo & Augustine Tan
+  position: Co-founders, UglyFood
+  # dept: Government Digital Services, Data Science Division
+  story: Many are still not aware of the issue of “ugly” food being thrown out, even though they are just as nutritious as “beautiful” ones. We want to change the perspective of how beauty is only skin-deep – there is more to it than what meets the eye!
+  img: images/uglyfood.jpg
+  button-text: Read more
+  button-url: https://www.youtube.com/watch?v=mFHnzE9P-_s
