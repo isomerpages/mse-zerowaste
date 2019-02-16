@@ -44,11 +44,10 @@ Be a role model and show support for the environment through your actions. Make 
 
 ## Funding
 
-The 3R Fund is a co-funding scheme started by NEA to encourage organisations to implement waste minimisation and recycling projects. Any organisation in Singapore, including companies, non-profit organisations, non-government organisations, town councils, schools, institutions and managing bodies such as MCSTs can apply for the 3R Fund. 
+The [Towards Zero Waste Grant](https://www.nea.gov.sg/programmes-grants/grants-and-awards/towards-zero-waste-grant){:target="_blank"} has been created to support ground-up initiatives that drive waste reduction and recycling in any of the three key waste streams – packaging waste, food waste and electrical and electronic waste (e-waste) – or encourage households to recycle more and/or recycle right.
 
-Projects with new and innovative processes and concepts, and which target waste streams with low recycling rates such as food, plastic and glass will be given higher priority.
+The [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"} is a co-funding scheme to encourage organisations to implement waste minimisation and recycling projects. Any organisation in Singapore, including companies, non-profit organisations, non-government organisations, town councils, schools, institutions and managing bodies such as MCSTs can apply for the 3R Fund. Projects with new and innovative processes and concepts, and which target waste streams with low recycling rates such as food, plastic and glass will be given higher priority.
 
-For more information, [visit NEA's website](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"} 
 
 
 ## Environmental Resource Kit
