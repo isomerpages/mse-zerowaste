@@ -54,7 +54,9 @@ When food is wasted, so are all of the resources used to grow and deliver the fo
 
 * Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} with AVA
 
-* Collected source-segregated food waste from various premises since Dec 2016 for transportation to a demonstration facility, where the food waste is co-digested with used water sludge.
+* Conducted [demonstration project to co-digest food waste and used water sludge](https://www.facebook.com/PUBsg/posts/2006897306067607){:target="_blank"}. Results from a trial project have shown that the process can triple biogas yield, compared to the treatment of used water sludge alone. 
+
+![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
 
 **For Consumers:**
