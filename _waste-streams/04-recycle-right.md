@@ -6,7 +6,7 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### 40% of what goes into recycling bins cannot be recycled. These include food and liquid waste, which contaminate other recyclables.
+### 40% of what goes into recycling bins cannot be recycled. This is because some people throw in items which are unsuitable for recycling. Others treat the blue bins as general waste bins and throw in food and liquids. This contaminates the items in the recycling bin and makes them unsuitable for recycling. The items then end up incinerated instead of recycled.
 
 -------------------
 
@@ -54,11 +54,12 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 #### What can you do an individual?
 
-*	Recycle more – deposit your waste at [designated collection points](/recycle/where-to-recycle/), eg blue bins, e-waste bins
+(i) Only put [recyclable items](/recycle/what-to-recycle/) into the blue bin. Don’t treat it like a trash bin. Follow the labels on the blue bin on what can be put inside.
 
-*	Recycle right - [Do not contaminate with food or liquid waste](/recycle/how-to-recycle/)
+(ii) Make sure the recyclable items are **dry, clean and free from food and liquids**. If you have containers with food or liquids inside, [give them a simple rinse](/recycle/how-to-recycle/) before you put them into the blue bin. Otherwise you will contaminate the other recyclables and waste other people’s efforts in putting recyclables into the blue bin.
 
-Make sure that containers are fully emptied before depositing them into the recycling bins, and food or liquid waste cannot be thrown into the recycling bins.
+(iii) No need to sort different types of recyclables for the blue bins because they will be sorted centrally.
+
 
 [Back to top](#top)
 
