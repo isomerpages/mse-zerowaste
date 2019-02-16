@@ -5,7 +5,7 @@
   story: Starting this conversation is really empowering and also educating people about what we can recycle or what we can do. So being able to see this [zero waste] awakening is very exciting for me.
   img: images/denise.png
   button-text: Read more
-  button-url: https://www.facebook.com/MEWRsingapore
+  button-url: https://www.youtube.com/watch?v=wZcNhxsKWVw
 
 
 - title: Stories
@@ -15,6 +15,23 @@
   story: I don’t like to throw something away without thinking what else it can be used for. I think it’s important to have a culture where people create and not just consume.
   img: images/sophia.png
   button-text: Read more
-  button-url: /resources/videos/sophia-huang/
+  button-url: https://www.youtube.com/watch?v=Z-QXY64hHrE
+  
+  
+  - title: Stories
+  name: Lim Wei Jie
+  position: Founder, Foreword Coffee
+  # dept: Government Digital Services, Data Science Division
+  story: At the end of the day, it may be a simple cup of coffee. But I hope that through each drink, we can gradually reduce our reliance on disposables and do our bit for the world that we live in.
+  img: images/weijie.jpg
+  button-text: Read more
+  button-url: https://www.youtube.com/watch?v=iMCQCh8aFzo
 
-
+  - title: Stories
+  name: Pei Shan Yeo & Augustine Tan
+  position: Co-founders, UglyFood
+  # dept: Government Digital Services, Data Science Division
+  story: Many are still not aware of the issue of “ugly” food being thrown out, even though they are just as nutritious as “beautiful” ones. We want to change the perspective of how beauty is only skin-deep – there is more to it than what meets the eye!
+  img: images/uglyfood.jpg
+  button-text: Read more
+  button-url: https://www.youtube.com/watch?v=mFHnzE9P-_s
