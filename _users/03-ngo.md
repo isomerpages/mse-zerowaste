@@ -29,18 +29,22 @@ cause.
 
 ## Funding schemes
 
-A summary of NEA’s funding schemes for environmental initiatives are listed below.
+**Towards Zero Waste Grant**
+
+The [Towards Zero Waste Grant](https://www.nea.gov.sg/programmes-grants/grants-and-awards/towards-zero-waste-grant){:target="_blank"} has been created to support ground-up initiatives that drive waste reduction and recycling in any of the three key waste streams – packaging waste, food waste and electrical and electronic waste (e-waste) – or encourage households to recycle more and/or recycle right.
 
 **3P Partnership Fund**
-The 3P Partnership Fund is designed to encourage and assist organisations from the 3P sectors to work together to develop and
+
+The [3P Partnership Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3p-partnership-fund){:target="_blank"} is designed to encourage and assist organisations from the 3P sectors to work together to develop and
 implement innovative and sustainable environmental initiatives that advocate environmental responsibility and outreach to the
-community. [Find out how you can make use of this fund to reach out to the community](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3p-partnership-fund){:target="_blank"}.
+community.
 
 **Call for Ideas Fund**
-The Call for Ideas Fund (CIF) provides co-funding for innovative projects by individuals or organisations that meet the NEA
-Strategic Outcomes and promote greater environmental ownership in the community. If you are looking for financial support to turn your innovative environmental idea into a reality, visit [NEA's website](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund){:target="_blank"}.
+
+The [Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund){:target="_blank"} provides co-funding for innovative projects by individuals or organisations that meet the NEA Strategic Outcomes and promote greater environmental ownership in the community. 
 
 **3R Fund**
-The 3R Fund is developed to encourage organisations to undertake waste minimisation and recycling projects that result in an increase in the amount of waste recycled or a reduction in the amount of waste generated. More information on the 3R Fund is available [here](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}.
+
+The [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"} is developed to encourage organisations to undertake waste minimisation and recycling projects that result in an increase in the amount of waste recycled or a reduction in the amount of waste generated.
 
 
