@@ -41,9 +41,7 @@ It depends on where you stay. There are four public waste collectors (PWCs) lice
 
 ### 6. Are the items placed inside recycle bins really recycled? Or does they get thrown away? 
 
-After you deposit your recyclables into the blue recycling bins, they will be collected by the recycling truck and sent to a Materials Recovery Facility (MRF) to be sorted into the different types, baled and sent to the respective recycling plants to be made into new products. You can [watch this video](/resources/videos/materials-recovery-facility) to learn more about the sorting process:
-
-www.facebook.com/NEASingapore/videos/1799735673458315/
+After you deposit your recyclables into the blue recycling bins, they will be collected by the recycling truck and sent to a Materials Recovery Facility (MRF) to be sorted into the different types, baled and sent to the respective recycling plants to be made into new products. You can [watch this video](/resources/videos/materials-recovery-facility) to learn more about the sorting process.
 
 ### 7. Why doesn't Singapore ban plastic bags or impose a levy on them?
 
