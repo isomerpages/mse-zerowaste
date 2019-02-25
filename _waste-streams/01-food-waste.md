@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Food Waste
-permalink: /waste-streams/food-waste/
+permalink: /foodwaste/
 breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
