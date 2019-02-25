@@ -34,14 +34,14 @@ Find out [collection frequencies](https://www.nea.gov.sg/our-services/waste-mana
 
 ### 5. Who collects the recyclables in my estate?
 
-It depends on where you stay. There are four public waste collectors (PWCs) licensed by NEA and they provide recycling bins and recycling collection services to different areas of Singaore.
+It depends on where you stay. There are four public waste collectors (PWCs) licensed by NEA and they provide recycling bins and recycling collection services to different areas of Singapore.
 
 [Refer to this map to find out who your public waste collector is](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"}
 
 
 ### 6. Are the items placed inside recycle bins really recycled? Or does they get thrown away? 
 
-Once recyclables are collected, they will be taken away to be sorted, bailed and then transported to reprocessors to be made into new products. However, 40% of materials placed inside the blue recycling bins are not suitable for recycling. These include non-recyclables as well as food and liquid waste, which contaminate other recyclables.
+After you deposit your recyclables into the blue recycling bins, they will be collected by the recycling truck and sent to a Materials Recovery Facility (MRF) to be sorted into the different types, baled and sent to the respective recycling plants to be made into new products. You can [watch this video](/resources/videos/materials-recovery-facility) to learn more about the sorting process.
 
 ### 7. Why doesn't Singapore ban plastic bags or impose a levy on them?
 
