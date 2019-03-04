@@ -59,7 +59,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 * Choosing products with less or green packaging. Products that have reduced packaging carry this eco-label:
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
-* Avoiding single-use disposables
+* Avoiding single-use carrier bags, bottles, takeaway cups
 * Bringing your own reusable bags, containers and utensils
 
 ![Tips for redudcing packaging](/images/packaging_issue.png)
