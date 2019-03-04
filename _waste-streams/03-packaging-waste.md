@@ -59,7 +59,7 @@ Consumer action can help nudge companies into making positive changes. You can m
 
 * Choosing products with less or green packaging. Products that have reduced packaging carry this eco-label:
 ![Logo for Products with Reduced Packaging](/images/lprp.png)
-* Avoiding single-use disposables
+* Avoiding single-use carrier bags, bottles, takeaway cups
 * Bringing your own reusable bags, containers and utensils
 
 ![Tips for redudcing packaging](/images/packaging_issue.png)
@@ -78,7 +78,7 @@ Reducing packaging waste does not just benefit the environment – it also makes
 * Reduce the size and thickness of the physical packaging produced
 * Eliminate unnecessary packaging
 * Change the way that products are packaged
-* Switch to more eco-friendly forms of packaging eg from plastic to paper 
+* Switch to more eco-friendly forms of packaging
 * Purchase the material in the proper sized container/package to reduce packaging waste
 
 [Back to top](#top)
@@ -89,7 +89,7 @@ Reducing packaging waste does not just benefit the environment – it also makes
 
 ##### What are others doing?
 
-* More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, the signatories have reduced more than 46,000 tonnes of packaging waste.
+* More than 200 companies have signed the voluntary [Singapore Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"} and made the commitment to reduce packaging waste from consumer products and the supply chain. Since the SPA was introduced in 2007, the signatories have cumulatively reduced more than 46,000 tonnes of packaging waste.
 ![Singapore Packaging Agreement](/images/singapore-packaging-agreement.png)
 
 * Zero Waste SG started the [Bring-Your-Own](http://www.byosingapore.com/){:target="_blank"} Singapore Movement in 2017 to rally retailers to offer incentives to customers who bring their own reusable bags, bottles or containers. The campaign involved 430 retail outlets and reduced over 2.5 million pieces of plastic disposables.
