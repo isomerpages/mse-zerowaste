@@ -10,18 +10,18 @@ $secondary: #ff6600;
 $secondary-hover: lighten($secondary, 10%);
 
 
-$media-color-one: #EE652B;
+$media-color-one: #3CB64B;
 $media-color-two: #3CB64C;
 $media-color-three: #3CB54B;
-$media-color-four: #3CB54B;
-$media-color-five: #3BB84B;
+$media-color-four: #3CB84A;
+$media-color-five: #3DB54A;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
-// Mixins
+// Mixins3CB64C
 
-@mixin touch() {
+@mixin touch() {3CB84A
 	@media screen and (max-width: $desktop - 1px){
     	@content
 	}
