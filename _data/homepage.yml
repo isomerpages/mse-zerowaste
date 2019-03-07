@@ -18,12 +18,6 @@ hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
 hero-banner: /images/herobanner_semakau.jpg
 
-# Call to Action Button
-button:
-  - text: Learn More
-    url: /consultation/
-
-
 # Hero Dropdown Main Text
 hero-dropdown-text: "I am..."
 
@@ -42,10 +36,10 @@ i-want-to:
 # Programmes Section
 # To edit the programme details, go to programmes.yml
 
-programmes-subtitle: Let's reduce, reuse and recycle right
-programmes-description: Singapore generated 7.7 million tonnes of waste in 2017. That’s enough to fill 15,000 Olympic-sized swimming pools. Let’s treasure our resources, and consume and recycle responsibly.
+programmes-subtitle: Zero Waste Consultation
+programmes-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
 programmes-more-button: More
-programmes-more-button-url: /zero-waste-nation/
+programmes-more-button-url: /consultation/
 
 
 resources-title: Resources
