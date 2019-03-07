@@ -18,6 +18,12 @@ hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
 hero-banner: /images/herobanner_semakau.jpg
 
+# Call to Action Button
+button:
+  - text: Learn More
+    url: /consultation/
+
+
 # Hero Dropdown Main Text
 hero-dropdown-text: "I am..."
 
