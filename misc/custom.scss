@@ -21,7 +21,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Mixins3CB64C
 
-@mixin touch() {3CB84A
+@mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
     	@content
 	}
