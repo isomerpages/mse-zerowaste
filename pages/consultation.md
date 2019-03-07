@@ -1,11 +1,13 @@
 ---
 layout: simple-page
-title: Zero Waste Consultation
+title: Public Consultation on Zero Waste Masterplan
 permalink: /consultation/
-breadcrumb: Zero Waste Consultation
+breadcrumb: Public Consultation
 ---
 
 #### Share your views 
+
+![Zero Waste Consultation](/images/zwc.jpeg)
 
 Over the years, Singapore has put in place an effective and efficient waste management system to safeguard our health and protect the environment. But our waste is growing at an unsustainable rate, as our population and economy grow. At the same time, climate change is putting increasing pressure on resources. 
 
