@@ -2,7 +2,7 @@
 layout: simple-page
 title: Public Consultation on Zero Waste Masterplan
 permalink: /consultation/
-breadcrumb: Zero Waste Consultation
+breadcrumb: Public Consultation
 ---
 
 #### Share your views 
