@@ -9,6 +9,7 @@ $primary: #737373;
 $secondary: #ff6600;
 $secondary-hover: lighten($secondary, 10%);
 
+// Resources page colors
 $media-color-one: #49759a;
 $media-color-two: #744d9f;
 $media-color-three: #00838f;
@@ -18,7 +19,7 @@ $media-color-five: #00838f;
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
-// Mixins
+// Mixins3CB64C
 
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){

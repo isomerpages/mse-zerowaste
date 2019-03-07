@@ -13,4 +13,4 @@ With waste quantities projected to continue increasing with growing affluence an
 
 Singapore has therefore adopted the following strategies encapsulated in the diagram below for a more sustainable solid waste management system. 
 
-<iframe frameborder="0" width="600" height="800" src="https://climateaction.sg/?wp_quiz_id=731"></iframe>
+
