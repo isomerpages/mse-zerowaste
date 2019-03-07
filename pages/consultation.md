@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Zero Waste Consultation
+title: Public Consultation on Zero Waste Masterplan
 permalink: /consultation/
 breadcrumb: Zero Waste Consultation
 ---
