@@ -17,4 +17,4 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 
 Join this conversation by reading the attached Public Consultation Document and [filling in the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} before 29 March 2019.
 
-<Please attach PDF of Public Consultation Document>
+[Download PDF of Public Consultation Document](/images/ZWConsultation.pdf){:target="_blank"}
