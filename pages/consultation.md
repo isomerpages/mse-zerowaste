@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Zero Waste Consultation
-permalink: /Consultation/
+permalink: /consultation/
 breadcrumb: Zero Waste Consultation
 ---
 
