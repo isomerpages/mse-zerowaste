@@ -18,6 +18,7 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 #### Join this conversation and share your views 
 
 **Step 1**: Read the [Public Consultation Document](/images/ZWConsultation.pdf){:target="_blank"} 
+
 **Step 2**: [Fill up the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} 
 
 
