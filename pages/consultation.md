@@ -22,6 +22,6 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 **Step 2**: [Fill up the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} 
 
 
-Please submit your views before **29 March 2019**.
+Please submit your views before **31 March 2019**.
 
 
