@@ -9,7 +9,7 @@ collection_name: zero-waste
 ### Singapore has designated 2019 as the Year Towards Zero Waste. We are working towards becoming a zero waste nation by reducing our consumption of materials, and reusing and recycling them to give them a second lease of life. 
 
 
-In 2017, Singapore generated over 7.7 million tonnes of waste. 
+In 2018, Singapore generated over 7.7 million tonnes of waste. 
 
 This is a **seven-fold increase** from 40 years ago, and is enough to fill 15,000 Olympic-sized swimming pools!
 
