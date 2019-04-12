@@ -23,7 +23,7 @@ Newly appointed as the teacher-in-charge for your school’s environmental progr
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/mCRl9aKBsxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-Need help to fund your environmental programmes in schools? Apply for the Environment Fund for Schools (EFS). 
+Need help to fund your environmental activities and programmes in schools? Apply for the Environment Fund for Schools (EFS). 
 
 [More information](https://www.cgs.sg/programmes/youth-for-the-environment-day/funding/environment-fund-for-schools){:target="_blank"}
 
