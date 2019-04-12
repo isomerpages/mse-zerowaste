@@ -33,15 +33,6 @@
   img: images/uglyfood.jpg
   button-text: Read more
   button-url: https://www.youtube.com/watch?v=mFHnzE9P-_s
-
-- title: Stories
-  name: Sumita Thiagarajan
-  position: Food Rescue Participant
-  # dept: Government Digital Services, Data Science Division
-  story: I hope to see more people in my community take small steps where they can, to adopt a greener lifestyle. If each of us can influence just one person, that would be a great start.
-  img: images/sumita.jpg
-  button-text: Read more
-  button-url: https://www.youtube.com/watch?v=98BvtdxqtVo
   
 - title: Stories
   name: Sofia Khanafie
