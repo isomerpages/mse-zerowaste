@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Zero Waste Food Challenge
-date:   2019-03-18
+date:   2019-03-13
 permalink: /resources/videos/zero-waste-food-challenge
 ---
 Join two families as they embark on a mission to prepare and cook a sumptuous meal. But there’s a catch: can they avoid generating food waste? With twists, turns and plenty of fun across 4 episodes, don’t miss the Zero Waste Food Challenge!
