@@ -29,7 +29,7 @@ Need help to fund your environmental activities and programmes in schools? Apply
 
 ### Youth for the Environment Day
 
-Youth for the Environment Day (YED) is NEA's key platform to engage Singapore's youth to lead, organise and participate in environmental activities, to show their passioon for and commitment to keeping Singapore clean and green. Find out how to get your students involved!
+Youth for the Environment Day (YED) is NEA's key platform to engage Singapore's youth to lead, organise and participate in environmental activities, to show their passion for and commitment to keeping Singapore clean and green. Find out how to get your students involved!
 
 [More information](https://www.cgs.sg/programmes/youth-for-the-environment-day/home){:target="_blank"}
 
