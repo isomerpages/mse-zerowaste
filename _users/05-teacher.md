@@ -20,14 +20,16 @@ Newly appointed as the teacher-in-charge for your school’s environmental progr
 [More information](https://www.cgs.sg/programmes/school-programmes/environmental-education-advisors){:target="_blank"}
 
 ### Environment Fund for schools
-
-Need help to fund your environmental programmes in schools? Apply for the Environment Fund for Schools (EFS). 
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mCRl9aKBsxA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+Need help to fund your environmental activities and programmes in schools? Apply for the Environment Fund for Schools (EFS). 
 
 [More information](https://www.cgs.sg/programmes/youth-for-the-environment-day/funding/environment-fund-for-schools){:target="_blank"}
 
 ### Youth for the Environment Day
 
-Youth for the Environment Day (YED) is a key platform to engage the youth to champion environmental ownership by leading, organising and participating in programmes to show their passion and commitment towards global and local environmental issues. Find out how to get your students involved!
+Youth for the Environment Day (YED) is NEA's key platform to engage Singapore's youth to lead, organise and participate in environmental activities, to show their passion for and commitment to keeping Singapore clean and green. Find out how to get your students involved!
 
 [More information](https://www.cgs.sg/programmes/youth-for-the-environment-day/home){:target="_blank"}
 
@@ -40,7 +42,7 @@ Pique your students' interest in environment and waste issues with experiential 
 
 ### Educational Resource Materials
 
-* [Resource packs are available for pre-school teachers](https://www.cgs.sg/programmes/pre-school-educational-resource-materials-and-programmes){:target="_blank"} 
+* [Resource packs for pre-school teachers](https://www.cgs.sg/programmes/pre-school-educational-resource-materials-and-programmes){:target="_blank"} 
 * [Downloadable resources, presentation slides, posters etc](https://www.cgs.sg/resources){:target="_blank"}  (filter by 3Rs: Reduce Reuse and Recycle)
 
 

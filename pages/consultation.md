@@ -25,3 +25,4 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 Please submit your views before **31 March 2019**.
 
 
+> Update: The public consultation has now closed. Thank you to everyone who submitted your views!

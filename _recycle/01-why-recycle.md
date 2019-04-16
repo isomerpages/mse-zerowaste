@@ -16,11 +16,11 @@ Recycling is a great way to protect the environment. Did you know that:
  
 ### Our 2030 Recycling Targets
 
-Of the waste generated in 2017, more than half - almost 4.72 million tonnes - was recycled. 
+Of the waste generated in 2018, more than half - almost 4.63 million tonnes - was recycled. 
 
 Singapore has set a national recycling rate target of 70% in 2030, with 
-* an increase in domestic recycling rate from 21% in 2017 to 30% in 2030, and 
-* an increase for non-domestic recycling rate from 76% in 2017 to 81% in 2030.
+* an increase in domestic recycling rate from 22% in 2018 to 30% in 2030, and 
+* an increase for non-domestic recycling rate from 74% in 2018 to 81% in 2030.
 
 ![Our recycling targets for 2030](/images/our-recycling-targets.png)
 

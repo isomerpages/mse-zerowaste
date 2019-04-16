@@ -21,11 +21,11 @@ collection_name: waste-streams
 #### Why is this a problem? 
 
 
-Contamination arises when wrong things are thrown into the blue recycling bin, such as food and liquid waste as well as items that cannot be recycled.
+Contamination arises when wrong things are thrown into the blue recycling bin, such as food and liquids as well as items that cannot be recycled.
 
 When this happens, this will contaminate the rest of the recyclables collected and waste the efforts of everyone. 
 
-Recyclables that are contaminated by food or liquid waste cannot be recycled which makes them no different from general waste. They will then have been disposed of, incinerated and landfilled. 
+Recyclables that are contaminated by food or liquids cannot be recycled which makes them no different from general waste. They will then have been disposed of, incinerated and landfilled. 
 
 That's why putting the right stuff in the right bin is important. 
 
@@ -38,7 +38,7 @@ That's why putting the right stuff in the right bin is important.
 <a name="govt"></a>
 #### What is the government doing? 
 
-The recycling rate for the domestic sector is currently 21%. We are making it easier for residents to recycle in order to increase the domestic recycling rate to 30% by 2030, which is one of the targets of our [Sustainable Singapore Blueprint](www.sustainablesingapore.gov.sg){:target="_blank"}. 
+The recycling rate for the domestic sector is currently 22%. We are making it easier for residents to recycle in order to increase the domestic recycling rate to 30% by 2030, which is one of the targets of our [Sustainable Singapore Blueprint](www.sustainablesingapore.gov.sg){:target="_blank"}. 
 
 Since 2014, every HDB block has been provided with a blue recycling bin - up from one bin for every five blocks. There are also dual chutes for refuse and recyclables in all new HDB flats and non-landed private residential developments.
 
@@ -56,7 +56,7 @@ This year, we will also launch the #RecycleRight movement to encourage Singapore
 
 * Only put [recyclable items](/recycle/what-to-recycle/) into the blue bin. Don’t treat it like a trash bin. Follow the labels on the blue bin on what can be put inside.
 
-* Make sure the recyclable items are **dry, clean and free from food and liquids**. If you have containers with food or liquids inside, [give them a simple rinse](/recycle/how-to-recycle/) before you put them into the blue bin. Otherwise you will contaminate the other recyclables and waste other people’s efforts in putting recyclables into the blue bin.
+* Make sure the recyclable items are not contaminated with food or liquids. 
 
 * No need to sort different types of recyclables for the blue bins because they will be sorted centrally.
 
