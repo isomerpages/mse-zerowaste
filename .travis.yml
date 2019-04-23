@@ -1,6 +1,19 @@
-language: node_js
-node_js:
-  - "8"
-branches:
-  only:
-  - master
+#.travis.yml
+git:
+  depth: 3
+
+matrix:
+  include:
+    - language: ruby
+      dist: trusty
+      script:
+        - bundle exec jekyll build
+      cache: bundler
+
+    - language: node_js
+      dist: trusty
+      node_js: "node"
+      script: node travis-script.js
+      cache: npm
+      addons:
+        chrome: stable
