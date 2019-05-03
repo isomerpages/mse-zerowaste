@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  60 Per Cent of Singaporean Households Recycle Regularly
