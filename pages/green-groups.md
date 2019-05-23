@@ -56,8 +56,6 @@ Repair Kopitiam is an initiative to bring the community together to repair so as
 Singapore Youth for Climate Action (S-Y-C-A) was co-founded by Singapore youths ready to take on responsibility of climate action, and being able to relate what we want for our shared future with decisions and negotiations happening at the global United Nations platform. 
 * [Facebook](https://www.facebook.com/sgyouthclimateaction/){:target="_blank"} 
 * [Website](https://sgyouthforclimateaction.com/){:target="_blank"} 
-* [Instagram](#){:target="_blank"} 
-
 
 ***************
 

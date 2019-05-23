@@ -21,7 +21,7 @@ Use the blue bin correctly! Recycle right with this simple checklist:
 * Check the blue bin label to confirm that your items are suitable for recycling. 
 * Common [materials that can be recycled](/recycle/what-to-recycle/) include glass, paper, plastic and metal.
 * Single-use packaging such as disposable containers and cups often cannot be recycled as they are contaminated with food.
-* While [food waste](https://isomer-mewrzerowaste-staging.netlify.com/waste-streams/food-waste/) and [e-waste](/waste-streams/e-waste/) can be recycled, they cannot be placed inside the blue recycling bins. Please refer to the respective waste stream pages to find out how they can recycled.
+* While [food waste](/foodwaste/) and [e-waste](/ewaste/) can be recycled, they cannot be placed inside the blue recycling bins. Please refer to the respective waste stream pages to find out how they can recycled.
 * Separate reusables (clothes, shoes, stuffed toys) from recyclables. Reusables that are in good condition should be donated. Find out where you can donate the reusables [here](https://www.facebook.com/MEWRsingapore/posts/2248425458541997){:target="_blank"}!
 * Do not throw trash or bulky items like furniture and renovation waste into blue recycling bins.
 
