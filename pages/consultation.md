@@ -5,9 +5,9 @@ permalink: /consultation/
 breadcrumb: Public Consultation
 ---
 
-![photo of focus group discussions](/images/fdg1.jpg)
-
 The inaugural Zero Waste Masterplan will detail our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
+
+![photo of focus group discussions](/images/fdg1.jpg)
 
 It will take a whole-of-nation effort to achieve our vision of a Zero Waste Nation. Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
