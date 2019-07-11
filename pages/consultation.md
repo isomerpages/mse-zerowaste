@@ -24,6 +24,6 @@ We thank you for your ideas and suggestions. The findings from the online consul
 
 
 ### Useful Links
-* [FGD on Adopting A Zero Waste Mindset: Towards Sustainable Consumption - 18 April 2019](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-adopting-a-zero-waste-mindset--towards-sustainable-consumption-at-mewr-hall-on-18-april-2019)
+* [FGD on Adopting A Zero Waste Mindset: Towards Sustainable Consumption - 18 April 2019](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-adopting-a-zero-waste-mindset--towards-sustainable-consumption-at-mewr-hall-on-18-april-2019){:target="_blank"}
 
-* [FGD on “Recycling Right” - 29 April 2019](https://www.mewr.gov.sg/news/opening-remarks-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-recycling-right-at-mewr-hall-on-29-april-2019)
+* [FGD on “Recycling Right” - 29 April 2019](https://www.mewr.gov.sg/news/opening-remarks-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-recycling-right-at-mewr-hall-on-29-april-2019){:target="_blank"}
