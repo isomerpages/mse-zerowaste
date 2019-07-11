@@ -7,16 +7,6 @@ breadcrumb: Public Consultation
 
 ![Zero Waste Consultation](/images/zwc.jpeg)
 
-
----
-layout: simple-page
-title: Public Consultation on Zero Waste Masterplan
-permalink: /consultation/
-breadcrumb: Public Consultation
----
-
-![Zero Waste Consultation](/images/zwc.jpeg)
-
 Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
 The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  Earlier this year, the National Environment Agency consulted more than 250 companies on measures to address our key waste streams.  More than 1,300 respondents also took part in our online public consultation in March. This was followed by two focus group discussions in April which were co-organised with NGOs [Zero Waste Singapore](XX){:target="_blank"} and [Lepak In SG](XX){:target="_blank"}.
