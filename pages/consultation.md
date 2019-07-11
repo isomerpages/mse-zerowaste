@@ -9,9 +9,18 @@ breadcrumb: Public Consultation
 
 Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
-The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  Earlier this year, the National Environment Agency consulted more than 250 companies on measures to address our key waste streams.  More than 1,300 respondents also took part in our online public consultation in March. This was followed by two focus group discussions in April which were co-organised with NGOs [Zero Waste Singapore](https://www.facebook.com/zerowastesg/){:target="_blank"} and [Lepak In SG](https://www.facebook.com/lepakinsg/){:target="_blank"}.
+The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  
+
+Earlier this year, the National Environment Agency consulted more than 250 companies on measures to address our key waste streams.  
+
+More than 1,300 respondents also took part in our online public consultation in March. This was followed by two focus group discussions in April.
 
 ![Alternative text for screen readers](/images/fdg1.jpg)
+![Alternative text for screen readers](/images/fdg2.jpg)
+![Alternative text for screen readers](/images/fdg4.jpg)
+
+![Alternative text for screen readers](/images/fgd5.jpg)
+<sup>The focus group discussions were co-organised with NGOs [Zero Waste Singapore](https://www.facebook.com/zerowastesg/){:target="_blank"} and [Lepak In SG](https://www.facebook.com/lepakinsg/){:target="_blank"}</sup>
 
 We thank you for your ideas and suggestions. The findings from the online consultation and the focus group discussions will help us formulate an actionable and sustainable Masterplan.
 
