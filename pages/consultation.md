@@ -7,22 +7,46 @@ breadcrumb: Public Consultation
 
 ![Zero Waste Consultation](/images/zwc.jpeg)
 
-Over the years, Singapore has put in place an effective and efficient waste management system to safeguard our health and protect the environment. But our waste is growing at an unsustainable rate, as our population and economy grow. At the same time, climate change is putting increasing pressure on resources. 
 
-![Zero Waste Consultation](/images/consultation.png)
+---
+layout: simple-page
+title: Public Consultation on Zero Waste Masterplan
+permalink: /consultation/
+breadcrumb: Public Consultation
+---
 
-We invite you to contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling. 
+![Zero Waste Consultation](/images/zwc.jpeg)
 
-It will take a whole-of-nation effort to create the changes we need. Your views will help to shape our path towards a Zero Waste Nation, and lay the foundation for a sustainable environment for future generations. Together, we can build a better Singapore. 
+Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
-#### Join this conversation and share your views 
-
-**Step 1**: Read the [Public Consultation Document](/images/ZWConsultation.pdf){:target="_blank"} 
-
-**Step 2**: [Fill up the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} 
-
-
-Please submit your views before **31 March 2019**.
+The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  Earlier this year, the National Environment Agency consulted more than 250 companies on measures to address our key waste streams.  More than 1,300 respondents also took part in our online public consultation in March. This was followed by two focus group discussions in April which were co-organised with NGOs [Zero Waste Singapore](XX){:target="_blank"} and [Lepak In SG](XX){:target="_blank"}.
 
 
-> Update: The public consultation has now closed. Thank you to everyone who submitted your views!
+
+We thank you for your ideas and suggestions. The findings from the online consultation and the focus group discussions will help us formulate an actionable and sustainable Masterplan.
+
+
+
+Key Findings from Online Consultation 
+
+Strong Support for Zero Waste Initiatives
+
+ 
+
+9          Some of you were among the 1,300 respondents who participated in our online consultation.
+ 
+
+10        Most of the respondents supported initiatives that enhance convenience to practise the 3Rs. For instance, 73 per cent supported making it more convenient for people to donate excess food that is not expired, in order to reduce food waste. And 86 per cent supported making it more convenient to recycle electrical and electronic equipment.
+
+ 
+
+11        Many of the respondents also agreed that changing habits, and proactive steps by the general public are important. Close to 90 per cent of the respondents supported initiatives to encourage people to “Bring Your Own”, or BYO, reusable bags and bottles.
+
+ 
+
+12        To support behaviour change, over 70 per cent of respondents also supported the redesign of labels on the blue recycling bins to provide more information on recycling. Currently, 40 per cent of what goes into our blue bins cannot be recycled because they are either non-recyclables, or because they have been contaminated by food or liquids. This is why “Recycle Right” will be the theme for our next focus group discussion on 29 April.
+
+ 
+
+13        We are grateful to the respondents who took time to share their views with us. More than half made the effort to provide additional suggestions, which was helpful. For example, there were suggestions to encourage composting in the community. There were also suggestions on leveraging technology to optimize waste collection and understand waste habits. There were al
+
