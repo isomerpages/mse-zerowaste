@@ -5,8 +5,6 @@ permalink: /consultation/
 breadcrumb: Public Consultation
 ---
 
-![Zero Waste Consultation](/images/zwc.jpeg)
-
 Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
 The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  
