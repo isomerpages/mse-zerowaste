@@ -5,6 +5,8 @@ permalink: /consultation/
 breadcrumb: Public Consultation
 ---
 
+![photo of focus group discussions](/images/fdg1.jpg)
+
 Realising the ambitions of our Zero Waste Masterplan will require strong partnerships to co-create and implement new solutions. 
 
 The government has been engaging stakeholders including companies, NGOs, research and educational institutions on our zero waste plans.  
@@ -13,7 +15,6 @@ Earlier this year, the National Environment Agency consulted more than 250 compa
 
 More than 1,300 respondents also took part in our online public consultation in March. This was followed by two focus group discussions in April.
 
-![Alternative text for screen readers](/images/fdg1.jpg)
 ![Alternative text for screen readers](/images/fdg2.jpg)
 ![Alternative text for screen readers](/images/fdg4.jpg)
 
