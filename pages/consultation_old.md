@@ -2,7 +2,7 @@
 ---
 layout: simple-page
 title: Public Consultation on Zero Waste Masterplan
-permalink: /consultation/
+permalink: /consultation.old/
 breadcrumb: Public Consultation
 ---
 
