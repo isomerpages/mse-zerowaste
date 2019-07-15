@@ -42,11 +42,18 @@ info-sections:
     section-image-path: /images/home-page/Thumbnail images_V2.1.png
     
   - section-title: 
-    section-subtitle: Zero Waste Masterplan
-    section-description: At the Digital Inclusion Festival, people from all corners of society can try out and learn how digital technology can benefit them. Filled with fun activities featuring guest appearances from popular personalities, it is a three day extravaganza not to be missed!
+    section-subtitle: Public Consultation
+    section-description:  Thank you for your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
     section-more-button: Learn more
     section-more-button-url: /consultation
-    section-image-path: /images/home-page/DIF Banner main.jpg
+    section-image-path: /images/Hm_consultation.jpg
+
+  - section-title: 
+    section-subtitle: Zero Waste Masterplan
+    section-description: Basic digital skills are used in common online activities such as searching for information, emailing or virtual chatting, transacting online, making e-payments, accessing digital government services, as well as knowledge about cyber security and online discernment. Find out how good your basic digital skills are by taking our quiz!
+    section-more-button: Take our quiz
+    section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
+    section-image-path: /images/bds/bds-left-v2.jpg
 
 # Resources
 resources-title: Resources
