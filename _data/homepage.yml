@@ -37,7 +37,7 @@ info-sections:
   - section-title: 
     section-subtitle: Citizens Workgroup
     section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Eric and Michael - one who loves doing things the old-fashioned way, the other happy to explore new ways to make his life easier – in this first episode of our 4-part video series. Guess who manages to get a cab in record time? No spoilers; watch till the end to find out!
-    section-more-button: Watch now
+    section-more-button: Learn more
     section-more-button-url: https://www.youtube.com/watch?v=zlLze5n1fas
     section-image-path: /images/home-page/Thumbnail images_V2.1.png
     
@@ -50,10 +50,10 @@ info-sections:
 
   - section-title: 
     section-subtitle: Zero Waste Masterplan
-    section-description: Basic digital skills are used in common online activities such as searching for information, emailing or virtual chatting, transacting online, making e-payments, accessing digital government services, as well as knowledge about cyber security and online discernment. Find out how good your basic digital skills are by taking our quiz!
-    section-more-button: Take our quiz
-    section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
-    section-image-path: /images/bds/bds-left-v2.jpg
+    section-description: The upcoming Zero Waste Masterplan will detail the key policies and strategies we will be implementing in the next few years, supported by industry transformation and research and development.
+    section-more-button: Learn more
+    section-more-button-url: /zero-waste-masterplan
+    section-image-path: /images/bds/Hm_masterplan.jpg
 
 # Resources
 resources-title: Resources
