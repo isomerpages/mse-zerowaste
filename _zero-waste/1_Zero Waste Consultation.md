@@ -7,7 +7,7 @@ collection_name: zero-waste
 ---
 
 
-The inaugural Zero Waste Masterplan will detail our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
+The inaugural [Zero Waste Masterplan](/zero-waste-masterplan/) will detail our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
 
 ![photo of focus group discussions](/images/fdg1.jpg)
 
