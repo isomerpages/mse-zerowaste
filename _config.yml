@@ -28,7 +28,6 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: true
 homepage_resources: true
-homepage_programmes: true
 homepage_careers: true
 
 # Feedback Form URL
