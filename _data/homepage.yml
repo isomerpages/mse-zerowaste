@@ -31,8 +31,7 @@ i-want-to:
     url: /users/ngo/
   - title: a Teacher
     url: /users/teacher/
-
-
+    
 # The Programme Sections
 info-sections:
   - section-title: 
@@ -58,8 +57,6 @@ info-sections:
     section-image-path: /images/STACK2020-CFP3.png
     section-more-button: More Information
     section-more-button-url: /stack2020-cfp
-
-
 
 
 resources-title: Resources
