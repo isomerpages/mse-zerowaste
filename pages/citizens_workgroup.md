@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Citizens Workgroup
-permalink: /citizen_workgroup/
+permalink: /citizens_workgroup/
 breadcrumb: Citizens Workgroup
 ---
 
