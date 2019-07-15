@@ -39,7 +39,7 @@ info-sections:
     section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Eric and Michael - one who loves doing things the old-fashioned way, the other happy to explore new ways to make his life easier – in this first episode of our 4-part video series. Guess who manages to get a cab in record time? No spoilers; watch till the end to find out!
     section-more-button: Learn more
     section-more-button-url: https://www.youtube.com/watch?v=zlLze5n1fas
-    section-image-path: /images/home-page/Thumbnail images_V2.1.png
+    section-image-path: /images/Hm_workgroup.jpg
     
   - section-title: 
     section-subtitle: Public Consultation
@@ -53,7 +53,7 @@ info-sections:
     section-description: The upcoming Zero Waste Masterplan will detail the key policies and strategies we will be implementing in the next few years, supported by industry transformation and research and development.
     section-more-button: Learn more
     section-more-button-url: /zero-waste-masterplan
-    section-image-path: /images/bds/Hm_masterplan.jpg
+    section-image-path: /images/Hm_masterplan.jpg
 
 # Resources
 resources-title: Resources
