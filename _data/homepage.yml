@@ -36,14 +36,14 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: Citizens Workgroup
-    section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Eric and Michael - one who loves doing things the old-fashioned way, the other happy to explore new ways to make his life easier – in this first episode of our 4-part video series. Guess who manages to get a cab in record time? No spoilers; watch till the end to find out!
+    section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     section-more-button: Learn more
-    section-more-button-url: https://www.youtube.com/watch?v=zlLze5n1fas
+    section-more-button-url: /citizens-workgroup
     section-image-path: /images/Hm_workgroup.jpg
     
   - section-title: 
     section-subtitle: Public Consultation
-    section-description:  Thank you for your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
+    section-description:  We have been consulting the public and industry stakeholders on the development of the Zero Waste Masterplan. Thank you for your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
     section-more-button: Learn more
     section-more-button-url: /consultation
     section-image-path: /images/Hm_consultation.jpg
