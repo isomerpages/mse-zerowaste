@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: #RecycleRight Citizens' Workgroup
+title: RecycleRight Citizens' Workgroup
 permalink: /citizens_workgroup/
 breadcrumb: Citizens' Workgroup
 ---
