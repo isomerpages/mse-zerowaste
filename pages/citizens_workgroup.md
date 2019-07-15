@@ -9,6 +9,9 @@ How can we encourage households in Singapore to recycle more and recycle right?
 
 We are currently recruiting participants to join the #RecycleRight Citizens' Workgroup and partner with us to co-create solutions to address our waste issues.
 
+
+![Alternative text for screen readers](/images/workgroup.jpg)
+
 As a workgroup participant, you will have the opportunity to meet and consult with subject matter experts in the wate management and recycling industry. You will also have the chance to network with fellow workgroup members to discuss ideas and come up with proposals and recommendations for implementation. 
 
 
