@@ -35,17 +35,17 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: IMReady - Where is my Taxi?
+    section-subtitle: Citizens Workgroup
     section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Eric and Michael - one who loves doing things the old-fashioned way, the other happy to explore new ways to make his life easier – in this first episode of our 4-part video series. Guess who manages to get a cab in record time? No spoilers; watch till the end to find out!
     section-more-button: Watch now
     section-more-button-url: https://www.youtube.com/watch?v=zlLze5n1fas
     section-image-path: /images/home-page/Thumbnail images_V2.1.png
     
   - section-title: 
-    section-subtitle: Digital Inclusion Festival
+    section-subtitle: Zero Waste Masterplan
     section-description: At the Digital Inclusion Festival, people from all corners of society can try out and learn how digital technology can benefit them. Filled with fun activities featuring guest appearances from popular personalities, it is a three day extravaganza not to be missed!
     section-more-button: Learn more
-    section-more-button-url: https://www2.imda.gov.sg/news-and-events/our-signature-events/Digital-Inclusion-Festival
+    section-more-button-url: /consultation
     section-image-path: /images/home-page/DIF Banner main.jpg
 
 # Resources
