@@ -1,9 +1,11 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Public Consultation on Zero Waste Masterplan
 permalink: /consultation/
-breadcrumb: Public Consultation
+breadcrumb: Zero Waste 
+collection_name: zero-waste
 ---
+
 
 The inaugural Zero Waste Masterplan will detail our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
 
