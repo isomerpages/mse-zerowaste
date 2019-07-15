@@ -39,5 +39,3 @@ MEWR/NEA will work with the public sector to take the lead in segregating food w
 From 2021, developers of new developments which are expected to be large food waste generators will be required to allocate and set aside space for on-site food waste treatment in their design plans. They will also be required to implement on-site food waste treatment from 2024.
 
 We will continue to fine-tune the details and implement the above measures through the Resource Sustainability Bill, which will be introduced later this year.
-
-The new regulations will send an economic signal to producers to take into account environmental externalities and facilitate resource recovery. It will also incentivise them to design products to last longer, improve recyclability, and reduce packaging. We will work closely with the economic agencies and businesses to reap economic opportunities in these industries, and create good jobs for Singaporeans.
