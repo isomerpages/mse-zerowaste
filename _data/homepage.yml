@@ -42,6 +42,35 @@ programmes-more-button: More
 programmes-more-button-url: /consultation/
 
 
+# The Programme Sections
+info-sections:
+  - section-title: 
+    section-subtitle: STACK-X: Experience Reimagined
+    section-description: Gain insights into the end-to-end customer journey, and learn to tap on technologies and tools that help predict and anticipate user demands for a better user experience. Join us at STACK-X: Experience Reimagined where GovTech and industry experts will share the design thinking process behind their successful customer-centric digital services and products.
+    section-image-path: /images/StackX-Experience-Reimagined-small-banner.png
+    section-more-button: Register Now
+    section-more-button-url: https://rsvp.govtechstack.sg    
+  - section-title: 
+    section-subtitle: PROGRAMME
+    section-description: Overview of STACK-X: Experience Reimagined
+    section-image-path: /images/StackX-Coming-soon.png
+    section-more-button: More Information
+  - section-title: 
+    section-subtitle: TECHNICAL WORKSHOPS
+    section-description: Workshops and deep-dive sessions that will be facilitated by GovTech engineers. Gain insights about service journeys, learn how to automate app tests and be the first to experience the sensors & IoT stack. 
+    section-image-path: /images/Breakout-track-thumbnail-V2.png
+    section-more-button: More Information
+    section-more-button-url: /images/Breakout-track-detailedv4.png
+  - section-title: 
+    section-subtitle: STACK 2020 CALL FOR PROPOSAL
+    section-description: Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020.
+    section-image-path: /images/STACK2020-CFP3.png
+    section-more-button: More Information
+    section-more-button-url: /stack2020-cfp
+
+
+
+
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
