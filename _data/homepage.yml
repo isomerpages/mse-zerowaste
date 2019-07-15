@@ -35,8 +35,8 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: RecycleRight Citizens' Workgroup
-    section-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    section-subtitle: Citizens' Workgroup
+    section-description: Partner with us to co-create solutions to encourage fellow citizens to recycle more and recycle right!
     section-more-button: Learn more
     section-more-button-url: /citizens_workgroup
     section-image-path: /images/Hm_workgroup.jpg
