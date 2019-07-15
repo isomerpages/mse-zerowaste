@@ -33,15 +33,6 @@ i-want-to:
     url: /users/teacher/
 
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title:
-programmes-subtitle: Public Consultation on Zero Waste Masterplan
-programmes-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
-programmes-more-button: More
-programmes-more-button-url: /consultation/
-
-
 # The Programme Sections
 info-sections:
   - section-title: 
