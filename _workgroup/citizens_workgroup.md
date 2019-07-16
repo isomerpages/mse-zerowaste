@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: RecycleRight Citizens' Workgroup
+title: Recycle Right Citizens Workgroup
 permalink: /citizens_workgroup/
 breadcrumb: Citizens' Workgroup
 collection_name: citizens-workgroup
