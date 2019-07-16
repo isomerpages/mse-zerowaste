@@ -6,11 +6,13 @@ breadcrumb: Citizens' Workgroup
 collection_name: citizens-workgroup
 ---
 
-# How can we improve the way we recycle at home?
+How can we improve the way we recycle at home?
 
 ### Our challenge
 
 The amount of waste disposed of in Singapore has jumped seven-fold over the past 40 years. Although we incinerate our waste to conserve space at our only landfill, Semakau Landfill will be filled up by 2035 if we continue to waste resources at our current rate. To address this, we need everyone to make it a habit to Reduce, Reuse and Recycle.
+
+![image of recycle bin](/images/Hm_workgroup.jpg)
 
 About 60 per cent of Singaporean households are already recycling regularly. Unfortunately, many do not realise that items soiled with food and liquids should not be put into the blue recycling bin. Food and liquids contaminate other recyclables in the blue bin, which then have to be trashed rather than recycled. Today, the contamination rate of blue recycling bins is high, at 40 per cent. 
 
