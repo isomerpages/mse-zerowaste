@@ -50,4 +50,4 @@ Please read these [FAQs](/citizens_workgroup_faq/) for further information about
 
 If you are keen to participate in the Workgroup, kindly register your interest [here](www.form.gov.sg) before 23 August 2019.
 
-If you are successful in your application, you will be notified via email by end-August. 
+If you are successful in your application, you will be notified via email by mid-September. 
