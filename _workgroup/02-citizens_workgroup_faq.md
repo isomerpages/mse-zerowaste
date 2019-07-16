@@ -42,7 +42,7 @@ The #RecycleRight Citizens’ Workgroup is organised by the Ministry of the Envi
 
 ### 5. Why is it important to recycle more? 
 
-In 2018 we generated almost 8 million tonnes of waste. We burn most of our waste to minimise what we send to Semakau landfill. If we continue generating waste at this rate, our one and only landfill will run out of space by 2035. 
+In 2018 we generated almost 8 million tonnes of waste. We incinerate most of our waste to minimise what we send to Semakau Landfill. If we continue generating waste at this rate, our one and only landfill will run out of space by 2035. 
 
 If we can improve the way we recycle, we can collect back items which might otherwise have been trashed. The recyclables can be made into new products such as construction materials and furniture. Recycling will therefore enable us to turn trash into treasure. This will allow us to keep our precious and finite resources in use for as long as possible, instead of drawing on new resources. This is what we call a circular economy approach.
 
@@ -57,18 +57,18 @@ NEA’s data shows that 40 per cent of items currently collected from our blue r
 ### 7.	Where and when will the Citizens’ Workgroup meet for discussions?
 	
 Participants in the Citizens’ Workgroup must attend all four full-day sessions, which will be held on the following weekends (Saturdays and Sundays): 
-	* Sat 21 Sep, 9am to 5pm
-	* Sun 22 Sep, 9am to 5pm
-	* Sat 19 Oct, 9am to 5pm
-	* Sun 20 Oct, 9am to 5pm
+* Sat 21 Sep, 9am to 5pm
+* Sun 22 Sep, 9am to 5pm
+* Sat 19 Oct, 9am to 5pm
+* Sun 20 Oct, 9am to 5pm
 
 Discussions will be conducted in English. Outside of these four sessions, participants are free to hold informal discussions amongst themselves. 
 
-The #RecycleRight Citizens’ Workgroup will be held at MEWR’s premises, located at 40 Scotts Road, Singapore 228231, Level 25. The venue is within walking distance from Newton MRT station. 
+The #RecycleRight Citizens’ Workgroup will be held at MEWR’s premises, located at Environment Building, 40 Scotts Road, Singapore 228231, Level 25. The venue is within walking distance from Newton MRT station. 
 
 ### 8. How is the Citizens’ Workgroup different from previous consultations or Focus Group Discussions on recycling?	
 	
-Consultations and Focus Group Discussions (FGDs) are usually conducted within a day. Participants exchange ideas and give feedback to the facilitators, without the need to reach a consensus. 
+[Consultations and Focus Group Discussions (FGDs)](/consultation/) are usually conducted within a day. Participants exchange ideas and give feedback to the facilitators, without the need to reach a consensus. 
 
 The Citizens’ Workgroup will meet for several sessions over a longer period of time. Participants need to work with one another to investigate various solutions (while hearing from experts), and reach a group consensus on the recommendations to submit to the Ministry. Some participants may choose to work beyond the sessions to come up with more in-depth recommendations which may be supported by pilot trials.
 
@@ -76,7 +76,7 @@ The #RecycleRight Citizens’ Workgroup’s recommendations will be published.  
 
 ### 9. What is the end outcome? How does it benefit me?
 	
-Singapore’s domestic recycling rate has been stagnating at around 20 per cent. We hope that the recommendations by the #RecycleRight Citizens’ Workgroup will go some way to help us increase this to 30 per cent – a target set out in the Sustainable Singapore Blueprint.
+Singapore’s domestic recycling rate has been stagnating at around 20 per cent. We hope that the recommendations by the #RecycleRight Citizens’ Workgroup will go some way to help us increase this to 30 per cent – a target set out in the -[Sustainable Singapore Blueprint](http://www.sustainablesingapore.gov.sg){:target="_blank"}.
 
 Participating in the #RecycleRight Citizens’ Workgroup will provide you with a deeper understanding of the recycling landscape. It will allow you to partner Government in co-creating meaningful solutions which can make an impact on our environment. You will also have the opportunity to build new partnerships with other citizens with shared values. Collectively, we can build a more active and gracious community.
 
@@ -86,7 +86,7 @@ We will cover transport expenses for all four sessions of the Citizens’ Workgr
 
 ### 11.	Sounds good – where do I sign up? When is the latest I must sign up?
 
-Please register your interest by [completing the form](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"} or call 6516 5603 between 9am and 5pm, from Monday to Friday. Please sign up by 23 August 2019.
+Please register your interest by [completing the form](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"} or call 6516 5603 between 9am and 5pm, from Monday to Friday. Please sign up by **23 August 2019**.
 
 ### 12.	When will I know if I have been selected?
 
@@ -94,4 +94,4 @@ We will inform you by mid-September if you are selected.
 
 ### 13.	Who can I contact if I require further assistance?
 
-Please email Ms Dawina Kaur Khaira or Mr Vincent Koh if you have further queries.
+Please email [mewr_feedback@mewr.gov.sg](mailto:mewr_feedback@mewr.gov.sg?subject=Recycle Right Citizens Workgroup) if you have further queries.
