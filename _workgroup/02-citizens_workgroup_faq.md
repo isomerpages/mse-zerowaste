@@ -30,11 +30,11 @@ Through the Citizens’ Workgroup, we aim to go beyond consulting citizens, to w
 	
 We are selecting around 50 citizens and Permanent Residents (PRs) from diverse backgrounds. MEWR already has existing platforms to engage partners (e.g. Partners for the Environment Forum and [Zero Waste Masterplan Consultation Sessions](/consultation/), but we also want to hear from citizens who have not been previously involved in these engagements. These may include those who actively recycle, do not recycle, and those who are keen to recycle but feel that they do not have enough information to do so. The aim is to work with a diverse group of citizens to co-create solutions that are by citizens, for citizens. 
 
-We also welcome partners or individuals active in the waste and recycling scene to be involved in the #RecycleRight Citizens’ Workgroup as resource persons. The Workgroup participants can then tap on the experience and technical knowledge of these partners to ensure that their recommendations are well-informed and robust. Partners and active individuals can volunteer to be resource persons by emailing Ms [Dawina Kaur Khaira](mailto:dawina_kaur_khaira@mewr.gov.sg) or Mr Vincent Koh <vincent_koh@mewr.gov.sg>. MEWR will call on the resource persons based on the requirements of the Citizens’ Workgroup.
+We also welcome partners or individuals active in the waste and recycling scene to be involved in the #RecycleRight Citizens’ Workgroup as resource persons. The Workgroup participants can then tap on the experience and technical knowledge of these partners to ensure that their recommendations are well-informed and robust. Partners and active individuals can volunteer to be resource persons by emailing Ms [Dawina Kaur Khaira](mailto:dawina_kaur_khaira@mewr.gov.sg) or Mr [Vincent Koh](mailto:vincent_koh@mewr.gov.sg)]. MEWR will call on the resource persons based on the requirements of the Citizens’ Workgroup.
 	
 ### 3.Can I be in the Citizens’ Workgroup if I am not a Singaporean?
 	
-You must be a Singaporean or PR to be eligible. Non-Singaporeans are welcome to volunteer for involvement as a resource person. 
+You must be a Singaporean or Permanent Resident to be eligible. Non-Singaporeans are welcome to volunteer for involvement as a resource person. 
 
 ### 4. Who is organising the #RecycleRight Citizens’ Workgroup?
 
@@ -48,7 +48,7 @@ If we can improve the way we recycle, we can collect back items which might othe
 
 ### 6. Why is it important to improve the way we recycle at home? 
 
-Under the National Recycling Programme (NRP), the public waste collectors (PWCs) licensed by the National Environment Agency (NEA) are required to provide recycling bins and recycling collection services to all HDB estates, private landed properties, and some condominiums/private apartments. 
+Under the [National Recycling Programme (NRP)](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/national-recycling-programme){:target="_blank"}, the public waste collectors (PWCs) licensed by the National Environment Agency (NEA) are required to provide recycling bins and recycling collection services to all HDB estates, private landed properties, and some condominiums/private apartments. 
 
 The NRP uses a commingled collection system, ie, residents can throw paper, plastic, glass and metal recyclables into one blue recycling bin. These recyclables are then collected and sorted at the Material Recovery Facilities. 
 
