@@ -31,17 +31,31 @@ i-want-to:
     url: /users/ngo/
   - title: a Teacher
     url: /users/teacher/
+    
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Citizens' Workgroup
+    section-description: Close to 40% of what goes inside our blue recycling bins cannot be recycled. This is because people put in things that cannot be recycled or contaminate the recyclables with food and liquids. We are recruiting Singaporeans to work with us to co-create solutions to improve the way we recycle at home.
+    section-more-button: Learn more
+    section-more-button-url: /citizens_workgroup
+    section-image-path: /images/Hm_workgroup.jpg
 
+  - section-title: 
+    section-subtitle: Public Consultation
+    section-description:  We have been consulting the public and industry stakeholders on the development of the Zero Waste Masterplan. Thank you for your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
+    section-more-button: Learn more
+    section-more-button-url: /consultation
+    section-image-path: /images/Hm_consultation.jpg
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title:
-programmes-subtitle: Public Consultation on Zero Waste Masterplan
-programmes-description: Contribute your views on how we can pursue more sustainable consumption and production, and build a strong culture of reducing, reusing and recycling.
-programmes-more-button: More
-programmes-more-button-url: /consultation/
+  - section-title: 
+    section-subtitle: Zero Waste Masterplan
+    section-description: The upcoming Zero Waste Masterplan will detail the key policies and strategies we will be implementing in the next few years, supported by industry transformation and research and development.
+    section-more-button: Learn more
+    section-more-button-url: /zero-waste-masterplan
+    section-image-path: /images/Hm_masterplan.jpg
 
-
+# Resources
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
