@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Recycle Right Citizens Workgroup
 permalink: /citizens_workgroup/
 breadcrumb: Citizens' Workgroup
-collection_name: citizens-workgroup
+collection_name: workgroup
 ---
 
 How can we improve the way we recycle at home?  
