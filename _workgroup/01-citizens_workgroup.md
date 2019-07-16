@@ -6,7 +6,7 @@ breadcrumb: Citizens' Workgroup
 collection_name: citizens-workgroup
 ---
 
-How can we improve the way we recycle at home?
+How can we improve the way we recycle at home?  
 
 ### Our challenge
 
