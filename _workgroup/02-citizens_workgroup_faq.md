@@ -16,11 +16,11 @@ The amount of waste disposed of in Singapore has jumped seven-fold over the past
 
 About 60 per cent of Singaporean households are already recycling regularly. Unfortunately, many do not realise that items soiled with food and liquids should not be put into the blue recycling bin. Food and liquids contaminate other recyclables in the blue bin, which then have to be trashed rather than recycled. Today, the contamination rate of blue recycling bins is high, at 40 per cent. 
 
-If we can improve the way we recycle, we can collect back items which might otherwise have been trashed. The recyclables can be made into new products such as construction materials and furniture. Recycling will therefore enable us to turn trash into treasure. This will allow us to keep our precious and finite resources in use for as long as possible, instead of drawing on new resources. This is what we call a circular economy approach. 
+If we can improve the way we recycle, we can collect back items which might otherwise have been trashed. The recyclables can be made into new products such as construction materials and furniture. Recycling will therefore enable us to turn trash into treasure. This will allow us to keep our precious and finite resources in use for as long as possible, instead of drawing on new resources. This is what we call a [circular economy](/circular-economy/) approach. 
 
 #### Join us!
 
-The Ministry of the Environment and Water Resources (MEWR) is working with the Institute of Policy Studies (IPS) to recruit Singaporeans to form a Citizens’ Workgroup. The Workgroup will work with MEWR to co-create solutions to improve the way we recycle at home.  
+The [Ministry of the Environment and Water Resources (MEWR)](http://www.mewr.gov.sg){:target="_blank"} is working with the [Institute of Policy Studies (IPS)](https://lkyspp.nus.edu.sg/ips){:target="_blank"} to recruit Singaporeans to form a Citizens’ Workgroup. The Workgroup will work with MEWR to co-create solutions to improve the way we recycle at home.  
 
 Participants will be given access to background information about household recycling in Singapore. They will also be given access to policy-relevant information like household recycling surveys as well as resource persons who can share their expertise and help with the piloting and implementation of solutions. 
 
@@ -30,7 +30,7 @@ Through the Citizens’ Workgroup, we aim to go beyond consulting citizens, to w
 	
 We are selecting around 50 citizens and Permanent Residents (PRs) from diverse backgrounds. MEWR already has existing platforms to engage partners (e.g. Partners for the Environment Forum and Zero Waste Masterplan Consultation Sessions), but we also want to hear from citizens who have not been previously involved in these engagements. These may include those who actively recycle, do not recycle, and those who are keen to recycle but feel that they do not have enough information to do so. The aim is to work with a diverse group of citizens to co-create solutions that are by citizens, for citizens. 
 
-We also welcome partners or individuals active in the waste and recycling 	scene to be involved in the #RecycleRight Citizens’ Workgroup as resource persons. The Workgroup participants can then tap on the experience and technical knowledge of these partners to ensure that their recommendations are well-informed and robust. Partners and active individuals can volunteer to be resource persons by emailing Ms Dawina Kaur Khaira or Mr Vincent Koh. MEWR will call on the resource persons based on the requirements of the Citizens’ Workgroup.
+We also welcome partners or individuals active in the waste and recycling scene to be involved in the #RecycleRight Citizens’ Workgroup as resource persons. The Workgroup participants can then tap on the experience and technical knowledge of these partners to ensure that their recommendations are well-informed and robust. Partners and active individuals can volunteer to be resource persons by emailing Ms Dawina Kaur Khaira or Mr Vincent Koh. MEWR will call on the resource persons based on the requirements of the Citizens’ Workgroup.
 	
 ### 3.Can I be in the Citizens’ Workgroup if I am not a Singaporean?
 	
