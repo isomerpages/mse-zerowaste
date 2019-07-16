@@ -52,7 +52,7 @@ collections:
     output: true
   waste-streams:
     output: true
-  citizens-workgroup:
+  workgroup:
     output: true
 resources_name: resources
 
