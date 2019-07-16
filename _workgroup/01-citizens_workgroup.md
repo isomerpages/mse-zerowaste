@@ -48,6 +48,6 @@ Please read these [FAQs](/citizens_workgroup_faq/) for further information about
 
 ### Register your interest 
 
-If you are keen to participate in the Workgroup, kindly register your interest [here](www.form.gov.sg) before 23 August 2019.
+If you are keen to participate in the Workgroup, kindly register your interest [here](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"} before 23 August 2019.
 
 If you are successful in your application, you will be notified via email by mid-September. 
