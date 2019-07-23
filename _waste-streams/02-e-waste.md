@@ -6,7 +6,7 @@ breadcrumb: Our Focus Areas
 collection_name: waste-streams
 ---
 
-### Singapore generates about 60,000 tonnes of e-waste a year. That’s equivalent to discarding about 73 mobile phones per person in Singapore! This number is expected to increase with greater spending power and new technologies constantly replacing old ones. 
+### Singapore generates about 60,000 tonnes of e-waste a year. That’s equivalent to discarding about 70 mobile phones per person in Singapore! This number is expected to increase with greater spending power and new technologies constantly replacing old ones. 
 
 -------------------
 

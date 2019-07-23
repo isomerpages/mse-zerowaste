@@ -72,6 +72,14 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 * Looking into research & development (R&D) opportunities and considering developing pilot plants to test-bed innovative ways to recycle food waste. For example, NEA is working with the Agri-Food & Veterinary Authority (AVA) to encourage food manufacturers to carry out R&D and test-bed innovative solutions such as converting soya bean waste into useful products in our food chain. Through this and other projects, NEA hopes to build up local R&D capabilities and develop novel solutions in the management of food waste.
 
+**Legislation**
+
+From 2024, large commercial and industrial food waste generators will be required to segregate their food waste for treatment. Such premises include large hotels and malls, and large industrial developments housing food manufacturers, food caterers and food storage warehouses.
+
+MEWR/NEA will work with the public sector to take the lead in segregating food waste for treatment in large public sector buildings where a significant amount of food waste is generated, from 2021 onwards.
+
+From 2021, developers of new developments which are expected to be large food waste generators will be required to allocate and set aside space for on-site food waste treatment in their design plans. They will also be required to implement on-site food waste treatment from 2024.
+
 
 [Back to top](#top)
 
