@@ -17,7 +17,7 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 
 #### Join this conversation and share your views 
 
-**Step 1**: Read the <a href="/images/ZWConsultation.pdf" onClick="ga('send', 'event', { eventCategory: 'download', eventAction: 'click', eventLabel: 'consultationPDF'});">Public Consultation Document</a>
+**Step 1**: Read the <a href="/images/ZWConsultation.pdf" onclick="ga('send', 'event', 'PDF', 'Download', 'PDF Download');">Public Consultation Document</a>
 
 **Step 2**: [Fill up the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} 
 
@@ -26,3 +26,6 @@ Please submit your views before **31 March 2019**.
 
 
 > Update: The public consultation has now closed. Thank you to everyone who submitted your views!
+
+
+
