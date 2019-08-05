@@ -6,6 +6,8 @@ breadcrumb: Citizens' Workgroup
 collection_name: workgroup
 ---
 
+> Sign up for the #RecycleRight Citizens' Workgroup [here](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"}
+
 How can we improve the way we recycle at home?  
 
 ### Our challenge
