@@ -16,7 +16,9 @@ google-analytics: UA-131465347-1
 # Hero Banner
 hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
-hero-banner: /images/herobanner_semakau.jpg
+#hero-banner: /images/herobanner_semakau.jpg
+hero-banner:/images/zwmcover.png
+
 
 # Hero Dropdown Main Text
 hero-dropdown-text: "I am..."
