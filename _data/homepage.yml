@@ -14,9 +14,9 @@ agency-logo: /images/Zerowastelogo-01.png
 google-analytics: UA-131465347-1
 
 # Hero Banner
-hero-title: "Zero Waste Masterplan"
+hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
-hero-banner: /images/zwmcover.png
+hero-banner: /images/herobanner_semakau.jpg
 
 
 # Hero Dropdown Main Text
@@ -54,8 +54,8 @@ info-sections:
     section-description: The upcoming Zero Waste Masterplan will detail the key policies and strategies we will be implementing in the next few years, supported by industry transformation and research and development.
     section-more-button: Learn more
     section-more-button-url: /zero-waste-masterplan
-    section-image-path: /images/Hm_masterplan2.png
-
+    section-image-path: /images/Hm_masterplan.jpg
+    
 # Resources
 resources-title: Resources
 resources-subtitle: Be in the know
