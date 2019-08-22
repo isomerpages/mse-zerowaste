@@ -32,6 +32,9 @@ three key principles:
 
 * Third, plans and policies should be focused on the long term and cater to the local context, with an integrated approach to achieve better synergies and resource efficiencies
 
+
+![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
+
 These principles have guided our policies on
 waste management, and will continue to do
 so as we confront environmental challenges
@@ -58,6 +61,8 @@ shocks worldwide, in turn giving rise to crises
 like food shortages – a serious concern for
 Singapore where 90% of food products are
 imported.
+
+![Photo of refuse bunker in incineration plant](/images/ch1_flood.jpg)
 
 #### OUR THROWAWAY CULTURE
 
