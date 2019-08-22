@@ -8,7 +8,7 @@ collection_name: zero-waste
 
 ### Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
 
-
+![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
 
 #### The case for “Zero Waste”
 
@@ -21,7 +21,7 @@ replenished, and the burning of fossil fuels
 has caused the build-up of greenhouse gases
 and rising global temperatures.
 
-As the global community shifts towards lowcarbon
+As the global community shifts towards low-carbon
 economies to ensure a sustainable
 future, Singapore plays our part by following
 three key principles:
@@ -33,7 +33,7 @@ three key principles:
 * Third, plans and policies should be focused on the long term and cater to the local context, with an integrated approach to achieve better synergies and resource efficiencies
 
 
-![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
+
 
 These principles have guided our policies on
 waste management, and will continue to do
@@ -55,6 +55,8 @@ longer dry spells. And when there is respite
 from the scorching heat, the rainfall is more
 frequent and intense.
 
+![Photo of roads flooded](/images/ch1_flood.jpg)
+
 Such erratic weather patterns will only
 worsen resource constraints and supply
 shocks worldwide, in turn giving rise to crises
@@ -62,7 +64,7 @@ like food shortages – a serious concern for
 Singapore where 90% of food products are
 imported.
 
-![Photo of refuse bunker in incineration plant](/images/ch1_flood.jpg)
+
 
 #### OUR THROWAWAY CULTURE
 
