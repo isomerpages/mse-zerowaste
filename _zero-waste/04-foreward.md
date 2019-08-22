@@ -1,18 +1,16 @@
 ---
 layout: leftnav-page-content
-title: Zero Waste Masterplan - Foreword
+title: Foreword
 permalink: /foreward/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
 
 
-MR MASAGOS ZULKIFLI
-MINISTER FOR THE ENVIRONMENT
-AND WATER RESOURCES
-DR AMY KHOR
-SENIOR MINISTER OF STATE FOR
-THE ENVIRONMENT AND WATER RESOURCES
+By
+Mr Masagos Zulkifli, Minister for the Environment and Water Resources and
+Dr Amy Khor, Senior Minister of State for the Environment and Water Resources
+
 
 Singapore’s inaugural Zero Waste Masterplan is an important step
 towards our vision of a Zero Waste Nation. It encapsulates the
@@ -34,26 +32,24 @@ Semakau Landfill, will run out of space by 2035 at current waste
 disposal rates.
 
 To overcome these challenges, and seize the opportunities in them,
-we must collectively build three new resiliences. Economic resilience
-to ensure a robust economy that thrives in a carbon- and resourceconstrained
-world. Climate resilience to ensure Singapore is prepared
-to tackle the effects of climate change. And Resource resilience to
-safeguard our access to critical resources, such as food, water and
-energy.
+we must collectively build three new resiliences:
+* **Economic resilience** to ensure a robust economy that thrives in a carbon- and resource constrained world 
+* **Climate resilience** to ensure Singapore is prepared to tackle the effects of climate change
+* **Resource resilience** to safeguard our access to critical resources, such as food, water and energy.
 
 The Masterplan will lay out Singapore’s strategies to build these
 resiliences. Our economy is currently based on the linear “take-makedispose”
 model. We want to move away from this, towards a circular
 one that reuses resources endlessly. To do this, we have set ourselves
-an ambitious target – we will reduce the amount of waste (per capita)
-that we send to landfill by 30% by 2030. This is on top of our existing
+an ambitious target – **we will reduce the amount of waste (per capita)
+that we send to landfill by 30% by 2030**. This is on top of our existing
 target to achieve a 70% overall recycling rate by 2030. We can achieve
 these targets through sustainable production and consumption, and
 transforming trash into treasure.
 
 Sustainable production involves changing the way we do business.
 Climate change, resource constraints and growing consumer demands
-for sustainability means companies will need new capabilities to
+for sustainability mean companies will need new capabilities to
 produce more with less. Products have to be designed more efficiently
 and processes re-engineered. We will also need to push the boundaries
 of applied science and develop new circular economy solutions. The
