@@ -10,7 +10,7 @@ collection_name: zero-waste
   <tr>
     <th><img src="/images/Minister.jpg" alt="Photo of Mr Masagos Zulkifli, Minister for the Environment and Water Resources"></th>
     <th>Mr Masagos Zulkifli, Minister for the Environment and Water Resources</th>
-    <th><img src="" alt="Photo of Dr Amy Khor, Senior Minister of State for the Environment and Water Resources"></th>
+    <th><img src="/images/SMS.jpg" alt="Photo of Dr Amy Khor, Senior Minister of State for the Environment and Water Resources"></th>
     <th>Dr Amy Khor, Senior Minister of State for the Environment and Water Resources</th>
   </tr>
 </table>
@@ -66,7 +66,7 @@ partnership with industry and academia. In short, the problems that come
 with climate change are also opportunities for companies to position their
 businesses for.
 
-![Photo of Year Towards Zero Waste Launch](/images/fdg1.jpg)
+![Photo of Year Towards Zero Waste Launch](/images/launchofytzw.jpg)
 
 Sustainable consumption, on the other hand, starts with us – a change
 in our mindsets and behaviours. We designated 2019 as the Year
