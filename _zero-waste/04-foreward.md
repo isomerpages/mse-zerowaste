@@ -31,6 +31,8 @@ urbanisation, which contributes to more waste. Indeed, our only landfill,
 Semakau Landfill, will run out of space by 2035 at current waste
 disposal rates.
 
+![Semakau Landfill](/images/semakau.jpg)
+
 To overcome these challenges, and seize the opportunities in them,
 we must collectively build three new resiliences:
 * **Economic resilience** to ensure a robust economy that thrives in a carbon- and resource constrained world 
@@ -58,6 +60,8 @@ partnership with industry and academia. In short, the problems that come
 with climate change are also opportunities for companies to position their
 businesses for.
 
+![Photo of Year Towards Zero Waste Launch](/images/fdg1.jpg)
+
 Sustainable consumption, on the other hand, starts with us – a change
 in our mindsets and behaviours. We designated 2019 as the Year
 Towards Zero Waste to build a national consciousness to care for the
@@ -70,6 +74,8 @@ changes through co-creation. A Citizens’ Workgroup to improve household
 recycling in Singapore will start work in the coming months. Our quest
 towards “Zero Waste” will be a long journey but we are heartened by the
 strong start.
+
+![Photo of focus group discussions on zero waste masterplan](/images/fdg1.jpg)
 
 The Government has taken the lead to catalyse the transition to a circular
 economy. We have introduced the landmark Resource Sustainability Act to
