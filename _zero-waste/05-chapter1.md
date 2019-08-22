@@ -1,4 +1,3 @@
-
 ---
 layout: leftnav-page-content
 title: Chapter 1 - Towards a Zero Waste Nation
