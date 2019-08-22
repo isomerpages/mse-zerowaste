@@ -32,6 +32,8 @@ Semakau Landfill, will run out of space by 2035 at current waste
 disposal rates.
 
 ![Semakau Landfill](/images/semakau.jpg)
+<caption>Semakau Landfill</caption>
+*Semakau Landfill*
 
 To overcome these challenges, and seize the opportunities in them,
 we must collectively build three new resiliences:
