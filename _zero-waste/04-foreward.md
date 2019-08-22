@@ -46,7 +46,7 @@ we must collectively build three new resiliences:
 * **Resource resilience** to safeguard our access to critical resources, such as food, water and energy.
 
 The Masterplan will lay out Singapore’s strategies to build these
-resiliences. Our economy is currently based on the linear “take-makedispose”
+resiliences. Our economy is currently based on the linear “take-make-dispose”
 model. We want to move away from this, towards a circular
 one that reuses resources endlessly. To do this, we have set ourselves
 an ambitious target – **we will reduce the amount of waste (per capita)
@@ -67,6 +67,7 @@ with climate change are also opportunities for companies to position their
 businesses for.
 
 ![Photo of Year Towards Zero Waste Launch](/images/launchofytzw.jpg)
+<caption>Minister Masagos Zulkifli at the launch of the Year Towards Zero Waste</caption>
 
 Sustainable consumption, on the other hand, starts with us – a change
 in our mindsets and behaviours. We designated 2019 as the Year
@@ -93,7 +94,7 @@ treatment regulations for food waste. Extended Producer Responsibility
 will also cover packaging waste no later than 2025.
 
 Even as we transform our trash into treasure, the global demand for waste
-management and recycling solutions is projected to grow. McKinsey has
+management and recycling solutions is projected to grow. [McKinsey](https://www.mckinsey.com/industries/chemicals/our-insights/how-plastics-waste-recycling-could-transform-the-chemical-industry){:target="_blank"} has
 highlighted the potential for a fourfold increase in plastics reuse and
 recycling by 2030. This would generate US$60 billion in profit-pool growth
 for the global petrochemicals and plastics sector. Such trends will drive
