@@ -6,10 +6,14 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-
-By
-Mr Masagos Zulkifli, Minister for the Environment and Water Resources and
-Dr Amy Khor, Senior Minister of State for the Environment and Water Resources
+<table class="tg">
+  <tr>
+    <th><img src="/images/Minister.jpg" alt="Photo of Mr Masagos Zulkifli, Minister for the Environment and Water Resources"></th>
+    <th>Mr Masagos Zulkifli, Minister for the Environment and Water Resources</th>
+    <th><img src="" alt="Photo of Dr Amy Khor, Senior Minister of State for the Environment and Water Resources"></th>
+    <th>Dr Amy Khor, Senior Minister of State for the Environment and Water Resources</th>
+  </tr>
+</table>
 
 
 Singapore’s inaugural Zero Waste Masterplan is an important step
@@ -33,7 +37,7 @@ disposal rates.
 
 ![Semakau Landfill](/images/semakau.jpg)
 <caption>Semakau Landfill</caption>
-*Semakau Landfill*
+
 
 To overcome these challenges, and seize the opportunities in them,
 we must collectively build three new resiliences:
@@ -78,6 +82,7 @@ towards “Zero Waste” will be a long journey but we are heartened by the
 strong start.
 
 ![Photo of focus group discussions on zero waste masterplan](/images/fdg1.jpg)
+<caption>Focus Group Discussions for the Zero Waste Masterplan</caption>
 
 The Government has taken the lead to catalyse the transition to a circular
 economy. We have introduced the landmark Resource Sustainability Act to
