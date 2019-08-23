@@ -420,3 +420,69 @@ ongoing, with recommendations targeted to be
 ready in 2020.</p>
 
 </div>
+
+
+### Sustainable consumption
+
+Rising disposable income levels have
+led to more comfortable lives for current
+generations. But as our affluence grows, so
+does our consumption of goods and services.
+This in turn generates waste, with the amount
+of waste disposed of in Singapore increasing
+by over seven times over the last 40 years.
+
+How we consume is influenced by social
+norms, such as pressure to over-order food at
+meals, keep up with fashion trends, or get the
+latest mobile phone model.
+
+To promote more sustainable consumption,
+we need to do more and better with less. This
+can be achieved by having a reduce and reuse
+mindset, and by shifting towards the use of
+green products.
+
+#### REDUCE
+
+To reduce waste, we need to be conscious
+consumers, mindful of the materials and
+energy poured into every product or meal.
+
+**The ongoing fight to curb food waste**
+The battle to cut food waste is intensifying,
+with more organisations joining hands
+to spread the message of sustainable
+consumption.
+
+The NEA launched a food waste reduction
+publicity and outreach programme in
+November 2015 to raise awareness of
+Singapore’s food waste situation and
+encourage consumers to adopt smart food
+purchase, storage and preparation habits to
+help them minimise food wastage.
+
+Informational advertisements and
+educational videos on practical ways to
+reduce food waste were featured on various
+mass media platforms to reach the public.
+A comprehensive handy guide was also
+developed and made available online and
+distributed at community events. It provided
+tips on reducing food waste in different
+scenarios, such as when cooking at home,
+eating out or organising events.
+
+The NEA has been ramping up engagement
+efforts, such as talks, food waste reduction
+demonstrations and other activities with
+support from the Food Waste Reduction
+Ambassadors (FWRAs) programme. To date,
+more than 400 ambassadors have been
+trained to help spread the word on food waste
+reduction to their communities, families
+and friends.
+
+![Alternative text for screen readers](/images/ch2_food_waste_launch.jpg)
+<caption> The NEA’s food waste reduction publicity and outreach programme was launched in November 2015. In 2019, the key message was to encourage everyone to “Buy, Order or Cook Just Enough”</caption>
