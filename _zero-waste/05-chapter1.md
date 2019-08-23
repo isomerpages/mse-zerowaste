@@ -77,7 +77,6 @@ problem across the globe.
 
 ![Photo of mountain of trash](/images/ch1_mountain_of_trash.jpg)
 
-
 The world’s population continues to swell,
 projected to hit almost 10 billion by 2050.
 This, along with economic growth, increasing
@@ -130,7 +129,6 @@ At the same time, businesses and citizens are developing a growing awareness of 
 
 There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the 2030 Agenda for Sustainable Development (2030 Agenda) and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
 
-
 ![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
 
 The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2<sup>o</sup>C above pre-industrial levels, and strive to limit temperature increase to 1.5<sup>o</sup>C.
@@ -153,7 +151,6 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
     <td>Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints</td>
   </tr>
 </table>
-
 
 To do so, Singapore will play our part in the
 global effort to protect our planet.
@@ -214,12 +211,14 @@ forward against these challenges. As we do
 this, Singapore will move closer towards our
 vision of a Zero Waste Nation.
 
-
 #### Overcoming the environmental challenges of our past
 
 Singapore in the 1960s and 1970s was
 marked by night soil buckets, water rationing,
 and unhygienic street hawkers.
+
+![Night soil carrier](/images/ch1_night_soil_bucket.jpg)
+<caption>Night soil carrier Photo: Courtesy of National Archives of Singapore</caption>
 
 Workers shovelled refuse from open roadside
 bin points onto pushcarts, and discarded
@@ -235,13 +234,9 @@ of decomposing refuse and caused pest
 problems, both made worse by the hot and
 humid weather.
 
-
 ![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
 <caption>Inspection on garbage collection</caption>
-<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
-
-
-
+<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption
 
 ### The solid waste journey
 
