@@ -57,6 +57,6 @@ the island’s biodiversity.
 
 ![Semakau Landfill](/images/ch1_semakau_infographic.jpg)
 
-# Related Links
+#### Related Links
 
-* [Booking Form for Visit to Semakau Landfill] (https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"}
+* [Booking Form for Visit to Semakau Landfill](https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"}
