@@ -369,3 +369,54 @@ closing waste loops at the district level, such
 as by converting food waste into useful
 products like compost, which can be used
 for landscaping.
+
+<div style="background-color: #eeddca; padding: 5px">
+  
+<h3>STUDYING THE CIRCULAR ECONOMY ON JURONG ISLAND</h3>
+
+<p>Singapore is home to Jurong Island – one
+of the top 10 chemical parks in the world
+and a key anchor for Singapore’s energy
+and chemicals industry. It is an example of
+industrial symbiosis, facilitated by shared
+infrastructure and an inter-connected
+industrial cluster. To remain competitive,
+Jurong Island companies have been seeking
+to optimise resources, such as water and
+energy, and also to minimise waste in their
+own plants.</p>
+
+<img src="/images/ch2_jurong_island">
+<caption>Aerial view of Jurong Island. Photo: JTC</caption>
+
+<p>The close proximity of related industries on
+Jurong Island provides an ecosystem where one
+company’s product can become the feedstock
+of another. For example, waste from some
+companies is burnt to generate steam for
+industrial use. Similarly, wastewater is recovered
+and recycled for industrial use.</p>
+
+<p>However, there are limitations to the efforts by
+individual companies. Increasingly, companies
+are recognising the importance of collaboration
+so as to jointly discover opportunities for further
+resource optimisation at the systems level.</p>
+
+<p>To deepen this industrial symbiosis, companies
+on Jurong Island have come together to support
+a study commissioned by JTC Corporation (JTC)
+– the Jurong Island Circular Economy Study. The
+study seeks to bring about environmental and
+economic gains for companies by mapping out
+the current water, energy, and waste flows on
+Jurong Island, and to identify further synergies
+and reduce resource use at the systems level.</p>
+
+<p>It is the next step towards positioning Jurong
+Island as an economically and environmentally
+sustainable chemicals park. The study is
+ongoing, with recommendations targeted to be
+ready in 2020.</p>
+
+</div>
