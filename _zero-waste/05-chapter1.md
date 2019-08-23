@@ -153,3 +153,66 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
     <td>Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints</td>
   </tr>
 </table>
+
+
+To do so, Singapore will play our part in the
+global effort to protect our planet.
+
+We have put forward an ambitious climate
+pledge under the Paris Agreement to reduce
+our emissions intensity by 36% below 2005
+levels by 2030 and stabilise our emissions
+with the aim of peaking around 2030.
+
+We are also committed to implementing the
+17 SDGs under the Government’s long-term
+agenda, with the aim of uplifting our people’s
+lives while protecting the environment and
+ensuring social inclusion.
+
+Our efforts in this Zero Waste Masterplan
+will particularly support:
+
+›› SDG 12: Responsible Consumption
+and Production
+›› SDG 13: Climate Action
+›› SDG 14: Life Below Water
+
+![Photo of Minister Masagos Zulkifli at the 2018 United Nations High-Level Political Forum on Sustainable Development](/images/ch1_national_statement.jpg)
+<caption>Minister for the Environment and Water Resources, Mr Masagos Zulkifli, presented Singapore’s first Voluntary
+National Review of the SDGs at the 2018 United Nations High-Level Political Forum on Sustainable Development</caption>
+
+In a resource- and carbon-constrained
+world, we need to adopt a circular economy
+approach, where scarce resources are valued
+and kept in use for as long as possible.
+
+By conserving resources, we can also
+reduce greenhouse gas emissions from
+production and the incineration of waste.
+These will help mitigate climate change.
+
+A circular economy approach will also
+provide new economic opportunities
+by creating synergies across the water,
+energy, food and waste sectors to enhance
+resource efficiency.
+
+By investing in innovation, Singapore
+can become a leader in urban solutions
+for sustainable cities, similar to how the
+nation paved the way for water treatment
+technologies. These solutions can
+subsequently be exported to Asia and
+beyond.
+
+Climate change is a clear and present
+danger and time is ticking away at our
+only landfill. There is a growing affirmation
+that sustainability is an issue that requires
+everyone to work together to ensure
+survival and success. The circular economy
+approach is the best, if not the only, way
+forward against these challenges. As we do
+this, Singapore will move closer towards our
+vision of a Zero Waste Nation.
