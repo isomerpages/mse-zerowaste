@@ -156,11 +156,13 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 To do so, Singapore will play our part in the
 global effort to protect our planet.
 
-We have put forward an ambitious climate
-pledge under the Paris Agreement to reduce
+We have put forward an ambitious [climate
+pledge under the Paris Agreement](https://climateaction.sg/2019/08/14/singapores-pledge-under-the-paris-agreement/){:target="_blank"} to reduce
 our emissions intensity by 36% below 2005
 levels by 2030 and stabilise our emissions
 with the aim of peaking around 2030.
+
+![our climate pledge](https://i1.wp.com/climateaction.sg/wp-content/uploads/2019/08/page5-01.jpg?w=1229&ssl=1)
 
 We are also committed to implementing the
 17 SDGs under the Government’s long-term
