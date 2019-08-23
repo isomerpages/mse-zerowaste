@@ -210,12 +210,7 @@ Panel, global material resource use is
 expected to double between 2015 and 2050
 based on current trends.
 
-The report highlighted the need to adopt
-resource efficiency policies and initiatives,
-which could save $2.9 to $3.7 trillion a year by
-2030. This will also cut resource use by 26%
-and reduce greenhouse gas emissions by
-around 20% by 2050.
+The report highlighted the need to adopt resource efficiency policies and initiatives, which could save $2.9 to $3.7 trillion a year by 2030. This will also cut resource use by 26% and reduce greenhouse gas emissions by around 20% by 2050.
 
 This global shift towards greater resource
 efficiency presents opportunities for
