@@ -6,7 +6,7 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-#### Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
+### Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
 
 ![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
 
@@ -111,6 +111,8 @@ Even though climate change and growing
 resource constraints are key challenges for
 Singapore, we can turn these challenges into
 opportunities.
+
+![Plastic Pellets](/images/ch1_plastic_pellets.jpg)
 
 Technological advances have allowed us
 to explore solutions to problems that were
