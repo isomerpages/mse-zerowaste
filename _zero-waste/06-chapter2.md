@@ -126,3 +126,21 @@ solutions and technologies that enable us
 to turn our waste into resources, such as
 through the use of incineration bottom ash by
 turning it into [NEWSand](/newsand/).
+
+
+<div style="background-color: #eeddca;">
+
+#### WHAT DOES THE WASTE-TO-LANDFILL REDUCTION TARGET MEAN FOR EACH PERSON?
+
+Today, each person disposes of 800g of
+waste per day.
+
+To achieve our waste-to-landfill reduction
+target of 30%, each person needs to reduce
+the total amount of waste they dispose of
+per day to 640g by 2030. This adds up to a
+reduction of about 30 bananas or 15 glass
+bottles per month. It’s that simple!
+
+![our zero waste targets](/images/ch2_bananas.png)
+</div>
