@@ -386,7 +386,7 @@ to optimise resources, such as water and
 energy, and also to minimise waste in their
 own plants.</p>
 
-<img src="/images/ch2_jurong_island">
+<img src="/images/ch2_jurong_island.jpg">
 <caption>Aerial view of Jurong Island. Photo: JTC</caption>
 
 <p>The close proximity of related industries on
