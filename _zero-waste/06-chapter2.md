@@ -686,3 +686,27 @@ adopt a green procurement policy.
 <caption>Need a chiller box for a house party or a trolley to move some furniture? These items can be
 borrowed from your nearby RC or Residents’ Network (RN) Resource Centre. PA launched the
 Resource Centre @ RC in 2016 across 460 RCs in Singapore. Photo: PA</caption>
+
+The Government has adopted a green
+public procurement policy under the Public
+Sector Taking the Lead in Environmental
+Sustainability (PSTLES) initiative. For example, all Government agencies are
+required to purchase energy efficient
+appliances with minimum MELS ticks,
+and white printing paper certified by SGLS.
+
+
+#### How do we manage waste sustainably?
+
+Living more sustainable lifestyles means
+reducing how much we consume and reusing
+our items where possible. When these are not
+feasible, recycling comes in, helping us to turn
+waste into resources.
+
+Singapore has had some success, recycling
+60% of its waste since 2012 by focusing on
+individual waste streams. This has led to a
+nearly 100% recycling rate for Construction
+and Demolition (C&D) waste, ferrous and nonferrous
+metals.
