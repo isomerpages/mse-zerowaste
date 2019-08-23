@@ -75,6 +75,9 @@ seemingly harmless, and even common
 actions, are creating a mounting waste
 problem across the globe.
 
+![Photo of mountain of trash](/images/ch1_mountain_of_trash.jpg)
+
+
 The world’s population continues to swell,
 projected to hit almost 10 billion by 2050.
 This, along with economic growth, increasing
@@ -126,6 +129,9 @@ potentially replacing the need for sand.
 At the same time, businesses and citizens are developing a growing awareness of the need to do their part for the environment. More citizens are channelling their energies towards driving change from the ground up, while businesses are incorporating sustainability into their business models, in ways that benefit both the environment and the economy. These new business models will create new, good economic opportunities and jobs for the future economy. One such area is in e-waste recycling, where valuable precious metals are recovered from waste, turning trash into treasure.
 
 There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the 2030 Agenda for Sustainable Development (2030 Agenda) and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
+
+
+![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
 
 The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2oC above pre-industrial levels, and strive to limit temperature increase to 1.5oC.
 
