@@ -257,7 +257,7 @@ Government agencies to develop and implement
 sustainable manufacturing technologies.
 
 
-<div style="background-color: #bee3f0; padding: 5px; font-color: #fff">
+<div style="background-color: #bee3f0; padding: 5px;">
   
 <h3>TWEAKS IN PACKAGING SAVES COMPANY MATERIALS AND MONEY</h3>
 
