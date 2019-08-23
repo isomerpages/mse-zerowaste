@@ -450,6 +450,7 @@ consumers, mindful of the materials and
 energy poured into every product or meal.
 
 **The ongoing fight to curb food waste**
+
 The battle to cut food waste is intensifying,
 with more organisations joining hands
 to spread the message of sustainable
@@ -485,7 +486,7 @@ reduction to their communities, families
 and friends.
 
 ![Alternative text for screen readers](/images/ch2_food_waste_launch.jpg)
-<caption> The NEA’s food waste reduction publicity and outreach programme was launched in November 2015. In 2019, the key message was to encourage everyone to “Buy, Order or Cook Just Enough”</caption>
+<caption>The NEA’s food waste reduction publicity and outreach programme was launched in November 2015. In 2019, the key message was to encourage everyone to “Buy, Order or Cook Just Enough”</caption>
 
 Four years on, as part of the 2019 Year
 Towards Zero Waste, the NEA partnered 25
@@ -507,3 +508,8 @@ stickers, wallscapes and pillar wraps, and
 an edutainment web series that inspires
 viewers to incorporate food waste reduction
 practices into their day-to-day lives.
+
+![Launch of Say YES To Waste Less campaign at IKEA Tampines](/images/ch2_sayyestowasteless_campaign.jpg)
+<caption>Launch of Say YES To Waste Less campaign at IKEA Tampines on 8 June 2019. The event was
+launched by Senior Minister of State for the Environment and Water Resources, Dr Amy Khor</caption>
+
