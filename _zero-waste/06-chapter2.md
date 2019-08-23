@@ -83,5 +83,4 @@ Singapore to reintroduce up to almost
 our system each day.
 
 ![Alternative text for screen readers](/images/ch2_water_loop.png)
-<caption>Closing the water loop in Singapore
-Credit: PUB</caption>
+<caption>Closing the water loop in Singapore. Credit: PUB</caption>
