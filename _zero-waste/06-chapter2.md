@@ -851,3 +851,38 @@ completed by mid-2020.
 ![New blue bin label](/images/ch2_blue_bin_label.jpg)
 <caption>New blue recycling bin label helps residents #RecycleRight</caption>
 
+We also recognise that it is important to
+make recycling convenient and to make it a
+habit in order to boost household recycling.
+Surveys conducted by MEWR and the NEA
+in 2018 found that 60% of households
+recycle regularly at home. Finding recycling
+convenient and developing a habit of recycling
+were factors that encouraged them to recycle. 
+
+Therefore, since August 2019, the NEA has
+been in partnership with IKEA Singapore to
+provide residents of Build-to-Order flats in new
+HDB precincts with a free household recycling
+bin. This bin, redeemable via a voucher at
+IKEA Singapore stores, will make it easier for
+residents to recycle in their own home.
+
+As we move beyond household recycling to
+encourage further conversion of waste into
+resources, we will be turning to legislative
+or economic measures. As recycling grows,
+we will need the recycling industry to
+grow in tandem. Hence, we are supporting
+the development of the industry through
+the Environmental Services Industry
+Transformation Map. All these efforts will be
+supported by research and development and
+our crucial 3P partners.
+
+Together, these will help close the loop on
+more waste streams as we adopt a circular
+economy approach.
+
+![Recycling receptacle for new HDB homeowners](/images/ch2_recycling_receptacle.jpg)
+<caption>Recycling receptacle for new HDB homeowners</caption>
