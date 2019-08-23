@@ -213,3 +213,29 @@ approach is the best, if not the only, way
 forward against these challenges. As we do
 this, Singapore will move closer towards our
 vision of a Zero Waste Nation.
+
+
+#### Overcoming the environmental challenges of our past
+
+Singapore in the 1960s and 1970s was
+marked by night soil buckets, water rationing,
+and unhygienic street hawkers.
+
+Workers shovelled refuse from open roadside
+bin points onto pushcarts, and discarded
+them at open dumping grounds across
+the island.
+
+This form of waste collection was irregular
+and inefficient. In 1964, only around 60% of
+each day’s refuse was cleared. Refuse often
+piled up along roads, in back alleys and other
+common areas. This left streets reeking
+of decomposing refuse and caused pest
+problems, both made worse by the hot and
+humid weather.
+
+
+![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
+<caption>Inspection on garbage collection</caption>
+<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
