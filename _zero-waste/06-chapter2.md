@@ -88,8 +88,8 @@ our system each day.
 
 ### SETTING NEW TARGETS TOWARDS ZERO WASTE
 
-Under the Sustainable Singapore Blueprint
-2015, we set the 2030 target of increasing
+Under the [Sustainable Singapore Blueprint
+2015](http://www.sustainablesingapore.gov.sg){:target="_blank"}, we set the 2030 target of increasing
 our national recycling rate to 70%, domestic
 recycling rate to 30% and non-domestic
 recycling rate to 81%.
