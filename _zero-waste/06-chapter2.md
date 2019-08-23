@@ -281,3 +281,5 @@ Packaging Agreement Awards in 2017.</p>
 <img src="/images/ch2_greenpac.jpg" alt="Greenpac">
 <caption>Photos: Greenpac (S) Pte Ltd</caption>
 
+</div>
+
