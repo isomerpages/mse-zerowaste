@@ -82,5 +82,21 @@ Singapore to reintroduce up to almost
 800,000 m<sup>3</sup> of ultra-pure recycled water into
 our system each day.
 
-![Alternative text for screen readers](/images/ch2_water_loop.png)
+![Closing the water loop](/images/ch2_water_loop.png)
 <caption>Closing the water loop in Singapore. Credit: PUB</caption>
+
+
+###SETTING NEW TARGETS TOWARDS ZERO WASTE
+
+Under the Sustainable Singapore Blueprint
+2015, we set the 2030 target of increasing
+our national recycling rate to 70%, domestic
+recycling rate to 30% and non-domestic
+recycling rate to 81%.
+
+Through the adoption of the circular economy
+approach and the efforts outlined in this
+Masterplan, we want to go beyond
+these targets.
+
+![our zero waste targets](/images/ch2_targets.png)
