@@ -249,7 +249,7 @@ do this.
 
 At the same time, the Sustainable Manufacturing
 Centre (SMC) of the Agency for Science,
-Technology and Research (A*STAR) aims to
+Technology and Research (A-STAR) aims to
 promote sustainability in the manufacturing
 industry by bringing industry associations and
 the research community together to work with
