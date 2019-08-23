@@ -86,7 +86,7 @@ our system each day.
 <caption>Closing the water loop in Singapore. Credit: PUB</caption>
 
 
-###SETTING NEW TARGETS TOWARDS ZERO WASTE
+### SETTING NEW TARGETS TOWARDS ZERO WASTE
 
 Under the Sustainable Singapore Blueprint
 2015, we set the 2030 target of increasing
