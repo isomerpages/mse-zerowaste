@@ -6,12 +6,11 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-## Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
+#### Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
 
 ![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
 
 ### The case for “Zero Waste”
-
 
 At the heart of Singapore’s rapid development
 lies an inconvenient question: Is it
@@ -31,9 +30,6 @@ three key principles:
 * Second, everyone must work together to achieve the best outcome
 
 * Third, plans and policies should be focused on the long term and cater to the local context, with an integrated approach to achieve better synergies and resource efficiencies
-
-
-
 
 These principles have guided our policies on
 waste management, and will continue to do
@@ -101,10 +97,13 @@ we would need to build a new incineration
 plant every 7 to 10 years. By 2035, the
 ash generated from incineration may have
 nowhere to go as Singapore’s only landfill,
-Semakau Landfill, is projected to run out of
+[Semakau Landfill](/semakau_landfill/), is projected to run out of
 space by then. This compels us to drastically
 cut the amount of waste we throw away to
 conserve it for as long as possible.
+
+![Semakau Landfill](/images/semakau.jpg)
+<caption>Semakau Landfill</caption>
 
 #### SEIZING OPPORTUNITIES IN SUSTAINABILITY
 
@@ -127,7 +126,7 @@ potentially replacing the need for sand.
 
 At the same time, businesses and citizens are developing a growing awareness of the need to do their part for the environment. More citizens are channelling their energies towards driving change from the ground up, while businesses are incorporating sustainability into their business models, in ways that benefit both the environment and the economy. These new business models will create new, good economic opportunities and jobs for the future economy. One such area is in e-waste recycling, where valuable precious metals are recovered from waste, turning trash into treasure.
 
-There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the 2030 Agenda for Sustainable Development (2030 Agenda) and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
+There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the [2030 Agenda for Sustainable Development (2030 Agenda)](https://www.un.org/sustainabledevelopment/development-agenda/){:target="_blank"} and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
 
 ![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
 
@@ -257,7 +256,8 @@ of Environment (ENV) in 1972, now called
 the Ministry of the Environment and Water
 Resources (MEWR).
 
-![Map of seven district offices](/images/ch1_district_map.png)<caption>Map of seven district offices</caption>
+![Map of seven district offices](/images/ch1_district_map.png)
+<caption>Map of seven district offices</caption>
 
 A district-based solid refuse collection system
 was set up. Daily refuse collection services
@@ -302,4 +302,57 @@ that continues till today.
 ![Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste](/images/ch1_old_campaign_posters.jpg)
 <caption>Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste</caption>
 
+#### PIONEERS IN TURNING WASTE TO ENERGY
 
+Reducing waste to just one-tenth of its
+volume while generating electricity sounds
+like a great way to make the most of our
+waste.
+
+But this was unimaginable in the 1970s in
+Singapore.
+
+It was only done in some parts of Europe and
+Japan, which adopted waste-to-energy (WTE)
+incineration, where electricity was generated
+from waste incineration. These WTE plants
+were also expensive.
+
+But faced with a shortage of land for
+landfilling, Singapore took a bold step in 1973
+to build the first WTE plant in Asia outside of
+Ulu Pandan Refuse Incineration Plant
+Japan. In 1979, Singapore’s first WTE plant,
+located at Ulu Pandan, was completed at a
+cost of $130 million, a hefty investment at the
+time.
+
+![Ulu Pandan Refuse Incineration Plant](/images/ch1_ulu_pandan_IP.jpg)
+<caption>Ulu Pandan Refuse Incineration Plant</caption>
+
+Singapore took a $25 million loan from the
+World Bank to fund the project, which marked
+the first time the international financial
+institution supported the construction of a
+WTE plant.
+
+Since then, four other WTE plants have been
+commissioned – Tuas Incineration Plant
+(1986), Senoko WTE Plant (1992), Tuas South
+Incineration Plant (2000) and Keppel Seghers
+Tuas WTE Plant (2009). Together, they
+incinerate about 7,600 tonnes of waste a day.
+
+By reducing the volume of waste by up to
+90%, while generating electricity that is sold
+to the grid, incineration has been an effective
+method of waste disposal for Singapore.
+
+While Singapore has achieved our aim of
+developing a waste management system
+that has safeguarded public health, we can
+do more. We can recover valuable materials
+from waste. This involves a paradigm shift to
+manage our waste in new, more sustainable
+ways to deal with our growing resource
+constraints.
