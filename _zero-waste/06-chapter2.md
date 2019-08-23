@@ -513,3 +513,74 @@ practices into their day-to-day lives.
 <caption>Launch of Say YES To Waste Less campaign at IKEA Tampines on 8 June 2019. The event was
 launched by Senior Minister of State for the Environment and Water Resources, Dr Amy Khor</caption>
 
+**Tackling single-use disposables**
+
+Just as important is the need to address the
+problem of disposables that are often used
+for only a short period before being thrown
+away.
+
+The Say YES to Waste Less campaign was
+launched on 8 June 2019 to build public
+awareness on excessive consumption, the
+impact on Singapore’s environment and future
+generations, and the need for reduction.
+
+With the campaign message, “Make the Right
+Choice. Choose Reusables”, consumers were
+encouraged to take simple, actionable steps to
+reduce their impact on the environment. They
+could start simply by using a reusable bottle,
+bag or food container instead of disposables.
+
+At its launch, the campaign brought
+together 59 partners, with support from
+over 1,600 outlets and premises from
+across the F&B, retail, commercial and
+community sectors. These partners helped
+to nudge consumers to make the right
+choice at points of consumption using a
+wide range of initiatives. These included
+visual reminders at cashier points, training
+of cashiers and providing incentives for
+using reusables.
+
+The campaign also included district events
+and 100 roadshows in collaboration with
+the community to build awareness and
+encourage action.
+
+To further reduce the use of disposables,
+the NEA disallowed their use for dine-in
+at new hawker centres such as at Our
+Tampines Hub, Pasir Ris Central and
+Yishun Park. The NEA has also extended
+this requirement to new stallholders
+operating in existing hawker centres.
+
+There has also been increasing support from
+the private sector to tackle the excessive
+use of disposables. Several F&B retail
+outlets such as KFC Singapore, Burger King
+Singapore and Resorts World Sentosa no
+longer provide plastic straws at their outlets.
+Yakult Singapore also started selling its
+probiotic cultured milk drink without straws.
+
+Packaging-free grocery stores have also
+emerged, where packaging is eliminated.
+They encourage customers to bring their
+own containers, and allow them to buy what
+they need instead of a pre-packaged amount.
+These stores also offer more competitive
+prices as going without packaging reduces
+the cost of its products by an estimated
+10%, allowing customers to save both the
+environment and money.
+
+![Ms Florence Tay and Mr Jeff Lam of UnPackt](/images/ch2_unpackt.jpg)
+<caption>Opened in 2018 by Ms Florence Tay and Mr Jeff Lam, the aim of social enterprise UnPackt is to encourage
+consumption consciousness so that customers only buy what they need. This also provides fresher food items while
+generating less packaging and food waste. Another core objective of UnPackt is to educate the public about zero
+waste through workshops, community outreach with schools and corporations, and collaborations with like-minded
+social enterprises. Photo: UnPackt Pte Ltd</caption>
