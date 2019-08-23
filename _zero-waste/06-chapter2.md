@@ -256,21 +256,28 @@ the research community together to work with
 Government agencies to develop and implement
 sustainable manufacturing technologies.
 
-#### TWEAKS IN PACKAGING SAVES COMPANY MATERIALS AND MONEY
 
-By making a crucial material swap, a packaging
-company helped its client save money.
+<div style="background-color: #3d91ad; padding: 5px">
+  
+<h3>TWEAKS IN PACKAGING SAVES COMPANY MATERIALS AND MONEY</h3>
 
-Instead of packing its client’s product – a Field
+<p>By making a crucial material swap, a packaging
+company helped its client save money.</p>
+
+<p>Instead of packing its client’s product – a Field
 Replacement Unit (FRU) – in a polypropylene
 moulded case, Greenpac (S) Pte Ltd designed a
 paper carton box with polyethylene foam which
-did the job just as well.
+did the job just as well.</p>
 
-This reduced the overall weight of packaging from
+<p>This reduced the overall weight of packaging from
 5 kg to 1.5 kg, saving 53,000 kg of packaging
-material and $6,000 in material costs per year.
+material and $6,000 in material costs per year.</p>
 
-This, and several other initiatives, won Greenpac
+<p>This, and several other initiatives, won Greenpac
 an Excellence Award (SMEs) at the Singapore
-Packaging Agreement Awards in 2017.
+Packaging Agreement Awards in 2017.</p>
+
+<img src="/images/ch2_greenpac.jpg" alt="Greenpac">
+<caption>Photos: Greenpac (S) Pte Ltd</caption>
+
