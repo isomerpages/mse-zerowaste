@@ -283,3 +283,44 @@ Packaging Agreement Awards in 2017.</p>
 
 </div>
 
+
+#### BRINGING TRANSFORMATIVE TECHNOLOGIES TO THE INDUSTRY
+
+The Model Factory @ Advanced
+Remanufacturing and Technology Centre
+of A-STAR offers capabilities and expertise
+in three areas underpinning smart
+manufacturing. It provides companies with
+a platform to learn how technologies are
+implemented in manufacturing use-cases
+or test process improvements without
+disrupting their own operations.
+
+![Advanced Remanufacturing and Technology Centre](/images/ch2_ARTC.jpg)
+
+**Secure connectivity and intelligent system**
+Real-time analytics allows for decentralised
+decision making, while condition monitoring
+provides data for predictive model and
+optimisation. Together, they make factories
+more intelligent, and in turn more agile and
+efficient.
+
+**Virtual manufacturing**
+With a full digital footprint of a factory, every
+machine and process will generate real-time
+information that will provide the data required
+for optimisation, decision-making, planning and
+learning. Meanwhile, virtual design will shorten the
+product design life cycle and the need for physical
+prototypes. The use of augmented reality will help in
+training operators and machine maintenance.
+
+**End-to-end solutions**
+The end-to-end digital thread, from customer-specific
+orders, product design and manufacturing to aftersales
+service, provides seamless data exchange
+and new business opportunities. These digital
+threads also enable better supply chain
+management and management of distributed
+manufacturing assets globally.
