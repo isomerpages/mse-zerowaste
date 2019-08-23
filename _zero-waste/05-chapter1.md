@@ -325,7 +325,6 @@ were also expensive.
 But faced with a shortage of land for
 landfilling, Singapore took a bold step in 1973
 to build the first WTE plant in Asia outside of
-Ulu Pandan Refuse Incineration Plant
 Japan. In 1979, Singapore’s first WTE plant,
 located at Ulu Pandan, was completed at a
 cost of $130 million, a hefty investment at the
@@ -359,4 +358,4 @@ do more. We can recover valuable materials
 from waste. This involves a paradigm shift to
 manage our waste in new, more sustainable
 ways to deal with our growing resource
-constraints.
+constraints. [Read more about the science behind incineration](/science_behind_incineration/)
