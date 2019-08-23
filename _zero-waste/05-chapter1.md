@@ -6,11 +6,11 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-### Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
+## Singapore has an efficient waste collection and disposal system. But if we wish to meet the new environmental challenges we face and continue to grow sustainably, we would need to change the way we view waste management and encourage everyone to consume less and conserve more.
 
 ![Photo of refuse bunker in incineration plant](/images/ch1_refuse_bunker.jpg)
 
-#### The case for “Zero Waste”
+### The case for “Zero Waste”
 
 
 At the heart of Singapore’s rapid development
@@ -239,3 +239,24 @@ humid weather.
 ![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
 <caption>Inspection on garbage collection</caption>
 <caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
+
+
+
+
+### The solid waste journey
+
+Our waste management needs started
+changing from the 1970s. Singaporeans
+were moving from kampongs to high-rise
+apartments, and competition for land became
+more intense as the country developed.
+
+#### CLEANING UP OUR STREETS THROUGH WASTE COLLECTION
+
+To safeguard public health and avoid disease
+outbreaks, we had to devise an organised
+waste collection system.
+This prompted the formation of the Ministry
+of Environment (ENV) in 1972, now called
+the Ministry of the Environment and Water
+Resources (MEWR).
