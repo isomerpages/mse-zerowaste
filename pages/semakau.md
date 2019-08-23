@@ -5,7 +5,7 @@ permalink: /semakau_landfill/
 breadcrumb: Zero Waste Masterplan
 ---
 
-### SEMAKAU LANDFILL: AN ENGINEERING MARVEL AND HAVEN FOR BIODIVERSITY
+### AN ENGINEERING MARVEL AND HAVEN FOR BIODIVERSITY
 
 Endangered birds such as the great-billed
 heron and Malaysian plover call Pulau
@@ -20,7 +20,7 @@ also home to a fish farm.
 Looking at the landscape, it may be hard to
 believe that this is a landfill. Some have even
 called it the “Garbage of Eden”. The 350 ha
-landfill is able to contain 28 million m3 of
+landfill is able to contain 28 million m<sup>3</sup> of
 waste. Semakau Landfill was the brainchild of
 engineers at then-ENV, who proposed turning
 the sea space between Pulau Sakeng and
@@ -56,3 +56,7 @@ for intertidal walks to allow everyone to enjoy
 the island’s biodiversity.
 
 ![Semakau Landfill](/images/ch1_semakau_infographic.jpg)
+
+# Related Links
+
+* [Booking Form for Visit to Semakau Landfill] (https://www.nea.gov.sg/e-services-forms/forms/booking-form-for-visit-to-nea-s-incineration-plants-and-semakau-landfill){:target="_blank"}
