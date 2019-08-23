@@ -143,9 +143,9 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 
 <table class="tg">
   <tr>
-    <th>Resource resilience</th>
-    <th>Climate resilience</th>
-    <th>Economic resilience</th>
+    <th width=33%">RESOURCE RESILIENCE</th>
+    <th width=33%">CLIMATE RESILIENCE</th>
+    <th>ECONOMIC RESILIENCE</th>
   </tr>
   <tr>
     <td>Secure our critical resources, such as food, water and materials, through optimisation and recovery of treasure from trash</td>
@@ -173,14 +173,7 @@ ensuring social inclusion.
 Our efforts in this Zero Waste Masterplan
 will particularly support:
 
-›› SDG 12: Responsible Consumption
-and Production
-›› SDG 13: Climate Action
-›› SDG 14: Life Below Water
-
-![Photo of Minister Masagos Zulkifli at the 2018 United Nations High-Level Political Forum on Sustainable Development](/images/ch1_national_statement.jpg)
-<caption>Minister for the Environment and Water Resources, Mr Masagos Zulkifli, presented Singapore’s first Voluntary
-National Review of the SDGs at the 2018 United Nations High-Level Political Forum on Sustainable Development</caption>
+![SDG](/images/ch1_sdg121314.png)
 
 In a resource- and carbon-constrained
 world, we need to adopt a circular economy
@@ -197,6 +190,10 @@ provide new economic opportunities
 by creating synergies across the water,
 energy, food and waste sectors to enhance
 resource efficiency.
+
+![Photo of Minister Masagos Zulkifli at the 2018 United Nations High-Level Political Forum on Sustainable Development](/images/ch1_national_statement.jpg)
+<caption>Minister for the Environment and Water Resources, Mr Masagos Zulkifli, presented Singapore’s first Voluntary
+National Review of the SDGs at the 2018 United Nations High-Level Political Forum on Sustainable Development</caption>
 
 By investing in innovation, Singapore
 can become a leader in urban solutions
