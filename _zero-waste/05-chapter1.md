@@ -141,6 +141,15 @@ We need to act now to ensure that Singapore is prepared to seize these opportuni
 
 To prepare Singapore for the future, we must build 3 “Resiliences”:
 
-* Climate resilience – Do our part to mitigate climate change and protect Singapore from its effects
-* Economic resilience – Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints
-* Resource resilience – Secure our critical resources, such as food, water and materials, through optimisation and recovery of treasure from trash
+<table class="tg">
+  <tr>
+    <th>Resource resilience</th>
+    <th>Climate resilience</th>
+    <th>Economic resilience</th>
+  </tr>
+  <tr>
+    <td>Secure our critical resources, such as food, water and materials, through optimisation and recovery of treasure from trash</td>
+    <td>Do our part to mitigate climate change and protectSingapore from its effects</td>
+    <td>Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints</td>
+  </tr>
+</table>
