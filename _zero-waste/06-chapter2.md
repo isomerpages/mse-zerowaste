@@ -486,3 +486,24 @@ and friends.
 
 ![Alternative text for screen readers](/images/ch2_food_waste_launch.jpg)
 <caption> The NEA’s food waste reduction publicity and outreach programme was launched in November 2015. In 2019, the key message was to encourage everyone to “Buy, Order or Cook Just Enough”</caption>
+
+Four years on, as part of the 2019 Year
+Towards Zero Waste, the NEA partnered 25
+hawker centres and organisations such as
+Dairy Farm Singapore, NTUC FairPrice, Prime
+Supermarket and Sheng Siong Supermarket,
+as well as schools and Institutes of Higher
+Learning, to engage consumers at points-ofconsumption.
+
+Together, they promote three key actions that
+consumers can adopt to reduce food waste
+– order only what you can finish, ask for less
+rice or noodles if you cannot finish them and
+to say “no” to side dishes you will not eat.
+
+Among the campaign’s features were visual
+reminders, such as wobblers, table-top
+stickers, wallscapes and pillar wraps, and
+an edutainment web series that inspires
+viewers to incorporate food waste reduction
+practices into their day-to-day lives.
