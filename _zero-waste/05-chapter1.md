@@ -133,7 +133,7 @@ There has been a shift towards sustainable growth on the global stage as well, w
 
 ![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
 
-The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2oC above pre-industrial levels, and strive to limit temperature increase to 1.5oC.
+The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2<sup>o</sup>C above pre-industrial levels, and strive to limit temperature increase to 1.5<sup>o</sup>C.
 
 #### CHARTING THE NEXT STEPS FOR SINGAPORE
 
