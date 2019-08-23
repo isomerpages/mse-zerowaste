@@ -142,5 +142,6 @@ per day to 640g by 2030. This adds up to a
 reduction of about 30 bananas or 15 glass
 bottles per month. It’s that simple!</p>
 
-![our zero waste targets](/images/ch2_bananas.png)
+<img src="/images/ch2_bananas.png" alt="our targets">
+
 </div>
