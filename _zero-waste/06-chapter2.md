@@ -100,3 +100,29 @@ Masterplan, we want to go beyond
 these targets.
 
 ![our zero waste targets](/images/ch2_targets.png)
+
+Achieving this target will require the
+successful implementation of the various
+measures outlined in this Masterplan,
+including those to better manage our priority
+waste streams of food waste, e-waste and
+packaging waste, including plastics.
+
+Support from all segments of society will also
+be needed to take closing our waste loop to
+the next level. Individuals should play their
+part by recycling right and not contaminating
+our blue recycling bins. Businesses that
+produce the most electrical and electronic
+equipment or packaging will be required to
+take a life-cycle approach to products. Large
+food waste generators must also ensure
+that food waste is properly segregated and
+treated.
+
+Lastly, the research and development
+community will be crucial in developing
+solutions and technologies that enable us
+to turn our waste into resources, such as
+through the use of incineration bottom ash by
+turning it into [NEWSand](/newsand/).
