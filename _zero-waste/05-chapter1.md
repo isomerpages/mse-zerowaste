@@ -256,11 +256,11 @@ more intense as the country developed.
 To safeguard public health and avoid disease
 outbreaks, we had to devise an organised
 waste collection system.
+
 This prompted the formation of the Ministry
 of Environment (ENV) in 1972, now called
 the Ministry of the Environment and Water
 Resources (MEWR).
-
 
 ![Map of seven district offices](/images/ch1_district_map.png)
 <caption>Map of seven district offices</caption>
@@ -274,5 +274,38 @@ household utility bills. Waste collection
 vehicles also replaced pushcarts, making
 collection faster and less strenuous for
 workers.
+
+#### DOWN THE CHUTE TO CLEANLINESS – TEACHING SINGAPORE TO “BAG IT”
+
+As Singaporeans moved from kampongs to
+high-rise apartments, vertical refuse chutes
+were introduced as a quick and convenient
+way to collect refuse from multiple flats.
+
+Public housing flats built up to 1988 each
+came with a refuse hopper in the kitchen.
+Waste thrown into the chute fell into a bin at
+the bottom that was emptied daily by refuse
+collection workers.
+
+But this collection system was unproductive
+and took up too much space. Hence, in 1989,
+the improved Central Refuse Chute (CRC) system was launched, where flats had a
+common chute at the lift landing of each
+floor. This allowed for more efficient refuse
+collection.
+
+In preparation for the shift to the CRC system,
+ENV launched an educational programme
+in 1986 to encourage residents to bag their
+refuse before throwing it down the chute.
+Educational posters showing the steps for
+bagging waste were produced and distributed
+across the island. It took many years for
+Singaporeans to get it right, but it is a practice
+that continues till today.
+
+![Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste](/images/ch1_old_campaign_posters.jpg)
+<caption>Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste</caption>
 
 
