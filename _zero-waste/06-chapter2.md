@@ -584,3 +584,66 @@ consumption consciousness so that customers only buy what they need. This also p
 generating less packaging and food waste. Another core objective of UnPackt is to educate the public about zero
 waste through workshops, community outreach with schools and corporations, and collaborations with like-minded
 social enterprises. Photo: UnPackt Pte Ltd</caption>
+
+#### REUSE AND DONATE
+
+How often have you thrown away a pair of
+jeans still in mint condition because it no
+longer fits, or a rice cooker that broke down
+after just a couple of months?
+
+Often, these items can be repaired, donated
+or sold second-hand. We want to establish
+a habit of reuse in the community, such that
+we will not easily discard unwanted or faulty
+products.
+
+To promote the repair trade, the NEA has
+allocated space in some hawker centres for
+businesses which repair small household
+appliances or clothing, and will continue
+to explore new ways to make it more
+convenient for people to repair their goods.
+This includes compiling a list of repair
+options in Singapore.
+
+Another avenue is to equip Singaporeans
+with basic repair skills and empower
+more individuals to enter the repair
+trade. Therefore, we are supporting nongovernmental
+organisations (NGOs) and
+corporates, such as Repair Kopitiam, to
+promote repair workshops and courses
+in the community.
+
+We can also tap on existing platforms to
+share or buy second-hand items, such as
+mobile applications or physical stores.
+To facilitate the sharing of less frequently
+used items in the neighbourhood, such
+as ladders and trolleys, the People’s
+Association (PA) launched Resource Centre
+@ Residents’ Committee (RC) in 2016.
+
+However, many Singaporeans are still
+unfamiliar with what they can do with
+their used clothing, shoes, bags and other
+reusables. Instead of donating these items, they often discard them in the blue recycling
+bins. Therefore, the NEA will be studying
+how to make donating more convenient,
+going beyond the list of second-hand shops
+and donation points currently found on its
+website. This could include making donation
+stations accessible to more Singaporeans.
+
+![Repair Kopitiam](/images/ch2_repair_kopitiam.jpg)
+<caption>Residents from every corner of Singapore have
+been turning up at a void deck in Jurong West
+and in Tampines to seek the help of repair
+gurus at Repair Kopitiam sessions every last
+Sunday of the month. Repair coaches teach
+people how to fix their spoilt items. Organised by
+social enterprise Sustainable Living Lab, Repair
+Kopitiam aims to tackle the throwaway culture. It
+has also organised courses to impart repair skills
+and support active ageing in the community. Photo: Repair Kopitiam</caption>
