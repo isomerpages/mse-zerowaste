@@ -235,7 +235,7 @@ humid weather.
 
 ![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
 <caption>Inspection on garbage collection</caption>
-<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption
+<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
 
 ### The solid waste journey
 
