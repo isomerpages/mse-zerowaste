@@ -262,8 +262,7 @@ of Environment (ENV) in 1972, now called
 the Ministry of the Environment and Water
 Resources (MEWR).
 
-![Map of seven district offices](/images/ch1_district_map.png)
-<caption>Map of seven district offices</caption>
+![Map of seven district offices](/images/ch1_district_map.png)<caption>Map of seven district offices</caption>
 
 A district-based solid refuse collection system
 was set up. Daily refuse collection services
