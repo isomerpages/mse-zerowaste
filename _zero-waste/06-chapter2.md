@@ -324,3 +324,48 @@ and new business opportunities. These digital
 threads also enable better supply chain
 management and management of distributed
 manufacturing assets globally.
+
+
+#### PROMOTING INDUSTRIAL SYMBIOSIS
+
+Industrial symbiosis refers to mutually
+beneficial collaborations, where what is
+deemed as waste by one company could be
+raw material for the operations of another.
+This leads to more sustainable industrial
+processes and cost savings.
+
+To optimise such alliances, both entities are
+typically sited within close proximity to reduce
+transportation costs, and their infrastructures
+are carefully designed.
+
+Industrial symbiosis can also be applied to
+brownfield sites, where waste-resource flows
+are matched by an independent organisation.
+The Finland Industrial Symbiosis System
+(FISS) is one example. To date, there are
+around 600 companies and 4,700 resources
+involved in the FISS.
+
+In Singapore, industrial symbiosis is
+illustrated through the design of the Tuas
+Nexus, where the NEA’s Integrated Waste
+Management Facility will be integrated with
+PUB’s Tuas Water Reclamation Plant. Output
+from one facility will be used as feedstock to
+another, while keeping the land use footprint
+and environmental impact to a minimum.
+(See Chapter 4 for more details on Tuas
+Nexus.)
+
+Similarly, at upcoming districts such as
+Jurong Lake District and Punggol Digital
+District, Government agencies across various
+domains are working together to optimise
+resource flows and minimise transport within
+the district. For example, we are exploring
+closing waste loops at the district level, such
+as by converting food waste into useful
+products like compost, which can be used
+for landscaping.
