@@ -199,3 +199,64 @@ voluntary agreement – [Plastic Action (PACT)](https://www.wwf.sg/business/pact
 As part of PACT, over 270 F&B outlets in
 Singapore have also phased out plastic
 straws (as of 1 July 2019).
+
+
+#### PROMOTING RESOURCE EFFICIENCY
+
+As the world population grows, competition
+for resources will increase. According to a
+2017 report by the International Resource
+Panel, global material resource use is
+expected to double between 2015 and 2050
+based on current trends.
+
+The report highlighted the need to adopt
+resource efficiency policies and initiatives,
+which could save $2.9 to $3.7 trillion a year by
+2030. This will also cut resource use by 26%
+and reduce greenhouse gas emissions by
+around 20% by 2050.
+
+This global shift towards greater resource
+efficiency presents opportunities for
+Singapore companies and industries to
+be leaders in this area and reap economic
+benefits.
+
+We are already making headway in improving
+energy efficiency. For instance, the [Energy
+Conservation Act (ECA)](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector/mandatory-energy-management-practices-for-existing-industrial-facilities){:target="_blank"} requires large energy
+users to adopt good energy management
+practices. This includes conducting
+regular energy audits, setting up an energy
+management system, and submitting energy
+efficiency improvement plans.
+
+Companies also track their materials efficiency
+through sustainability reports such as
+those required by the Singapore Exchange
+of Singapore-listed companies. The reports
+cover five primary components: (a) material
+Environmental Social Governance (ESG) factors,
+(b) policy, practices and performance, (c) targets,
+(d) sustainability reporting framework and (e)
+Board statement.
+
+However, the commercial and industrial sector
+still contributes around half of total waste
+disposed of. Material and waste audits can thus
+allow companies to identify opportunities for
+reduction through a systematic evaluation of
+material flows and costs, and develop concrete
+plans to improve material efficiency. We will be
+exploring means to support more companies to
+do this.
+
+At the same time, the Sustainable Manufacturing
+Centre (SMC) of the Agency for Science,
+Technology and Research (A*STAR) aims to
+promote sustainability in the manufacturing
+industry by bringing industry associations and
+the research community together to work with
+Government agencies to develop and implement
+sustainable manufacturing technologies.
