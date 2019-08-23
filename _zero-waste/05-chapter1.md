@@ -143,8 +143,8 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 
 <table>
   <tr>
-    <th width=33%>RESOURCE RESILIENCE</th>
-    <th width=33%>CLIMATE RESILIENCE</th>
+    <th width="33%">RESOURCE RESILIENCE</th>
+    <th width="33%">CLIMATE RESILIENCE</th>
     <th>ECONOMIC RESILIENCE</th>
   </tr>
   <tr>
