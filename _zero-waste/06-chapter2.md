@@ -710,3 +710,39 @@ individual waste streams. This has led to a
 nearly 100% recycling rate for Construction
 and Demolition (C&D) waste, ferrous and nonferrous
 metals.
+
+![Waste Statistics](/images/ch2_waste_statistics.png)
+
+
+#### PUTTING C&D WASTE BACK INTO BUILDINGS
+
+C&D waste is generated during the
+construction, demolition and renovation of
+structures.
+
+To help demolition contractors plan their
+demolition procedures to maximise C&D
+waste recycling, the Demolition Protocol
+was implemented by the Building and
+Construction Authority (BCA).
+
+Under the Demolition Protocol, reusable and
+non-reusable parts of a building have to be
+identified, then separately dismantled and
+removed. Reusable parts include piping and
+wiring, which are placed in separate bins and
+sent to a recycling facility. Non-reusable parts
+that contaminate the concrete debris, such as
+ceiling boards and tiles, are discarded. Only
+when the building has been stripped to its
+bare frame can demolition start.
+
+This protocol has led to the development of
+several new materials, like recycled concrete
+aggregate (RCA), which is made up of more
+than 70% demolition waste, reclaimed
+from waste concrete made with natural
+aggregates.
+
+![recycled concrete aggregate process](/images/ch2_RCA_process.png)
+<caption>RCA Process. Photo: Samwoh Corporation Pte Ltd</caption>
