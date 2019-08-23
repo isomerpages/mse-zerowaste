@@ -63,6 +63,9 @@ are repaired instead of replaced with new
 ones, and the recycling of waste and their
 reintroduction into the value chain.
 
+![Alternative text for screen readers](/images/ch2_circular_economy.png)
+<caption>A circular economy approach will require measures to be taken across the entire value chain</caption>
+
 We have already embraced the circular
 economy approach in several areas through
 our successes in closing a number of
@@ -78,3 +81,7 @@ into drinking water again. This has allowed
 Singapore to reintroduce up to almost
 800,000 m<sup>3</sup> of ultra-pure recycled water into
 our system each day.
+
+![Alternative text for screen readers](/images/ch2_water_loop.png)
+<caption>Closing the water loop in Singapore
+Credit: PUB</caption>
