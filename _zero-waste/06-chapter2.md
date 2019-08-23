@@ -647,3 +647,42 @@ social enterprise Sustainable Living Lab, Repair
 Kopitiam aims to tackle the throwaway culture. It
 has also organised courses to impart repair skills
 and support active ageing in the community. Photo: Repair Kopitiam</caption>
+
+As for the donation of excess food, the NEA
+and Singapore Food Agency (SFA) have
+produced a set of guidelines to promote
+food safety, which includes how to manage
+pre-packed or perishable food, and transport
+donated food to recipients.
+
+To further nudge people to donate extra food,
+the NEA will be working with SFA, National
+Volunteer & Philanthropy Centre (NVPC) and
+other stakeholders on new initiatives. One
+such possibility is a Good Samaritan Law,
+which has been implemented overseas to
+provide legal protection to food donors.
+
+#### PROMOTE GREEN-LABELLED PRODUCTS
+
+Spending your money on environmentallyfriendly
+products is a powerful way of
+endorsing a greener planet. The Singapore
+Green Label Scheme (SGLS), the NEA’s
+Mandatory Energy Labelling Scheme (MELS) for household appliances, and Logo for
+Products with Reduced Packaging support
+such decisions as they identify products
+with minimum environmental impact or
+are made with recycled, recyclable or less
+materials.
+
+Not only do we want more companies to
+design their products with environmental
+considerations or import more greenlabelled
+products, but we also want them to
+adopt a green procurement policy.
+
+![Alternative text for screen readers](/images/ch2_PA_resource_centre.jpg)
+<caption>Need a chiller box for a house party or a trolley to move some furniture? These items can be
+borrowed from your nearby RC or Residents’ Network (RN) Resource Centre. PA launched the
+Resource Centre @ RC in 2016 across 460 RCs in Singapore. Photo: PA</caption>
