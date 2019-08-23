@@ -145,3 +145,57 @@ bottles per month. It’s that simple!</p>
 <img src="/images/ch2_bananas.png" alt="our targets">
 
 </div>
+
+
+#### Sustainable production
+
+When companies better manage their
+resources and reduce the amount of waste
+generated from conducting their business,
+both the environment and their
+bottom line stand to benefit.
+
+How can they produce sustainably? Some
+ways include sustainable design, improving
+resource efficiency, and adopting industrial
+symbiosis where companies use the waste
+of others as raw materials for its own
+operations.
+
+#### SUSTAINABLE DESIGN 
+
+Designing products to be more durable and
+repairable lengthens their lifespan, delaying
+their entry into the waste stream. Creating
+them with materials and components that
+could be taken apart easily also makes them
+easier to recycle.
+
+The National Environment Agency (NEA)
+has been encouraging companies to reduce
+their packaging waste through the [Singapore
+Packaging Agreement](https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-agreement){:target="_blank"}, a voluntary agreement formed in 2007 among the Government,
+companies, industry associations and nongovernmental
+organisations.
+
+Now we are stepping up this effort. The NEA
+will introduce [mandatory packaging reporting](#)
+in 2020 for producers of packaged products
+and supermarkets and target to implement
+an [Extended Producer Responsibility (EPR)](#)
+framework for managing packaging waste
+including plastics no later than 2025.
+
+Companies are also coming together to
+take action through better product design
+and processes. For example, as of June
+2019, 15 food and beverage (F&B), retail
+and hospitality companies, including Hilton
+Singapore, Kraftwich and SaladStop!,
+have committed to reducing their plastics
+production and usage by 2030 through
+the World Wide Fund for Nature’s (WWF)
+voluntary agreement – [Plastic Action (PACT)](https://www.wwf.sg/business/pact/){:target="_blank"}.
+As part of PACT, over 270 F&B outlets in
+Singapore have also phased out plastic
+straws (as of 1 July 2019).
