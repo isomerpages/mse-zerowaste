@@ -179,10 +179,10 @@ companies, industry associations and nongovernmental
 organisations.
 
 Now we are stepping up this effort. The NEA
-will introduce [mandatory packaging reporting](#)
+will introduce [mandatory packaging reporting](/#/)
 in 2020 for producers of packaged products
 and supermarkets and target to implement
-an [Extended Producer Responsibility (EPR)](#)
+an [Extended Producer Responsibility (EPR)](/#/)
 framework for managing packaging waste
 including plastics no later than 2025.
 
