@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops
-permalink: /chapter2/
+permalink: /chapter3/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
