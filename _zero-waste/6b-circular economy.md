@@ -1,4 +1,9 @@
-### What is a circular economy?
+---
+title: What is a circular economy?
+permalink: /circular_economy2/
+breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
+second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
+---
 
 Unlike the linear economy, the circular
 economy focuses on designing waste out of
