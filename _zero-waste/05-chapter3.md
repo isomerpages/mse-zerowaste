@@ -72,3 +72,31 @@ across the entire value chain.
 
 More on these measures and efforts
 will be shared in this chapter.
+
+
+#### Food
+
+Despite Singaporeans’ love for food,
+households are one of the largest generators
+of food waste, contributing around half of the
+food waste generated in Singapore.
+
+According to an NEA study in 2016-2017,
+each household disposed of 2.5 kg of
+avoidable food waste each week. Rice,
+noodles and bread were among the most
+commonly wasted food items.
+
+The amount of food waste generated has
+grown by almost 30% over the past 10 years
+and is expected to rise further with a growing
+population. In 2018, food waste made up onefifth
+of the total amount of waste disposed of
+in Singapore, but only 17% of food waste was
+recycled.
+
+There is hope for improvement. The study
+also found that more than half of the food
+waste could have been prevented if people
+were more mindful of how much food they
+bought, ordered or cooked.
