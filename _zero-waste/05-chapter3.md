@@ -74,7 +74,7 @@ More on these measures and efforts
 will be shared in this chapter.
 
 
-#### Food
+### Food
 
 Despite Singaporeans’ love for food,
 households are one of the largest generators
@@ -100,3 +100,39 @@ also found that more than half of the food
 waste could have been prevented if people
 were more mindful of how much food they
 bought, ordered or cooked.
+
+#### WHY WE SHOULD NOT WASTE FOOD
+
+Food is an essential and precious resource.
+Singapore is exposed to the volatilities of the
+global food market as we import over 90% of
+our food supply. As we work on strengthening
+our food security, everyone also needs to play
+a part by reducing food wastage.
+
+Food waste also contributes to odour
+nuisance in our general waste and attracts
+pests, requiring more frequent waste
+collection and increased truck traffic on
+our roads.
+
+By reducing food waste, we can also reduce
+the contamination of recyclables, giving
+recycling a boost.
+
+#### CONSUMING FOOD SUSTAINABLY
+The best way to manage food waste is
+to avoid generating it from the outset.
+
+The NEA has developed various resources
+to encourage sustainable consumption of
+food. This includes a [food waste reduction guide for consumers](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"}, as well as [food
+waste minimisation guidebooks for food
+manufacturing establishments, food retail
+establishments and supermarkets](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"}. The
+guidebooks aim to help such establishments
+reduce food waste across the supply chain.
+
+![Food waste minimisation guidebooks](/images/ch3-guidebooks.png)
+<caption>Food waste minimisation guidebooks developed by the NEA to help establishments reduce food waste across the supply chain</caption>
+
