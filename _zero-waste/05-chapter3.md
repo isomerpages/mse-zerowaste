@@ -196,4 +196,73 @@ Companies looking to put in place food
 waste minimisation projects, including
 the implementation of on-site food waste
 treatment systems, can tap on the NEA’s
-[3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"} .
+[3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}.
+
+
+#### OFF-SITE: TURNING FOOD WASTE INTO ENERGY
+
+In 2016, the NEA and PUB conducted a
+pilot at Ulu Pandan Water Reclamation
+Plant where food waste – segregated at
+source from general waste and deposited in
+dedicated food waste bins – was collected
+from 23 locations and mixed with used water
+sludge. The combined food waste and used
+water sludge undergoes a process called
+anaerobic digestion, where biogas is formed
+through microbial activity in the absence of
+oxygen.
+
+The pilot found that co-digesting food waste
+and used water sludge can triple the biogas
+yield as compared to digesting used water
+sludge alone, thereby enhancing energy
+generation. The NEA and PUB will be working
+together to implement the co-digestion
+process at the upcoming Tuas Nexus, where
+the NEA’s Integrated Waste Management
+Facility is co-located with PUB’s Tuas Water
+Reclamation Plant.
+
+
+#### BRINGING FOOD WASTE SEGREGATION TO HOMES
+
+![A resident disposes of food waste into a food waste recycling bin](/images/ch3-greenlace.jpg)
+<caption>A resident disposes of food waste into a food waste recycling bin</caption>
+
+To gather insights on household routines to
+encourage households to segregate food waste for
+treatment, the “Food Waste? Don’t Waste!” household
+food waste segregation and recycling pilot was
+conducted by MEWR and the NEA, in collaboration
+with OTH, the People’s Association (PA) and the
+Tampines Town Council.
+
+Since 1 August 2018, households in the Tampines
+GreenLace HDB estate were provided with information
+on how to separate food waste, as well as food waste
+caddies and bags to collect their food waste.
+Residents were asked to bag their food waste and
+deposit them into food waste recycling bins located at
+the foot of their block. The food waste collected was
+then sent to OTH for treatment.
+
+The pilot has yielded valuable insights on food
+waste generation and disposal behaviours and
+it has helped increase awareness of food waste
+recycling amongst the residents of GreenLace
+by more than 23 percentage points to 82% after
+three months.
+
+To build upon this awareness following the
+pilot, we have partnered Zero Waste SG to
+engage the residents and explore ways of
+making their journey towards zero waste
+even more meaningful. Some possibilities
+include fully closing the food waste loop within
+GreenLace via composting in a community
+garden. We will continue to work with the
+community for more opportunities
+to reduce food waste.
+
+![households recycling food waste](/images/ch3-greenlace.png)
