@@ -375,3 +375,39 @@ to spearhead recycling programmes for such
 wastes.
 
 ![e-waste](/images/ch3-e-waste-table.png)
+
+
+#### RECYCLING NATION’S ELECTRONIC WASTE (RENEW) PROGRAMME
+
+The RENEW programme was launched in
+2012 to encourage the public to dispose
+of their electrical and electronic devices in
+a responsible manner. The programme, a
+collaboration between StarHub, DHL, and
+TES, and supported by the NEA, aims to
+make e-waste recycling more convenient
+and accessible by placing collection bins all
+around the island.
+
+Since its launch, more than 450 RENEW
+bins have been placed at over 400
+locations (as of March 2019), including
+Government buildings, community clubs,
+schools, condominiums, shopping malls
+and major electronics retail stores.
+
+They each come with a deposit slot,
+which is large enough to fit items such as
+cables, mobile phones, tablets, laptops,
+DVD players, car stereos, telephones and
+answering machines.
+
+The programme has collected more
+than 320 tonnes of e-waste since 2012,
+with the e-waste collection rate growing
+exponentially over the years – over 126
+tonnes was collected in 2018, up from 2
+tonnes in 2012.
+
+![RENEW e-waste collection bins](/images/ch3-renew.jpg)
+<caption>RENEW e-waste collection bins</caption>
