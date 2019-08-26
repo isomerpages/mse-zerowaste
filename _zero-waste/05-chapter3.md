@@ -283,32 +283,38 @@ segregate food waste for treatment.
   </tr>
   <tr>
     <td>
-      We will work with owners of large public
+      <ul>
+        <li>We will work with owners of large public
 sector buildings with food and beverage
 outlets to segregate their food waste
 for treatment. This could be done under
 the Public Sector Taking the Lead in
 Environmental Sustainability (PSTLES)
-initiative.
-›› It will be mandatory for developers of new
+          initiative.</li>
+<li>It will be mandatory for developers of new
 commercial and industrial premises, where
 large amounts of food waste are expected
 to be generated, to allocate and set aside
 space for on-site food waste treatment
-systems in their design plans.
+  systems in their design plans.</li>
+      </ul>
     </td>
-    <td>Large commercial and industrial food waste
+    <td><ul><li>Large commercial and industrial food waste
 generators will have to segregate their food
 waste, but they will get to choose the food
 waste treatment method that suits their
 operations best. For instance, they can recycle
 homogenous food waste into animal feed, install
 on-site food waste treatment systems, or send
-their food waste to an off-site treatment facility.
-›› Developers of new developments who were
+      their food waste to an off-site treatment facility.</li>
+<li>Developers of new developments who were
 required to set aside space for on-site food
 waste treatment systems in their design plans
 from 2021 will be required to implement the onsite
-treatment of food waste.</td>
+  treatment of food waste.</li></ul></td>
   </tr>
 </table>
+
+![Closing the food waste loop](/images/ch3-food-waste-loop.png)
+
+
