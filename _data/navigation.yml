@@ -5,8 +5,10 @@
 ##################################
 
 - title: Zero Waste Masterplan
-  url: /zero-waste-nation/
+  url: /zero-waste-masterplan/
   sub-links:
+  - title: Introduction
+    url: /zero-waste-masterplan/
   - title: Foreward
     url: /foreward/
   - title: Chapter 1 Towards a Zero Waste Nation
@@ -17,8 +19,6 @@
     url: /zero-waste-nation/
   - title: Zero Waste Consultation
     url: /consultation/
-  - title: Zero Waste Masterplan
-    url: /zero-waste-masterplan/
 - title: Our Focus Areas
   url: /ewaste/
   sub-links:
