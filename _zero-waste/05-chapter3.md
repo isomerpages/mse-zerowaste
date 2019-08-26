@@ -411,3 +411,94 @@ tonnes in 2012.
 
 ![RENEW e-waste collection bins](/images/ch3-renew.jpg)
 <caption>RENEW e-waste collection bins</caption>
+
+
+#### THE E-WASTE MANAGEMENT ROADMAP
+
+To ensure the proper treatment of EEE at their
+end-of-life and prevent the valuable resources
+they contain from going to waste, Singapore
+is implementing the Extended Producer
+Responsibility (EPR) approach to manage
+e-waste. The legislative framework will be
+provided under the Resource Sustainability
+Act. EPR is an environmental policy tool that has been used effectively to promote
+e-waste recycling in other countries, including
+South Korea and Sweden. While producers
+are conventionally only responsible for the
+manufacture and sales of their products, EPR
+extends their responsibility to the proper end-of-
+life management of their products.
+
+Come 2021, producers of EEE – including
+manufacturers and importers – will be physically
+and/or financially responsible for the end-of-life
+treatment of their products. This means they will
+need to collect and ensure that the products are
+recycled by licensed companies.
+
+Producers of covered consumer EEE, which
+are products that are commonly used by the
+general public such as laptops, mobile phones,
+and household appliances, are required to join a
+Producer Responsibility Scheme (PRS).
+
+The operator of the PRS will be appointed by the
+NEA, and take on the producers’ responsibilities
+to develop and implement a collection and
+recycling system specifically for consumer EEE.
+This will include scheduling collection drives,
+providing e-waste bins, transporting the e-waste
+to licensed recyclers, and reporting the tonnage
+of e-waste collected and recycled to the NEA.
+
+The PRS will also need to conduct public
+education programmes to encourage e-waste
+recycling and meet e-waste collection targets.
+
+As important touchpoints for consumers,
+retailers will be required to provide free onefor-
+one take-back services upon the delivery
+of new products.
+
+For large EEE retailers with a floor area
+above 300 m<sup>2</sup>, provision of in-store e-waste
+collection points for Information and
+Communication Technology (ICT) equipment,
+lamps and batteries will be made mandatory.
+
+As for non-consumer EEE, which includes
+solar photovoltaic (PV) panels and servers,
+their producers will be required to provide free
+take-back services for all of their end-of-life
+equipment from their clients upon request.
+
+![Producer Responsibility Scheme](/images/ch3-epr-targets.png)
+
+Having an e-waste management system
+will reduce the risk of improper handling of
+e-waste, and through it, support a circular
+economy approach by harvesting the
+precious metals in e-waste, turning trash into
+treasure.
+
+![Closing the e-waste loop](/images/ch3-e-waste-loop.png)
+
+
+#### Packaging, including plastics
+
+Packaging can be made from any material
+and is used to contain, protect, handle,
+deliver or present goods. A large proportion
+of our domestic waste is packaging waste.
+In 2018, about one-third of domestic waste
+disposed of consisted of packaging waste.
+Approximately 55% of the packaging waste
+was plastic packaging, whilst 25% was paper
+packaging. The remaining 20% was made up
+of other types of packaging materials, such as
+metal and glass.
+
+As packaging is so common yet hardly
+reused, we need to find ways to reduce
+and consume them more sustainably
