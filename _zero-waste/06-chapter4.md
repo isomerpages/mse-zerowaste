@@ -158,3 +158,68 @@ waste per day.
 
 ![TuasOne WTE plant](/images/ch4-tuasone.jpg)
 <caption>Artist’s impression of TuasOne Waste-to-Energy plant</caption>
+
+#### TUAS NEXUS: INTEGRATED WASTE MANAGEMENT FACILITY
+
+By co-locating and integrating the treatment
+of solid waste and used water, Tuas Nexus will
+be able to recover resources from waste more
+efficiently and with less space.
+
+Tuas Nexus will comprise the NEA’s Integrated
+Waste Management Facility (IWMF) and PUB’s
+Tuas Water Reclamation Plant (TWRP).
+
+The IWMF will use advanced technologies to
+handle multiple waste streams and construction
+will be completed over two phases. The first
+phase of IWMF will be completed by 2024 while
+the second phase is estimated to be completed
+by 2027.
+
+
+![Integrated Waste Management Facility (IWMF)](/images/ch4-IWMF.png)
+
+**What makes the IWMF novel?**
+
+Expected to produce enough electricity to
+power about 300,000 four-room apartments
+a year, the IWMF comes with a slew of
+advanced technologies.
+
+Its combustion processes and boiler designs
+will operate at high steam parameters of
+about 440oC/55 bar as compared to
+365oC/33 bar at our existing WTE plant.
+
+The use of external biogas super heaters
+will further boost the steam parameters at
+IWMF from 440oC/55 bar to 480oC/55 bar to
+achieve high overall plant energy conversion
+efficiency of about 28% and maximise
+electricity production.
+
+![Integrated Waste Management Facility (IWMF)](/images/ch4-wet-flue.png)
+<caption>Processes within a Wet Flue Gas Treatment System</caption>
+
+To keep its environmental impact to the
+minimum, the IWMF will adopt a Wet Flue
+Gas Treatment (FGT) system that produces
+the cleanest possible air emissions and
+fulfils Singapore’s air emission requirements.
+The Wet FGT system will also minimise the
+amount of solid residue for disposal as less
+fly ash is generated compared to conventional
+dry FGT systems.
+
+The IWMF will be designed as an iconic,
+green development to showcase the
+NEA’s vision as a leader in environmental
+stewardship to achieve zero waste and
+a circular economy. The Tuas Nexus
+will integrate processes and systems to
+optimise resources and achieve long-term
+environmental sustainability.
+
+
+![Integrated Waste Management Facility (IWMF)](/images/ch4-synergies.png)
