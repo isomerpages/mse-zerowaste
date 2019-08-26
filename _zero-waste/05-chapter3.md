@@ -174,8 +174,8 @@ were crucial to the success of the project.
 
 Similar systems have since been
 implemented at several other hawker centres,
-such as the hawker centre at Our Tampines
-Hub (OTH), Kampung Admiralty Hawker
+such as the hawker centre at [Our Tampines
+Hub (OTH)](https://www.facebook.com/watch/?v=1862380457141503){:target="_blank"} , Kampung Admiralty Hawker
 Centre and Yishun Park Hawker Centre.
 
 Apart from harnessing useful by-products
@@ -189,8 +189,6 @@ to annual savings of about $40,000 from the
 reduction in daily waste disposal charges
 as food waste is no longer disposed of as
 general waste.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOurTampinesHub%2Fvideos%2F1862380457141503%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Companies looking to put in place food
 waste minimisation projects, including
@@ -266,3 +264,51 @@ community for more opportunities
 to reduce food waste.
 
 ![households recycling food waste](/images/ch3-greenlace.png)
+
+#### THE FOOD WASTE SEGREGATION ROADMAP
+
+Discarded food is not simply waste to
+be incinerated. Instead, as shown in the
+examples above, there is potential to turn
+them into useful products.
+
+Therefore, under the Resource Sustainability
+Act, we will be making it compulsory to
+segregate food waste for treatment.
+
+<table>
+  <tr>
+    <th width="50%">FROM 2021</th>
+    <th>FROM 2024</th>
+  </tr>
+  <tr>
+    <td>
+      We will work with owners of large public
+sector buildings with food and beverage
+outlets to segregate their food waste
+for treatment. This could be done under
+the Public Sector Taking the Lead in
+Environmental Sustainability (PSTLES)
+initiative.
+›› It will be mandatory for developers of new
+commercial and industrial premises, where
+large amounts of food waste are expected
+to be generated, to allocate and set aside
+space for on-site food waste treatment
+systems in their design plans.
+    </td>
+    <td>Large commercial and industrial food waste
+generators will have to segregate their food
+waste, but they will get to choose the food
+waste treatment method that suits their
+operations best. For instance, they can recycle
+homogenous food waste into animal feed, install
+on-site food waste treatment systems, or send
+their food waste to an off-site treatment facility.
+›› Developers of new developments who were
+required to set aside space for on-site food
+waste treatment systems in their design plans
+from 2021 will be required to implement the onsite
+treatment of food waste.</td>
+  </tr>
+</table>
