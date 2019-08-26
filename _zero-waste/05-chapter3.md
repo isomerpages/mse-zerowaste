@@ -519,6 +519,7 @@ The NEA will continue to work with the industry to develop its capabilities in a
 and recycle).
 
 **Supporting ground-up movements**
+
 We are supporting ground-up initiatives through funding support. 
 One such initiative was Zero Waste SG’s Bring Your Own (BYO) campaign, supported by the Call for Ideas Fund, aimed at encouraging consumers to use reusable bags and containers when they buy takeaway food, beverages and groceries. Since 2017, more than 400 retail outlets have joined the campaign, providing incentives to customers who bring their own reusables. This has saved approximately two million pieces of plastic disposables and packaging. Leveraging the success of BYO, the NEA supported Zero Waste SG with the Partnership Fund to further develop the campaign in 2019 into Bring Your Own Bag (BYOB) to focus on reducing disposable plastic bag usage. 
 
