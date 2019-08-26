@@ -318,3 +318,60 @@ from 2021 will be required to implement the onsite
 ![Closing the food waste loop](/images/ch3-food-waste-loop.png)
 
 
+#### Electrical and electronic equipment
+
+Every year, each resident throws away 11 kg of
+e-waste, equivalent to the weight of 73 mobile
+phones. As a country, we discard an estimated
+60,000 tonnes of e-waste annually. With new
+mobile phone and laptop models launched every
+few months, and smart televisions and other
+tech gadgets becoming more common, the
+amount of e-waste generated will only increase.
+
+E-waste is EEE that has been thrown away.
+EEE refers to anything powered by an electrical
+source, including laptops, mobile phones,
+televisions, refrigerators, as well as batteries
+and electric mobility devices. It makes up less
+than 1% of total waste generated in Singapore,
+but contains small amounts of hazardous
+substances such as mercury and cadmium and
+may be potentially harmful to human health and
+the environment if improperly disposed of.
+
+However, e-waste also offers great potential for
+the circular economy approach. EEE contains
+valuable resources such as precious metals and
+working components. If we are able to extract
+these resources or reuse them, we can reduce
+the need to mine virgin raw materials.
+
+#### RESTRICTIONS ON HAZARDOUS SUBSTANCES IN EEE
+
+Since June 2017, Singapore has restricted
+six hazardous substances found in common
+types of EEE to reduce the chances of these
+substances entering our environment due to
+improper disposal methods.
+
+Singapore also ratified the Minamata
+Convention on Mercury. Since 31 March
+2018, Singapore has phased out all batteries
+(including button cell batteries) containing
+more than 5 ppm by weight of mercury. The
+manufacture, import and export of certain
+mercury-added products such as fluorescent
+lamps (exceeding specified mercury limits)
+and non-electronic measuring devices will be
+phased out by 1 January 2020.
+
+But many more forms of EEE still enter our
+shores. To promote proper recycling and
+treatment of discarded EEE, the NEA formed
+a national voluntary partnership for e-waste
+recycling in 2015. Members work together
+to spearhead recycling programmes for such
+wastes.
+
+![e-waste](/images/ch3-e-waste-table.png)
