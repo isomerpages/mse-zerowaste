@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Zero Waste Masterplan
+title: Introduction
 permalink: /zero-waste-masterplan/
-breadcrumb: Zero Waste 
+breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
