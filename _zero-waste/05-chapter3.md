@@ -136,3 +136,64 @@ reduce food waste across the supply chain.
 ![Food waste minimisation guidebooks](/images/ch3-guidebooks.png)
 <caption>Food waste minimisation guidebooks developed by the NEA to help establishments reduce food waste across the supply chain</caption>
 
+
+The NEA has also collaborated with different
+organisations, including private organisations
+and schools, to raise awareness of food
+waste reduction through educational
+materials.
+
+Where there is unsold or excess food that is
+still suitable for consumption, consumers and
+food establishments can donate them to food
+distribution organisations such as The Food
+Bank Singapore, Food from the Heart, Willing
+Hearts and Fei Yue Community Services.
+
+But what about unavoidable food waste
+that needs to be thrown away? With today’s
+technology, we can adopt a circular economy
+approach by viewing food waste as a valuable
+resource. Food waste can be converted
+into products like non-potable water, liquid
+nutrient, compost and biogas for energy
+generation.
+
+#### ON-SITE: TREATING FOOD WASTE
+
+On-site food waste treatment systems
+convert food waste into non-potable water,
+liquid nutrient or compost.
+
+To kickstart the roll-out of such systems,
+the NEA conducted a pilot project at a hawker
+centre at Block 628 Ang Mo Kio Ave 4 Market
+in 2016. It was found that active participation
+and support of stallholders and cleaning staff
+were crucial to the success of the project.
+
+Similar systems have since been
+implemented at several other hawker centres,
+such as the hawker centre at Our Tampines
+Hub (OTH), Kampung Admiralty Hawker
+Centre and Yishun Park Hawker Centre.
+
+Apart from harnessing useful by-products
+from food waste, recycling food waste can
+save money too. At OTH, food waste is
+converted into organic fertiliser, which is used
+at its rooftop Eco-Community Garden and
+distributed to members of the community at
+the end of each month. This has contributed
+to annual savings of about $40,000 from the
+reduction in daily waste disposal charges
+as food waste is no longer disposed of as
+general waste.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FOurTampinesHub%2Fvideos%2F1862380457141503%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Companies looking to put in place food
+waste minimisation projects, including
+the implementation of on-site food waste
+treatment systems, can tap on the NEA’s
+[3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"} .
