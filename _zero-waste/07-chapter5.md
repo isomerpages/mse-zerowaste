@@ -623,3 +623,16 @@ through an in-sink grinder. It is then conveyed
 automatically to a food waste treatment system,
 where it is converted into compost.</p>
 </div>
+
+
+![Desired Outcomes](/images/ch5-desired-outcomes.png)
+
+With the wheels of transformation in motion,
+our goal is to have a competitive and
+attractive environment services industry by
+2025. By harnessing the power of technology
+and automation, we will create better jobs
+that are less labourious, and more highly
+skilled. Through these, we will move closer
+to our vision of an ES industry that is vibrant,
+sustainable and professional.
