@@ -225,7 +225,7 @@ Every worker should be given the opportunity
 to learn new skills and grow in their jobs.
 Four possible ways to do so are:
 
-* Create a Skills Framework for ES together with SkillsFuture Singapore (SSG), WSG and industry stakeholders
+* Create a [Skills Framework for ES](https://www.skillsfuture.sg/skills-framework/environmental-services){:target="_blank"}  together with SkillsFuture Singapore (SSG), WSG and industry stakeholders
 * Develop apprenticeship and scholarship programmes to attract and retain talent, especially at Associate Professionals and Technicians (APT) and Professionals, Managers and Executives (PME) levels
 * Facilitate Pre-Employment Training (PET) and Continuing Education and Training (CET) Programmes together with IHLs, and the expansion of PET and CET offerings
 * Review the Singapore Workforce Skills Qualifications (WSQ) modules to ensure that they are still relevant to the industry,
@@ -248,10 +248,10 @@ and training needs of the industry.
 ![Mr Koh Kheng Huat](/images/ch5-PV-vacuum.jpg)
 <caption>Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd</caption>
 
+<div style="padding: 10px; border:10px solid #eeddca">
+<h4>NOT JUST A LOW-SKILLED INDUSTRY</h4>
 
-NOT JUST A LOW-SKILLED INDUSTRY
-
-At local SME Biomax Green Pte Ltd, a
+<p>At local SME Biomax Green Pte Ltd, a
 dedicated team of professionals leverage
 advanced biotechnology to develop innovative
 solutions that improve and diversify the
@@ -264,12 +264,12 @@ biotechnology research specialists. The
 company also employs a qualified team of
 sales and operations managers to engage
 local and international clients, and manage
-projects from around the world.
+projects from around the world.</p>
 
-![Biomax laboratory](/images/ch5-Biomax.jpg)
+<img src="images/ch5-Biomax.jpg" alt="Biomax laboratory">
 <caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
 
-As the environmental impact of plastic
+<p>As the environmental impact of plastic
 waste takes the spotlight, Plaspulp
 Union offers an efficient plastic
 treatment solution. Ms Jade Loh
@@ -280,13 +280,13 @@ for complicated waste materials. Using
 advanced technology and automation,
 plastic waste is segregated and
 processed faster, ensuring a better
-quality output.
+quality output.</p>
 
-![Ms Jade Loh, Operations Manager at Plaspulp Union](/images/ch5-Plaspulp.jpg)
-Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG
+<img src="/images/ch5-Plaspulp.jpg" alt="Ms Jade Loh, Operations Manager at Plaspulp Union">
+<caption>Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG</caption>
 
 
-SembWaste Pte Ltd, one of
+<p>SembWaste Pte Ltd, one of
 Singapore’s Public Waste
 Collectors, has adopted a Smart
 Waste Collection System (SWCS).
@@ -298,7 +298,10 @@ vehicle routing and scheduling to
 optimise resources. This improves
 productivity, while the use of
 technology provides higher-skilled
-jobs in waste collection.
+jobs in waste collection.</p>
 
-![SembWaste waste collection crew](/images/ch5-sembwaste.jpg)
+
+<img src="/images/ch5-sembwaste.jpg" alt="SembWaste waste collection crew">
 <caption>SembWaste waste collection crew uses a smart device to receive waste collection jobs from SembWaste’s Command Centre, where waste capacity levels in compactor bin centres are remotely monitored</caption>
+
+</div>
