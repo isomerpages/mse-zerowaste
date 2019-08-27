@@ -219,3 +219,70 @@ and soluble polymers commonly found in
 plastic goods.</p>
 
 </div>
+
+
+**THEME 2 Landfill conservation** 
+
+Just as PUB reclaimed used water to develop
+NEWater, the NEA is studying how to produce
+“NEWSand”: an environmentally sustainable
+product made from incineration ash that
+can be commercialised. Finding ways to use
+incineration ash, as well as non-incinerable
+waste and industrial residues, will not only
+extend the lifespan of our only landfill but
+also avail Singapore of a new source of
+construction materials.
+
+As ash contains heavy metals, strict
+standards are being developed to allow
+NEWSand to be used in non-structural
+concrete, road base and sub-base. This is
+in view of the fact that much of land-scarce
+Singapore has been or will be designated as
+water catchments. Treated incineration ash
+that meets these standards will be allowed
+for unrestricted use in both moulded and
+unmoulded forms, without polluting our water
+resources.
+The standards will be validated through a
+demonstration project for incineration ash
+treatment, and a field trial for treated ash.
+The Land Transport Authority has identified
+a suitable site for field trials, in which treated
+ash will be used to lay the road base and
+sub-base layers. Groundwater samples
+will be collected and tested for changes in
+environmental characteristics and compared
+against samples of groundwater from a
+nearby control site made from conventional
+road building materials.
+
+The design and results of the field trial will
+be reviewed by a Technical Expert Panel
+comprising experts in toxicology, public
+health, environmental health, incineration
+ash treatment methods, civil engineering,
+and hydrogeology.
+
+<div style="padding: 10px; border:10px solid #3d91ad">
+<h4>FROM ASH TO CONSTRUCTION MATERIALS</h4> 
+
+<p>In the future, ash left behind from burning
+incinerable waste could be used to build our
+infrastructure.</p>
+
+<p>Researchers from Republic Polytechnic are
+developing a solution to turn incineration bottom
+ash (IBA) into construction aggregates that can be
+added to produce ready-mixed concrete.</p>
+
+<p>Their goal is not only to divert IBA from
+landfilling, but also address rising market
+demand for high quality aggregates. They
+believe their product could be a sustainable
+substitute for mined aggregates on the market.</p>
+
+<img src="/images/ch6-iba.png">
+<caption>Overview of process to convert IBA into construction aggregates. Photo: Republic Polytechnic, Singapore</caption>
+</div>
