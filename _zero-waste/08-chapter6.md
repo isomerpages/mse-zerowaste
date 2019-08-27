@@ -340,6 +340,9 @@ with higher electricity output will help them
 meet a greater share of Singapore’s
 energy needs.
 
+![WTE Research Facility at Tuas South](/images/ch5-WTE-research-facility.jpg)
+<caption>WTE Research Facility at Tuas South. Photo: Nanyang Technological University, Singapore</caption>
+
 For example, one approach is to use oxygenenriched
 air. A team from NTU’s Nanyang
 Environment and Water Research Institute’s
@@ -352,5 +355,82 @@ incineration processes. The challenge lies in
 extracting oxygen molecules from the air in a
 cost-effective and energy-efficient manner.
 
-![WTE Research Facility at Tuas South](/images/ch5-WTE-research-facility.jpg)
-<caption>WTE Research Facility at Tuas South. Photo: Nanyang Technological University, Singapore</caption>
+![slag produced from the waste gasification processes](/images/ch6-wte.jpg)
+<caption>(From left) Chief Executive Officer of NEA, Mr Tan Meng Dui; Minister for the Environment and Water Resources,
+Mr Masagos Zulkifli and President of Nanyang Technological University, Professor Subra Suresh, holding pieces of
+concrete made with slag produced from the waste gasification processes. This highlights the potential of turning waste
+into material for useful applications, which contributes to closing the waste loop.</caption>
+
+#### AIM 2 Explore alternative WTE technologies
+
+Alternative WTE technologies like gasification
+provide more renewable energy options and/
+or higher value products from waste with
+minimal waste residues.
+
+The WTE R&D programme aims to develop
+alternative, novel methods suited to our local
+context. For instance, Singapore’s municipal
+solid waste streams are highly heterogeneous
+and have high moisture content. Therefore,
+foreign technologies may not be immediately
+applicable in our situation.
+
+By understanding our solid waste
+composition, we will be better able to
+generate useful by-products like better quality
+syngas, while increasing the amount of
+energy and resources recovered.
+
+However, testing prototypes at existing
+WTE facilities is not feasible due to the
+disruption it would cause; neither are the facilities designed to accommodate such
+trials. Recognising this problem, the NEA
+contributed $12 million to co-fund the
+construction of a WTE Research Facility
+(WTERF) with NTU’s NEWRI. The Residues
+and Resource Reclamation Centre of NEWRI
+was tasked with the execution and project
+management of the WTERF construction and
+operation.
+
+The $40 million WTERF provides local
+researchers and industry players with a
+physical, open platform for pilot testing.
+Its plug-and-play features support
+experimentation and test-bedding at scale,
+bridging the gap between laboratory research
+and commercial deployment.
+
+The WTERF is the first of its kind in Singapore,
+employing high temperature slagging
+gasification as its underlying technology,
+and was officially opened in May 2019.
+
+
+**HOW DOES SLAGGING GASIFICATION WORK?**
+
+![HOW DOES SLAGGING GASIFICATION WORK?](/images/ch6-slagging.png)
+
+
+#### Charting our next R&D steps
+
+Even as new technologies emerge from
+the CTWL R&D Initiative and WTE R&D
+programme, we must think ahead and identify
+new areas to study next. Only then can
+we remain at the forefront of science and
+technology.
+
+We will look at how science and technology
+can help us create circular, sustainable
+systems of production, consumption, and
+waste and resource management within
+our economy.
+
+Our key objectives are to:
+
+* Develop viable substitutes for conventional materials
+* Develop scalable technologies to separate waste into its constituents and turn them into resources and energy at lower economic and environmental costs
+* Generate new, viable applications for resources generated from waste
+
