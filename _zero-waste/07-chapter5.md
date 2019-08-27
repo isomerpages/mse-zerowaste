@@ -268,7 +268,7 @@ sales and operations managers to engage
 local and international clients, and manage
 projects from around the world.</p>
 
-<img src="images/ch5-biomax.jpg" alt="Biomax laboratory">
+<img src="images/ch5-biomax2.jpg" alt="Biomax laboratory">
 <caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
 
 <p>As the environmental impact of plastic
@@ -530,7 +530,7 @@ bring the technology to convert unwanted coconut
 husks into biochar to Singapore. This solution was
 subsequently exported to Thailand.</p>
 
-<img src="ch5-westcom.jpg" alt="Westcom Solutions">
+<img src="ch5-westcom2.jpg" alt="Westcom Solutions">
 <caption>A Westcom Solutions researcher conducting research
 to develop microbes to break down food waste at a low
 operating temperature. Photo: Westcom Solutions Pte Ltd</caption>
