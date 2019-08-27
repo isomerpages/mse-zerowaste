@@ -191,12 +191,12 @@ advanced technologies.
 
 Its combustion processes and boiler designs
 will operate at high steam parameters of
-about 440oC/55 bar as compared to
-365oC/33 bar at our existing WTE plant.
+about 440<sup>o</sup>C/55 bar as compared to
+365<sup>o</sup>C/33 bar at our existing WTE plant.
 
 The use of external biogas super heaters
 will further boost the steam parameters at
-IWMF from 440oC/55 bar to 480oC/55 bar to
+IWMF from 440<sup>o</sup>C/55 bar to 480<sup>o</sup>C/55 bar to
 achieve high overall plant energy conversion
 efficiency of about 28% and maximise
 electricity production.
