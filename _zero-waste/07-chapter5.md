@@ -248,9 +248,11 @@ and training needs of the industry.
 ![Mr Koh Kheng Huat](/images/ch5-PV-vacuum.jpg)
 <caption>Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd</caption>
 
-<div style="padding: 10px; border:10px solid #eeddca">
-<h4>NOT JUST A LOW-SKILLED INDUSTRY</h4>
+<p></p>
 
+<div style="padding: 10px; border:10px solid #eeddca">
+
+<h4>NOT JUST A LOW-SKILLED INDUSTRY</h4>
 <p>At local SME Biomax Green Pte Ltd, a
 dedicated team of professionals leverage
 advanced biotechnology to develop innovative
