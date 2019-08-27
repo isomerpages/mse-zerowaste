@@ -364,6 +364,8 @@ will be housed within TimMac @ Kranji.
 ![multi-storey recycling facility](/images/ch5-msrf.jpg)
 <caption>Artist’s impression of the multi-storey recycling facility. Photo: JTC</caption>
 
+<p></p>
+
 <div style="padding: 10px; border:10px solid #eeddca">
   
 <h4>SARIMBUN RECYCLING PARK</h4>
@@ -533,6 +535,8 @@ subsequently exported to Thailand.</p>
 to develop microbes to break down food waste at a low
 operating temperature. Photo: Westcom Solutions Pte Ltd</caption>
 </div>
+
+<p></p>
 
 **Using regulations and standards to transform the industry**
 
