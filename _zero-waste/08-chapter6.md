@@ -433,4 +433,89 @@ Our key objectives are to:
 * Develop viable substitutes for conventional materials
 * Develop scalable technologies to separate waste into its constituents and turn them into resources and energy at lower economic and environmental costs
 * Generate new, viable applications for resources generated from waste
+* Integrate waste and resource streams systematically
+
+With these principles in mind, research areas
+relevant to Singapore include:
+
+**SUSTAINABLE MATERIAL SUBSTITUTES**
+
+Inventing easily recyclable substitutes
+to commonly used materials will make
+recycling and upcycling of waste cheaper
+and more convenient. This could be in the
+form of specially formulated non-metal
+nanostructures (made of paper, for example)
+that could replace metal electronic circuits
+and wiring.
+
+**NEW APPLICATIONS FOR RESOURCES HARVESTED FROM WASTE**
+
+One promising area is nutraceutical
+extraction, which involves extracting valuable
+substances with medical or health benefits
+from food waste.
+
+Through research, we can identify useful
+substances within common types of
+food waste, and develop techniques to
+hygienically and efficiently extract and
+convert them into products fit for human
+consumption.
+
+For instance, bioactive compounds can be
+extracted from vegetable and food wastes,
+such as skins, stems, seeds, and residues
+from oils, juices and sugar extraction. These
+compounds can then be turned into high
+value nutraceuticals and functional foods like
+health supplements and food additives.
+
+**INTEGRATING WASTE AND RESOURCE STREAMS**
+
+Industrial symbiosis is a form of brokering,
+where companies are brought together in
+mutually profitable transactions. This involves
+finding ways to use the waste from one
+company as raw materials for another.
+
+Research in this field explores better ways
+of converting waste from one industry into
+usable materials for another, or discovering
+new, industrial-scale uses for existing waste
+streams currently not recycled or reused.
+
+Increasingly, we are focusing on the foodwater-
+waste-energy nexus, to find ways each
+sector can benefit from the other. This includes
+extracting nutrients from our waste for use in
+fertilisers in agriculture and horticulture.
+
+By test-bedding such synergistic innovations
+at scale, we hope to translate these into real,
+commercially viable solutions.
+
+Going forward, there will be ample
+opportunities to pilot circular zero waste
+solutions suited for local conditions, and
+integrate them with other systems to maximise
+district-level synergies.
+
+Integrating these solutions into future housing
+estates and town centres will show how R&D
+helps fashion our living spaces into places
+where we can live and work in a sustainable,
+eco-friendly fashion.
+
+#### Our R&D journey continues
+
+By working closely with academia and
+industry, we will guide our R&D efforts
+to create economic opportunities for our
+companies and jobs for our people.
+
+In this way, we can successfully adopt a
+circular economy approach to fulfil our vision
+of a Zero Waste Nation where Singaporeans
+can thrive and prosper.
 
