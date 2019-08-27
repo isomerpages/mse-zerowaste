@@ -170,6 +170,9 @@ Tuas Nexus will comprise the NEA’s Integrated
 Waste Management Facility (IWMF) and PUB’s
 Tuas Water Reclamation Plant (TWRP).
 
+![Tuas Nexus](/images/ch4-tuas-nexus.jpg)
+<caption>Artist’s impressions of Tuas Nexus</caption>
+
 The IWMF will use advanced technologies to
 handle multiple waste streams and construction
 will be completed over two phases. The first
@@ -199,9 +202,6 @@ achieve high overall plant energy conversion
 efficiency of about 28% and maximise
 electricity production.
 
-![Integrated Waste Management Facility (IWMF)](/images/ch4-wet-flue.png)
-<caption>Processes within a Wet Flue Gas Treatment System</caption>
-
 To keep its environmental impact to the
 minimum, the IWMF will adopt a Wet Flue
 Gas Treatment (FGT) system that produces
@@ -212,6 +212,9 @@ amount of solid residue for disposal as less
 fly ash is generated compared to conventional
 dry FGT systems.
 
+![Integrated Waste Management Facility (IWMF)](/images/ch4-wet-flue.png)
+<caption>Processes within a Wet Flue Gas Treatment System</caption>
+
 The IWMF will be designed as an iconic,
 green development to showcase the
 NEA’s vision as a leader in environmental
@@ -221,5 +224,7 @@ will integrate processes and systems to
 optimise resources and achieve long-term
 environmental sustainability.
 
-
 ![Integrated Waste Management Facility (IWMF)](/images/ch4-synergies.png)
+
+![Tuas Nexus](/images/ch4-tuas-nexus-infographic.png)
+<caption>Tuas Nexus</caption>
