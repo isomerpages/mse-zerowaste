@@ -177,6 +177,7 @@ research stakeholders to identify
 new focus areas of research.
 
 **THEME 1 Segregation and value recovery**
+
 Large amounts of leftover food, packaging
 waste and discarded electrical and electronic
 devices still end up at incineration plants
@@ -195,6 +196,9 @@ recovering plastic layers found in most of
 the food, beverage and pharmaceutical
 packaging today, these materials are
 currently just incinerated.</p>
+
+<img src="/images/ch6-potato-chips.jpg" alt="Potato chip packaging made of multilayer films">
+<caption>Potato chip packaging made of multilayer films</caption>
 
 <p>But scientists are now trying to break the
 code to recycle these plastic-embedded
