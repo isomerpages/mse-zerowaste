@@ -307,3 +307,270 @@ jobs in waste collection.</p>
 <caption>SembWaste waste collection crew uses a smart device to receive waste collection jobs from SembWaste’s Command Centre, where waste capacity levels in compactor bin centres are remotely monitored</caption>
 
 </div>
+
+#### ITM FOCUS 3 - Productivity
+
+To transform the industry, service
+buyers have to get involved. By relooking their
+procurement practices, they can
+facilitate innovation, productivity and
+technology adoption.
+
+One way is to shift towards performance or
+outcome-based contracts, which specify the
+service outcomes or performance standards
+required. This is unlike the traditional headcount
+based approach to procurement, which
+states the number of workers required.
+Another way is to have a longer contract
+period that allows companies to make returns
+on their investments in technology.
+
+We are also looking at ways to better
+optimise land use and create additional
+spaces to raise land productivity. These
+include housing various recycling activities
+under one roof, in the form of a multi-storied
+development, and reusing our closed landfills.
+
+#### SINGAPORE’S FIRST MULTI-STOREY RECYCLING FACILITY
+
+Slated to be launched in 2021, the Multi-
+Storey Recycling Facility (MSRF) will create
+space to house recyclers handling different
+forms of waste streams like metals, e-waste,
+paper and plastics under one roof. The colocation
+of these recyclers will support the
+circular economy approach by promoting
+synergies amongst them.
+
+Developed by JTC, and designed in
+consultation with the NEA and the industry,
+the facility will offer industrialists heavy
+production floor loading, high ceiling and
+wide column span, replicating a land-based
+operating environment in a high-rise setting.
+In addition, shared green spaces and facilities
+will be provided for greater community
+interaction.
+
+The MSRF will be located next to JTC’s
+TimMac @ Kranji. The MSRF will facilitate the
+re-use of wastes and by-products from the
+metals, machinery and timber industries that
+will be housed within TimMac @ Kranji.
+
+
+![multi-storey recycling facility](/images/ch5-msrf.jpg)
+<caption>Artist’s impression of the multi-storey recycling facility. Photo: JTC</caption>
+
+<div style="padding: 10px; border:10px solid #eeddca">
+<h4>SARIMBUN RECYCLING PARK<h4>
+  
+<p>Tucked away in the north-western corner of
+Singapore that was once the Lim Chu Kang
+Dumping Ground is Sarimbun Recycling
+Park (SRP).</p>
+
+<p>Set up in 1995 to give recycling a boost, it is
+home to over 10 recycling plants that handle
+a quarter of the country’s recycling.
+There, construction waste is turned into
+recycled material for roads and buildings,
+horticultural waste into compost and
+charcoal, and scrap plastic into plastic
+pellets that can then be reused to
+manufacture new products.</p>
+
+<p>The NEA is now looking at using SRP once
+more to push the recycling sector forward.</p>
+
+<p>In 2017, it launched a study into the strength
+and stability of the ground, soil and ground
+water conditions at SRP. The NEA is currently
+working with other Government agencies to
+explore redeveloping and intensifying the land
+use at SRP so that it can continue to support
+the circular economy approach of closing our
+waste loops through recycling in Singapore.</p>
+</div>
+
+#### ITM FOCUS 4 - Internationalisation
+
+Limited by Singapore’s small market size,
+companies can only grow by venturing
+overseas. Expanding across borders gives
+companies the impetus and opportunity to
+gain new capabilities and expertise that will
+help them to be globally competitive.
+There are three strategies to achieve this.
+
+#### STRATEGY 1: ENHANCE MARKET ACCESS
+
+Breaking into a new market is difficult,
+especially when in a foreign land and up
+against household names. To get the word
+out about what we have to offer, the NEA
+will be collaborating with its overseas
+counterparts, as well as participating in
+international projects.
+
+We will also continue to widen the horizons of
+our ES companies and trade associations, by
+supporting their learning trips overseas where
+they can be exposed to the world’s most
+innovative technologies.
+
+Through international platforms and events
+that the NEA regularly organises, such as
+the CleanEnviro Summit Singapore, we also
+help them link up with the international
+audience. The key objective of this event is
+to serve as a platform for local companies
+to showcase their products, solutions and
+services to international buyers, distributors
+and collaborators. It also offers in-depth
+discussions, roundtables and sharing of best
+practices. The fourth edition in 2018, held in
+conjunction with the World Cities Summit
+and the Singapore International Water Week,
+attracted over 24,000 visitors from more than
+120 countries and regions, with over 1,100
+participating companies.
+
+#### STRATEGY 2: GROW CAPABILITIES TO CAPTURE OVERSEAS MARKETS
+
+Innovation and internationalisation go hand in
+hand. To be globally competitive, companies
+cannot survive with “me-too” products that do
+not top their competitors’ offerings.
+
+We support companies that venture overseas
+by developing their capabilities in identified
+growth areas with high market potential.
+Solutions developed can also be adopted by
+other countries with the same aspirations for
+a clean and liveable environment as us.
+
+#### STRATEGY 3 SCALE UP AND OFFER INTEGRATED SOLUTIONS
+
+To be a world leader in providing solutions to
+environmental challenges, we need the whole
+industry to work together to put ideas into
+action. By working with other industry sectors
+in the Built Environment Cluster, the NEA aims
+to develop integrated solutions, tapping on
+the unique capabilities of each sector, for city
+planning and development projects overseas.
+
+#### Enablers
+**Strengthening trade associations to support transformation** 
+
+We look to our trade associations such as
+WMRAS and EMAS to spearhead industrywide
+collaboration, and support them through
+various initiatives.
+
+For instance, Enterprise Singapore’s Local
+Enterprise and Association Development
+(LEAD) programme supports WMRAS
+and EMAS in initiatives that build up their
+core capabilities to better support industry
+transformation in their subsectors. They
+include internships for students, which create
+a pipeline of talent for the industry, and
+overseas mission trips to help enterprises
+hunt for opportunities abroad and source for
+new technologies.
+
+
+![Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF)](/images/ch5-Hong-Kong-IWMF-Artist-Impression.jpg)
+<caption>Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF). Singapore company
+Keppel Infrastructure Holdings Pte Ltd, and China Harbour Engineering Company Limited, through their respective
+wholly owned subsidiaries, Keppel Seghers Hong Kong Limited and Zhen Hua Engineering Co. Ltd., clinched the
+S$5.3 billion project to design, build and operate Hong Kong’s first IWMF for municipal solid waste. The IWMF will
+include a 3,000 tonnes/day Waste-To-Energy (WTE) plant that is capable of generating approximately 480 million
+kWh of net electricity/year, as well as a 200 tonnes/day mechanical treatment plant for sorting and recycling
+glass, plastics and metals. Photo: Keppel Infrastructure</caption>
+
+
+
+<div style="padding: 10px; border:10px solid #eeddca">
+<h4>LOCAL R&D FINDS OPPORTUNITIES OVERSEAS</h4>
+
+<p>A microbial treatment developed to break down
+food waste at low operating temperature has
+produced odourless fertiliser.</p>
+
+<p>Westcom Solutions collaborated with researchers
+from the A-STAR Institute of Chemical and
+Engineering Sciences to develop the treatment.
+Test-bedded in JTC’s Pandan Loop Industrial Estate,
+it works under a lower temperature than current
+food waste conversion processes.</p>
+
+<p>The company has exported the solution overseas,
+and 70% of its revenue is now generated from
+overseas sales.</p>
+
+<p><p>Other channels to help companies capture
+opportunities overseas include the Environmental &
+Water Technology Centre of Innovation (EWTCOI),
+which is supported by Enterprise Singapore. It aids
+companies in developing and commercialising
+technology to meet market demand.</p>
+
+<p>For instance, EWTCOI helped company Regentech
+bring the technology to convert unwanted coconut
+husks into biochar to Singapore. This solution was
+subsequently exported to Thailand.</p>
+
+<img src="ch5-westcom.jpg" alt="Westcom Solutions">
+<caption>A Westcom Solutions researcher conducting research
+to develop microbes to break down food waste at a low
+operating temperature. Photo: Westcom Solutions Pte Ltd</caption>
+</div>
+
+**Using regulations and standards to transform the industry**
+
+As with any new disruptive technology,
+regulation can sometimes hold back new
+ideas from taking flight. Hence the NEA
+launched a Regulatory Sandbox for ES
+in July 2018. This allows companies to
+trial innovative ES-related technologies
+and solutions without compromising the
+environment, public health and safety.
+
+Regulations that previously prohibited the
+trial of a solution can be relaxed for a fixed
+duration and within certain parameters.
+This helps companies develop innovations
+that have the potential to become industry
+game-changers. Examples of technology
+on trial in the Regulatory Sandbox include
+a waste management solution that
+demonstrates circularity within premises.
+
+Improving safety, quality and productivity
+of the ES industry is a critical concern.
+The Singapore Standardisation
+Programme, administered by Enterprise
+Singapore, addresses the issue by setting
+standards for adoption by companies.
+For example, the new pneumatic waste
+conveyance system standard reduces
+manpower requirements and enhances the
+hygiene and safety of waste collection.
+
+Moving forward, Singapore will continue to
+participate in the International Organisation
+for Standardisation (ISO) Technical
+Committees. New areas where Singapore
+will be involved in are waste collection and
+transportation management, as well as
+solid recovered fuels and circular economy.
+By setting and meeting international
+standards, we will help smoothen the path
+for local companies looking to export their
+products and services overseas.
