@@ -286,3 +286,71 @@ substitute for mined aggregates on the market.</p>
 <img src="/images/ch6-iba.png">
 <caption>Overview of process to convert IBA into construction aggregates. Photo: Republic Polytechnic, Singapore</caption>
 </div>
+
+**THEME 3 Environmental remediation** 
+
+Where trash from around the island once
+accumulated, we believe our past landfills
+can be rehabilitated and turned into reusable
+land for future development. Therefore, one of
+the focus areas under the CTWL initiative is
+to investigate and characterise these closed
+landfill sites, and use them as test-beds for
+technologies and techniques that could make
+them usable land again.
+
+**THEME 4 Digital and data-driven management systems**
+
+There is a need for systems to help monitor
+and assess the effectiveness of the initiatives
+we implement across the entire waste
+management value chain.
+We want to harness Information and
+Communications Technology (ICT), such as
+data analytics, to inform policy formulation
+and infrastructure planning in waste
+management and resource recycling.
+
+#### WASTE-TO-ENERGY
+
+Even as we try to maximise material resource
+recovery from our waste, Waste-to-Energy
+(WTE) remains a key strategy to extract value
+from residual waste that cannot be effectively
+reused or recycled. It also harnesses the
+energy content to produce electrical energy,
+while reducing the volume of residual waste
+and prolonging the lifespan of our precious
+Semakau Landfill.
+
+To build up Singapore’s capabilities in
+energy and value recovery from waste,
+the NEA launched the $25 million WTE R&D
+programme in 2014.
+
+The programme has two aims.
+
+#### AIM 1 - Boost energy recovery efficiency of WTE processes and methods
+
+Today, Singapore’s WTE plants are not only
+energy self-sufficient, but in fact supply
+excess electricity to the national grid. Finding
+more efficient WTE incineration processes
+with higher electricity output will help them
+meet a greater share of Singapore’s
+energy needs.
+
+For example, one approach is to use oxygenenriched
+air. A team from NTU’s Nanyang
+Environment and Water Research Institute’s
+(NEWRI) Singapore Membrane Technology
+Centre is developing membranes that can
+efficiently produce oxygen-enriched air. They
+are also modelling the feasibility of using
+the membranes to enhance the current
+incineration processes. The challenge lies in
+extracting oxygen molecules from the air in a
+cost-effective and energy-efficient manner.
+
+![WTE Research Facility at Tuas South](/images/ch5-WTE-research-facility.jpg)
+<caption>WTE Research Facility at Tuas South. Photo: Nanyang Technological University, Singapore</caption>
