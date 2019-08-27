@@ -498,7 +498,7 @@ include a 3,000 tonnes/day Waste-To-Energy (WTE) plant that is capable of genera
 kWh of net electricity/year, as well as a 200 tonnes/day mechanical treatment plant for sorting and recycling
 glass, plastics and metals. Photo: Keppel Infrastructure</caption>
 
-
+<p></p>
 
 <div style="padding: 10px; border:10px solid #eeddca">
 <h4>LOCAL R&D FINDS OPPORTUNITIES OVERSEAS</h4>
