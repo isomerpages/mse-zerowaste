@@ -268,7 +268,7 @@ sales and operations managers to engage
 local and international clients, and manage
 projects from around the world.</p>
 
-<img src="images/ch5-Biomax.jpg" alt="Biomax laboratory">
+<img src="images/ch5-biomax.jpg" alt="Biomax laboratory">
 <caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
 
 <p>As the environmental impact of plastic
