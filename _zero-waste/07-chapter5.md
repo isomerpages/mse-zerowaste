@@ -365,7 +365,8 @@ will be housed within TimMac @ Kranji.
 <caption>Artist’s impression of the multi-storey recycling facility. Photo: JTC</caption>
 
 <div style="padding: 10px; border:10px solid #eeddca">
-<h4>SARIMBUN RECYCLING PARK<h4>
+  
+<h4>SARIMBUN RECYCLING PARK</h4>
   
 <p>Tucked away in the north-western corner of
 Singapore that was once the Lim Chu Kang
@@ -393,7 +394,9 @@ explore redeveloping and intensifying the land
 use at SRP so that it can continue to support
 the circular economy approach of closing our
 waste loops through recycling in Singapore.</p>
+
 </div>
+
 
 #### ITM FOCUS 4 - Internationalisation
 
@@ -513,7 +516,7 @@ food waste conversion processes.</p>
 and 70% of its revenue is now generated from
 overseas sales.</p>
 
-<p><p>Other channels to help companies capture
+<p>Other channels to help companies capture
 opportunities overseas include the Environmental &
 Water Technology Centre of Innovation (EWTCOI),
 which is supported by Enterprise Singapore. It aids
