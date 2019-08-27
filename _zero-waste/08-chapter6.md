@@ -6,8 +6,7 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-### As Singapore grapples with climate change and mounting waste, we are investing in research and development (R&D) and collaborating with industry experts to develop new, more efficient and eco-friendly ways to support the circular
-economy approach by recovering resources from waste. 
+### As Singapore grapples with climate change and mounting waste, we are investing in research and development (R&D) and collaborating with industry experts to develop new, more efficient and eco-friendly ways to support the circular economy approach by recovering resources from waste. 
 
 Be it using microbes to convert food waste
 into compost, or turning incineration ash
@@ -132,5 +131,87 @@ the lab to the industry.</p>
 <img src="/images/ch6-scarce.jpg" alt="Professor Madhavi Srinivasan, co-director of SCARCE">
 <caption>Professor Madhavi Srinivasan, co-director of SCARCE, explains how a battery shredder is used for shredding used lithium ion batteries (LIBs) as an initial step to extract the electrode
 materials, which can then be reused to produce new LIBs</caption>
+
+</div>
+
+![Closing the Waste Loop](/images/ch6-closing-the-waste-loop.png)
+<caption>Closing the Waste Loop R&D Initiative and Waste-to-Energy Programme, overlaid across the entire waste management value chain</caption>
+
+#### Our R&D investments to achieve zero waste
+
+To improve technologies and solutions for
+recovering resources from waste, and come
+up with new ways to do the job, the NEA has
+established two key R&D programmes.
+
+#### CLOSING THE WASTE LOOP
+
+Launched in December 2017, the Closing the
+Waste Loop (CTWL) R&D Initiative is a $45
+million programme that has funded eight
+projects worth almost $20 million as of 2019.
+The programme has three objectives:
+
+* Resource efficiency – Develop ways to utilise resources efficiently and for as long as feasible. This includes better waste segregation, both at source and after disposal, which will maximise material and value recovery from waste. This ensures waste management processes are manpower, energy and water efficient.
+* Landfill avoidance – Convert residues and waste (i.e. incineration bottom ash, incineration fly ash and non-incinerable waste) currently discarded at Semakau Landfill into useful resources, to extend the landfill’s lifespan beyond 2035.
+* Maintaining high standards of public health – Besides protecting the environment, waste management (i.e. collection, recycling, disposal and treatment of waste) should be carried out in a safe and hygienic manner to maintain high
+public health standards.
+
+The CTWL initiative was developed with
+collaboration in mind, to encourage
+partnerships between IHLs, RIs and private
+sector enterprises. These stakeholders were
+consulted to develop the four themes under
+the CTWL initiative, which goes hand in
+hand with the Waste-to-Energy Programme,
+to maximise the use of resources at every
+opportunity.
+
+
+Eight projects worth almost $20 million have been
+awarded under the CTWL initiative
+so far, and we will call for more
+projects in the near future.
+We will work with industry and
+research stakeholders to identify
+new focus areas of research.
+
+**THEME 1 Segregation and value recovery**
+Large amounts of leftover food, packaging
+waste and discarded electrical and electronic
+devices still end up at incineration plants
+today. We want to increase the recovery rate
+of valuable, usable materials from these key
+waste streams, and lower the economic cost
+and environmental impact of current
+recycling processes.
+
+<div style="padding: 10px; border:10px solid #eeddca">
+
+<h4>A NEW LEASE OF LIFE FOR PACKAGING WASTE</h4>
+
+<p>With no commercially viable way of
+recovering plastic layers found in most of
+the food, beverage and pharmaceutical
+packaging today, these materials are
+currently just incinerated.</p>
+
+<p>But scientists are now trying to break the
+code to recycle these plastic-embedded
+multilayer films (MLFs).</p>
+
+<p>A team from A-STAR’s Institute of
+Chemical and Engineering Sciences is
+developing a chemical recycling method
+that can separate and individually recycle
+the different polymer layers from MLFs.
+This makes it possible to extract valuable,
+pure components that can then be reused
+multiple times.</p>
+
+<p>If successful, this chemical process could
+also remove additives like colour pigments
+and soluble polymers commonly found in
+plastic goods.</p>
 
 </div>
