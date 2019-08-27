@@ -51,38 +51,6 @@ will attract younger Singaporeans to join the
 industry. Ultimately, we hope to export these
 technologies overseas.
 
-#### NO LONGER A MAD RUSH FROM BIN TO BIN
-
-There is no longer a need for a two-men
-collection crew, running from one recycling
-bin to the next, and having to push the
-recycling bins to the truck to be emptied.
-Now, a truck driver can complete the whole
-operation from the comfort of his truck cabin,
-thanks to a side loader.
-
-![Recycling truck side loader](/images/ch5-sideloader.jpg)
-
-The side loader has a robotic lifting arm
-attached to the side of the truck. With simple
-button clicks and the use of a joystick, the
-driver can lift and empty the recycling bins
-into the truck.
-
-Supported by the Singapore Economic
-Development Board (EDB), this has helped
-waste management firms like 800Super
-become more manpower-lean, while
-improving the working conditions of its staff.
-
-![Grants](/images/ch5-grants.png)
-
-**Related Links**
-
-* [Enterprise Development Grant (EDG)](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"} 
-* [Research Incentive Scheme for Companies (RISC)](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html){:target="_blank"} 
-* [Closing the Waste Loop (CTWL](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} 
-
 Here are two strategies to achieve this target:
 
 #### STRATEGY 1 SPUR INNOVATION
@@ -119,8 +87,40 @@ Companies can tap on several funds to
 reduce the cost of venturing into R&D,
 or automating their processes.
 
-![Leopull with cleaner](/images/ch5-LeoPull.jpg)
-<caption>In order to boost the productivity of Jewel Changi Airport, robots developed by Lionsbot International will be deployed to help with cleaning and waste collection. The robot Leopull helps cleaners by transporting waste carts around Jewel Changi Airport, freeing cleaners up to complete other tasks Photo: Lionsbot International Pte Ltd</caption>
+![Grants](/images/ch5-grants.png)
+
+**Related Links**
+
+* [Enterprise Development Grant (EDG)](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"} 
+* [Research Incentive Scheme for Companies (RISC)](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html){:target="_blank"} 
+* [Closing the Waste Loop (CTWL](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} 
+
+
+#### NO LONGER A MAD RUSH FROM BIN TO BIN
+
+There is no longer a need for a two-men
+collection crew, running from one recycling
+bin to the next, and having to push the
+recycling bins to the truck to be emptied.
+Now, a truck driver can complete the whole
+operation from the comfort of his truck cabin,
+thanks to a side loader.
+
+![Recycling truck side loader](/images/ch5-sideloader.jpg)
+
+The side loader has a robotic lifting arm
+attached to the side of the truck. With simple
+button clicks and the use of a joystick, the
+driver can lift and empty the recycling bins
+into the truck.
+
+Supported by the Singapore Economic
+Development Board (EDB), this has helped
+waste management firms like 800Super
+become more manpower-lean, while
+improving the working conditions of its staff.
+
+
 
 #### STRATEGY 2 DRIVE WIDESPREAD ADOPTION OF TECHNOLOGY
 
@@ -130,6 +130,9 @@ To encourage the adoption of technology, we focus on three areas:
 * Establish partnerships for technology exchanges
 * Leverage platforms such as the Whole-of-Government Business Grants Portal to provide a technology repository for ease
 of technology adoption, and Technology Connect Sessions to link the technology providers to service buyers
+
+![Leopull with cleaner](/images/ch5-LeoPull.jpg)
+<caption>In order to boost the productivity of Jewel Changi Airport, robots developed by Lionsbot International will be deployed to help with cleaning and waste collection. The robot Leopull helps cleaners by transporting waste carts around Jewel Changi Airport, freeing cleaners up to complete other tasks Photo: Lionsbot International Pte Ltd</caption>
 
 If we want to create a leaner, more elderly-friendly
 and productive industry, we need to change the way we currently clean spaces
