@@ -268,7 +268,7 @@ sales and operations managers to engage
 local and international clients, and manage
 projects from around the world.</p>
 
-<img src="images/ch5-biomax2.jpg" alt="Biomax laboratory">
+<img src="/images/ch5-biomax2.jpg" alt="Biomax laboratory">
 <caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
 
 <p>As the environmental impact of plastic
@@ -530,7 +530,7 @@ bring the technology to convert unwanted coconut
 husks into biochar to Singapore. This solution was
 subsequently exported to Thailand.</p>
 
-<img src="ch5-westcom2.jpg" alt="Westcom Solutions">
+<img src="/images/ch5-westcom2.jpg" alt="Westcom Solutions">
 <caption>A Westcom Solutions researcher conducting research
 to develop microbes to break down food waste at a low
 operating temperature. Photo: Westcom Solutions Pte Ltd</caption>
@@ -581,3 +581,45 @@ By setting and meeting international
 standards, we will help smoothen the path
 for local companies looking to export their
 products and services overseas.
+
+
+![gbtb](/images/ch5-gbtb.jpg)
+
+**Establishment of demonstration sites**
+
+The **IN**novating **CU**rating **B**etter **A**utomation
+and **T**echnologies for **E**nvironmental Services
+(INCUBATE) partnership was set up to bring
+the public and private sectors together to
+prototype, pilot and profile solutions.
+We currently have 18 partners.
+
+Our partners are working with the NEA to
+explore the adoption of innovative
+solutions such as smart compactors, and
+the use of in-sink grinders with on-site
+food waste treatment systems to increase
+operational efficiency.
+
+<div style="padding: 10px; border:10px solid #eeddca">
+<h4>RECYCLE FOOD WASTE, AND SAVE MONEY</h4>
+
+<p>Several food waste recycling machines
+have been tested through the INCUBATE
+programme and helped to close the food
+waste loop, diverted waste away from our
+only landfill and resulted in cost savings.</p>
+
+<p>Nanyang Polytechnic and Republic Polytechnic
+have used food waste digesters at their school
+food court while Changi Airport Group has
+deployed food waste digesters at all its terminals
+for tenants to use.</p>
+
+<p>Meanwhile, City Developments Limited
+launched a pilot project at the Le Grove Serviced
+Residences where food waste is ground
+through an in-sink grinder. It is then conveyed
+automatically to a food waste treatment system,
+where it is converted into compost.</p>
+</div>
