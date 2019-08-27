@@ -228,3 +228,49 @@ environmental sustainability.
 
 ![Tuas Nexus](/images/ch4-tuas-nexus-infographic.png)
 <caption>Tuas Nexus</caption>
+
+
+#### HARVESTING INCINERATION BOTTOM ASH FOR CONSTRUCTION
+
+While we reduce our waste to just a fraction
+of its original volume on a daily basis, the
+resulting ash still takes up space on our
+offshore Semakau Landfill.
+
+Each year, about 500,000 tonnes of IBA and
+200,000 tonnes of non-incinerable waste
+are disposed of at the landfill. At this rate,
+Semakau Landfill will be full by 2035.
+
+To divert IBA from our landfill, we are
+developing ways to use it in non-structural
+construction such as road base/sub-base
+materials or aggregates in non-structural
+concrete as “NEWSand”. This is a key strategy
+to maximise resource recovery and the
+lifespan of current and future landfills.
+
+The NEA is developing environmental
+standards and guidelines to regulate the use
+of NEWSand, and ensure that the environment
+and public health are not compromised.
+
+A tender for the demonstration of IBA
+treatment methods was awarded in 2018 to
+identify and validate treatment methods that
+would render it suitable and environmentally
+safe for use. Field trials will be conducted after
+the demonstration. More details can be found
+in Chapter 6.
+
+If successful, the use of IBA in non-structural
+applications, together with new waste
+treatment facilities that maximise waste
+recovery such as the MBT facility, TuasOne
+WTE Plant and Tuas Nexus, will help us to
+treat the waste disposed of more efficiently,
+maximise resource recovery and reduce waste
+residues sent to Semakau Landfill.
+
+![IBA pit at Tuas South Incineration Plant](/images/ch4-IBA-pit.png)
+<caption>IBA pit at Tuas South Incineration Plant. NEA is studying the use of IBA for non-structural construction purposes</caption>
