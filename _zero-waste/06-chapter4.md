@@ -6,8 +6,7 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
-### Even as new policies are implemented and infrastructure developed to achieve our vision as a Zero Waste Nation, we
-will need to continually improve existing waste management technologies to enhance our treatment of waste and recovery of resources.
+### Even as new policies are implemented and infrastructure developed to achieve our vision as a Zero Waste Nation, we will need to continually improve existing waste management technologies to enhance our treatment of waste and recovery of resources.
 
 For decades, Singapore has invested in
 infrastructure to collect, recycle and turn
