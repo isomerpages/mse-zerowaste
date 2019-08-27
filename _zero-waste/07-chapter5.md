@@ -96,9 +96,9 @@ or automating their processes.
 * [Closing the Waste Loop (CTWL](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} 
 
 
-<div style="padding: 5px; border:1px #eeddca">
+<div style="padding: 5px; border:1px solid #eeddca">
   
-<h6>NO LONGER A MAD RUSH FROM BIN TO BIN</h6>
+<h4>NO LONGER A MAD RUSH FROM BIN TO BIN</h4>
 
 <p>There is no longer a need for a two-men
 collection crew, running from one recycling
