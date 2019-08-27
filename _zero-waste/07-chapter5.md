@@ -96,7 +96,7 @@ or automating their processes.
 * [Closing the Waste Loop (CTWL](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} 
 
 
-<div style="padding: 5px; border:1px solid #eeddca">
+<div style="padding: 10px; border:10px solid #eeddca">
   
 <h4>NO LONGER A MAD RUSH FROM BIN TO BIN</h4>
 
@@ -218,3 +218,87 @@ They also collaborated with Institutes of
 Higher Learning (IHLs) to attract the younger
 generation to the industry, such as by
 increasing internship opportunities.
+
+#### STRATEGY 3 - SKILLED AND RESILIENT WORKFORCE
+
+Every worker should be given the opportunity
+to learn new skills and grow in their jobs.
+Four possible ways to do so are:
+
+* Create a Skills Framework for ES together with SkillsFuture Singapore (SSG), WSG and industry stakeholders
+* Develop apprenticeship and scholarship programmes to attract and retain talent, especially at Associate Professionals and Technicians (APT) and Professionals, Managers and Executives (PME) levels
+* Facilitate Pre-Employment Training (PET) and Continuing Education and Training (CET) Programmes together with IHLs, and the expansion of PET and CET offerings
+* Review the Singapore Workforce Skills Qualifications (WSQ) modules to ensure that they are still relevant to the industry,
+particularly for rank and file workers
+
+In 2018, Republic Polytechnic launched a
+new Part-Time Diploma in Applied Science
+(ES and Management), which is a Work-Study
+Programme. This diploma course provides
+opportunities for participants to deepen their
+skills and knowledge needed for a career in
+the ES industry, especially in operational roles
+from Operations Executives to Hazardous
+Waste Specialists.
+
+More PET and CET programmes will be
+gradually put in place to address the skills
+and training needs of the industry.
+
+![Mr Koh Kheng Huat](/images/ch5-PV-vacuum.jpg)
+<caption>Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd</caption>
+
+
+NOT JUST A LOW-SKILLED INDUSTRY
+
+At local SME Biomax Green Pte Ltd, a
+dedicated team of professionals leverage
+advanced biotechnology to develop innovative
+solutions that improve and diversify the
+company’s services and offerings. The
+company specialises in solutions that
+convert organic waste into high-grade
+organic fertiliser through the use of digesters
+and enzymes, which were developed by
+biotechnology research specialists. The
+company also employs a qualified team of
+sales and operations managers to engage
+local and international clients, and manage
+projects from around the world.
+
+![Biomax laboratory](/images/ch5-Biomax.jpg)
+<caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
+
+As the environmental impact of plastic
+waste takes the spotlight, Plaspulp
+Union offers an efficient plastic
+treatment solution. Ms Jade Loh
+(pictured), works at Plaspulp Union as
+an Operations Manager, where she and
+her team explore recycling solutions
+for complicated waste materials. Using
+advanced technology and automation,
+plastic waste is segregated and
+processed faster, ensuring a better
+quality output.
+
+![Ms Jade Loh, Operations Manager at Plaspulp Union](/images/ch5-Plaspulp.jpg)
+Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG
+
+
+SembWaste Pte Ltd, one of
+Singapore’s Public Waste
+Collectors, has adopted a Smart
+Waste Collection System (SWCS).
+This system leverages sensor
+technology to detect the capacity
+of waste in compactor bins and
+uses this information to plan
+vehicle routing and scheduling to
+optimise resources. This improves
+productivity, while the use of
+technology provides higher-skilled
+jobs in waste collection.
+
+![SembWaste waste collection crew](/images/ch5-sembwaste.jpg)
+<caption>SembWaste waste collection crew uses a smart device to receive waste collection jobs from SembWaste’s Command Centre, where waste capacity levels in compactor bin centres are remotely monitored</caption>
