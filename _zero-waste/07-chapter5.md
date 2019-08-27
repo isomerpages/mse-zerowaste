@@ -96,30 +96,32 @@ or automating their processes.
 * [Closing the Waste Loop (CTWL](https://www.nea.gov.sg/programmes-grants/grants-and-awards/closing-the-waste-loop-initiative){:target="_blank"} 
 
 
-#### NO LONGER A MAD RUSH FROM BIN TO BIN
+<div style="padding: 5px; border:1px #eeddca">
+  
+<h6>NO LONGER A MAD RUSH FROM BIN TO BIN</h6>
 
-There is no longer a need for a two-men
+<p>There is no longer a need for a two-men
 collection crew, running from one recycling
 bin to the next, and having to push the
 recycling bins to the truck to be emptied.
 Now, a truck driver can complete the whole
 operation from the comfort of his truck cabin,
-thanks to a side loader.
+thanks to a side loader.</p>
 
-![Recycling truck side loader](/images/ch5-sideloader.jpg)
+<img src="/images/ch5-sideloader.jpg" alt="Recycling truck side loader">
 
-The side loader has a robotic lifting arm
+<p>The side loader has a robotic lifting arm
 attached to the side of the truck. With simple
 button clicks and the use of a joystick, the
 driver can lift and empty the recycling bins
-into the truck.
+into the truck.</p>
 
-Supported by the Singapore Economic
+<p>Supported by the Singapore Economic
 Development Board (EDB), this has helped
 waste management firms like 800Super
 become more manpower-lean, while
-improving the working conditions of its staff.
-
+improving the working conditions of its staff.</p>
+</div>
 
 
 #### STRATEGY 2 DRIVE WIDESPREAD ADOPTION OF TECHNOLOGY
