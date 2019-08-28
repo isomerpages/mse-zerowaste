@@ -42,7 +42,7 @@ info-sections:
     section-more-button-url: /zero-waste-masterplan
     section-image-path: /images/Hm_masterplan2.png
 
-- section-title: 
+  - section-title: 
     section-subtitle: Citizens' Workgroup
     section-description: Close to 40% of what goes inside our blue recycling bins cannot be recycled. This is because people put in things that cannot be recycled or contaminate the recyclables with food and liquids. We are recruiting Singaporeans to work with us to co-create solutions to improve the way we recycle at home.
     section-more-button: Learn more
