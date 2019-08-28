@@ -271,5 +271,5 @@ treat the waste disposed of more efficiently,
 maximise resource recovery and reduce waste
 residues sent to Semakau Landfill.
 
-![IBA pit at Tuas South Incineration Plant](/images/ch4-IBA-pit.png)
+![IBA pit at Tuas South Incineration Plant](/images/ch4-IBA-pit.jpg)
 <caption>IBA pit at Tuas South Incineration Plant. NEA is studying the use of IBA for non-structural construction purposes</caption>
