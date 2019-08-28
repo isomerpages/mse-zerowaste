@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 4 - Optimising Infrastructure For Maximum Resource Recovery
-permalink: /chapter4/
+permalink: /zero-waste-masterplan/chapter4/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
