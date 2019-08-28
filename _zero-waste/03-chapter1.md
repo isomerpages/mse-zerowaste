@@ -142,14 +142,15 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 
 <table>
   <tr>
-    <th width="33%">RESOURCE RESILIENCE</th>
     <th width="33%">CLIMATE RESILIENCE</th>
-    <th>ECONOMIC RESILIENCE</th>
+    <th width="33%"ECONOMIC RESILIENCE></th>
+    <th>RESOURCE RESILIENCE</th>
   </tr>
   <tr>
+    <td>Do our part to mitigate climate change and protect Singapore from its effects </td>
+     <td>Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints</td>
     <td>Secure our critical resources, such as food, water and materials, through optimisation and recovery of treasure from trash</td>
-    <td>Do our part to mitigate climate change and protectSingapore from its effects</td>
-    <td>Ensure our companies can thrive in the future economy in the face of climate change and growing resource constraints</td>
+   
   </tr>
 </table>
 
