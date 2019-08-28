@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 5 - Transforming The Environmental Services Industry
-permalink: /chapter5/
+permalink: /zero-waste-masterplan/chapter5/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
