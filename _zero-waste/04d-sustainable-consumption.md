@@ -189,29 +189,9 @@ with basic repair skills and empower
 more individuals to enter the repair
 trade. Therefore, we are supporting nongovernmental
 organisations (NGOs) and
-corporates, such as Repair Kopitiam, to
+corporates, such as [Repair Kopitiam](https://repairkopitiam.sg/){:target="_blank"} , to
 promote repair workshops and courses
 in the community.
-
-We can also tap on existing platforms to
-share or buy second-hand items, such as
-mobile applications or physical stores.
-To facilitate the sharing of less frequently
-used items in the neighbourhood, such
-as ladders and trolleys, the People’s
-Association (PA) launched Resource Centre
-@ Residents’ Committee (RC) in 2016.
-
-However, many Singaporeans are still
-unfamiliar with what they can do with
-their used clothing, shoes, bags and other
-reusables. Instead of donating these items, they often discard them in the blue recycling
-bins. Therefore, the NEA will be studying
-how to make donating more convenient,
-going beyond the list of second-hand shops
-and donation points currently found on its
-website. This could include making donation
-stations accessible to more Singaporeans.
 
 ![Repair Kopitiam](/images/ch2_repair_kopitiam.jpg)
 <caption>Residents from every corner of Singapore have
@@ -224,6 +204,31 @@ social enterprise Sustainable Living Lab, Repair
 Kopitiam aims to tackle the throwaway culture. It
 has also organised courses to impart repair skills
 and support active ageing in the community. Photo: Repair Kopitiam</caption>
+
+We can also tap on existing platforms to
+share or buy second-hand items, such as
+mobile applications or physical stores.
+To facilitate the sharing of less frequently
+used items in the neighbourhood, such
+as ladders and trolleys, the People’s
+Association (PA) launched Resource Centre
+@ Residents’ Committee (RC) in 2016.
+
+![Alternative text for screen readers](/images/ch2_PA_resource_centre.jpg)
+<caption>Need a chiller box for a house party or a trolley to move some furniture? These items can be
+borrowed from your nearby RC or Residents’ Network (RN) Resource Centre. PA launched the
+Resource Centre @ RC in 2016 across 460 RCs in Singapore. Photo: PA</caption>
+
+However, many Singaporeans are still
+unfamiliar with what they can do with
+their used clothing, shoes, bags and other
+reusables. Instead of donating these items, they often discard them in the blue recycling
+bins. Therefore, the NEA will be studying
+how to make donating more convenient,
+going beyond the list of second-hand shops
+and donation points currently found on its
+website. This could include making donation
+stations accessible to more Singaporeans.
 
 As for the donation of excess food, the NEA
 and Singapore Food Agency (SFA) have
@@ -258,11 +263,6 @@ design their products with environmental
 considerations or import more greenlabelled
 products, but we also want them to
 adopt a green procurement policy.
-
-![Alternative text for screen readers](/images/ch2_PA_resource_centre.jpg)
-<caption>Need a chiller box for a house party or a trolley to move some furniture? These items can be
-borrowed from your nearby RC or Residents’ Network (RN) Resource Centre. PA launched the
-Resource Centre @ RC in 2016 across 460 RCs in Singapore. Photo: PA</caption>
 
 The Government has adopted a green
 public procurement policy under the Public
