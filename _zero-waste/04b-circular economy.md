@@ -7,11 +7,7 @@ collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
-Unlike the linear economy, the circular
-economy focuses on designing waste out of
-the resource ecosystem and maximising the
-value of resources by keeping them in use for
-as long as possible.
+### Unlike the linear economy, the circular economy focuses on designing waste out of the resource ecosystem and maximising the value of resources by keeping them in use for as long as possible.
 
 Many countries, such as the Netherlands,
 Finland, China and Japan, already adopt this
