@@ -1,10 +1,11 @@
 ---
+layout: leftnav-page-content
 title: How do we manage waste sustainably?
-permalink: /managing_waste_sustainably/
-breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
+permalink: /zero-waste-masterplan/chapter2/managing-waste-sustainably/
+breadcrumb: Zero Waste Masterplan - Chapter 2 - Chapter 2 - Keeping Our Resources Within A Closed Loop
+collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
-
 
 #### How do we manage waste sustainably?
 
