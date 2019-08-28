@@ -7,13 +7,8 @@ collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
-#### Sustainable production
 
-When companies better manage their
-resources and reduce the amount of waste
-generated from conducting their business,
-both the environment and their
-bottom line stand to benefit.
+### When companies better manage their resources and reduce the amount of waste generated from conducting their business, both the environment and their bottom line stand to benefit.
 
 How can they produce sustainably? Some
 ways include sustainable design, improving
@@ -159,6 +154,7 @@ disrupting their own operations.
 ![Advanced Remanufacturing and Technology Centre](/images/ch2_ARTC.jpg)
 
 **Secure connectivity and intelligent system**
+
 Real-time analytics allows for decentralised
 decision making, while condition monitoring
 provides data for predictive model and
@@ -167,6 +163,7 @@ more intelligent, and in turn more agile and
 efficient.
 
 **Virtual manufacturing**
+
 With a full digital footprint of a factory, every
 machine and process will generate real-time
 information that will provide the data required
@@ -177,6 +174,7 @@ prototypes. The use of augmented reality will help in
 training operators and machine maintenance.
 
 **End-to-end solutions**
+
 The end-to-end digital thread, from customer-specific
 orders, product design and manufacturing to aftersales
 service, provides seamless data exchange
