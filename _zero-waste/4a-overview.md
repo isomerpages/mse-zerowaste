@@ -1,7 +1,7 @@
 ---
 title: Overview
-permalink: /chapter2x/
-breadcrumb: Zero Waste Masterplan - Chapter 2 - Chapter 2 - Keeping Our Resources Within A Closed Loop
+permalink: /zero-waste-masterplan/chapter-2/overview
+breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
