@@ -1,7 +1,9 @@
 ---
+layout: leftnav-page-content
 title: Sustainable Consumption
-permalink: /sustainable_consumption/
-breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
+permalink: /zero-waste-masterplan/chapter2/sustainable-consumption/
+breadcrumb: Zero Waste Masterplan - Chapter 2 - Chapter 2 - Keeping Our Resources Within A Closed Loop
+collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
