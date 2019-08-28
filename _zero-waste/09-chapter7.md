@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 7 - Towards A Zero Waste Nation, Together
-permalink: /chapter7/
+permalink: /zero-waste-masterplan/chapter7/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
