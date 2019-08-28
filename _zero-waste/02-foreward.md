@@ -8,17 +8,6 @@ collection_name: zero-waste
 
 ![Alternative text for screen readers](/images/ch0-foreward.jpg)
 
-
-<table class="tg">
-  <tr>
-    <th><img src="/images/Minister.jpg" alt="Photo of Mr Masagos Zulkifli, Minister for the Environment and Water Resources"></th>
-    <th>Mr Masagos Zulkifli, Minister for the Environment and Water Resources</th>
-    <th><img src="/images/SMS.jpg" alt="Photo of Dr Amy Khor, Senior Minister of State for the Environment and Water Resources"></th>
-    <th>Dr Amy Khor, Senior Minister of State for the Environment and Water Resources</th>
-  </tr>
-</table>
-
-
 Singapore’s inaugural Zero Waste Masterplan is an important step
 towards our vision of a Zero Waste Nation. It encapsulates the
 aspirations of Singaporeans and embodies the spirit of Singapore
