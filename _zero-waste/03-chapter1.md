@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 1 - Towards a Zero Waste Nation
-permalink: /chapter1/
+permalink: /zero-waste-masterplan/chapter1/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
@@ -143,7 +143,7 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 <table>
   <tr>
     <th width="33%">CLIMATE RESILIENCE</th>
-    <th width="33%">ECONOMIC RESILIENCE></th>
+    <th width="33%">ECONOMIC RESILIENCE</th>
     <th>RESOURCE RESILIENCE</th>
   </tr>
   <tr>
