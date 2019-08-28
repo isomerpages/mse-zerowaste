@@ -8,7 +8,9 @@ second_nav_title: "Chapter 1 - Towards a Zero Waste Nation"
 ---
 
 
-### At the heart of Singapore’s rapid development lies an inconvenient question: Is it sustainable? Resources around the world are being used up far faster than they are replenished, and the burning of fossil fuels has caused the build-up of greenhouse gases and rising global temperatures.
+### At the heart of Singapore’s rapid development lies an inconvenient question: Is it sustainable? 
+
+Resources around the world are being used up far faster than they are replenished, and the burning of fossil fuels has caused the build-up of greenhouse gases and rising global temperatures.
 
 As the global community shifts towards low-carbon
 economies to ensure a sustainable
