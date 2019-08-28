@@ -143,7 +143,7 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
 <table>
   <tr>
     <th width="33%">CLIMATE RESILIENCE</th>
-    <th width="33%"ECONOMIC RESILIENCE></th>
+    <th width="33%">ECONOMIC RESILIENCE></th>
     <th>RESOURCE RESILIENCE</th>
   </tr>
   <tr>
@@ -222,7 +222,7 @@ marked by night soil buckets, water rationing,
 and unhygienic street hawkers.
 
 ![Night soil carrier](/images/ch1_night_soil_bucket.jpg)
-<caption>Night soil carrier Photo: Courtesy of National Archives of Singapore</caption>
+<caption>Night soil carrier. Photo: Courtesy of National Archives of Singapore</caption>
 
 Workers shovelled refuse from open roadside
 bin points onto pushcarts, and discarded
@@ -239,8 +239,7 @@ problems, both made worse by the hot and
 humid weather.
 
 ![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
-<caption>Inspection on garbage collection</caption>
-<caption>Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
+<caption>Inspection on garbage collection. Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
 
 ### The solid waste journey
 
