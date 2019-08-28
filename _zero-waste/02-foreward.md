@@ -6,6 +6,9 @@ breadcrumb: Zero Waste Masterplan
 collection_name: zero-waste
 ---
 
+![Alternative text for screen readers](/images/ch0-foreward.jpg)
+
+
 <table class="tg">
   <tr>
     <th><img src="/images/Minister.jpg" alt="Photo of Mr Masagos Zulkifli, Minister for the Environment and Water Resources"></th>
