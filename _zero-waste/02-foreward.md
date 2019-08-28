@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Foreword
-permalink: /foreward/
+permalink: /zero-waste-masterplan/foreward/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
