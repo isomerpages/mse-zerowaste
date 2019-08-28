@@ -30,12 +30,10 @@ disposal rates.
 ![Semakau Landfill](/images/semakau.jpg)
 <caption>Semakau Landfill</caption>
 
-
-To overcome these challenges, and seize the opportunities in them,
-we must collectively build three new resiliences:
-* **Economic resilience** to ensure a robust economy that thrives in a carbon- and resource constrained world 
-* **Climate resilience** to ensure Singapore is prepared to tackle the effects of climate change
-* **Resource resilience** to safeguard our access to critical resources, such as food, water and energy.
+To overcome these challenges, and seize the opportunities in them, we must collectively build three new resiliences:
+* **Climate resilience** to address the existential threats of climate change, especially rising sea levels
+* **Economic resilience** to ensure the future Singapore economy remains competitive by overcoming carbon and resource constraints
+* **Resource resilience** to ensure a safe and secure supply of critical resources
 
 The Masterplan will lay out Singapore’s strategies to build these
 resiliences. Our economy is currently based on the linear “take-make-dispose”
