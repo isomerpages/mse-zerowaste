@@ -7,11 +7,8 @@ collection_name: zero-waste
 second_nav_title: "Chapter 1 - Towards a Zero Waste Nation"
 ---
 
-#### Overcoming the environmental challenges of our past
 
-Singapore in the 1960s and 1970s was
-marked by night soil buckets, water rationing,
-and unhygienic street hawkers.
+### Singapore in the 1960s and 1970s was marked by night soil buckets, water rationing, and unhygienic street hawkers.
 
 ![Night soil carrier](/images/ch1_night_soil_bucket.jpg)
 <caption>Night soil carrier. Photo: Courtesy of National Archives of Singapore</caption>
@@ -33,7 +30,7 @@ humid weather.
 ![Photo of Garbage Inspection](/images/ch1_waste_collection.jpg)
 <caption>Inspection on garbage collection. Photo: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</caption>
 
-### The solid waste journey
+#### The solid waste journey
 
 Our waste management needs started
 changing from the 1970s. Singaporeans
