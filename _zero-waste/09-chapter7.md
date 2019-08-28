@@ -128,7 +128,8 @@ by our partners:
 
 **SEC plastic study and “One Less Plastic” campaign**
 
-![One Less Plastic campaign](/images/ch7-onelessplastic.jpg)
+
+<img align="right" src="/images/ch7-onelessplastic.jpg" alt="One Less Plastic campaign">
 <caption>Reusable bags were given out by four supermarket
 chains, DBS and SEC as part of the “One Less Plastic”
 campaign. Photo: SEC One Less Plastic Campaign</caption>
@@ -332,6 +333,9 @@ explored using a circular economy approach.
 The aim is to establish a replicable zero waste
 reference model for other Chinese cities/areas.
 
+![Sino-Singapore Tianjin Eco-city](/images/ch7-pwcs-tianjin.jpg)
+<captiom>Pneumatic Waste Conveyance System (PWCS) collection bins at a residential development in the SSTEC Photo: Eco-city Administrative Committee</caption>
+
 Another good example is the Singapore-Japan
 E-waste Management Forum organised by
 the NEA and the Ministry of the Environment
@@ -339,3 +343,36 @@ of Japan. The forum was held in June 2019
 and saw 150 industry leaders and delegates
 exchange ideas and information on electrical
 and electronic waste management strategies.
+
+#### SUSTAINED 3P PARTNERSHIPS
+
+The Year Towards Zero Waste has triggered
+the momentum for action, and we will
+continue to build on our partnerships with the
+3P (private, public and people) sectors. We
+believe in expanding our democracy of deeds,
+where Singaporeans actively contribute and
+shape our future.
+
+As part of our sustained engagement efforts,
+MEWR is convening a Citizens’ Workgroup
+to co-create solutions with Singaporeans,
+to improve the way we recycle at home.
+One of the key objectives is to reduce the
+contamination rate of the blue recycling
+bin, which is currently at 40%. The Citizens’
+Workgroup will include Singaporeans from
+diverse backgrounds. Members will be given
+access to data as well as subject matter experts
+who can share their expertise and help with the
+piloting and implementation of solutions.
+
+We will continue to align our efforts with those
+of other Government agencies, adopt a sciencebased
+approach, and work with businesses,
+international partners, civil society groups
+and individuals to co-create solutions for a
+sustainable Singapore.
+
+Together, we can move closer towards our
+vision of becoming a Zero Waste Nation.
