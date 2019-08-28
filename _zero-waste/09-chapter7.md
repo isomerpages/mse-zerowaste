@@ -128,8 +128,7 @@ by our partners:
 
 **SEC plastic study and “One Less Plastic” campaign**
 
-
-<img align="right" src="/images/ch7-onelessplastic.jpg" alt="One Less Plastic campaign">
+![One Less Plastic campaign](/images/ch7-onelessplastic.jpg)
 <caption>Reusable bags were given out by four supermarket
 chains, DBS and SEC as part of the “One Less Plastic”
 campaign. Photo: SEC One Less Plastic Campaign</caption>
@@ -334,7 +333,7 @@ The aim is to establish a replicable zero waste
 reference model for other Chinese cities/areas.
 
 ![Sino-Singapore Tianjin Eco-city](/images/ch7-pwcs-tianjin.jpg)
-<captiom>Pneumatic Waste Conveyance System (PWCS) collection bins at a residential development in the SSTEC Photo: Eco-city Administrative Committee</caption>
+<caption>Pneumatic Waste Conveyance System (PWCS) collection bins at a residential development in the SSTEC Photo: Eco-city Administrative Committee</caption>
 
 Another good example is the Singapore-Japan
 E-waste Management Forum organised by
