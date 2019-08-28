@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chapter 6 - Shaping A Greener Future With Science And Technology
-permalink: /chapter6/
+permalink: /zero-waste-masterplan/chapter6/
 breadcrumb: Zero Waste Masterplan 
 collection_name: zero-waste
 ---
