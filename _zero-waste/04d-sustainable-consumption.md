@@ -7,15 +7,7 @@ collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
-### Sustainable consumption
-
-Rising disposable income levels have
-led to more comfortable lives for current
-generations. But as our affluence grows, so
-does our consumption of goods and services.
-This in turn generates waste, with the amount
-of waste disposed of in Singapore increasing
-by over seven times over the last 40 years.
+### Rising disposable income levels have led to more comfortable lives for current generations. But as our affluence grows, so does our consumption of goods and services. This in turn generates waste, with the amount of waste disposed of in Singapore increasing by over seven times over the last 40 years.
 
 How we consume is influenced by social
 norms, such as pressure to over-order food at
@@ -250,7 +242,7 @@ provide legal protection to food donors.
 
 #### PROMOTE GREEN-LABELLED PRODUCTS
 
-Spending your money on environmentallyfriendly
+Spending your money on environmentally-friendly
 products is a powerful way of
 endorsing a greener planet. The Singapore
 Green Label Scheme (SGLS), the NEA’s
