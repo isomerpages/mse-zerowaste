@@ -1,6 +1,6 @@
 ---
 title: What is a circular economy?
-permalink: /circular_economy2/
+permalink: /zero-waste-masterplan/chapter2/what-is-circular-economy/
 breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
