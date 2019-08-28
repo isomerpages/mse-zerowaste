@@ -1,7 +1,9 @@
 ---
+layout: leftnav-page-content
 title: Overview
 permalink: /zero-waste-masterplan/chapter2/overview/
 breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
+collection_name: zero-waste
 second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
 ---
 
