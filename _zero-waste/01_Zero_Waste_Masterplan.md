@@ -37,6 +37,9 @@ Masterplan are implemented successfully.
 * [Summary Infographic](/images/zero_waste_summary_infographic.pdf) (PDF, 201kb)
 * [Singapore's Waste Flows](/images/zero_waste_flows.pdf) (PDF, 82kb)
 
+<a href="/images/zero_waste_masterplan.pdf" onClick="ga('send', 'event', { eventCategory: 'DOWNLOAD', eventAction: 'CLICK', eventLabel: 'ZEROWASTEMASTERPLAN'});">Download PDF</a>
+
+
 
 <!--
 The Ministry of the Environment and Water Resources will be publishing our inaugural Zero Waste Masterplan in the second half of this year. 
