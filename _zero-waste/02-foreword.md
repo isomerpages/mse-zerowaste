@@ -32,8 +32,8 @@ disposal rates.
 
 To overcome these challenges, and seize the opportunities in them, we must collectively build three new resiliences:
 * **Climate resilience** to address the existential threats of climate change, especially rising sea levels
-* **Economic resilience** to ensure the future Singapore economy remains competitive by overcoming carbon and resource constraints
 * **Resource resilience** to ensure a safe and secure supply of critical resources
+* **Economic resilience** to ensure the future Singapore economy remains competitive by overcoming carbon and resource constraints
 
 The Masterplan will lay out Singapore’s strategies to build these
 resiliences. Our economy is currently based on the linear “take-make-dispose”
