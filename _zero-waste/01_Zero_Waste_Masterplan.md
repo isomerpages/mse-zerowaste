@@ -33,11 +33,9 @@ Masterplan are implemented successfully.
 
 #### Downloads
 
-* [Zero Waste Masterplan](/images/zero_waste_masterplan.pdf?utm_campaign=zerowastemasterplan) (PDF, 8.9MB)
+* [Zero Waste Masterplan](https://mewr.sg/zwm_web) (PDF, 10MB)
 * [Summary Infographic](/images/zero_waste_summary_infographic.pdf) (PDF, 201kb)
 * [Singapore's Waste Flows](/images/zero_waste_flows.pdf) (PDF, 82kb)
-
-<a href="/images/zero_waste_masterplan.pdf" onClick="ga('send', 'event', { eventCategory: 'DOWNLOAD', eventAction: 'CLICK', eventLabel: 'ZEROWASTEMASTERPLAN'});">Download PDF</a>
 
 
 
