@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops
+title: Overview
 permalink: /zero-waste-masterplan/chapter3/
-breadcrumb: Zero Waste Masterplan 
+breadcrumb: Zero Waste Masterplan - Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops
 collection_name: zero-waste
+second_nav_title: "Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops"
 ---
 
 ### In Singapore’s journey towards a Zero Waste Nation, we are focusing on closing three resource loops: food, electrical and electronic equipment, and packaging, including plastics. Interventions through legislative and economic measures will target the entire value chain,  supported by infrastructure, research and development, and industry development.
