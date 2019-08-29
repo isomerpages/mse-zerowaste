@@ -320,14 +320,11 @@ from 2021 will be required to implement the onsite
 
 #### Electrical and electronic equipment
 
-Every year, each resident throws away 11 kg of
-e-waste, equivalent to the weight of 73 mobile
-phones. As a country, we discard an estimated
-60,000 tonnes of e-waste annually. With new
-mobile phone and laptop models launched every
-few months, and smart televisions and other
-tech gadgets becoming more common, the
-amount of e-waste generated will only increase.
+
+As a country, we discard an estimated 60,000 tonnes of e-waste annually. This is equivalent to each person throwing away 11kg of e-waste, or the weight of 73 mobile phones.
+
+With new mobile phone and laptop models launched every few months, and smart televisions and other
+tech gadgets becoming more common, the amount of e-waste generated will only increase.
 
 E-waste is EEE that has been thrown away.
 EEE refers to anything powered by an electrical
@@ -465,7 +462,7 @@ For large EEE retailers with a floor area
 above 300 m<sup>2</sup>, provision of in-store e-waste
 collection points for Information and
 Communication Technology (ICT) equipment,
-lamps and batteries will be made mandatory.
+lamps and/or batteries will be made mandatory.
 
 As for non-consumer EEE, which includes
 solar photovoltaic (PV) panels and servers,
