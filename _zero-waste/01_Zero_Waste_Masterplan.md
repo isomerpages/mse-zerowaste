@@ -17,9 +17,8 @@ practices, and shifting towards more sustainable production and consumption.
 
 #### New Zero Waste Target to #SaveSemakau
 
-The amount of waste disposed of in Singapore has increased seven-fold over the last
-40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by
-2035. There is limited land for building new incineration plants or landfills in Singapore.
+The amount of waste disposed of in Singapore has increased seven-fold over the last 40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by 2035. There is limited land for building new incineration plants or landfills in Singapore.
+
 Further, the incineration of wastes, while efficient and avoids the problems of land and
 marine contamination, generates carbon emissions, which contribute to climate change.
 
