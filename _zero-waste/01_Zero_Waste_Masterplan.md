@@ -25,9 +25,7 @@ marine contamination, generates carbon emissions, which contribute to climate ch
 ![Semakau Landfill](/images/semakau.jpg)
 <caption>Semakau Landfill</caption>
 
-The Masterplan has set a new waste reduction target for Singapore – **to reduce the
-waste sent to Semakau Landfill each day by 30 per cent by 2030 -  which will help
-to extend Semakau Landfill’s lifespan beyond 2035**.
+The Masterplan has set a new waste reduction target for Singapore – **to reduce the waste sent to Semakau Landfill each day by 30 per cent by 2030 -  which will help to extend Semakau Landfill’s lifespan beyond 2035**.
 
 
 #### Downloads
