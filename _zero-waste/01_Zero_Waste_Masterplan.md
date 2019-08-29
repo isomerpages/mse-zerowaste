@@ -7,28 +7,28 @@ collection_name: zero-waste
 ---
 
 
-### Singapore’s inaugural Zero Waste Masterplan maps out the Ministry’s key strategies towards a sustainable, resource-efficient and climate-resilient Singapore. 
+### Singapore’s inaugural Zero Waste Masterplan charts Singapore's path towards a zero waste nation
 
-Following PM Lee Hsien Loong’s [National Day Rally](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2019){:target="_blank"}  speech which emphasised the “grave” challenge that climate change poses Singapore, the Masterplan highlights why Singapore needs to adopt a circular economy approach in resource management, and adopt sustainable production and consumption practices.
+Singapore’s inaugural Zero Waste Masterplan maps out Singapore’s key
+strategies to build a sustainable, resource-efficient and climate-resilient nation. This
+includes adopting a circular economy approach to waste and resource management
+practices, and shifting towards more sustainable production and consumption.
 
 
-#### New Zero Waste targets set to #SaveSemakau
+#### New Zero Waste Target to #SaveSemakau
 
-The amount of waste disposed of in Singapore has increased seven-fold over the last 40 years. Not only is this a waste of precious resources, it is unsustainable. 
-
-At this rate, the [Semakau Landfill](/semakau_landfill/), Singapore’s only landfill, will run out of space by 2035. This poses a serious problem as it is not possible to keep building new incineration plants in land-scarce Singapore. Incineration also takes energy and generates carbon emissions, which in turn contributes to climate change. 
+The amount of waste disposed of in Singapore has increased seven-fold over the last
+40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by
+2035. There is limited land for building new incineration plants or landfills in Singapore.
+Further, the incineration of wastes, while efficient and avoids the problems of land and
+marine contamination, generates carbon emissions, which contribute to climate change.
 
 ![Semakau Landfill](/images/semakau.jpg)
 <caption>Semakau Landfill</caption>
 
-Thus, to extend Semakau’s lifespan beyond 2035, the
-Masterplan has set two new targets for 2030:
-
-* To reduce the waste sent to Semakau Landfill each day by 30% - from 0.36kg/capita today to 0.25kg/capita
-* To increase our national recycling rate to 70%
-
-While ambitious, the targets are not unattainable if the various measures outlined in the
-Masterplan are implemented successfully.
+The Masterplan has set a new waste reduction target for Singapore – **to reduce the
+waste sent to Semakau Landfill each day by 30 per cent by 2030 -  which will help
+to extend Semakau Landfill’s lifespan beyond 2035**.
 
 
 #### Downloads
