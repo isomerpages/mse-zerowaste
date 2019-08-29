@@ -9,7 +9,7 @@ collection_name: zero-waste
 
 ### Singapore’s inaugural Zero Waste Masterplan maps out the Ministry’s key strategies towards a sustainable, resource-efficient and climate-resilient Singapore. 
 
-Following PM Lee Hsien Loong’s [National Day Rally](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2019){:target="_blank"}  speech which emphasised the “grave” challenge that climate change poses Singapore, the Masterplan highlights why Singapore needs to aadopt a circular economy approach in resource management, and adopt sustainable production and consumption practices.
+Following PM Lee Hsien Loong’s [National Day Rally](https://www.pmo.gov.sg/Newsroom/National-Day-Rally-2019){:target="_blank"}  speech which emphasised the “grave” challenge that climate change poses Singapore, the Masterplan highlights why Singapore needs to adopt a circular economy approach in resource management, and adopt sustainable production and consumption practices.
 
 
 #### New Zero Waste targets set to #SaveSemakau
