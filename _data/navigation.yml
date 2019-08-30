@@ -4,15 +4,27 @@
 #                                #
 ##################################
 
-- title: Zero Waste
-  url: /zero-waste-nation/
+- title: Zero Waste Masterplan
+  url: /zero-waste-masterplan/
   sub-links:
-  - title: Zero Waste Nation
-    url: /zero-waste-nation/
-  - title: Zero Waste Consultation
-    url: /consultation/
-  - title: Zero Waste Masterplan
+  - title: Introduction
     url: /zero-waste-masterplan/
+  - title: Foreword
+    url: /zero-waste-masterplan/foreword/
+  - title: Chapter 1 Towards a Zero Waste Nation
+    url: /zero-waste-masterplan/chapter1/
+  - title: Chapter 2 Keeping Our Resources Within A Closed Loop
+    url: /zero-waste-masterplan/chapter2/
+  - title: Chapter 3 A Circular Economy Approach To Closing Three Resource Loops
+    url: /zero-waste-masterplan/chapter3/
+  - title: Chapter 4 Optimising Infrastructure For Maximum Resource Recovery
+    url: /zero-waste-masterplan/chapter4/
+  - title: Chapter 5 Transforming The Environmental Services Industry
+    url: /zero-waste-masterplan/chapter5/ 
+  - title: Chapter 6 Shaping A Greener Future With Science And Technology
+    url: /zero-waste-masterplan/chapter6/ 
+  - title: Chapter 7 Towards A Zero Waste Nation, Together
+    url: /zero-waste-masterplan/chapter7/ 
 - title: Our Focus Areas
   url: /ewaste/
   sub-links:

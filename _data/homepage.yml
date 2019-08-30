@@ -16,7 +16,8 @@ google-analytics: UA-131465347-1
 # Hero Banner
 hero-title: "Year Towards Zero Waste"
 hero-subtitle: "Be part of Singapore's journey to become a Zero Waste Nation"
-hero-banner: /images/herobanner_semakau.jpg
+hero-banner: /images/zwmcover.png
+
 
 # Hero Dropdown Main Text
 hero-dropdown-text: "I am..."
@@ -35,6 +36,13 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
+    section-subtitle: Zero Waste Masterplan
+    section-description: Singapore’s inaugural Zero Waste Masterplan details our key strategies to build a sustainable, resource-efficient and climate-resilient nation.
+    section-more-button: Learn more
+    section-more-button-url: /zero-waste-masterplan
+    section-image-path: /images/Hm_masterplan2.png
+
+  - section-title: 
     section-subtitle: Citizens' Workgroup
     section-description: Close to 40% of what goes inside our blue recycling bins cannot be recycled. This is because people put in things that cannot be recycled or contaminate the recyclables with food and liquids. We are recruiting Singaporeans to work with us to co-create solutions to improve the way we recycle at home.
     section-more-button: Learn more
@@ -47,14 +55,7 @@ info-sections:
     section-more-button: Learn more
     section-more-button-url: /consultation
     section-image-path: /images/Hm_consultation.jpg
-
-  - section-title: 
-    section-subtitle: Zero Waste Masterplan
-    section-description: The upcoming Zero Waste Masterplan will detail the key policies and strategies we will be implementing in the next few years, supported by industry transformation and research and development.
-    section-more-button: Learn more
-    section-more-button-url: /zero-waste-masterplan
-    section-image-path: /images/Hm_masterplan.jpg
-
+    
 # Resources
 resources-title: Resources
 resources-subtitle: Be in the know

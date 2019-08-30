@@ -6,7 +6,7 @@ breadcrumb: Citizens' Workgroup
 collection_name: workgroup
 ---
 
-> Sign up for the #RecycleRight Citizens' Workgroup [here](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"}
+> Registration for the #RecycleRight Citizens' Workgroup has closed. You will be informed by mid-September if you are selected for the workgroup.
 
 How can we improve the way we recycle at home?  
 
@@ -47,9 +47,3 @@ You must meet the following criteria in order to be eligible to join the Workgro
 ### Want to find out more?
 
 Please read these [FAQs](/citizens_workgroup_faq/) for further information about the Workgroup.
-
-### Register your interest 
-
-If you are keen to participate in the Workgroup, kindly register your interest [here](https://form.gov.sg/#!/5d2d7606690755001137ba56){:target="_blank"} before 23 August 2019.
-
-If you are successful in your application, you will be notified via email by mid-September. 
