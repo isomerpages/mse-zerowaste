@@ -30,7 +30,7 @@ The Masterplan has set a new waste reduction target for Singapore – **to
 
 #### Read the Zero Waste Masterplan
 
-* [Foreword](/foreword/)
+* [Foreword](/zero-waste-masterplan/foreword/)
 * [Chapter 1 - Towards a Zero Waste Nation](/zero-waste-masterplan/chapter1/)
 * [Chapter 2 - Keeping Our Resources Within A Closed Loop](/zero-waste-masterplan/chapter2/)
 * [Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops](/zero-waste-masterplan/chapter3/)
