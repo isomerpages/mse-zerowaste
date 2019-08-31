@@ -76,8 +76,10 @@ strong start.
 <caption>Focus Group Discussions for the Zero Waste Masterplan</caption>
 
 The Government has taken the lead to catalyse the transition to a circular
-economy. We have introduced the landmark Resource Sustainability Act to
-impose regulatory measures upstream. This addresses our priority waste
+economy. We introduced the landmark Resource
+Sustainability Bill in Parliament in August 2019,
+which will provide the legislative framework for
+imposing regulatory measures upstream. This addresses our priority waste
 streams – Extended Producer Responsibility for e-waste, a mandatory
 reporting framework for packaging waste, and mandatory segregation and
 treatment regulations for food waste. Extended Producer Responsibility
