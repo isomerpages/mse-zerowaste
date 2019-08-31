@@ -39,16 +39,15 @@ of a Zero Waste Nation. The Government
 will support the proper management of
 these three priority waste streams through
 a regulatory framework to promote resource
-sustainability. The Resource Sustainability Act
-is a landmark legislation introduced in 2019
-to give effect to the regulatory framework.
-Through legislation, the Government will
-mandate the segregation and treatment of
-food waste by large food waste generators
-and impose the Extended Producer
-Responsibility framework on producers and
-retailers of electrical and electronic equipment
-(EEE). The Government will also mandate the
+sustainability. The Resource Sustainability Bill is a landmark
+legislation introduced in 2019. When passed, it
+will give effect to the regulatory framework.
+This would include mandating the segregation
+of and treatment of food waste by large food
+waste generators and imposing the Extended
+Producer Responsibility framework on
+producers and retailers of electrical and
+electronic equipment (EEE). The Government will also mandate the
 reporting of packaging data and submission
 of plans to reduce, reuse or recycle packaging
 by producers of packaged products and
