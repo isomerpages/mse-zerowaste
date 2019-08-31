@@ -20,7 +20,9 @@ and the NEA are pushing towards a wider
 adoption of circular economy approaches,
 where resources are used over and over
 again, and waste is designed out of the
-system. We have had some successes, like
+system. 
+
+We have had some successes, like
 the near 100% recycling rate for construction
 and demolition waste and metals. However,
 some types of waste are generated in large
@@ -35,7 +37,9 @@ This is why we have made food, e-waste,
 and packaging, including plastics, our
 three priority waste streams for closing the
 resource loop and working towards our vision
-of a Zero Waste Nation. The Government
+of a Zero Waste Nation. 
+
+The Government
 will support the proper management of
 these three priority waste streams through
 a regulatory framework to promote resource
