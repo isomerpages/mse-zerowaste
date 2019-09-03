@@ -40,3 +40,6 @@ The Masterplan has set a new waste reduction target for Singapore – **to
 * [Chapter 7 - Towards A Zero Waste Nation, Together](/zero-waste-masterplan/chapter7/)
 
 
+#### Downloads
+
+* [Zero Waste Masterplan](https://go.gov.sg/mewr-zwm){:target="_blank"}  (PDF, 15MB)
