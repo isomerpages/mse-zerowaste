@@ -7,7 +7,7 @@ collection_name: zero-waste
 ---
 
 
-The inaugural [Zero Waste Masterplan](/zero-waste-masterplan/) will detail our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
+The inaugural [Zero Waste Masterplan](/zero-waste-masterplan/) details our upcoming policies for waste management. We plan to pursue circular economy strategies by reusing and recycling resources, turning trash into treasure and producing and consuming sustainably.
 
 ![photo of focus group discussions](/images/fdg1.jpg)
 
@@ -29,4 +29,6 @@ We thank you for your ideas and suggestions. The findings from the online consul
 * [FGD on Adopting A Zero Waste Mindset: Towards Sustainable Consumption - 18 April 2019](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-adopting-a-zero-waste-mindset--towards-sustainable-consumption-at-mewr-hall-on-18-april-2019){:target="_blank"}
 
 * [FGD on “Recycling Right” - 29 April 2019](https://www.mewr.gov.sg/news/opening-remarks-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-fgd-on-recycling-right-at-mewr-hall-on-29-april-2019){:target="_blank"}
+
+* [Zero Waste Masterplan Public Engagement Report](/images/Zero Waste Masterplan Public Engagement Report.pdf){:target="_blank"}
 
