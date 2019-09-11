@@ -118,7 +118,7 @@ Instead of throwing away your leftovers, turn them into tasty new dishes. Learn 
 
 ![donate excess food](/images/donate-excess-food.jpg)
 
-Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodheart.org){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
+Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodfromtheheart.sg){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
 
 Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"} 
 
@@ -154,7 +154,7 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 
 ##### What are others doing?
 
-* [Food from the Heart](www.foodfromtheheart.sg){:target="_blank"} started a Clean Plate Campaign in schools to raise awareness of the environmental and societal impact of food waste. Through the campaign, Clean Plate Ambassadors will visit the schools to share with pupils the message of not wasting food and to inculcate habits of mindful eating.
+* [Food from the Heart](https://www.foodfromtheheart.sg/){:target="_blank"} started a Clean Plate Campaign in schools to raise awareness of the environmental and societal impact of food waste. Through the campaign, Clean Plate Ambassadors will visit the schools to share with pupils the message of not wasting food and to inculcate habits of mindful eating.
 
 * [SG Food Rescue](https://www.facebook.com/groups/sgfoodrescue/){:target="_blank"} brings together people who are passionate about reducing food waste in Singapore. Their main priority is food rescue. They redistribute unwanted food to whoever is willing to consume it, not just to the needy. 
 
