@@ -81,7 +81,7 @@ explore collaborations.
 **General public**
 
 More than 1,300 people participated in
-a public consultation in March 2019 on
+a [public consultation](https://www.towardszerowaste.sg/consultation/){:target="_blank"} in March 2019 on
 how Singapore can pursue sustainable
 consumption and production, and build a
 strong 3R (reduce, reuse and recycle right)
