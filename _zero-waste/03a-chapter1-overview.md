@@ -15,7 +15,7 @@ second_nav_title: "Chapter 1 - Towards a Zero Waste Nation"
 
 #### Read the sub-chapters
 
-* [The case for Zero Waste](/chapter1/case-for-zero-waste)
+* [The case for Zero Waste](/zero-waste-masterplan/chapter1/case-for-zero-waste)
 * [Overcoming the environmental challenges of our past](/zero-waste-masterplan/chapter1/our-past)
 
 
