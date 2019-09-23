@@ -12,11 +12,12 @@ collection_name: recycle
 <img src="/images/ch2_blue_bin_label.jpg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Can i recycle glass?" title="Can i recycle glass?" href="#glass" coords="1,0,184,335" shape="rect">
-    <area target="" alt="Can i recycle paper?" title="Can i recycle paper?" href="#paper" coords="388,332,205,2" shape="rect">
+    <area target="" alt="Can i recycle glass?" title="Can i recycle paper?" href="#paper" coords="1,0,184,335" shape="rect">
+    <area target="" alt="Can i recycle paper?" title="Can i recycle metal?" href="#metal" coords="388,332,205,2" shape="rect">
     <area target="" alt="Can i recycle plastic?" title="Can i recycle plastic?" href="#plastic" coords="594,335,410,0" shape="rect">
-    <area target="" alt="Can i recycle metal?" title="Can i recycle metal?" href="#metal" coords="800,335,614,0" shape="rect">
+    <area target="" alt="Can i recycle metal?" title="Can i recycle glass?" href="#glass" coords="800,335,614,0" shape="rect">
 </map>
+<caption>The label on the blue recycling bins will be redesigned to make information clearer on what can and cannot be deposited in the bins. The replacement of the labels is expected to be completed by mid-2020.</caption>
 
 
 ### Paper 
