@@ -8,6 +8,8 @@ collection_name: recycle
 
 ### Recycling converts waste into useful products and conserves natural resources. It also reduces the need for incineration and extends the lifespan of Semakau Landfill
 
+![image of new recycling blue bin](/images/newbluebin.jpg)
+
 Recycling is a great way to protect the environment. Did you know that:
 
 * Recycling 1,000kg of paper saves 17 trees.
