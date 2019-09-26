@@ -6,44 +6,18 @@ breadcrumb: Citizens' Workgroup
 collection_name: workgroup
 ---
 
-> Registration for the #RecycleRight Citizens' Workgroup has closed. You will be informed by mid-September if you are selected for the workgroup.
 
-How can we improve the way we recycle at home?  
-
-### Our challenge
-
-The amount of waste disposed of in Singapore has jumped seven-fold over the past 40 years. Although we incinerate our waste to conserve space at our only landfill, Semakau Landfill will be filled up by 2035 if we continue to waste resources at our current rate. To address this, we need everyone to make it a habit to Reduce, Reuse and Recycle.
+### How can we get households to recycle more? What can we do to reduce the contamination rate of our recycling bins?
 
 ![image of recycle bin](/images/Hm_workgroup.jpg)
 
-About 60 per cent of Singaporean households are already recycling regularly. Unfortunately, many do not realise that items soiled with food and liquids should not be put into the blue recycling bin. Food and liquids contaminate other recyclables in the blue bin, which then have to be trashed rather than recycled. Today, the contamination rate of blue recycling bins is high, at 40 per cent. 
+These are some of the issues we are looking to address with the Ministry of the Environment and Water Resources (MEWR)'s inaugural #RecycleRight Citizens’ Workgroup. 
 
-If we can improve the way we recycle, we can collect back items which might otherwise have been trashed. The recyclables can be made into new products such as construction materials and furniture. Recycling will therefore enable us to turn trash into treasure. This will allow us to keep our precious and finite resources in use for as long as possible, instead of drawing on new resources. This is what we call a circular economy approach. 
+The first two sessions of the Citizens’ Workgroup were held on 21 and 22 September with 48 members from diverse backgrounds. Our aim is to co-create practical solutions with this diverse group of citizens to improve the way households recycle in Singapore.
 
-### Join us!
+Prior to the kick-off, all workgroup participants were invited to visit the Materials Recovery Facility to learn more about the recycling process. Participants were also given access to background information about household recycling in Singapore, including statistics from our household recycling surveys. 
 
-We are recruiting Singaporeans to work with us to co-create solutions to improve the way we recycle at home.  
+Through this Citizens’ Workgroup process, participants will need to work with one another to investigate various solutions, and reach a group consensus on the recommendations to submit to the Ministry. To help the group with the piloting and implementation of solutions, participants were also matched with resource persons who can share their expertise. 
 
-![photo of focus group participants](/images/workgroup.jpg)
+Through the Citizens’ Workgroup, we aim to go beyond consulting citizens, to working together with citizens. After the sessions are over, we encourage participants to continue working with us and our partners to make their recommendations a reality, and to encourage others to participate as well.
 
-As a Workgroup participant, you will have the opportunity to meet and consult with subject matter experts in the waste management and recycling industry. You will also have the chance to network with fellow Workgroup members to discuss ideas, come up with proposals, and partner us to implement them.
-
-All recommendations proposed by the Workgroup will be considered by MEWR, and implemented if feasible.
-
-
-
-### Interested to take part in the #RecycleRight Citizens' Workgroup?
-
-You must meet the following criteria in order to be eligible to join the Workgroup: 
-
-* You must be a Singaporean or Permanent Resident.
-* You **must be able to attend all four sessions of the Workgroup**, which take place on: 
-  * Sat 21 Sep, 9am to 5pm
-  * Sun 22 Sep, 9am to 5pm
-  * Sat 19 Oct, 9am to 5pm
-  * Sun 20 Oct, 9am to 5pm
-
-
-### Want to find out more?
-
-Please read these [FAQs](/citizens_workgroup_faq/) for further information about the Workgroup.
