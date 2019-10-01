@@ -21,3 +21,4 @@ Through this Citizens’ Workgroup process, participants will need to work with 
 
 Through the Citizens’ Workgroup, we aim to go beyond consulting citizens, to working together with citizens. After the sessions are over, we encourage participants to continue working with us and our partners to make their recommendations a reality, and to encourage others to participate as well.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGE9Jj_moe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
