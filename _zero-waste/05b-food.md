@@ -202,9 +202,8 @@ be incinerated. Instead, as shown in the
 examples above, there is potential to turn
 them into useful products.
 
-Therefore, under our regulatory framework, we
-will require premises that generate large
-amounts of food waste to segregate it for
+Therefore, under the Resource Sustainability Act, we
+will be making it compulsory to segregate it for
 treatment.
 
 <table>
