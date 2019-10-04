@@ -49,7 +49,7 @@ One such initiative was Zero Waste SG’s Bring Your Own (BYO) campaign, support
 
 Packaging is not all bad. It extends the shelf life of food and protects new products from damage during transportation. However, the problem  is excessive packaging. That is why we are introducing measures to encourage companies to adopt sustainable production by reducing packaging upstream. 
 
-Mandatory reporting of packaging data and 3R plans for packaging will be introduced in 2020. This builds on an existing mandatory waste reporting framework for large malls and hotels, which will also be expanded to all large industrial and commercial premises, including large convention and exhibition centres, in 2020. 
+Mandatory reporting of packaging data and 3R plans for packaging will be introduced in 2020 and legislated under the Resource Sustainability Act. This builds on an existing mandatory waste reporting framework for large malls and hotels, which will also be expanded to all large industrial and commercial premises, including large convention and exhibition centres, in 2020. 
 For the mandatory packaging reporting framework, for a start, producers of packaged products and supermarkets with an annual turnover of more than $10 million will be required to report data on packaging that they put on the market and their 3R plans for packaging. 
 
 The mandatory packaging reporting framework will also lay the foundation for an EPR framework for managing packaging waste, including plastics. This ensures producers are responsible for the collection and recycling of the materials they use to package their products. We are currently studying the approach, and will hold consultations with the industry. The aim is 
