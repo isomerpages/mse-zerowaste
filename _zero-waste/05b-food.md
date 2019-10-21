@@ -155,7 +155,7 @@ Reclamation Plant.
 
 #### BRINGING FOOD WASTE SEGREGATION TO HOMES
 
-![A resident disposes of food waste into a food waste recycling bin](/images/ch3-greenlace.jpg)
+![A resident disposes of food waste into a food waste recycling bin](/images/chapter3-greenlace.jpg)
 <caption>A resident disposes of food waste into a food waste recycling bin</caption>
 
 To gather insights on household routines to
