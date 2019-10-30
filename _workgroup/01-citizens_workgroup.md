@@ -7,18 +7,45 @@ collection_name: workgroup
 ---
 
 
-### How can we get households to recycle more? What can we do to reduce the contamination rate of our recycling bins?
+### How can we improve household recycling?
 
 ![image of recycle bin](/images/Hm_workgroup.jpg)
 
-These are some of the issues we are looking to address with the Ministry of the Environment and Water Resources (MEWR)'s inaugural #RecycleRight Citizens’ Workgroup. 
+This was the question posed to members of public who signed up to join the Ministry of the Environment and Water Resources’ (MEWR) inaugural Citizens’ Workgroup.
 
-The first two sessions of the Citizens’ Workgroup were held on 21 and 22 September with 48 members from diverse backgrounds. Our aim is to co-create practical solutions with this diverse group of citizens to improve the way households recycle in Singapore.
+From 21 September to 20 October 2019, more than 40 citizens from diverse backgrounds worked together to co-create solutions to improve the way households recycle in Singapore.
 
-Prior to the kick-off, all workgroup participants were invited to visit the Materials Recovery Facility to learn more about the recycling process. Participants were also given access to background information about household recycling in Singapore, including statistics from our household recycling surveys. 
+The Workgroup members were provided with the following to facilitate their discussions:
 
-Through this Citizens’ Workgroup process, participants will need to work with one another to investigate various solutions, and reach a group consensus on the recommendations to submit to the Ministry. To help the group with the piloting and implementation of solutions, participants were also matched with resource persons who can share their expertise. 
+·       Visit to a Materials Recovery Facility
 
-Through the Citizens’ Workgroup, we aim to go beyond consulting citizens, to working together with citizens. After the sessions are over, we encourage participants to continue working with us and our partners to make their recommendations a reality, and to encourage others to participate as well.
+·       Access to background information about household recycling in Singapore, including statistics from household recycling surveys
 
+·       Access to subject matter experts
+
+·       Access to funding of materials required for testing of ideas.
+
+The members of the Citizens’ Workgroup have submitted their recommendations to MEWR. MEWR will provide a response to their recommendations by end of November 2019.
+
+Watch this space for the members’ final report and MEWR’s response!
+
+![Group discussion](/images/cw-1.jpg)
+![Group discussion](/images/cw-2.jpg)
+![Group discussion](/images/cw-3.jpg)
+![Group discussion](/images/cw-4.jpg)
+![Group discussion](/images/cw-5.jpg)
+![Participants taking a selfie with Dr Amy Khor](/images/cw-6.jpg)
+![Dr Amy Khor with participants](/images/cw-7.jpg)
+![Recycle Right graphic recording artist](/images/cw-8.jpg)
+![Citizens Workgroup group photo](/images/cw-9.jpg)
+
+
+Recycle Right Citizens' Workgroup: The Beginning
+<div class="bp-youtube">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/RuwLkzp_Frs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Check out what workgroup participants saw on their visit to a Materials Recovery Facility, where recyclables are sorted!
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGE9Jj_moe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
