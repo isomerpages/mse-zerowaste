@@ -39,12 +39,13 @@ Watch this space for the members’ final report and MEWR’s response!
 ![Recycle Right graphic recording artist](/images/cw-8.jpg)
 ![Citizens Workgroup group photo](/images/cw-9.jpg)
 
+
+Recycle Right Citizens' Workgroup: The Beginning
+<div class="bp-youtube">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/RuwLkzp_Frs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Check out what workgroup participants saw on their visit to a Materials Recovery Facility, where recyclables are sorted!
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGE9Jj_moe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-<div class="bp-youtube">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/RuwLkzp_Frs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
