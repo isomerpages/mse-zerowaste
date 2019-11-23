@@ -37,13 +37,14 @@ The members of the Citizens’ Workgroup have submitted their recommendations to
 
 Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, met with members of the #RecycleRight Citizens’ Workgroup on 23 November 2019 to share MEWR’s response to their recommendations. We look forward to working with the members to further co-develop and pilot their recommendations. 
 
+## Download the reports
 
-Report by members of the #RecycleRight Citizens’ Workgroup
-MEWR’s response to the recommendations by the #RecycleRight Citizens’ Workgroup
+* [Report by members of the #RecycleRight Citizens’ Workgroup](/images/CW_Report_Participants.pdf)
+* [MEWR’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/images/CW_Report_MEWR.pdf)
 
 
-
-
+#### Infographic
+![citizens' workgroup infographic](/images/CW_Infographic.png)
 
 
 #### Photo Gallery
