@@ -64,5 +64,8 @@ Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, m
 ![Dr Amy Khor with participants](/images/cw-7.jpg)
 ![Recycle Right graphic recording artist](/images/cw-8.jpg)
 ![Citizens Workgroup group photo](/images/cw-9.jpg)
+![Dr Amy Khor on stage](/images/CW-Wrap-1.jpg)
+![Dr Amy Khor delivering address](/images/CW-Wrap-2.jpg)
+![Wrap Up group photo](/images/CW-group-photo.JPG)
 
 
