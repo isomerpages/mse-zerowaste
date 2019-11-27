@@ -47,6 +47,9 @@ Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, m
      <iframe width="560" height="315" src="https://www.youtube.com/embed/RuwLkzp_Frs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/RSNceDf9MyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### Infographic
 ![citizens' workgroup infographic](/images/CW_Infographic.png)
