@@ -103,7 +103,7 @@ end-of-life and prevent the valuable resources
 they contain from going to waste, Singapore
 is implementing the **Extended Producer
 Responsibility (EPR)** approach to manage
-e-waste. The legislative framenwork will be provided under the Resource Sustainability Act.
+e-waste. The legislative framework will be provided under the Resource Sustainability Act.
 
 EPR is an environmental policy tool that has been used effectively to promote
 e-waste recycling in other countries, including
