@@ -56,4 +56,7 @@ collections:
     output: true
 resources_name: resources
 
+# Include recommender
+recommender: true
+
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
