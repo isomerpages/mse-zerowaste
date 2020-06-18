@@ -53,7 +53,7 @@ We are also studying the feasibility of implementing an Extended Producer Respon
 
 <a name="individual"></a>
 
-#### What can you do an individual?
+#### What can you do as an individual?
 
 Consumer action can help nudge companies into making positive changes. You can make the right choice by:
 
