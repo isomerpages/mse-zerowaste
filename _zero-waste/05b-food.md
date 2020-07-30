@@ -162,7 +162,7 @@ To gather insights on household routines to
 encourage households to segregate food waste for
 treatment, the “Food Waste? Don’t Waste!” household
 food waste segregation and recycling pilot was
-conducted by MEWR and the NEA, in collaboration
+conducted by MSE and the NEA, in collaboration
 with OTH, the People’s Association (PA) and the
 Tampines Town Council.
 
