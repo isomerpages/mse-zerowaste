@@ -32,7 +32,7 @@ reusing and recycling.
 But the Government cannot do this alone. We
 need to partner businesses, individuals and
 organisations to come up with innovative and
-effective solutions. Over the years, MEWR and
+effective solutions. Over the years, MSE and
 the NEA have worked closely with partners
 to undertake collective action for sustainable
 development. As we embark on this
@@ -44,7 +44,7 @@ society to co-create environmental solutions.
 
 #### CO-CREATING SOLUTIONS WITH SINGAPOREANS
 
-Since 2018, MEWR and the NEA have sought
+Since 2018, MSE and the NEA have sought
 the views of the public and other relevant
 stakeholders on the Zero Waste Masterplan.
 These stakeholders include:
@@ -74,7 +74,7 @@ households’ recycling behaviour.
 
 A dialogue was held with NGOs, youths and
 other partners in February 2019 to seek their
-views on MEWR’s zero waste plans and to
+views on MSE’s zero waste plans and to
 explore collaborations.
 
 
@@ -85,7 +85,7 @@ a [public consultation](images/Zero%20Waste%20Masterplan%20Public%20Engagement%2
 how Singapore can pursue sustainable
 consumption and production, and build a
 strong 3R (reduce, reuse and recycle right)
-culture. In April 2019, MEWR conducted two
+culture. In April 2019, MSE conducted two
 focus group discussions with 90 participants.
 The discussions were co-organised with
 NGOs Zero Waste SG and LepakInSG, and
@@ -111,7 +111,7 @@ sustainable consumption.
 #### CATALYSING GROUND-UP INITIATIVES
 
 To effectively promote a zero waste lifestyle,
-MEWR and the NEA work closely with
+MSE and the NEA work closely with
 schools, businesses, community groups,
 NGOs, and civil society groups to rally the
 ground and raise awareness on waste
@@ -198,11 +198,11 @@ environmental technologies.
 
 **Schools and youth**
 
-Beyond these specific initiatives, MEWR and
+Beyond these specific initiatives, MSE and
 the NEA have been encouraging schools and youths to organise ground-up initiatives to
 promote environmentally-friendly practices.
 
-Since March 2019, MEWR, together with the
+Since March 2019, MSE, together with the
 National Youth Council, has been engaging
 youth leaders on our environmental policies
 and programmes. Through their lens, we hope
