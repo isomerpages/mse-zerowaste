@@ -140,7 +140,7 @@ on improving Singaporeans’ knowledge
 about our commingled recycling system and
 reducing contamination.
 
-MEWR and the NEA embarked on a
+MSE and the NEA embarked on a
 #RecycleRight campaign in 2019, as part
 of the Year Towards Zero Waste.
 
