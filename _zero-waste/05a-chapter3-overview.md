@@ -15,7 +15,7 @@ Interventions through legislative and economic measures will target the entire v
 
 As Singapore prepares for an increasingly
 carbon- and resource-constrained future,
-with limited space for waste disposal, MEWR
+with limited space for waste disposal, MSE
 and the NEA are pushing towards a wider
 adoption of circular economy approaches,
 where resources are used over and over
