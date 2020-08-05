@@ -11,7 +11,7 @@ collection_name: workgroup
 
 ![Group discussion](/images/cw-3.jpg)
 
-This was the question posed to members of public who signed up to join the Ministry of the Environment and Water Resources’ (MEWR) inaugural Citizens’ Workgroup.
+This was the question posed to members of public who signed up to join the Ministry of Sustainability and the Environment’s (MSE) inaugural Citizens’ Workgroup.
 
 From 21 September to 20 October 2019, more than 40 citizens from diverse backgrounds worked together to co-create solutions to improve the way households recycle in Singapore.
 
@@ -33,14 +33,14 @@ The Workgroup members were provided with the following to facilitate their discu
 
 #### Citizens' Workgroup Reports
 
-The members of the Citizens’ Workgroup have submitted their recommendations to MEWR in a report.
+The members of the Citizens’ Workgroup have submitted their recommendations to MSE in a report.
 
-Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, met with members of the #RecycleRight Citizens’ Workgroup on 23 November 2019 to share MEWR’s response to their recommendations. We look forward to working with the members to further co-develop and pilot their recommendations. 
+Senior Minister of State for Sustainability and the Environment, Dr Amy Khor, met with members of the #RecycleRight Citizens’ Workgroup on 23 November 2019 to share MSE’s response to their recommendations. We look forward to working with the members to further co-develop and pilot their recommendations. 
 
 #### Download the reports
 
 * [Report by members of the #RecycleRight Citizens’ Workgroup](/images/CW_Report_Participants.pdf)
-* [MEWR’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/images/CW_Report_MEWR.pdf)
+* [MSE’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/images/CW_Report_MEWR.pdf)
 
 
 <div class="bp-youtube">
