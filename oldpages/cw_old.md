@@ -27,7 +27,7 @@ We are recruiting Singaporeans to work with us to co-create solutions to improve
 
 As a Workgroup participant, you will have the opportunity to meet and consult with subject matter experts in the waste management and recycling industry. You will also have the chance to network with fellow Workgroup members to discuss ideas, come up with proposals, and partner us to implement them.
 
-All recommendations proposed by the Workgroup will be considered by MEWR, and implemented if feasible.
+All recommendations proposed by the Workgroup will be considered by MSE, and implemented if feasible.
 
 
 

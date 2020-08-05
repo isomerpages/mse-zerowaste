@@ -46,8 +46,7 @@ waste collection system.
 
 This prompted the formation of the Ministry
 of Environment (ENV) in 1972, now called
-the Ministry of the Environment and Water
-Resources (MEWR).
+the Ministry of Sustainability and the Environment (MSE).
 
 ![Map of seven district offices](/images/ch1_district_map.png)
 <caption>Map of seven district offices</caption>

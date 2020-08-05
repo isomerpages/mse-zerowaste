@@ -140,7 +140,7 @@ on improving Singaporeans’ knowledge
 about our commingled recycling system and
 reducing contamination.
 
-MEWR and the NEA embarked on a
+MSE and the NEA embarked on a
 #RecycleRight campaign in 2019, as part
 of the Year Towards Zero Waste.
 
@@ -165,7 +165,7 @@ completed by mid-2020.
 We also recognise that it is important to
 make recycling convenient and to make it a
 habit in order to boost household recycling.
-Surveys conducted by MEWR and the NEA
+Surveys conducted by MSE and the NEA
 in 2018 found that 60% of households
 recycle regularly at home. Finding recycling
 convenient and developing a habit of recycling
