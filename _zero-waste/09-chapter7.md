@@ -354,7 +354,7 @@ where Singaporeans actively contribute and
 shape our future.
 
 As part of our sustained engagement efforts,
-MEWR is convening a Citizens’ Workgroup
+MSE is convening a Citizens’ Workgroup
 to co-create solutions with Singaporeans,
 to improve the way we recycle at home.
 One of the key objectives is to reduce the
