@@ -7,7 +7,7 @@ collection_name: waste-streams
 ---
 
 
-### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 30% over the last 10 years. 763 million kg of food waste was generated in 2018 – that’s the weight of more than 54,000 double decker buses.
+### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 30% over the last 10 years. In 2019, Singapore generated around 744 million kg of food waste. That is equivalent to 2 bowls of rice per person per day, or around 51,000 double decker buses.
 
 -------------------
 
