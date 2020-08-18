@@ -31,7 +31,7 @@ homepage_resources: true
 homepage_careers: true
 
 # Feedback Form URL
-feedback_form_url: "https://www.mewr.gov.sg/top/feedback"
+feedback_form_url: "https://www.mse.gov.sg/top/feedback"
 
 # FAQ URL
 faq_url: "/faq/"
