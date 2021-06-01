@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Green Heroes - Vision for Zero
-date:   2019-07-04
+title: 'Green Heroes - Vision for Zero'
+date: 2019-07-04T00:00:00.000Z
 permalink: /resources/videos/green-heroes-vision-for-zero
+
 ---
+
 
 Join National Geographic Explorer Arthur Huang as he learns about Singapore’s waste management strategies and how these initiatives play a part in developing Singapore’s circular economy.
 
