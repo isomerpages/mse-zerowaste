@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Recycle Right Citizens' Workgroup
+title: 'Recycle Right Citizens'' Workgroup'
 permalink: /citizens_workgroup/
-breadcrumb: Citizens' Workgroup
-collection_name: workgroup
+breadcrumb: 'Citizens'' Workgroup'
+
 ---
+
 
 
 ### How can we improve household recycling?
