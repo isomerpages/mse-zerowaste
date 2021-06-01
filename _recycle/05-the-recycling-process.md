@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What happens to recyclables
+title: 'What happens to recyclables'
 permalink: /recycle/what-happens-to-recyclables/
-breadcrumb: What happens to recyclables  
-collection_name: recycle
+breadcrumb: 'What happens to recyclables'
+
 ---
+
 
 Under the National Recycling Programme (NRP) launched in April 2001, the public waste collectors (PWCs) licensed by NEA are required to provide recycling bins and recycling collection services to all HDB estates, private landed properties and condominiums/private apartments opted into the public waste collection scheme.
 
