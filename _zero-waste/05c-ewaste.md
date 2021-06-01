@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Electrical and electronic equipment
+title: 'Electrical and electronic equipment'
 permalink: /zero-waste-masterplan/chapter3/ewaste/
-breadcrumb: Zero Waste Masterplan - Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops
-collection_name: zero-waste
-second_nav_title: "Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops"
+breadcrumb: 'Zero Waste Masterplan - Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops'
+third_nav_title: 'Chapter 3 - A Circular Economy Approach To Closing Three Resource Loops'
+
 ---
+
 
 ### As a country, we discard an estimated 60,000 tonnes of e-waste annually. This is equivalent to each person throwing away 11kg of e-waste, or the weight of 73 mobile phones.
 
