@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Semakau Landfill
+title: 'Semakau Landfill'
 permalink: /semakau_landfill/
-breadcrumb: Zero Waste Masterplan
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ### AN ENGINEERING MARVEL AND HAVEN FOR BIODIVERSITY
 
