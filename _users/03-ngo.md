@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What you can do as an NGO
+title: 'What you can do as an NGO'
 permalink: /users/NGO/
-breadcrumb: What you can do 
-collection_name: users
+breadcrumb: 'What you can do'
+
 ---
+
 
 ## Capacity Building
 NEA runs training workshops that cater specifically to the needs of environmental interest groups and nongovernmental organisations (NGOs).
