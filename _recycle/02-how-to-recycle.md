@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: How to Recycle
+title: 'How to Recycle'
 permalink: /recycle/how-to-recycle/
-breadcrumb: How to Recycle
-collection_name: recycle
+breadcrumb: 'How to Recycle'
+
 ---
+
 
 ### 40% of what we place inside the blue recycling bins are not suitable for recycling. That's because these items are either contaminated with food and liquids, or made of materials that can't be recycled at all.
 
