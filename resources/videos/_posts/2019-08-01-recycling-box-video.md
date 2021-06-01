@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Recycling bin for new BTO homeowners
-date:   2019-08-01
+title: 'Recycling bin for new BTO homeowners'
+date: 2019-08-01T00:00:00.000Z
 permalink: /resources/videos/bto-recycling-box
+
 ---
+
 
 
 Congratulations on your new home! Here’s some good news – we’ve worked with IKEA to add some style to your recycle right efforts with a cool bin from IKEA.
