@@ -49,7 +49,7 @@ sections:
           subtitle: Resources
           button: 'More Resources'
           url: resources/
-notification: "\n###### We'd love to hear from you! Your valuable [feedback](https://form.gov.sg/5cd9272e7c72130017cee279){:target=\"_blank\"} will help us to improve our site.\n"
+notification: We'd love to hear from you! Your valuable <a href="https://form.gov.sg/5cd9272e7c72130017cee279" target="_blank">feedback</a> will help us to improve our site.
 
 ---
 
