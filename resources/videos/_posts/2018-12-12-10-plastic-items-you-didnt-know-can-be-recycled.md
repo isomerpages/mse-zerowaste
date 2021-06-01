@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  10 plastic items you didn't know can be recycled
-date:   2018-12-12
+title: '10 plastic items you didn''t know can be recycled'
+date: 2018-12-12T00:00:00.000Z
 permalink: /resources/videos/10-plastic-items-you-didnt-know-can-be-recycled
+
 ---
+
 A recent study has shown that 7 in 10 people in Singapore do not know what plastics to recycle. But fret no more. Here’s a quick guide to get you started!
 
 Recycling is beneficial to the environment as it conserves resources. By recycling, you can also help to prolong the lifespan of our one and only landfill at Semakau!
