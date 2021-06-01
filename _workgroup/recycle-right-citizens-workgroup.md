@@ -39,8 +39,8 @@ Senior Minister of State for Sustainability and the Environment, Dr Amy Khor, me
 
 #### Download the reports
 
-* [Report by members of the #RecycleRight Citizens’ Workgroup](/images/CW_Report_Participants.pdf)
-* [MSE’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/images/CW_Report_MEWR.pdf)
+* [Report by members of the #RecycleRight Citizens’ Workgroup](/files/CW_Report_Participants.pdf)
+* [MSE’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/files/CW_Report_MEWR.pdf)
 
 
 <div class="bp-youtube">
