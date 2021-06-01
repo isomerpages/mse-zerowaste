@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What to recycle
+title: 'What to recycle'
 permalink: /recycle/what-to-recycle/
-breadcrumb: What to Recycle 
-collection_name: recycle
+breadcrumb: 'What to Recycle'
+
 ---
+
 
 ### Not sure what you can or cannot recycle? Let this list help you!
 
