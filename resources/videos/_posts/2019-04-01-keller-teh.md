@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Voice of Save Semakau - Keller Teh
-date:   2019-04-01
+title: 'Voice of Save Semakau - Keller Teh'
+date: 2019-04-01T00:00:00.000Z
 permalink: /resources/videos/voice-of-save-semakau
+
 ---
+
 
 10-year-old Keller Teh, the voice behind the "Save Semakau" animation, enjoys coding and repairing.
 
