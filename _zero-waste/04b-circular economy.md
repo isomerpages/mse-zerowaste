@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: What is Circular Economy?
+title: 'What is Circular Economy?'
 permalink: /zero-waste-masterplan/chapter2/circular-economy/
-breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
-collection_name: zero-waste
-second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
+breadcrumb: 'Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop'
+third_nav_title: 'Chapter 2 - Keeping Our Resources Within A Closed Loop'
+
 ---
+
 
 ### Unlike the linear economy, the circular economy focuses on designing waste out of the resource ecosystem and maximising the value of resources by keeping them in use for as long as possible.
 
