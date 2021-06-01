@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What you can do as a teacher
+title: 'What you can do as a teacher'
 permalink: /users/teacher/
-breadcrumb: What you can do 
-collection_name: users
+breadcrumb: 'What you can do'
+
 ---
+
 
 ![Photos of students in a classroom](/images/schools.jpg)
 
