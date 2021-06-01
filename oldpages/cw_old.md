@@ -1,9 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Recycle Right Citizens' Workgroup
+title: 'Recycle Right Citizens'' Workgroup'
 permalink: /citizens_workgroup_old/
-breadcrumb: Citizens' Workgroup
+breadcrumb: 'Citizens'' Workgroup'
+
 ---
+
 
 > Registration for the #RecycleRight Citizens' Workgroup has closed. You will be informed by mid-September if you are selected for the workgroup.
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Public Consultation on Zero Waste Masterplan
+title: 'Public Consultation on Zero Waste Masterplan'
 permalink: /consultation_old/
-breadcrumb: Public Consultation
+breadcrumb: 'Public Consultation'
+
 ---
+
 
 ![Zero Waste Consultation](/images/zwc.jpeg)
 

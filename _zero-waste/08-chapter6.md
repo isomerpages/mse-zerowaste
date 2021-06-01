@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chapter 6 - Shaping A Greener Future With Science And Technology
+title: 'Chapter 6 - Shaping A Greener Future With Science And Technology'
 permalink: /zero-waste-masterplan/chapter6/
-breadcrumb: Zero Waste Masterplan 
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ### As Singapore grapples with climate change and mounting waste, we are investing in research and development (R&D) and collaborating with industry experts to develop new, more efficient and eco-friendly ways to support the circular economy approach by recovering resources from waste. 
 

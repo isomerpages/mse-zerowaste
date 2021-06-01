@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Reuse
 permalink: /reuse/
 breadcrumb: Reuse
+
 ---
+
 
 ### **Reuse Materials**
 

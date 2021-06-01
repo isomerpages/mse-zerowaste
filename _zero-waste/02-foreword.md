@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Foreword
 permalink: /zero-waste-masterplan/foreword/
-breadcrumb: Zero Waste Masterplan 
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ![Alternative text for screen readers](/images/ch0-foreward.jpg)
 

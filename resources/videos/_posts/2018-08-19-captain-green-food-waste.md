@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Captain Green Video for Children (Food Waste)
-date:   2018-08-19
+title: 'Captain Green Video for Children (Food Waste)'
+date: 2018-08-19T00:00:00.000Z
 permalink: /resources/videos/captain-green-food-waste
+
 ---
+
 
 
 Growing food requires precious resources, time and hard work. Let’s Not Be Wasteful. Order only what you can finish.

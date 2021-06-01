@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Recycle Right
+title: 'Recycle Right'
 permalink: /recycle-right/
-breadcrumb: Our Focus Areas
-collection_name: waste-streams
+breadcrumb: 'Our Focus Areas'
+
 ---
+
 
 ### 40% of what goes into recycling bins cannot be recycled. This is because some people throw in items which are unsuitable for recycling. 
 

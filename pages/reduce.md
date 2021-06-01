@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Reduce
 permalink: /reduce/
 breadcrumb: Reduce
+
 ---
+
 
 ### The best way to reduce our waste is to simply consume less. By reducing our waste and diverting recyclable materials from the rubbish chute, we send less to the landfill and extend its lifespan.
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chapter 5 - Transforming The Environmental Services Industry
+title: 'Chapter 5 - Transforming The Environmental Services Industry'
 permalink: /zero-waste-masterplan/chapter5/
-breadcrumb: Zero Waste Masterplan 
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ### From the adoption of technology to making cleaning and waste management jobs smarter, safer and easier, to helping local companies go global – the environmental services industry is getting a facelift to sparkle with higher productivity and capabilities.
 

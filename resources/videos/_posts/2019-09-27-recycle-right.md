@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Recycle Right with Denise Keller, Joanna Dong, Atyy Malek, Udaya Soundari
-date: 2019-09-27
+title: 'Recycle Right with Denise Keller, Joanna Dong, Atyy Malek, Udaya Soundari'
+date: 2019-09-27T00:00:00.000Z
 permalink: /resources/videos/recycle_right_denise_joanna_atyy_udaya
+
 ---
+
 
 Recycling in Singapore is simple - you don't even have to pre-sort your recyclables before putting them in the blue bin as sorting will be done at a central facility after all the recyclables have been collected. 
 

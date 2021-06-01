@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Overcoming the environmental challenges of our past
+title: 'Overcoming the environmental challenges of our past'
 permalink: /zero-waste-masterplan/chapter1/our-past
-breadcrumb: Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation
-collection_name: zero-waste
-second_nav_title: "Chapter 1 - Towards a Zero Waste Nation"
+breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
+third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
+
 ---
+
 
 
 ### Singapore in the 1960s and 1970s was marked by night soil buckets, water rationing, and unhygienic street hawkers.

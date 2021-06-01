@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Packaging Waste
+title: 'Packaging Waste'
 permalink: /waste-streams/packaging-waste/
-breadcrumb: Our Focus Areas
-collection_name: waste-streams
+breadcrumb: 'Our Focus Areas'
+
 ---
+
 
 ### Of the 1.6 million tonnes of domestic waste disposed of in 2018, one-third is made up of packaging. More than half of this packaging is made of plastic, but only 4% of plastic waste is recycled. There is potential to further reduce packaging waste.
 

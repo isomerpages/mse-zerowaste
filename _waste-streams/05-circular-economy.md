@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Circular Economy
+title: 'Circular Economy'
 permalink: /circular-economy/
-breadcrumb: Our Focus Areas
-collection_name: waste-streams
+breadcrumb: 'Our Focus Areas'
+
 ---
+
 
 
 ### Reducing waste and adopting a circular economy approach will benefit the environment and create economic opportunities.

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chapter 4 - Optimising Infrastructure For Maximum Resource Recovery
+title: 'Chapter 4 - Optimising Infrastructure For Maximum Resource Recovery'
 permalink: /zero-waste-masterplan/chapter4/
-breadcrumb: Zero Waste Masterplan 
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ### Even as new policies are implemented and infrastructure developed to achieve our vision as a Zero Waste Nation, we will need to continually improve existing waste management technologies to enhance our treatment of waste and recovery of resources.
 

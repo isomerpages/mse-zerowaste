@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What you can do as an individual
+title: 'What you can do as an individual'
 permalink: /users/individual/
-breadcrumb: WHAT YOU CAN DO
-collection_name: users
+breadcrumb: 'WHAT YOU CAN DO'
+
 ---
+
 
 
 ### The amount of waste we generate is not sustainable and is contributing to climate change.

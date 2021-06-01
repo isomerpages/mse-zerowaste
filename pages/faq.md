@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /faq/
 breadcrumb: FAQ
-title: Frequently Asked Questions 
+title: 'Frequently Asked Questions'
+
 ---
+
 
 > Can't find the answers to what you are looking for? Drop us a note at <mewr_feedback@mewr.gov.sg> 
 

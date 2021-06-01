@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chapter 7 - Towards A Zero Waste Nation, Together
+title: 'Chapter 7 - Towards A Zero Waste Nation, Together'
 permalink: /zero-waste-masterplan/chapter7/
-breadcrumb: Zero Waste Masterplan 
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 ### Our zero waste vision is an endeavour that will require people in Singapore to come together. From individuals to households and industries, everyone has a part to play as we make our transition towards a Zero Waste Nation.
 

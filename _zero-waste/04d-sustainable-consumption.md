@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Sustainable Consumption
+title: 'Sustainable Consumption'
 permalink: /zero-waste-masterplan/chapter2/sustainable-consumption/
-breadcrumb: Zero Waste Masterplan - Chapter 2 - Chapter 2 - Keeping Our Resources Within A Closed Loop
-collection_name: zero-waste
-second_nav_title: "Chapter 2 - Keeping Our Resources Within A Closed Loop"
+breadcrumb: 'Zero Waste Masterplan - Chapter 2 - Chapter 2 - Keeping Our Resources Within A Closed Loop'
+third_nav_title: 'Chapter 2 - Keeping Our Resources Within A Closed Loop'
+
 ---
+
 
 ### Rising disposable income levels have led to more comfortable lives for current generations. But as our affluence grows, so does our consumption of goods and services. This in turn generates waste, with the amount of waste disposed of in Singapore increasing by over seven times over the last 40 years.
 

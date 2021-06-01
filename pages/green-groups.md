@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Green Groups in Singapore
+title: 'Green Groups in Singapore'
 permalink: /green-groups-in-singapore/
 breadcrumb: Resources
+
 ---
+
 
 #### Zero Waste SG
 

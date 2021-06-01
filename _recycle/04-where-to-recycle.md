@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Where to recycle
+title: 'Where to recycle'
 permalink: /recycle/where-to-recycle/
-breadcrumb: Where to Recycle 
-collection_name: recycle
+breadcrumb: 'Where to Recycle'
+
 ---
+
 
 ### Where to recycle metal, paper, glass, plastics
 

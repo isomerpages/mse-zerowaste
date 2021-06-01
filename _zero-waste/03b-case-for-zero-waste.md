@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: The case for Zero Waste
+title: 'The case for Zero Waste'
 permalink: /zero-waste-masterplan/chapter1/case-for-zero-waste
-breadcrumb: Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation
-collection_name: zero-waste
-second_nav_title: "Chapter 1 - Towards a Zero Waste Nation"
+breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
+third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
+
 ---
+
 
 
 ### At the heart of Singapore’s rapid development lies an inconvenient question: Is it sustainable? 
