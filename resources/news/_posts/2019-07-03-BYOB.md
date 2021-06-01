@@ -1,7 +1,0 @@
----
-title: 'Zero Waste SG''s Bring Your Own Bag (BYOB) Campaign Launch'
-date: 2019-07-03T00:00:00.000Z
-file_url: 'https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-zero-waste-sg-s-bring-your-own-bag-byob-campaign-launch-ceremony-on-3-july-2019-at-fairprice-xtra--kallang-wave-mall'
-
----
-

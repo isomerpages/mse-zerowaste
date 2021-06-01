@@ -1,0 +1,9 @@
+collections:
+  recycle:
+    output: true
+    order:
+      - why-should-we-recycle.md
+      - how-to-recycle.md
+      - what-to-recycle.md
+      - where-to-recycle.md
+      - what-happens-to-recyclables.md

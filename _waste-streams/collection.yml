@@ -1,0 +1,9 @@
+collections:
+  waste-streams:
+    output: true
+    order:
+      - food-waste.md
+      - electronic-waste.md
+      - packaging-waste.md
+      - recycle-right.md
+      - circular-economy.md
