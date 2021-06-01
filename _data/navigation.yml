@@ -1,12 +1,20 @@
 logo: /images/Zerowastelogo-01.png
 links:
-    - title: 'Zero Waste Masterplan'
-      collection: zero-waste-masterplan
-    - title: 'Our Focus Areas'
-      collection: our-focus-areas
-    - title: 'Take Action'
-      collection: take-action
-    - title: Resources
-      resource_room: true
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: 'Zero Waste Masterplan'
+    collection: zero-waste
+  - title: 'Our Focus Areas'
+    collection: waste-streams
+  - title: 'Take Action'
+    false_collection: true
+    url: /#/
+    sublinks:
+      - title: 'Reduce'
+        url: /reduce/
+      - title: 'Reuse'
+        url: /reuse/
+      - title: 'Recycle'
+        url: /recycle/
+  - title: Resources
+    resource_room: true
+  - title: 'Contact Us'
+    url: /contact-us/
