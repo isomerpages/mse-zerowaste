@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Introduction
 permalink: /zero-waste-masterplan/
-breadcrumb: Zero Waste Masterplan
-collection_name: zero-waste
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 
 ### Singapore’s inaugural Zero Waste Masterplan charts Singapore's path towards a zero waste nation
