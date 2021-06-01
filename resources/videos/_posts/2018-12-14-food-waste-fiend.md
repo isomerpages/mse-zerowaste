@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Don’t be a Food Waste Fiend
-date:   2018-12-14
+title: 'Don’t be a Food Waste Fiend'
+date: 2018-12-14T00:00:00.000Z
 permalink: /resources/videos/food-waste-fiend
+
 ---
+
 Planning a party? Remember to buy, cook or order only what you need. Don’t be a food waste fiend! Let’s avoid food waste! More tips on [www.cgs.sg/fwrguide](www.cgs.sg/fwrguide){:target="_blank"}  
 
 <div class="bp-youtube">
