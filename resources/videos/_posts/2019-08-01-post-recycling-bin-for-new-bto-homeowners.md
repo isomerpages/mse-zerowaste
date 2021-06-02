@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Recycling bin for new BTO homeowners'
 date: 2019-08-01T00:00:00.000Z
 permalink: /resources/videos/bto-recycling-box

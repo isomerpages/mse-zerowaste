@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Green Heroes - E-recovery'
 date: 2019-07-04T00:00:00.000Z
 permalink: /resources/videos/green-heroes-e-recovery

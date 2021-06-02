@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Behind the scenes at a Materials Recovery Facility'
 date: 2018-12-12T00:00:00.000Z
 permalink: /resources/videos/materials-recovery-facility

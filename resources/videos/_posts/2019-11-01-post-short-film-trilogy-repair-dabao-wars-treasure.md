@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Short Film Trilogy - Repair, Dabao Wars, Treasure'
 date: 2019-11-01T00:00:00.000Z
 permalink: /resources/videos/short-films

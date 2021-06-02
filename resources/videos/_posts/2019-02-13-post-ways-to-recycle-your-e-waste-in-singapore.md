@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Ways to recycle your e waste in Singapore'
 date: 2019-02-13T00:00:00.000Z
 permalink: /resources/videos/e_waste_recycling

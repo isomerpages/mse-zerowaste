@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Turn ugly food into delicious drinks'
 date: 2019-05-10T00:00:00.000Z
 permalink: /resources/videos/uglyfood

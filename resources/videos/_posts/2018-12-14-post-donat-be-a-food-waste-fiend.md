@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Don’t be a Food Waste Fiend'
 date: 2018-12-14T00:00:00.000Z
 permalink: /resources/videos/food-waste-fiend

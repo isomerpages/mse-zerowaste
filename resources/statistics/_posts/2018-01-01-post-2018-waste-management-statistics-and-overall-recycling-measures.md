@@ -1,4 +1,5 @@
 ---
+layout: post
 title: '2018 Waste management statistics and overall recycling measures'
 date: 2018-01-01T00:00:00.000Z
 permalink: /resources/statistics/waste-management-statistics-overall-recycling
