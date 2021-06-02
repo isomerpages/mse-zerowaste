@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Recycle Right with Denise Keller, Joanna Dong, Atyy Malek, Udaya Soundari'
 date: 2019-09-27T00:00:00.000Z
 permalink: /resources/videos/recycle_right_denise_joanna_atyy_udaya

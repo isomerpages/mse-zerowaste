@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Hold That Trash! E-Waste Edition'
 date: 2019-07-09T00:00:00.000Z
 permalink: /resources/videos/hold_that_trash_ewaste

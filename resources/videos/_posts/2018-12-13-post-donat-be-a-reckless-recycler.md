@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Don’t be a Reckless Recycler'
 date: 2018-12-13T00:00:00.000Z
 permalink: /resources/videos/reckless-recycler
