@@ -1,12 +1,8 @@
 ---
-title: 'Food Waste'
+title: Food Waste
 permalink: /foodwaste/
-breadcrumb: 'Our Focus Areas'
-
+breadcrumb: Our Focus Areas
 ---
-
-
-
 ### Food waste is one of the biggest waste streams in Singapore and the amount of food waste generated has grown by around 20% over the last 10 years. In 2019, Singapore generated around 744 million kg of food waste. That is equivalent to 2 bowls of rice per person per day, or around 51,000 double decker buses.
 
 -------------------
@@ -70,7 +66,7 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 **Building up local R&D capabilities**
 
-* Looking into research & development (R&D) opportunities and considering developing pilot plants to test-bed innovative ways to recycle food waste. For example, NEA is working with the Agri-Food & Veterinary Authority (AVA) to encourage food manufacturers to carry out R&D and test-bed innovative solutions such as converting soya bean waste into useful products in our food chain. Through this and other projects, NEA hopes to build up local R&D capabilities and develop novel solutions in the management of food waste.
+* Looking into research & development (R&D) opportunities and considering developing pilot plants to test-bed innovative ways to recycle food waste. For example, NEA is working with the Singapore Food Agency (SFA) to encourage food manufacturers to carry out R&D and test-bed innovative solutions such as converting soya bean waste into useful products in our food chain. Through this and other projects, NEA hopes to build up local R&D capabilities and develop novel solutions in the management of food waste.
 
 **Legislation**
 
