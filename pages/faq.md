@@ -1,12 +1,9 @@
 ---
 permalink: /faq/
 breadcrumb: FAQ
-title: 'Frequently Asked Questions'
-
+title: Frequently Asked Questions
 ---
-
-
-> Can't find the answers to what you are looking for? Drop us a note at <mewr_feedback@mewr.gov.sg> 
+> Can't find the answers to what you are looking for? Drop us a note at <mse_feedback@mse.gov.sg> 
 
 ### 1. Why are commingled recycling bins used in Singapore?
 
