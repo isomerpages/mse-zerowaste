@@ -58,7 +58,7 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 * Supported 24 premises, including hotels, malls and educational institutions, to install on-site food waste treatment systems under NEA’s [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund){:target="_blank"}. 
 
-* Conducted [demonstration project to co-digest food waste and used water sludge](https://www.facebook.com/PUBsg/posts/2006897306067607){:target="_blank"}. Results from a trial project have shown that the process can triple biogas yield, compared to the treatment of used water sludge alone. 
+* Conducted [demonstration project to co-digest food waste and used water sludge](https://www.nea.gov.sg/media/news/news/index/co-digestion-of-food-waste-and-used-water-sludge-enhances-biogas-production-for-greater-energy-generation){:target="_blank"}. Results from a trial project have shown that the process can triple biogas yield, compared to the treatment of used water sludge alone. 
 
 ![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
@@ -108,15 +108,15 @@ Find out who’s coming home for dinner and plan how much food to cook according
 
 ![leftovers](/images/leftovers.jpg)
 
-Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, [here](https://www.cgs.sg/FWRguide){:target="_blank"}
+Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, [here](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"}
 
 **3. Donate your excess food**
 
 ![donate excess food](/images/donate-excess-food.jpg)
 
-Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodfromtheheart.sg){:target="_blank"} , [Fei Yue Community Services](http://www.fcys.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
+Donate excess food to the needy via organisations such as the [Food Bank Singapore](http://www.foodbank.sg){:target="_blank"} , [Food from the Heart](https://foodfromtheheart.sg){:target="_blank"} , [Fei Yue Community Services](http://www.fycs.org){:target="_blank"}  and [Willing Hearts](http://www.willinghearts.org.sg){:target="_blank"} . 
 
-Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.sg/docs/default-source/Programmes/FWRhandyguide.pdf){:target="_blank"} 
+Also, don't forget to check out NEA's [Handy Guide to Reducing Food Wastage & Saving Money](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"} 
 
 
 [Back to top](#top)
@@ -158,7 +158,7 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 
 * Community fridges have appeared in Queenstown, Yishun and Tampines. Residents are encouraged to donate unwanted food products that are still good for consumption, instead of discarding them.
 
-* [Foodscape Collective](https://foodscapecollective.org/){:target="_blank"} is a community of enthusiasts working towards creating sustainable and resilient food systems. Some of their initiatives include facilitating the redistribution of excess and yet-to-expire food and composting of kitchen scraps. 
+* [Foodscape Collective](https://foodscapecollective.com){:target="_blank"} is a community of enthusiasts working towards creating sustainable and resilient food systems. Some of their initiatives include facilitating the redistribution of excess and yet-to-expire food and composting of kitchen scraps. 
 
 * [treatsure](https://www.treatsure.co/){:target="_blank"} is Singapore's first mobile reservation platform connecting businesses & hotels with surplus food to everyday consumers. Through their mobile app, treatsure shares and reallocates excess food resources to people who would treasure them, minimising food wastage.
 
@@ -166,6 +166,6 @@ Also, don’t forget to check out to check out the food waste minimisation guide
 
 * [UglyFood](https://www.uglyfood.com.sg/){:target="_blank"} is an F&B social enterprise that fights food waste as a result of cosmetic filtering.
 
-* [Good for Food](https://www.goodforfood.sg/){:target="_blank"} is an IoT start-up that empowers hotels and large commercial kitchens with data analytics to understand their food waste generation and reduce their food waste, costs and environmental footprint.
+* [Lumitics](https://lumitics.com/){:target="_blank"} is an IoT start-up that empowers hotels and large commercial kitchens with data analytics to understand their food waste generation and reduce their food waste, costs and environmental footprint.
 
 [Back to top](#top)
