@@ -1,68 +1,20 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Zero Waste Masterplan
-  url: /zero-waste-masterplan/
-  sub-links:
-  - title: Introduction
-    url: /zero-waste-masterplan/
-  - title: Foreword
-    url: /zero-waste-masterplan/foreword/
-  - title: Chapter 1 Towards a Zero Waste Nation
-    url: /zero-waste-masterplan/chapter1/
-  - title: Chapter 2 Keeping Our Resources Within A Closed Loop
-    url: /zero-waste-masterplan/chapter2/
-  - title: Chapter 3 A Circular Economy Approach To Closing Three Resource Loops
-    url: /zero-waste-masterplan/chapter3/
-  - title: Chapter 4 Optimising Infrastructure For Maximum Resource Recovery
-    url: /zero-waste-masterplan/chapter4/
-  - title: Chapter 5 Transforming The Environmental Services Industry
-    url: /zero-waste-masterplan/chapter5/ 
-  - title: Chapter 6 Shaping A Greener Future With Science And Technology
-    url: /zero-waste-masterplan/chapter6/ 
-  - title: Chapter 7 Towards A Zero Waste Nation, Together
-    url: /zero-waste-masterplan/chapter7/ 
-- title: Our Focus Areas
-  url: /ewaste/
-  sub-links:
-  - title: Food Waste
-    url: /foodwaste/
-  - title: Electronic Waste
-    url: /ewaste/
-  - title: Packaging Waste
-    url: /waste-streams/packaging-waste/
-  - title: Recycle Right
-    url: /recycle-right/
-  - title: Circular Economy
-    url: /circular-economy/
-- title: Take Action
-  url: /#/
-  sub-links:
-  - title: Reduce
-    url: /reduce/
-  - title: Reuse
-    url: /reuse/
-  - title: Recycle
-    url: /recycle/
-- title: Resources
-  url: /resources/
-  sub-links:
-  - title: All
-    url: /resources/
-  - title: News
-    url: /resources/news/
-  - title: Videos
-    url: /resources/videos/
-  - title: Infographics
-    url: /resources/infographics/
-  - title: Publications
-    url: /resources/publications/
-  - title: Statistics
-    url: /resources/statistics/
-  - title: FAQs
-    url: /faq/
-- title: Contact Us
-  url: /contact-us/
+logo: /images/Zerowastelogo-01.png
+links:
+  - title: 'Zero Waste Masterplan'
+    collection: zero-waste
+  - title: 'Our Focus Areas'
+    collection: waste-streams
+  - title: 'Take Action'
+    false_collection: true
+    url: /#/
+    sublinks:
+      - title: 'Reduce'
+        url: /reduce/
+      - title: 'Reuse'
+        url: /reuse/
+      - title: 'Recycle'
+        url: /recycle/
+  - title: Resources
+    resource_room: true
+  - title: 'Contact Us'
+    url: /contact-us/

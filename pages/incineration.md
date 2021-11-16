@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: The Science Behind Incineration
+title: 'The Science Behind Incineration'
 permalink: /science_behind_incineration/
-breadcrumb: Zero Waste Masterplan
+breadcrumb: 'Zero Waste Masterplan'
+
 ---
+
 
 Each day, about 600 refuse trucks roll
 into Tuas South Incineration Plant (TSIP),

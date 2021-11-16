@@ -1,0 +1,8 @@
+collections:
+  users:
+    output: true
+    order:
+      - what-you-can-do-as-an-individual.md
+      - what-you-can-do-as-a-business.md
+      - what-you-can-do-as-an-ngo.md
+      - what-you-can-do-as-a-teacher.md

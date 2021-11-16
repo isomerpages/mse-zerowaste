@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 ### Thank you for visiting the Ministry of Sustainability and the Environment’s website (the “Site”). By accessing and using any part of this Site, you unconditionally accept to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
 #### 1. GENERAL

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: How To Have a Zero Waste Mid-Autumn Festival
+title: 'How To Have a Zero Waste Mid-Autumn Festival'
 permalink: /mooncake/
-breadcrumb: Food Waste
+breadcrumb: 'Food Waste'
+
 ---
+
 
 ![how to have a zero waste mid-autumn festival](/images/dabao1.png)
 ![Let's enjoy food, not waste it! In Singapore, we love food. But sometimes, we order, cook or buy more than we need, especially during the festive season. This leads to food wastage.](/images/dabao2.png)
