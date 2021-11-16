@@ -6,5 +6,4 @@ permalink: /resources/infographics/10-things-recycling-shouldnt
 
 ---
 
-![blue bin shouldn't infographic](/images/Blue-Bin-shouldnt-thumbnail.jpg)
 ![blue bin shouldn't infographic](/images/Blue-Bin-shouldnt.png)
