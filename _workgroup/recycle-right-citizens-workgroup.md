@@ -1,12 +1,8 @@
 ---
-title: 'Recycle Right Citizens'' Workgroup'
+title: Recycle Right Citizens' Workgroup
 permalink: /citizens_workgroup/
-breadcrumb: 'Citizens'' Workgroup'
-
+breadcrumb: Citizens' Workgroup
 ---
-
-
-
 ### How can we improve household recycling?
 
 ![Group discussion](/images/cw-3.jpg)
@@ -39,8 +35,8 @@ Senior Minister of State for Sustainability and the Environment, Dr Amy Khor, me
 
 #### Download the reports
 
-* [Report by members of the #RecycleRight Citizens’ Workgroup](/files/CW_Report_Participants.pdf)
-* [MSE’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/files/CW_Report_MEWR.pdf)
+* [Report by members of the #RecycleRight Citizens’ Workgroup](/images/CW_Report_Participants.pdf)
+* [MSE’s response to the recommendations by the #RecycleRight Citizens’ Workgroup](/images/CW_Report_MEWR.pdf)
 
 
 <div class="bp-youtube">
@@ -67,5 +63,3 @@ Senior Minister of State for Sustainability and the Environment, Dr Amy Khor, me
 ![Dr Amy Khor on stage](/images/CW-Wrap-1.jpg)
 ![Dr Amy Khor delivering address](/images/CW-Wrap-2.jpg)
 ![Wrap Up group photo](/images/CW-group-photo.JPG)
-
-
