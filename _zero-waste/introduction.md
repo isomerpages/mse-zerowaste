@@ -1,12 +1,8 @@
 ---
 title: Introduction
 permalink: /zero-waste-masterplan/
-breadcrumb: 'Zero Waste Masterplan'
-
+breadcrumb: Zero Waste Masterplan
 ---
-
-
-
 ### Singapore’s inaugural Zero Waste Masterplan charts Singapore's path towards a zero waste nation
 
 Singapore’s inaugural Zero Waste Masterplan maps out Singapore’s key
@@ -42,6 +38,6 @@ The Masterplan has set a new waste reduction target for Singapore – **to
 
 #### Downloads
 
-* [Zero Waste Masterplan](https://go.gov.sg/zwmp-full){:target="_blank"}  (PDF, 12MB)
-* [Masterplan Summary](https://go.gov.sg/zwmp-summary){:target="_blank"}
-* [Masterplan Brochure](https://go.gov.sg/zwmp-brochure){:target="_blank"}
+* [Zero Waste Masterplan](/files/zero-waste-masterplan.pdf){:target="_blank"}  (PDF, 12MB)
+* [Masterplan Summary](/files/zero-waste-masterplan-summary.pdf){:target="_blank"}
+* [Masterplan Brochure](/files/zero-waste-masterplan-brochure.pdf){:target="_blank"}
