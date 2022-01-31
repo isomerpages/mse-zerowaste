@@ -1,11 +1,8 @@
 ---
-title: 'How to Recycle'
+title: How to Recycle
 permalink: /recycle/how-to-recycle/
-breadcrumb: 'How to Recycle'
-
+breadcrumb: How to Recycle
 ---
-
-
 ### 40% of what we place inside the blue recycling bins are not suitable for recycling. That's because these items are either contaminated with food and liquids, or made of materials that can't be recycled at all.
 
 ![recycling bin in singapore](/images/recycling-bin-in-singapore.jpg)
@@ -22,7 +19,7 @@ Use the blue bin correctly! Recycle right with this simple checklist:
 * Common [materials that can be recycled](/recycle/what-to-recycle/) include glass, paper, plastic and metal.
 * Single-use packaging such as disposable containers and cups often cannot be recycled as they are contaminated with food.
 * While [food waste](/foodwaste/) and [e-waste](/ewaste/) can be recycled, they cannot be placed inside the blue recycling bins. Please refer to the respective waste stream pages to find out how they can recycled.
-* Separate reusables (clothes, shoes, stuffed toys) from recyclables. Reusables that are in good condition should be donated. You can give them away through [online sites](https://sg.carousell.com/categories/free-items-1898/?){:target="_blank"} or donate them [here](https://www.facebook.com/MEWRsingapore/posts/2248425458541997){:target="_blank"}!
+* Separate reusables (clothes, shoes, stuffed toys) from recyclables. Reusables that are in good condition should be donated. You can give them away through [online sites](https://sg.carousell.com/categories/free-items-1898/?){:target="_blank"} or donate them!
 * Do not throw trash or bulky items like furniture and renovation waste into blue recycling bins.
 
 
@@ -36,5 +33,3 @@ Use the blue bin correctly! Recycle right with this simple checklist:
 
 
 Unsure whether something can be recyclable or not? Please contact NEA at 1800-CALL NEA (1800-2255 632)!
-
-

@@ -108,7 +108,7 @@ Find out who’s coming home for dinner and plan how much food to cook according
 
 ![leftovers](/images/leftovers.jpg)
 
-Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, [here](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"}
+Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with [recipes](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"} for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more!
 
 **3. Donate your excess food**
 
@@ -139,7 +139,7 @@ Food retail establishments and supermarkets can help reduce food wastage by offe
 
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
 
-Also, don’t forget to check out to check out the food waste minimisation guidebooks for Food Manufacturing Establishments, Food Retail Establishments and Supermarkets at the NEA Food Waste Management webpage [here](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management){:target="_blank"} .
+Also, don’t forget to check out to check out the food waste minimisation guidebooks for Food Manufacturing Establishments, Food Retail Establishments and Supermarkets at the [NEA Food Waste Management webpage](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management){:target="_blank"} .
 
 
 [Back to top](#top)
