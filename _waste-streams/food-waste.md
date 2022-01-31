@@ -108,7 +108,7 @@ Find out who’s coming home for dinner and plan how much food to cook according
 
 ![leftovers](/images/leftovers.jpg)
 
-Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with recipes for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more, [here](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"}
+Instead of throwing away your leftovers, turn them into tasty new dishes. Learn how to cook up a storm using common leftover ingredients with [recipes](https://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf){:target="_blank"} for bread pudding pancake, spicy ribs udon, Hawaiian chicken swirls and more!
 
 **3. Donate your excess food**
 
