@@ -1,11 +1,8 @@
 ---
-title: 'Electronic Waste'
+title: Electronic Waste
 permalink: /ewaste/
-breadcrumb: 'Our Focus Areas'
-
+breadcrumb: Our Focus Areas
 ---
-
-
 ### Singapore generates about 60,000 tonnes of e-waste a year. That’s equivalent to discarding about 70 mobile phones per person in Singapore! This number is expected to increase with greater spending power and new technologies constantly replacing old ones. 
 
 -------------------
@@ -100,7 +97,7 @@ Recycling e-waste is best done through recycling points put in place by recyclin
 Drop off your e-waste at these designated recycling points offered by [various retailers and our industry partners](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste){:target="_blank"}. 
 **(Please note that e-waste cannot be placed inside the blue recycling bins)**
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ySyBcuorBk9s4c59jRkJhceMATM3fF2b" width="640" height="480"></iframe>
+<iframe title="E-Waste Collection Points" src="https://www.google.com/maps/d/embed?mid=1ySyBcuorBk9s4c59jRkJhceMATM3fF2b" width="640" height="480"></iframe>
 
 
 **1. StarHub's RENEW (REcycling Nation's Electronic Waste) Programme**
