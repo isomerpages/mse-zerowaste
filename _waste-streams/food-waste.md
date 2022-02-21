@@ -62,7 +62,7 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 ![demonstration project to co-digest food waste and used water sludge](/images/demo-project-sludge.jpg)
 
-* Conducted a “Food Waste, Don’t Waste!” pilot at Tampines Greenlace HDB estate, where residents segregated their food waste and disposed of it in dedicated food waste bins on the ground floor. The food waste was then recycled at Our Tampines Hub to produce fertiliser andnon-potable water.
+* Conducted a “Food Waste, Don’t Waste!” pilot at Tampines Greenlace HDB estate, where residents segregated their food waste and disposed of it in dedicated food waste bins on the ground floor. The food waste was then recycled at Our Tampines Hub to produce fertiliser and non-potable water.
 
 **Building up local R&D capabilities**
 
