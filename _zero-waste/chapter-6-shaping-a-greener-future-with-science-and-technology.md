@@ -283,7 +283,7 @@ demand for high quality aggregates. They
 believe their product could be a sustainable
 substitute for mined aggregates on the market.</p>
 
-<img src="/images/ch6-iba.png">
+<img src="/images/ch6-iba.png" alt="IBA Conversion">
 <caption>Overview of process to convert IBA into construction aggregates. Photo: Republic Polytechnic, Singapore</caption>
 </div>
 
