@@ -1,6 +1,6 @@
 ---
 title: 'Privacy Statement'
-permalink: /privacy/
+permalink:
 breadcrumb: Privacy
 
 ---
