@@ -18,7 +18,7 @@ This Site is the official Ministry of Sustainability and the Environment website
 The materials located on this Site including the information and any software programs (the “Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MSE.
 
 #### 3. PRIVACY STATEMENT
-Please click [here](/privacy/) to review this Site’s Privacy Statement.
+Please click [here](https://www.mse.gov.sg/privacy/) to review this Site’s Privacy Statement.
 
 #### 4. RESTRICTIONS ON USE OF CONTENTS
 
