@@ -1,6 +1,6 @@
 ---
 layout: forward
-permalink: /privacy/
+permalink: /terms-of-use/
 target: https://www.mse.gov.sg/terms-of-use/
 targetname: www.mse.gov.sg/terms-of-use
 targettitle: Terms of Use
