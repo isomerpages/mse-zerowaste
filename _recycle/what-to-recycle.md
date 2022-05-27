@@ -16,6 +16,7 @@ breadcrumb: What to Recycle
 </map>
 <caption>The label on the blue recycling bins has been redesigned to make information clearer on what can and cannot be deposited in the bins.</caption>
 
+Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
 
 ### Paper 
 
@@ -220,19 +221,19 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</td>
+    <td class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. Mineral water bottle, Soft drink bottle, Carbonated drink bottle, Milk bottle, Water bottle, Medicine bottle etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Plastic bottle/container - Non-food (e.g. shampoo, bodywash, facial cleanser, detergent etc)</td>
+    <td class="tg-0lax">Plastic bottle/container - Non-food (e.g. shampoo, bodywash, facial cleanser, detergent, soap etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">CD and CD casing</td>
+    <td class="tg-0lax">CD/DVD and CD/DVC casing</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
