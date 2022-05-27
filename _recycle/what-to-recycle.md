@@ -14,7 +14,7 @@ breadcrumb: What to Recycle
     <area target="" alt="Can i recycle plastic?" title="Can i recycle plastic?" href="#plastic" coords="594,335,410,0" shape="rect">
     <area target="" alt="Can i recycle metal?" title="Can i recycle glass?" href="#glass" coords="800,335,614,0" shape="rect">
 </map>
-<caption>The label on the blue recycling bins will be redesigned to make information clearer on what can and cannot be deposited in the bins. The replacement of the labels is expected to be completed by mid-2020.</caption>
+<caption>The label on the blue recycling bins has been redesigned to make information clearer on what can and cannot be deposited in the bins.</caption>
 
 
 ### Paper 
