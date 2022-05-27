@@ -18,6 +18,7 @@ breadcrumb: What to Recycle
 
 Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
 
+<!--
 ### Paper 
 
 <table class="table-h">
@@ -528,3 +529,4 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
     <td class="tg-0lax">Donate if it is in good condition<br />Contact Town council to remove from your residential premises</td>
   </tr>
 </table>
+-->
