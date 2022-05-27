@@ -64,7 +64,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">Book</td>
+    <td class="tg-0lax">Book / Textbook</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
@@ -124,13 +124,13 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">17</td>
-    <td class="tg-0lax">Carton box</td>
+    <td class="tg-0lax">Carton box / Cardboard box</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
   </tr>
   <tr>
     <td class="tg-0lax">18</td>
-    <td class="tg-0lax">Paper packaging (e.g. printed paper box etc)</td>
+    <td class="tg-0lax">Paper packaging <br />Printed paper box<br /> Paper Box</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
   </tr>
