@@ -166,7 +166,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
-    <td class="tg-0lax">Used paper disposables (e.g. paper cup, plate etc)</td>
+    <td class="tg-0lax">Paper disposables such as <br />Paper cup<br />Paper plate<br />Glitter paper<br />Crayon drawing</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -190,7 +190,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">28</td>
-    <td class="tg-0lax">Disposable wooden chopstick</td>
+    <td class="tg-0lax">Disposable wooden chopstick<br />Wooden chopsticks <br />Pizza boxes</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
