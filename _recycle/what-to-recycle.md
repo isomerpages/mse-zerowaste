@@ -470,8 +470,8 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   <tr>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Household battery</td>
-    <td class="tg-0lax"><span style="color:red">NO</span></td>
-    <td class="tg-0lax">Dispose as general waste</td>
+    <td class="tg-0lax"><span style="color:red">MAYBE</span></td>
+    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
