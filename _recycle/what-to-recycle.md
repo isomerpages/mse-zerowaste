@@ -18,6 +18,8 @@ breadcrumb: What to Recycle
 
 Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMSEsingapore%2Fposts%2F379443177560066&show_text=true&width=500" width="500" height="540" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 <!--
 ### Paper 
 
