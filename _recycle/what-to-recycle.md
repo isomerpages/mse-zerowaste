@@ -18,9 +18,7 @@ breadcrumb: What to Recycle
 
 Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMSEsingapore%2Fposts%2F379443177560066&show_text=true&width=500" width="500" height="540" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<!--
 ### Paper 
 
 <table class="table-h">
@@ -242,19 +240,19 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Plastic bag (except for oxo- and bio-degradable bags)</td>
+    <td class="tg-0lax">Plastic bag, toilet paper packaging, tissue box packaging</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Plastic film/flexible packaging (e.g. magazine wrapper, film packaging for packet drinks, bubble wrap etc.)</td>
+    <td class="tg-0lax">Plastic film (e.g. magazine wrapper, plastic packaging for packet drinks), bubble wrap, fruit box,  ziplock bag</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Plastic packaging (e.g. sliced bread bag and egg trays)</td>
+    <td class="tg-0lax">Plastic packaging, bread bag, egg trays</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty contents</td>
   </tr>
@@ -265,10 +263,10 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">Non-polystyrene foam takeaway food container</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Plastic takeaway food container, plastic cups, bubble tea cups</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
@@ -284,7 +282,7 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">Plastic packaging with foil (e.g. potato chip bags, empty blister pack etc.)</td>
+    <td class="tg-0lax">Plastic packaging with foil (e.g. potato chip bags, empty blister pack, expired credit card etc.)</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -308,7 +306,7 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
-    <td class="tg-0lax">Plastic packaging contaminated with food</td>
+    <td class="tg-0lax">Plastic packaging contaminated with food / oil stains</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -531,4 +529,4 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
     <td class="tg-0lax">Donate if it is in good condition<br />Contact Town council to remove from your residential premises</td>
   </tr>
 </table>
--->
+
