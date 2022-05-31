@@ -331,37 +331,37 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Glass bottle - Beverage (e.g. carbonated drink, beer, wine)</td>
+    <td class="tg-0lax">Beverage glass bottle (e.g. beer bottle, wine bottle, liquor bottle)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Glass bottle - Food (e.g. sauce and condiment bottle, jam spread etc)</td>
+    <td class="tg-0lax">Food glass bottle (e.g. sauce and condiment bottle, jam spread  bottle, food jar etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">Glass bottle - Cosmetic</td>
+    <td class="tg-0lax">Cosmetic / Perfume glass bottle</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Glass bottle - Medicine and supplement</td>
+    <td class="tg-0lax">Medicine and supplement glass bottle</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Glassware - Cup, plate</td>
+    <td class="tg-0lax">Glassware - Cup, plate, drinking glass, wine glass</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Borosilicate or Pyrex glassware (e.g. bakeware)</td>
+    <td class="tg-0lax">Borosilicate or Pyrex glassware,  bakeware, tempered glass, over-safe food containers, crystal glass, glass with metal wires</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -373,19 +373,19 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">Mirror</td>
+    <td class="tg-0lax">Mirrors</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot etc)</td>
+    <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot, porcelain etc)</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">Light bulb</td>
+    <td class="tg-0lax">Light bulb (e.g. lamp, tube, incandescent lamp, incandescent bulb, fluorescent lamp, fluorescent bulb, LED lamp, LED bulb)</td>
     <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
