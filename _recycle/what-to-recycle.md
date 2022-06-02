@@ -447,13 +447,13 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
       <tr>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">Rusty metal cans, dirty aluminium foil, dirty aluminium tray</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste.</td>
   </tr>
           <tr>
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Metal cutlery, steel wool, metal accessories</td>
-    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Make sure that they are completely metal.</td>
   </tr>
 </table>
