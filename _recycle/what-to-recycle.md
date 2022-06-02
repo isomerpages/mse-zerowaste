@@ -263,7 +263,7 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Plastic takeaway food container, plastic cups, bubble tea cups</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
@@ -421,37 +421,37 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
     <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
   </tr>    
   <tr>
-    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">4</td>
     <td class="tg-0lax">Metal bottle cap</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Aerosol can</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty contents before recycling.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Clean aluminium tray and foil</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please rinse when necessary</td>
   </tr>
   <tr>
-    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Non-food Metal Container (e.g. paint container, paint cans etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty contents before recycling.  Rusted metals should be disposed as general waste.</td>
   </tr>
       <tr>
-    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Rusty metal cans, dirty aluminium foil, dirty aluminium tray</td>
     <td class="tg-0lax">NO</td>
     <td class="tg-0lax">Dispose as general waste.</td>
   </tr>
           <tr>
-    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Metal cutlery, steel wool, metal accessories</td>
     <td class="tg-0lax">NO</td>
     <td class="tg-0lax">Make sure that they are completely metal.</td>
