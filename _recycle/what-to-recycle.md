@@ -404,27 +404,33 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Metal can - Beverage (e.g. carbonated drink, beer etc)</td>
+    <td class="tg-0lax">Beverage metal can (e.g. carbonated drink can, soft drink can, beer can etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax">Please empty and rinse when necessary. Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Metal can - Food (e.g. biscuit and food tin, canned food etc)</td>
+    <td class="tg-0lax">Food metal can (e.g. biscuit and food tin, metal container etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax">Please empty and rinse when necessary. Rusted metals should be disposed as general waste.</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Medals</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
+  </tr>    
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">Metal bottle cap</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
     <td class="tg-0lax">Aerosol can</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty contents</td>
+    <td class="tg-0lax">Please empty contents before recycling.</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
@@ -434,9 +440,21 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Metal container - Non-food (e.g. paint container etc)</td>
+    <td class="tg-0lax">Non-food Metal Container (e.g. paint container, paint cans etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty contents</td>
+    <td class="tg-0lax">Please empty contents before recycling.  Rusted metals should be disposed as general waste.</td>
+  </tr>
+      <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Rusty metal cans, dirty aluminium foil, dirty aluminium tray</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Dispose as general waste.</td>
+  </tr>
+          <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">Metal cutlery, steel wool, metal accessories</td>
+    <td class="tg-0lax">NO</td>
+    <td class="tg-0lax">Make sure that they are completely metal.</td>
   </tr>
 </table>
 
