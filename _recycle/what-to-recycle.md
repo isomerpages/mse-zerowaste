@@ -470,28 +470,72 @@ Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-servi
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax">ICT Equipment <br />
+      - Desktop computer <br />
+- Laptop<br />
+- Tablet computer<br />
+- Mobile phone<br />
+- Computer battery<br />
+- Mobile phone battery<br />
+- Printer<br />
+- Modem<br />
+- Router<br />
+- Desktop monitor<br />
+- Docking station<br />
+- Hard disk drive<br />
+- Battery charger<br />
+- Portable charger<br />
+- Power bank<br />
+- Electronic cables<br />
+- Computer mouse<br />
+- Keyboard
+      </td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+      <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Electronic waste (e.g. Used mobile phone, tablet, laptop etc)</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">Rechargable battery</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Household battery</td>
-    <td class="tg-0lax"><span style="color:red">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax">Household battery, alkaline battery</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
+   <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Refrigerator <br />
+Washing Machine <br />
+Dryer <br />
+Television <br />
+Air Conditioner<br />
+        Electric Mobility Devices such as<br />
+ - Personal mobility devices <br />
+- Electric scooter <br />
+- Electric bicycle <br />
+- Power-assisted bicycle <br />
+- Electric mobility scooter<br />
+
+</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">These can be recycled through: <br />
+- Retailer 1-for-1 Take-back <br />
+- Bulky item removal service by TCs for HDB residents <br />
+- E-waste collection drive (Quarterly) <br />
+- Doorstep collection (fees may apply) <br />
+To find out where you can recycle your e-waste, visit <a href="#">here</a>.
+       
+       </td>
+  </tr>   
   <tr>
     <td class="tg-0lax">5</td>
     <td class="tg-0lax">Old items which are not in good condition (e.g. clothes, shoes, bag, soft toy, umbrella etc)</td>
