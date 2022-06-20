@@ -532,10 +532,38 @@ Air Conditioner<br />
 - Bulky item removal service by TCs for HDB residents <br />
 - E-waste collection drive (Quarterly) <br />
 - Doorstep collection (fees may apply) <br />
-To find out where you can recycle your e-waste, visit <a href="#">here</a>.
+To find out where you can recycle your e-waste, visit <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.
        
        </td>
-  </tr>   
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Rice Cooker <br />
+Microwave Oven <br />
+Toaster Oven <br />
+Electric Kettle <br />
+Food Processor <br />
+Food Blender <br />
+Electric Fan <br />
+Standing Fan <br />
+Cd/Dvd Player <br />
+Music Player <br />
+Speaker <br />
+Audio Sound System <br />
+Radio <br />
+Vacuum Cleaner <br />
+Gaming Console<br />
+</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">These e-waste items can be recycled through: <br />
+- E-waste bins (non-ALBA)* (items must fit the opening of bins) <br />
+- Retailer 1-for-1 Take-back <br />
+- Bulky item removal service by TCs for HDB residents (small items are not applicable) <br />
+- Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) <br />
+
+        To find out where you can recycle your e-waste, visit <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.
+</td>
+  </tr>
   <tr>
     <td class="tg-0lax">5</td>
     <td class="tg-0lax">Old items which are not in good condition (e.g. clothes, shoes, bag, soft toy, umbrella etc)</td>
