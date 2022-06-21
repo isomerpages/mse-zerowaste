@@ -24,13 +24,13 @@ Food waste makes up about half of the average 1.5kg of waste disposed of by each
 
 Avoidable food waste refers to food items that could have been consumed if better managed. Examples of avoidable food waste are leftovers from a meal, expired food, stale food, and blemished fruits and vegetables. Avoidable food waste can be prevented by taking food wastage reduction actions such as buying, ordering and cooking only what is needed and adopting smart food storage and preparation practices. 
 
-Conversely, unavoidable food waste are parts/portions of food which were not intended for consumption, such as such as bones and egg shells.
+Conversely, unavoidable food waste are parts/portions of food which were not intended for consumption, such as bones and egg shells.
 
 **What happens when you waste food?**
 
 When food is wasted, more food has to be sourced to meet the food demand and this affects our food security since Singapore imports over 90% of our food supply.  
 
-Increasing amount of food waste puts pressure on our resources. We will need to build more waste disposal facilities, such as waste-to-energy plants and landfills for incineration ash. This is not sustainable for land-scarce Singapore.
+An increasing amount of food waste puts pressure on our resources. We will need to build more waste disposal facilities, such as waste-to-energy plants and landfills for incineration ash. This is not sustainable for land-scarce Singapore.
 
 When food is wasted, so are all of the resources used to grow and deliver the food to our tables, as well as to dispose of it. This increases our carbon footprint, contributing to global warming and climate change.
 
@@ -45,7 +45,7 @@ To conserve precious resources, there is a need to minimise food wastage and rec
 
 **Minimising food wastage**
 
-* Ongoing [food waste reduction publicity and outreach programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to increase awareness of the food waste situation in Singapore, as well as to encourage consumers to adopt smart food purchase, storage and preparation habits that can help them minimise food wastage. More than 400 Food Waste Reduction Ambassadors have also been trained to help spread the word on food waste reduction with their communities, families and friends.
+* Ongoing [food waste reduction publicity and outreach programme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management/food-waste-management-strategies){:target="_blank"} to increase awareness of the food waste situation in Singapore, as well as to encourage consumers to adopt smart food purchase, storage and preparation habits that can help them to minimise food wastage. More than 400 Food Waste Reduction Ambassadors have also been trained to help spread the word on food waste reduction with their communities, families and friends.
 
 * Developed Food Waste Minimisation Guidebooks for [Food Retail Establishments](https://form.sg/#!/forms/nea/5a93692b86434f006f9f9b60){:target="_blank"}/ [Food Manufacturing Establishments](https://form.sg/#!/forms/nea/5a936cef86434f006f9fa26e){:target="_blank"}/ [Supermarkets](https://form.sg/#!/forms/nea/5a936d8686434f006f9fa32a){:target="_blank"} to further reduce food waste across the supply chain. The guidebooks provide a step-by-step guide and case studies to help such establishments develop a food waste minimisation plan tailored to their needs.
 
@@ -139,7 +139,7 @@ Food retail establishments and supermarkets can help reduce food wastage by offe
 
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
 
-Also, don’t forget to check out to check out the food waste minimisation guidebooks for Food Manufacturing Establishments, Food Retail Establishments and Supermarkets at the [NEA Food Waste Management webpage](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management){:target="_blank"} .
+Also, don’t forget to check out the food waste minimisation guidebooks for Food Manufacturing Establishments, Food Retail Establishments and Supermarkets at the [NEA Food Waste Management webpage](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management){:target="_blank"} .
 
 
 [Back to top](#top)

@@ -14,7 +14,9 @@ breadcrumb: What to Recycle
     <area target="" alt="Can i recycle plastic?" title="Can i recycle plastic?" href="#plastic" coords="594,335,410,0" shape="rect">
     <area target="" alt="Can i recycle metal?" title="Can i recycle glass?" href="#glass" coords="800,335,614,0" shape="rect">
 </map>
-<caption>The label on the blue recycling bins will be redesigned to make information clearer on what can and cannot be deposited in the bins. The replacement of the labels is expected to be completed by mid-2020.</caption>
+<caption>The label on the blue recycling bins has been redesigned to make information clearer on what can and cannot be deposited in the bins.</caption>
+
+Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
 
 
 ### Paper 
@@ -64,7 +66,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">Book</td>
+    <td class="tg-0lax">Book / Textbook</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
@@ -124,13 +126,13 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">17</td>
-    <td class="tg-0lax">Carton box</td>
+    <td class="tg-0lax">Carton box / Cardboard box</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
   </tr>
   <tr>
     <td class="tg-0lax">18</td>
-    <td class="tg-0lax">Paper packaging (e.g. printed paper box etc)</td>
+    <td class="tg-0lax">Paper packaging <br />Printed paper box<br /> Paper Box</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please flatten</td>
   </tr>
@@ -166,7 +168,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
-    <td class="tg-0lax">Used paper disposables (e.g. paper cup, plate etc)</td>
+    <td class="tg-0lax">Paper disposables such as <br />Paper cup<br />Paper plate<br />Glitter paper<br />Crayon drawing</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -190,7 +192,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">28</td>
-    <td class="tg-0lax">Disposable wooden chopstick</td>
+    <td class="tg-0lax">Disposable wooden chopstick<br />Wooden chopsticks <br />Pizza boxes</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -220,37 +222,37 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. PET, PP or PS bottles/container, carbonated and non-carbonated drinks etc)</td>
+    <td class="tg-0lax">Plastic bottle/container - Food or Beverage (e.g. Mineral water bottle, Soft drink bottle, Carbonated drink bottle, Milk bottle, Water bottle, Medicine bottle etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Plastic bottle/container - Non-food (e.g. shampoo, bodywash, facial cleanser, detergent etc)</td>
+    <td class="tg-0lax">Plastic bottle/container - Non-food (e.g. shampoo, bodywash, facial cleanser, detergent, soap etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">CD and CD casing</td>
+    <td class="tg-0lax">CD/DVD and CD/DVC casing</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Plastic bag (except for oxo- and bio-degradable bags)</td>
+    <td class="tg-0lax">Plastic bag, toilet paper packaging, tissue box packaging</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Plastic film/flexible packaging (e.g. magazine wrapper, film packaging for packet drinks, bubble wrap etc.)</td>
+    <td class="tg-0lax">Plastic film (e.g. magazine wrapper, plastic packaging for packet drinks), bubble wrap, fruit box,  ziplock bag</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Plastic packaging (e.g. sliced bread bag and egg trays)</td>
+    <td class="tg-0lax">Plastic packaging, bread bag, egg trays</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty contents</td>
   </tr>
@@ -262,9 +264,9 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">Non-polystyrene foam takeaway food container</td>
+    <td class="tg-0lax">Plastic takeaway food container, plastic cups, bubble tea cups</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
@@ -280,7 +282,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">Plastic packaging with foil (e.g. potato chip bags, empty blister pack etc.)</td>
+    <td class="tg-0lax">Plastic packaging with foil (e.g. potato chip bags, empty blister pack, expired credit card etc.)</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -304,7 +306,7 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
-    <td class="tg-0lax">Plastic packaging contaminated with food</td>
+    <td class="tg-0lax">Plastic packaging contaminated with food / oil stains</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -329,37 +331,37 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Glass bottle - Beverage (e.g. carbonated drink, beer, wine)</td>
+    <td class="tg-0lax">Beverage glass bottle (e.g. beer bottle, wine bottle, liquor bottle)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Glass bottle - Food (e.g. sauce and condiment bottle, jam spread etc)</td>
+    <td class="tg-0lax">Food glass bottle (e.g. sauce and condiment bottle, jam spread  bottle, food jar etc)</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">Glass bottle - Cosmetic</td>
+    <td class="tg-0lax">Cosmetic / Perfume glass bottle</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Glass bottle - Medicine and supplement</td>
+    <td class="tg-0lax">Medicine and supplement glass bottle</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please empty and rinse when necessary</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Glassware - Cup, plate</td>
+    <td class="tg-0lax">Glassware - Cup, plate, drinking glass, wine glass</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Borosilicate or Pyrex glassware (e.g. bakeware)</td>
+    <td class="tg-0lax">Borosilicate or Pyrex glassware,  bakeware, tempered glass, over-safe food containers, crystal glass, glass with metal wires</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Dispose as general waste</td>
   </tr>
@@ -371,19 +373,19 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">Mirror</td>
+    <td class="tg-0lax">Mirrors</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot etc)</td>
+    <td class="tg-0lax">Ceramic product (e.g. ceramic plate, tea pot, porcelain etc)</td>
     <td class="tg-0lax"><span style="color:red">NO</span></td>
     <td class="tg-0lax">Donate if it is in good condition</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">Light bulb</td>
+    <td class="tg-0lax">Light bulb (e.g. lamp, tube, incandescent lamp, incandescent bulb, fluorescent lamp, fluorescent bulb, LED lamp, LED bulb)</td>
     <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
     <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
   </tr>
@@ -402,39 +404,57 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Metal can - Beverage (e.g. carbonated drink, beer etc)</td>
+    <td class="tg-0lax">Beverage metal can (e.g. carbonated drink can, soft drink can, beer can etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax">Please empty and rinse when necessary. Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Metal can - Food (e.g. biscuit and food tin, canned food etc)</td>
+    <td class="tg-0lax">Food metal can (e.g. biscuit and food tin, metal container etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty and rinse when necessary</td>
+    <td class="tg-0lax">Please empty and rinse when necessary. Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-0lax">Metal bottle cap</td>
+    <td class="tg-0lax">Medals</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax"></td>
-  </tr>
+    <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
+  </tr>    
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Aerosol can</td>
+    <td class="tg-0lax">Metal bottle cap</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty contents</td>
+    <td class="tg-0lax">Rusted metals should be disposed as general waste.</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Aerosol can</td>
+    <td class="tg-0lax">YES</td>
+    <td class="tg-0lax">Please empty contents before recycling.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Clean aluminium tray and foil</td>
     <td class="tg-0lax">YES</td>
     <td class="tg-0lax">Please rinse when necessary</td>
   </tr>
   <tr>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Metal container - Non-food (e.g. paint container etc)</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Non-food Metal Container (e.g. paint container, paint cans etc)</td>
     <td class="tg-0lax">YES</td>
-    <td class="tg-0lax">Please empty contents</td>
+    <td class="tg-0lax">Please empty contents before recycling.  Rusted metals should be disposed as general waste.</td>
+  </tr>
+      <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Rusty metal cans, dirty aluminium foil, dirty aluminium tray</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Dispose as general waste.</td>
+  </tr>
+          <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Metal cutlery, steel wool, metal accessories</td>
+    <td class="tg-0lax"><span style="color:red">NO</span></td>
+    <td class="tg-0lax">Make sure that they are completely metal.</td>
   </tr>
 </table>
 
@@ -450,27 +470,99 @@ breadcrumb: What to Recycle
   </tr>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-0lax">IT accessories (e.g. cable, mouse, keyboard etc)</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax">ICT Equipment <br />
+      - Desktop computer <br />
+- Laptop<br />
+- Tablet computer<br />
+- Mobile phone<br />
+- Computer battery<br />
+- Mobile phone battery<br />
+- Printer<br />
+- Modem<br />
+- Router<br />
+- Desktop monitor<br />
+- Docking station<br />
+- Hard disk drive<br />
+- Battery charger<br />
+- Portable charger<br />
+- Power bank<br />
+- Electronic cables<br />
+- Computer mouse<br />
+- Keyboard
+      </td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+      <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">Electronic waste (e.g. Used mobile phone, tablet, laptop etc)</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
     <td class="tg-0lax">Rechargable battery</td>
-    <td class="tg-0lax"><span style="color:green">MAYBE</span></td>
-    <td class="tg-0lax">Can be recycled at <a href="/recycle/where-to-recycle/">specific collection points</a></td>
+    <td class="tg-0lax"><span style="color:green">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Household battery</td>
-    <td class="tg-0lax"><span style="color:red">NO</span></td>
-    <td class="tg-0lax">Dispose as general waste</td>
+    <td class="tg-0lax">Household battery, alkaline battery</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">Can be recycled at e-waste collection points <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.</td>
+  </tr>
+   <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Refrigerator <br />
+Washing Machine <br />
+Dryer <br />
+Television <br />
+Air Conditioner<br />
+        Electric Mobility Devices such as<br />
+ - Personal mobility devices <br />
+- Electric scooter <br />
+- Electric bicycle <br />
+- Power-assisted bicycle <br />
+- Electric mobility scooter<br />
+
+</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">These can be recycled through: <br />
+- Retailer 1-for-1 Take-back <br />
+- Bulky item removal service by TCs for HDB residents <br />
+- E-waste collection drive (Quarterly) <br />
+- Doorstep collection (fees may apply) <br />
+To find out where you can recycle your e-waste, visit <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.
+       
+       </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Rice Cooker <br />
+Microwave Oven <br />
+Toaster Oven <br />
+Electric Kettle <br />
+Food Processor <br />
+Food Blender <br />
+Electric Fan <br />
+Standing Fan <br />
+Cd/Dvd Player <br />
+Music Player <br />
+Speaker <br />
+Audio Sound System <br />
+Radio <br />
+Vacuum Cleaner <br />
+Gaming Console<br />
+</td>
+    <td class="tg-0lax"><span style="color:red">YES</span></td>
+    <td class="tg-0lax">These e-waste items can be recycled through: <br />
+- E-waste bins (non-ALBA)* (items must fit the opening of bins) <br />
+- Retailer 1-for-1 Take-back <br />
+- Bulky item removal service by TCs for HDB residents (small items are not applicable) <br />
+- Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) <br />
+
+        To find out where you can recycle your e-waste, visit <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.
+</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
@@ -527,3 +619,4 @@ breadcrumb: What to Recycle
     <td class="tg-0lax">Donate if it is in good condition<br />Contact Town council to remove from your residential premises</td>
   </tr>
 </table>
+

@@ -63,33 +63,11 @@ workers.
 
 #### DOWN THE CHUTE TO CLEANLINESS – TEACHING SINGAPORE TO “BAG IT”
 
-As Singaporeans moved from kampongs to
-high-rise apartments, vertical refuse chutes
-were introduced as a quick and convenient
-way to collect refuse from multiple flats.
+As Singaporeans moved from kampongs to high-rise apartments, vertical refuse chutes were introduced as a quick and convenient way to collect refuse from multiple flats.
 
-Public housing flats built up to 1988 each
-came with a refuse hopper in the kitchen.
-Waste thrown into the chute fell into a bin at
-the bottom that was emptied daily by refuse
-collection workers.
+For public housing flats built up to 1988, each individual flat unit came with a refuse hopper in the kitchen, also known as the Individual Refuse Chute System (IRCS).  Waste thrown into each chute would fall into a bin at the bottom (ground level) of the chute. The refuse collection workers would go from chute to chute to collect the refuse from the bins. To combat smell and pest issues from refuse (e.g. food waste) that was directly thrown into chutes,  ENV launched educational programmes since 1979 to educate residents to bag their refuse before throwing it down the chute.  Educational posters showing the steps for bagging waste were developed and distributed across the island.  It took many years for Singaporeans to get it right, but it is a responsible practice that continues till today.
 
-But this collection system was unproductive
-and took up too much space. Hence, in 1989,
-the improved Central Refuse Chute (CRC) system was launched, where flats had a
-common chute at the lift landing of each
-floor. This allowed for more efficient refuse
-collection.
-
-In preparation for the shift to the CRC system,
-ENV launched an educational programme
-in 1986 to encourage residents to bag their
-refuse before throwing it down the chute.
-Educational posters showing the steps for
-bagging waste were produced and distributed
-across the island. It took many years for
-Singaporeans to get it right, but it is a practice
-that continues till today.
+HDB flats built from 1989 have an improved Central Refuse Chute (CRC) system, where flats on each floor shared a common chute with the refuse hopper located near at the lift landing of each floor.   The reduced number of chutes in each block of flats saved space and allowed for more efficient refuse collection. 
 
 ![Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste](/images/ch1_old_campaign_posters.jpg)
 <caption>Posters from the educational programme run by the Ministry of Environment to encourage residents to bag their waste</caption>
