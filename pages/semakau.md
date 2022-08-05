@@ -57,6 +57,7 @@ for intertidal walks to allow everyone to enjoy
 the island’s biodiversity.
 
 ![Semakau Landfill](/images/SL South_LowRes.jpg)
+Photo credit: National Environment Agency
 
 #### Related Links
 
