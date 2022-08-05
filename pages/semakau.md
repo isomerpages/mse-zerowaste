@@ -56,7 +56,8 @@ Today, Pulau Semakau is open to the public
 for intertidal walks to allow everyone to enjoy
 the island’s biodiversity.
 
-![Semakau Landfill](/images/ch1_semakau_infographic.jpg)
+![Semakau Landfill](/images/SL South_LowRes.jpg)
+Photo credit: National Environment Agency
 
 #### Related Links
 
