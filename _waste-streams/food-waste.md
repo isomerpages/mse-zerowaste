@@ -168,4 +168,6 @@ Also, don’t forget to check out the food waste minimisation guidebooks for Foo
 
 * [Lumitics](https://lumitics.com/){:target="_blank"} is an IoT start-up that empowers hotels and large commercial kitchens with data analytics to understand their food waste generation and reduce their food waste, costs and environmental footprint.
 
+* [Just Dabao](https://justdabao.com/){:target="_blank"} is a social impact company that fights food waste. Its mobile app allows individuals to purchase surplus food from F&B outlets, thereby redistributing food and reducing food waste.
+
 [Back to top](#top)
