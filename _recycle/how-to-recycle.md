@@ -5,7 +5,7 @@ breadcrumb: How to Recycle
 ---
 ### 40% of what we place inside the blue recycling bins are not suitable for recycling. That's because these items are either contaminated with food and liquids, or made of materials that can't be recycled at all.
 
-![recycling bin in singapore](/images/recycling-bin-in-singapore.jpg)
+![recycling bin in singapore](/images/blue-bin.jpg)
 
 Use the blue bin correctly! Recycle right with this simple checklist: 
 
