@@ -44,7 +44,7 @@ Since 2014, every HDB block has been provided with a blue recycling bin - up fro
 
 We will also use regulatory measures to complement the new recycling infrastructure. For example, we will introduce a new framework to make it easier for Singaporeans to [recycle their e-waste](/waste-streams/e-waste/).
 
-This year, we will also launch the #RecycleRight movement to encourage Singaporeans to recycle right. For example, recycling bin labels will be redesigned to make it clearer [what can or cannot be recycled](/recycle/what-to-recycle/).
+The #RecycleRight movement was launched in 2019 to encourage Singaporeans to recycle right. For example, recycling bin labels have been redesigned to make it clearer [what can or cannot be recycled](/recycle/what-to-recycle/).
 
 [Back to top](#top)
 
