@@ -16,8 +16,7 @@ breadcrumb: What to Recycle
 </map>
 <caption>The label on the blue recycling bins has been redesigned to make information clearer on what can and cannot be deposited in the bins.</caption>
 
-Download a list of <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf">what can or cannot be recycled</a>
-
+<p>To check if your item can or cannot be recycled, simply use the <a href="https://www.cgs.gov.sg/recycleright/check-my-item">Recycling Search Engine</a> or check out <a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-items-that-are-recyclable-and-not.pdf"> Bloobin's Recycling Guide </a> to seek his advice. He may also throw in a few helpful recycling tips! </p>
 
 ### Paper 
 
