@@ -26,7 +26,7 @@ sections:
         strategies to build a sustainable, resource-efficient and
         climate-resilient nation.
       url: /zero-waste-masterplan
-      image: /images/Hm_masterplan2.png
+      image: /images/hm_masterplan2.png
       alt: alt text
       button: Zero Waste Masterplan
   - infopic:
@@ -37,7 +37,7 @@ sections:
         Singaporeans to work with us to co-create solutions to improve the way
         we recycle at home.
       url: /citizens_workgroup
-      image: /images/Hm_workgroup.jpg
+      image: /images/hm_workgroup.jpg
       alt: alt text
       button: Citizens' Workgroup
   - infopic:
@@ -47,7 +47,7 @@ sections:
         how we can pursue more sustainable consumption and production, and build
         a strong culture of reducing, reusing and recycling.
       url: /consultation
-      image: /images/Hm_consultation.jpg
+      image: /images/hm_consultation.jpg
       alt: alt text
       button: Public Consultation
   - resources:

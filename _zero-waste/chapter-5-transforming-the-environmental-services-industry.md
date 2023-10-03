@@ -133,7 +133,7 @@ To encourage the adoption of technology, we focus on three areas:
 * Leverage platforms such as the Whole-of-Government Business Grants Portal to provide a technology repository for ease
 of technology adoption, and Technology Connect Sessions to link the technology providers to service buyers
 
-![Leopull with cleaner](/images/ch5-LeoPull.jpg)
+![Leopull with cleaner](/images/ch5-leopull.jpg)
 <caption>In order to boost the productivity of Jewel Changi Airport, robots developed by Lionsbot International will be deployed to help with cleaning and waste collection. The robot Leopull helps cleaners by transporting waste carts around Jewel Changi Airport, freeing cleaners up to complete other tasks Photo: Lionsbot International Pte Ltd</caption>
 
 If we want to create a leaner, more elderly-friendly
@@ -245,7 +245,7 @@ More PET and CET programmes will be
 gradually put in place to address the skills
 and training needs of the industry.
 
-![Mr Koh Kheng Huat](/images/ch5-PV-vacuum.jpg)
+![Mr Koh Kheng Huat](/images/ch5-pv-vacuum.jpg)
 <caption>Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd</caption>
 
 <p></p>
@@ -284,7 +284,7 @@ plastic waste is segregated and
 processed faster, ensuring a better
 quality output.</p>
 
-<img src="/images/ch5-Plaspulp.jpg" alt="Ms Jade Loh, Operations Manager at Plaspulp Union">
+<img src="/images/ch5-plaspulp.jpg" alt="Ms Jade Loh, Operations Manager at Plaspulp Union">
 <caption>Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG</caption>
 
 
@@ -489,7 +489,7 @@ hunt for opportunities abroad and source for
 new technologies.
 
 
-![Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF)](/images/ch5-Hong-Kong-IWMF-Artist-Impression.jpg)
+![Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF)](/images/ch5-hong-kong-iwmf-artist-impression.jpg)
 <caption>Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF). Singapore company
 Keppel Infrastructure Holdings Pte Ltd, and China Harbour Engineering Company Limited, through their respective
 wholly owned subsidiaries, Keppel Seghers Hong Kong Limited and Zhen Hua Engineering Co. Ltd., clinched the

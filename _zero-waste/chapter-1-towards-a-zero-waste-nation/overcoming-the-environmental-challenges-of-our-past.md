@@ -96,7 +96,7 @@ located at Ulu Pandan, was completed at a
 cost of $130 million, a hefty investment at the
 time.
 
-![Ulu Pandan Refuse Incineration Plant](/images/ch1_ulu_pandan_IP.jpg)
+![Ulu Pandan Refuse Incineration Plant](/images/ch1_ulu_pandan_ip.jpg)
 <caption>Ulu Pandan Refuse Incineration Plant</caption>
 
 Singapore took a $25 million loan from the

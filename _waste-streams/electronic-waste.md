@@ -17,7 +17,7 @@ breadcrumb: Our Focus Areas
 
 E-waste refers to electrical and electronic waste, such as computers, laptops, mobile phones and TVs. While these items can often be refurbished, repaired or recycled, they are usually discarded instead. Not only does e-waste contain valuable and scarce materials such as silver and gold, there are also small amounts of harmful substances such as cadmium and lead that could potentially harm our environment and health if not handled properly.   
 
-![e-waste infographic](/images/Co2.jpg)
+![e-waste infographic](/images/co2.jpg)
 
 When e-waste is disposed of and incinerated, it results in the loss of resources as well as carbon emissions that contribute to global warming and climate change. E-waste also contains small amounts of heavy metals that can be hazardous to the environment and health. Hence, recycling our e-waste reduces the amount of heavy metals in our incineration ash. 
 

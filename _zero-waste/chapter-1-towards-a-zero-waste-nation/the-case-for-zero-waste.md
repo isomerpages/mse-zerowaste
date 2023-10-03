@@ -122,7 +122,7 @@ At the same time, businesses and citizens are developing a growing awareness of 
 
 There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the [2030 Agenda for Sustainable Development (2030 Agenda)](https://www.un.org/sustainabledevelopment/development-agenda/){:target="_blank"} and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
 
-![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
+![Diagram showing Sustainable Development Goals](/images/ch1_sustainable_development_goals.png)
 
 The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2<sup>o</sup>C above pre-industrial levels, and strive to limit temperature increase to 1.5<sup>o</sup>C.
 

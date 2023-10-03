@@ -340,7 +340,7 @@ with higher electricity output will help them
 meet a greater share of Singapore’s
 energy needs.
 
-![WTE Research Facility at Tuas South](/images/ch5-WTE-research-facility.jpg)
+![WTE Research Facility at Tuas South](/images/ch5-wte-research-facility.jpg)
 <caption>WTE Research Facility at Tuas South. Photo: Nanyang Technological University, Singapore</caption>
 
 For example, one approach is to use oxygenenriched
