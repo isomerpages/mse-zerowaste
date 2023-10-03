@@ -2,7 +2,7 @@
 layout: post
 title: 'Voice of Save Semakau - Keller Teh'
 date: 2019-04-01T00:00:00.000Z
-permalink: /resources/videos/voice-of-save-semakau
+permalink: /resources/videos/voice-of-save-semakau/
 
 ---
 

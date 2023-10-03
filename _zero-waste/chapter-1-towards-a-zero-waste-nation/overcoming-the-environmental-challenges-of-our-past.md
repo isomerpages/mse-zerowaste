@@ -1,6 +1,6 @@
 ---
 title: 'Overcoming the environmental challenges of our past'
-permalink: /zero-waste-masterplan/chapter1/our-past
+permalink: /zero-waste-masterplan/chapter1/our-past/
 breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
 third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
 

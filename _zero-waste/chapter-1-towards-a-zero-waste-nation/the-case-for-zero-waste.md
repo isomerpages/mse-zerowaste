@@ -1,6 +1,6 @@
 ---
 title: 'The case for Zero Waste'
-permalink: /zero-waste-masterplan/chapter1/case-for-zero-waste
+permalink: /zero-waste-masterplan/chapter1/case-for-zero-waste/
 breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
 third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
 

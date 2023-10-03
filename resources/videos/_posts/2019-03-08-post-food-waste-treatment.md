@@ -2,7 +2,7 @@
 layout: post
 title: 'Food Waste Treatment'
 date: 2019-03-08T00:00:00.000Z
-permalink: /resources/videos/food_waste_treatment
+permalink: /resources/videos/food_waste_treatment/
 
 ---
 

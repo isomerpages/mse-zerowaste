@@ -2,7 +2,7 @@
 layout: post
 title: 'Recycling Right with Denise Keller'
 date: 2019-01-28T00:00:00.000Z
-permalink: /resources/videos/denise-keller-recycling-right
+permalink: /resources/videos/denise-keller-recycling-right/
 
 ---
 

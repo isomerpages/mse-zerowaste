@@ -2,7 +2,7 @@
 layout: post
 title: 'Hold that trash!'
 date: 2018-12-11T00:00:00.000Z
-permalink: /resources/videos/hold-that-trash
+permalink: /resources/videos/hold-that-trash/
 
 ---
 

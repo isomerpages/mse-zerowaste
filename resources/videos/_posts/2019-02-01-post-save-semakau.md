@@ -2,7 +2,7 @@
 layout: post
 title: 'Save Semakau'
 date: 2019-02-01T00:00:00.000Z
-permalink: /resources/videos/save-semakau
+permalink: /resources/videos/save-semakau/
 
 ---
 

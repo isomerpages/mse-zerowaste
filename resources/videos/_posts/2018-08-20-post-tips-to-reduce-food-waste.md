@@ -2,7 +2,7 @@
 layout: post
 title: 'Tips to reduce food waste'
 date: 2018-08-20T00:00:00.000Z
-permalink: /resources/videos/tips-to-reduce-food-waste
+permalink: /resources/videos/tips-to-reduce-food-waste/
 
 ---
 

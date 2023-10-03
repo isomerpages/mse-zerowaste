@@ -2,7 +2,7 @@
 layout: post
 title: 'Zero Waste Food Challenge'
 date: 2019-03-13T00:00:00.000Z
-permalink: /resources/videos/zero-waste-food-challenge
+permalink: /resources/videos/zero-waste-food-challenge/
 
 ---
 

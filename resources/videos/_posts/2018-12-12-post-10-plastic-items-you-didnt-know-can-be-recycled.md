@@ -2,7 +2,7 @@
 layout: post
 title: '10 plastic items you didn''t know can be recycled'
 date: 2018-12-12T00:00:00.000Z
-permalink: /resources/videos/10-plastic-items-you-didnt-know-can-be-recycled
+permalink: /resources/videos/10-plastic-items-you-didnt-know-can-be-recycled/
 
 ---
 
