@@ -2,6 +2,7 @@
 title: Electronic Waste
 permalink: /ewaste/
 breadcrumb: Our Focus Areas
+variant: markdown
 ---
 ### Singapore generates about 60,000 tonnes of e-waste a year. That’s equivalent to discarding about 70 mobile phones per person in Singapore! This number is expected to increase with greater spending power and new technologies constantly replacing old ones. 
 
@@ -115,10 +116,10 @@ A collaboration between Singtel and SingPost, e-waste bins have been placed in s
 
 **3. City Square Mall E-Waste Recycling Programme**
 If you are heading to City Square Mall, bring your unwanted e-waste along. The eco-mall accepts small e-waste items and sends them for recycling. 
-* Where to Recycle: City Square Mall's L2 Customer Service Counter (visit [City Square Mall's website](https://www.citysquaremall.com.sg/happenings/events-promotions/e-waste-recycling-programme){:target="_blank"} for more info)
+* Where to Recycle: City Square Mall's L2 Customer Service Counter (visit [City Square Mall's website](https://www.citysquaremall.com.sg/eco-matters/e-waste/){:target="_blank"} for more info)
 * What to Recycle: Most electronic or electrical items, including PCs, laptops, mobile phones, electric desk fans, radios, kettles, electric irons, etc. (No bulky items such as washing machines and TV sets)
 
-**4. Project Homecoming - Ink & Toner Cartridge Recycling Programme**
+**4. Project Homecoming - Ink &amp; Toner Cartridge Recycling Programme**
 Project Homecoming is an ink and toner cartridge recycling programme led by Canon and Epson, with the National Library Board (NLB) as its venue partner. Project Homecoming collection boxes can be found at 20 library branches around Singapore. The cartridges are then sent to the appointed recycling partner, TES (Singapore), where they are recycled in an environmentally sound manner. 
 * Where to Recycle: Refer to the [Project Homecoming website](https://sg.canon/en/consumer/web/ecoproject-recycling-program){:target="_blank"} for a list of locations of Project Homecoming boxes
 * What to Recycle: All ink and toner cartridges, regardless of brand
