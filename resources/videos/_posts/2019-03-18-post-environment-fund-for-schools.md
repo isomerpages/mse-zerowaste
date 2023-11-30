@@ -2,7 +2,7 @@
 layout: post
 title: 'Environment Fund for Schools'
 date: 2019-03-18T00:00:00.000Z
-permalink: /resources/videos/environment-fund-for-schools
+permalink: /resources/videos/environment-fund-for-schools/
 
 ---
 

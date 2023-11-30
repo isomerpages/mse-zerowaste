@@ -2,7 +2,7 @@
 layout: post
 title: 'E waste recycling in Singapore'
 date: 2019-01-22T00:00:00.000Z
-permalink: /resources/videos/e_waste_recycling_singapore
+permalink: /resources/videos/e_waste_recycling_singapore/
 
 ---
 

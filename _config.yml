@@ -48,8 +48,8 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-staging: https://isomer-mewrzerowaste-staging.netlify.app
-prod: https://isomer-mewrzerowaste-prod.netlify.app
+staging: https://staging.dtdv08jvfet2a.amplifyapp.com/
+prod: https://master.dtdv08jvfet2a.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

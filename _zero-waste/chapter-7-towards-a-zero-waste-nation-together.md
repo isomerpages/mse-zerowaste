@@ -1,16 +1,14 @@
 ---
-title: 'Chapter 7 - Towards A Zero Waste Nation, Together'
+title: Chapter 7 - Towards A Zero Waste Nation, Together
 permalink: /zero-waste-masterplan/chapter7/
-breadcrumb: 'Zero Waste Masterplan'
-
+breadcrumb: Zero Waste Masterplan
+variant: markdown
 ---
-
-
 ### Our zero waste vision is an endeavour that will require people in Singapore to come together. From individuals to households and industries, everyone has a part to play as we make our transition towards a Zero Waste Nation.
 
 ![launch of year towards zero waste](/images/ch7-zero-waste-launch.jpg)
-<caption>2019 was designated as the Year Towards Zero Waste to rally Singaporeans to care for our environment
-and treasure our precious resources</caption>
+2019 was designated as the Year Towards Zero Waste to rally Singaporeans to care for our environment
+and treasure our precious resources
 
 To become a Zero Waste Nation, we need to
 change the way we live, work and play. This
@@ -93,8 +91,8 @@ centred on ways to reduce waste and to
 encourage people to recycle right.
 
 ![photo of a focus group discussion](/images/ch7-fgd.jpg)
-<caption>At the focus group discussion on 18 April 2019, participants discussed ways to reduce our consumption of
-resources and encourage more to adopt a zero waste mindset</caption>
+At the focus group discussion on 18 April 2019, participants discussed ways to reduce our consumption of
+resources and encourage more to adopt a zero waste mindset
 
 
 Through the various engagement sessions,
@@ -129,9 +127,9 @@ by our partners:
 **SEC plastic study and “One Less Plastic” campaign**
 
 ![One Less Plastic campaign](/images/ch7-onelessplastic.jpg)
-<caption>Reusable bags were given out by four supermarket
+Reusable bags were given out by four supermarket
 chains, DBS and SEC as part of the “One Less Plastic”
-campaign. Photo: SEC One Less Plastic Campaign</caption>
+campaign. Photo: SEC One Less Plastic Campaign
 
 The Singapore Environment Council (SEC)
 conducted a nine-month study on “Consumer
@@ -176,8 +174,8 @@ the national trade body for local waste
 disposal and resource recovery companies.
 
 ![Waste Management and Recycling Association of Singapore outreach sessions](/images/ch7-wmras.jpg)
-<caption>WMRAS conducts regular outreach sessions to educate the
-youth about Singapore’s waste ecosystem. Photo: WMRAS</caption>
+WMRAS conducts regular outreach sessions to educate the
+youth about Singapore’s waste ecosystem. Photo: WMRAS
 
 WMRAS and its 160 member companies
 have been encouraging green practices
@@ -230,11 +228,11 @@ electronic guide on how to conduct Zero
 Waste events and other related activities.
 
 ![Students from Mee Toh School](/images/ch7-meetoh.jpg)
-<caption>Students from Mee Toh School showcased their
+Students from Mee Toh School showcased their
 project “The SORT-CERER” at the North East Clean and
 Green Singapore 2018. The project aims to encourage
 recycling through a simple game and has won the best
-project at the North East G!nnovation Challenge 2018</caption>
+project at the North East G!nnovation Challenge 2018
 
 Many schools and Institutes of Higher
 Learning have also organised their own
@@ -256,18 +254,18 @@ schemes like Project Box and Project Tumbler
 that reward patrons for bringing their own
 reusables for takeaways.
 
-A “[Towards Zero Waste Grant](https://www.nea.gov.sg/programmes-grants/grants-and-awards/towards-zero-waste-grant){:target="_blank"} ” was set up in
+A Towards Zero Waste Grant was set up in
 2019 to fund ground-up projects that drive
 waste reduction and recycling, or encourage
 households to recycle more and recycle right.
 
 ![Recycle @ North West](/images/ch7-nwcdc.jpg)
-<caption>Recycle @ North West, an initiative by the North West
+Recycle @ North West, an initiative by the North West
 Community Development Council, hopes to drive Active
 Recycling through educating residents on proper
 recycling techniques and bonding the community
 through a common platform to sort recyclables.
-Photo: North West Community Development Council </caption>
+Photo: North West Community Development Council 
 
 
 #### PARTNERSHIPS BEYOND BORDERS
@@ -289,8 +287,8 @@ activity, and innovation and technology push
 the boundaries of resource recovery.
 
 ![Visit to the Abu Dhabi Waste Management Center (Tadweer)](/images/ch7-tadweer.jpg)
-<caption>Minister for the Environment and Water Resources, Mr Masagos Zulkifli, visited the Abu Dhabi Waste Management
-Center (Tadweer) to learn about Abu Dhabi’s waste management plan and systems, and public outreach efforts</caption>
+Minister for the Environment and Water Resources, Mr Masagos Zulkifli, visited the Abu Dhabi Waste Management
+Center (Tadweer) to learn about Abu Dhabi’s waste management plan and systems, and public outreach efforts
 
 Such partnerships are becoming increasingly
 important as our world becomes more
@@ -333,7 +331,7 @@ The aim is to establish a replicable zero waste
 reference model for other Chinese cities/areas.
 
 ![Sino-Singapore Tianjin Eco-city](/images/ch7-pwcs-tianjin.jpg)
-<caption>Pneumatic Waste Conveyance System (PWCS) collection bins at a residential development in the SSTEC Photo: Eco-city Administrative Committee</caption>
+Pneumatic Waste Conveyance System (PWCS) collection bins at a residential development in the SSTEC Photo: Eco-city Administrative Committee
 
 Another good example is the Singapore-Japan
 E-waste Management Forum organised by

@@ -1,7 +1,0 @@
----
-title: 'Second Reading of the Resource Sustainability Bill (Opening Speech)'
-date: 2019-09-04T00:00:00.000Z
-file_url: 'https://www.mewr.gov.sg/news/opening-speech-by-senior-minister-of-state-for-the-environment-and-water-resources-dr-amy-khor-for-the-second-reading-of-the-resource-sustainability-bill--4-sep-2019'
-
----
-

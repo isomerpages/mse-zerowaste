@@ -2,7 +2,7 @@
 layout: post
 title: 'Recycling Right with Denise Keller - Blue Bin Dive edition'
 date: 2019-04-12T00:00:00.000Z
-permalink: /resources/videos/denise-keller-recycling-right-blue-bin
+permalink: /resources/videos/denise-keller-recycling-right-blue-bin/
 
 ---
 

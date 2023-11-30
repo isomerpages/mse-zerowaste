@@ -135,7 +135,7 @@ Retailers and manufacturers can help too!
 
 Food retail establishments and supermarkets can help reduce food wastage by offering different portion sizes and indicate serving sizes for consumers. This gives consumers an option to buy and order just the right amount of food for themselves, instead of having to purchase one standard size. 
 
-![small medium large](/images/SML.jpg)
+![small medium large](/images/sml.jpg)
 
 Food manufacturers can also help by packing food into smaller portions to cater to smaller families. This not only helps reduce food wastage due to overbuying, but also allows for preservation of freshness. 
 

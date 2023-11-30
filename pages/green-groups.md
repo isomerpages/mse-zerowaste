@@ -1,11 +1,9 @@
 ---
-title: 'Green Groups in Singapore'
+title: Green Groups in Singapore
 permalink: /green-groups-in-singapore/
 breadcrumb: Resources
-
+variant: markdown
 ---
-
-
 #### Zero Waste SG
 
 Zero Waste SG is a not-for-profit and non-governmental organisation dedicated to help Singapore eliminate the concept of waste, and accelerate the shift towards zero waste and the circular economy. It started as a website in 2008 providing tips and resources on waste minimisation and recycling, and is officially registered as a non-governmental organisation in 2015.
@@ -35,9 +33,9 @@ We aim to inspire Singaporeans to minimize their use of plastics and change our 
 
 #### Singapore Environment Council
 
-Established in 1995, the Singapore Environment Council (SEC) is an independently managed, non-profit and non-government organisation (NGO). SEC continuously engages all sectors of the community by formulating and executing a range of holistic programmes, such as the Singapore Environmental Achievement Awards, Asian Environmental Journalism Awards, School Green Awards, Green Champions, Singapore Green Labelling Scheme, Project: Eco-Office, Project: Eco-Shop and Project: F&B. In addition, we build a pool of committed volunteers under our Earth Helpers programme.
+Established in 1995, the Singapore Environment Council (SEC) is an independently managed, non-profit and non-government organisation (NGO). SEC continuously engages all sectors of the community by formulating and executing a range of holistic programmes, such as the Singapore Environmental Achievement Awards, Asian Environmental Journalism Awards, School Green Awards, Green Champions, Singapore Green Labelling Scheme, Project: Eco-Office, Project: Eco-Shop and Project: F&amp;B. In addition, we build a pool of committed volunteers under our Earth Helpers programme.
 * [Facebook](https://www.facebook.com/SingaporeEnvironmentCouncil/){:target="_blank"} 
-* [Website](http://www.sec.org.sg/web/){:target="_blank"} 
+* [Website](http://www.sec.org.sg/){:target="_blank"} 
 * [Instagram](https://www.instagram.com/secsingapore){:target="_blank"} 
 
 ***************
@@ -147,4 +145,3 @@ Through our awareness campaigns and outreach activities, WWF Singapore aims to e
 * [Website](){:target="_blank"} 
 * [Instagram](){:target="_blank"} 
 -->
-

@@ -1,11 +1,9 @@
 ---
-title: 'Chapter 5 - Transforming The Environmental Services Industry'
+title: Chapter 5 - Transforming The Environmental Services Industry
 permalink: /zero-waste-masterplan/chapter5/
-breadcrumb: 'Zero Waste Masterplan'
-
+breadcrumb: Zero Waste Masterplan
+variant: markdown
 ---
-
-
 ### From the adoption of technology to making cleaning and waste management jobs smarter, safer and easier, to helping local companies go global – the environmental services industry is getting a facelift to sparkle with higher productivity and capabilities.
 
 They keep roads, housing estates, schools
@@ -61,7 +59,7 @@ and solutions:
 
 * Develop new ways to perform cleaning and waste management tasks that can be scalable and replicated overseas
 * Help companies expand their capabilities and grow by providing opportunities to expand their businesses in global markets
-* Promote research and development (R&D) within companies
+* Promote research and development (R&amp;D) within companies
 * Position Singapore as the technology centre of excellence by showcasing locally developed cleaning and waste management solutions, and nurturing companies which innovate
 
 Instead of relying heavily on manual
@@ -84,7 +82,7 @@ build innovation capabilities and track records
 when scaling up locally or exporting overseas.
 
 Companies can tap on several funds to
-reduce the cost of venturing into R&D,
+reduce the cost of venturing into R&amp;D,
 or automating their processes.
 
 ![Grants](/images/ch5-grants.png)
@@ -133,8 +131,8 @@ To encourage the adoption of technology, we focus on three areas:
 * Leverage platforms such as the Whole-of-Government Business Grants Portal to provide a technology repository for ease
 of technology adoption, and Technology Connect Sessions to link the technology providers to service buyers
 
-![Leopull with cleaner](/images/ch5-LeoPull.jpg)
-<caption>In order to boost the productivity of Jewel Changi Airport, robots developed by Lionsbot International will be deployed to help with cleaning and waste collection. The robot Leopull helps cleaners by transporting waste carts around Jewel Changi Airport, freeing cleaners up to complete other tasks Photo: Lionsbot International Pte Ltd</caption>
+![Leopull with cleaner](/images/ch5-leopull.jpg)
+In order to boost the productivity of Jewel Changi Airport, robots developed by Lionsbot International will be deployed to help with cleaning and waste collection. The robot Leopull helps cleaners by transporting waste carts around Jewel Changi Airport, freeing cleaners up to complete other tasks Photo: Lionsbot International Pte Ltd
 
 If we want to create a leaner, more elderly-friendly
 and productive industry, we need to change the way we currently clean spaces
@@ -152,7 +150,7 @@ companies were able to adopt easily, as well
 as a grant that they could tap on.
 
 The NEA also launched a $30 million
-[Productivity Solutions Grant (PSG)](https://www.nea.gov.sg/industry-transformation-map/productivity-solutions-grant-(psg)){:target="_blank"} that funds
+[Productivity Solutions Grant (PSG)](https://www.nea.gov.sg/programmes-grants/grants-and-awards/productivity-solutions-grant-(psg)){:target="_blank"} that funds
 the adoption of commercially available and
 proven ES technologies, including equipment
 and digital solutions that raise productivity.
@@ -197,7 +195,7 @@ industry, there is still a need to ensure a
 steady stream of workers for the future.
 
 ![ES Workforce Day](/images/ch5-workforce-day.jpg)
-<caption>Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, with recipients of the Certificate of Excellence at the ES Workforce Day in November 2018</caption>
+Senior Minister of State for the Environment and Water Resources, Dr Amy Khor, with recipients of the Certificate of Excellence at the ES Workforce Day in November 2018
 
 We look to improve on six areas:
 
@@ -225,7 +223,7 @@ Every worker should be given the opportunity
 to learn new skills and grow in their jobs.
 Four possible ways to do so are:
 
-* Create a [Skills Framework for ES](https://www.skillsfuture.sg/skills-framework/environmental-services){:target="_blank"}  together with SkillsFuture Singapore (SSG), WSG and industry stakeholders
+* Create a [Skills Framework for ES](https://www.skillsfuture.gov.sg/skills-framework/environmental-services){:target="_blank"}  together with SkillsFuture Singapore (SSG), WSG and industry stakeholders
 * Develop apprenticeship and scholarship programmes to attract and retain talent, especially at Associate Professionals and Technicians (APT) and Professionals, Managers and Executives (PME) levels
 * Facilitate Pre-Employment Training (PET) and Continuing Education and Training (CET) Programmes together with IHLs, and the expansion of PET and CET offerings
 * Review the Singapore Workforce Skills Qualifications (WSQ) modules to ensure that they are still relevant to the industry,
@@ -245,8 +243,8 @@ More PET and CET programmes will be
 gradually put in place to address the skills
 and training needs of the industry.
 
-![Mr Koh Kheng Huat](/images/ch5-PV-vacuum.jpg)
-<caption>Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd</caption>
+![Mr Koh Kheng Huat](/images/ch5-pv-vacuum.jpg)
+Mr Koh Kheng Huat enrolled in the SkillsFuture Work - Study Programme leading to a Part-Time Diploma in Applied Science (ES and Management) by Republic Polytechnic in 2019. The course will prepare him for his job at PV Vacuum Engineering Pte Ltd, a company providing pneumatic waste conveyance system services, by teaching him project management skills and imparting knowledge on environmental operations and environmental sustainability.  Photo: PV Vacuum Engineering Pte Ltd
 
 <p></p>
 
@@ -269,7 +267,7 @@ local and international clients, and manage
 projects from around the world.</p>
 
 <img src="/images/ch5-biomax2.jpg" alt="Biomax laboratory">
-<caption>Biomax laboratory Photo: Biomax Green Pte Ltd</caption>
+Biomax laboratory Photo: Biomax Green Pte Ltd
 
 <p>As the environmental impact of plastic
 waste takes the spotlight, Plaspulp
@@ -284,8 +282,8 @@ plastic waste is segregated and
 processed faster, ensuring a better
 quality output.</p>
 
-<img src="/images/ch5-Plaspulp.jpg" alt="Ms Jade Loh, Operations Manager at Plaspulp Union">
-<caption>Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG</caption>
+<img src="/images/ch5-plaspulp.jpg" alt="Ms Jade Loh, Operations Manager at Plaspulp Union">
+Ms Jade Loh, Operations Manager at Plaspulp Union, explores recycling solutions for waste materials. Photo: SSG
 
 
 <p>SembWaste Pte Ltd, one of
@@ -304,7 +302,7 @@ jobs in waste collection.</p>
 
 
 <img src="/images/ch5-sembwaste.jpg" alt="SembWaste waste collection crew">
-<caption>SembWaste waste collection crew uses a smart device to receive waste collection jobs from SembWaste’s Command Centre, where waste capacity levels in compactor bin centres are remotely monitored</caption>
+SembWaste waste collection crew uses a smart device to receive waste collection jobs from SembWaste’s Command Centre, where waste capacity levels in compactor bin centres are remotely monitored
 
 </div>
 
@@ -362,7 +360,7 @@ will be housed within TimMac @ Kranji.
 
 
 ![multi-storey recycling facility](/images/ch5-msrf.jpg)
-<caption>Artist’s impression of the multi-storey recycling facility. Photo: JTC</caption>
+Artist’s impression of the multi-storey recycling facility. Photo: JTC
 
 <p></p>
 
@@ -489,19 +487,19 @@ hunt for opportunities abroad and source for
 new technologies.
 
 
-![Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF)](/images/ch5-Hong-Kong-IWMF-Artist-Impression.jpg)
-<caption>Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF). Singapore company
+![Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF)](/images/ch5-hong-kong-iwmf-artist-impression.jpg)
+Artist’s impression of Hong Kong’s first Integrated Waste Management Facility (IWMF). Singapore company
 Keppel Infrastructure Holdings Pte Ltd, and China Harbour Engineering Company Limited, through their respective
 wholly owned subsidiaries, Keppel Seghers Hong Kong Limited and Zhen Hua Engineering Co. Ltd., clinched the
 S$5.3 billion project to design, build and operate Hong Kong’s first IWMF for municipal solid waste. The IWMF will
 include a 3,000 tonnes/day Waste-To-Energy (WTE) plant that is capable of generating approximately 480 million
 kWh of net electricity/year, as well as a 200 tonnes/day mechanical treatment plant for sorting and recycling
-glass, plastics and metals. Photo: Keppel Infrastructure</caption>
+glass, plastics and metals. Photo: Keppel Infrastructure
 
 <p></p>
 
 <div style="padding: 10px; border:10px solid #eeddca">
-<h4>LOCAL R&D FINDS OPPORTUNITIES OVERSEAS</h4>
+<h4>LOCAL R&amp;D FINDS OPPORTUNITIES OVERSEAS</h4>
 
 <p>A microbial treatment developed to break down
 food waste at low operating temperature has
@@ -519,7 +517,7 @@ and 70% of its revenue is now generated from
 overseas sales.</p>
 
 <p>Other channels to help companies capture
-opportunities overseas include the Environmental &
+opportunities overseas include the Environmental &amp;
 Water Technology Centre of Innovation (EWTCOI),
 which is supported by Enterprise Singapore. It aids
 companies in developing and commercialising
@@ -531,9 +529,9 @@ husks into biochar to Singapore. This solution was
 subsequently exported to Thailand.</p>
 
 <img src="/images/ch5-westcom2.jpg" alt="Westcom Solutions">
-<caption>A Westcom Solutions researcher conducting research
+A Westcom Solutions researcher conducting research
 to develop microbes to break down food waste at a low
-operating temperature. Photo: Westcom Solutions Pte Ltd</caption>
+operating temperature. Photo: Westcom Solutions Pte Ltd
 </div>
 
 <p></p>

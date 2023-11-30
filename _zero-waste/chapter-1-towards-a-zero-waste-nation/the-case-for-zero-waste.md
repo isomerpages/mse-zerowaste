@@ -1,13 +1,10 @@
 ---
-title: 'The case for Zero Waste'
-permalink: /zero-waste-masterplan/chapter1/case-for-zero-waste
-breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
-third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
-
+title: The case for Zero Waste
+permalink: /zero-waste-masterplan/chapter1/case-for-zero-waste/
+breadcrumb: Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation
+third_nav_title: Chapter 1 - Towards a Zero Waste Nation
+variant: markdown
 ---
-
-
-
 ### At the heart of Singapore’s rapid development lies an inconvenient question: Is it sustainable? 
 
 Resources around the world are being used up far faster than they are replenished, and the burning of fossil fuels has caused the build-up of greenhouse gases and rising global temperatures.
@@ -95,7 +92,7 @@ cut the amount of waste we throw away to
 conserve it for as long as possible.
 
 ![Semakau Landfill](/images/semakau.jpg)
-<caption>Semakau Landfill</caption>
+Semakau Landfill
 
 #### SEIZING OPPORTUNITIES IN SUSTAINABILITY
 
@@ -122,7 +119,7 @@ At the same time, businesses and citizens are developing a growing awareness of 
 
 There has been a shift towards sustainable growth on the global stage as well, with world leaders recognising the need to act. In 2015, world leaders adopted the [2030 Agenda for Sustainable Development (2030 Agenda)](https://www.un.org/sustainabledevelopment/development-agenda/){:target="_blank"} and its 17 Sustainable Development Goals (SDGs). The 2030 Agenda provides a shared blueprint and acts as an urgent call to action for sustainable development for all countries.
 
-![Diagram showing Sustainable Development Goals](/images/ch1_Sustainable_Development_Goals.png)
+![Diagram showing Sustainable Development Goals](/images/ch1_sustainable_development_goals.png)
 
 The adoption of the Paris Agreement in 2015 also demonstrates the commitment by the international community to address climate change. It is another call to action for every country to take ambitious actions and work together to limit global temperature rise this century to well below 2<sup>o</sup>C above pre-industrial levels, and strive to limit temperature increase to 1.5<sup>o</sup>C.
 
@@ -133,7 +130,7 @@ We need to act now to ensure that Singapore is prepared to seize these opportuni
 To prepare Singapore for the future, we must build 3 “Resiliences”:
 
 <table>
-  <tr>
+  <tbody><tr>
     <th width="33%">CLIMATE RESILIENCE</th>
     <th width="33%">ECONOMIC RESILIENCE</th>
     <th>RESOURCE RESILIENCE</th>
@@ -144,18 +141,16 @@ To prepare Singapore for the future, we must build 3 “Resiliences”:
     <td>Secure our critical resources, such as food, water and materials, through optimisation and recovery of treasure from trash</td>
    
   </tr>
-</table>
+</tbody></table>
 
 To do so, Singapore will play our part in the
 global effort to protect our planet.
 
-We have put forward an ambitious [climate
-pledge under the Paris Agreement](https://climateaction.sg/2019/08/14/singapores-pledge-under-the-paris-agreement/){:target="_blank"} to reduce
+We have put forward an ambitious climate
+pledge under the Paris Agreement to reduce
 our emissions intensity by 36% below 2005
 levels by 2030 and stabilise our emissions
 with the aim of peaking around 2030.
-
-![our climate pledge](https://i1.wp.com/climateaction.sg/wp-content/uploads/2019/08/page5-01.jpg?w=1229&ssl=1)
 
 We are also committed to implementing the
 17 SDGs under the Government’s long-term
@@ -185,8 +180,8 @@ energy, food and waste sectors to enhance
 resource efficiency.
 
 ![Photo of Minister Masagos Zulkifli at the 2018 United Nations High-Level Political Forum on Sustainable Development](/images/ch1_national_statement.jpg)
-<caption>Minister for the Environment and Water Resources, Mr Masagos Zulkifli, presented Singapore’s first Voluntary
-National Review of the SDGs at the 2018 United Nations High-Level Political Forum on Sustainable Development</caption>
+Minister for the Environment and Water Resources, Mr Masagos Zulkifli, presented Singapore’s first Voluntary
+National Review of the SDGs at the 2018 United Nations High-Level Political Forum on Sustainable Development
 
 By investing in innovation, Singapore
 can become a leader in urban solutions

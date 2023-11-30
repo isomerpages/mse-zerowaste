@@ -55,7 +55,7 @@ than 70% demolition waste, reclaimed
 from waste concrete made with natural
 aggregates.
 
-![recycled concrete aggregate process](/images/ch2_RCA_process.png)
+![recycled concrete aggregate process](/images/ch2_rca_process.png)
 <caption>RCA Process. Photo: Samwoh Corporation Pte Ltd</caption>
 
 #### CLOSING THE METAL RESOURCE LOOP

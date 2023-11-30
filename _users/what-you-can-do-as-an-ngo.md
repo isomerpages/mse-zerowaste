@@ -1,6 +1,6 @@
 ---
 title: 'What you can do as an NGO'
-permalink: /users/NGO/
+permalink: /users/ngo/
 breadcrumb: 'What you can do'
 
 ---

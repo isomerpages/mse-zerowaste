@@ -71,7 +71,7 @@ collection can become more manpowerefficient.
 PWCS will offer a cleaner and more
 liveable environment.
 
-![Illustration of a Pneumatic Waste Conveyance System](/images/ch4-PWCS.png)
+![Illustration of a Pneumatic Waste Conveyance System](/images/ch4-pwcs.png)
 <caption>Illustration of a Pneumatic Waste Conveyance System Photo: Envac</caption>
 
 To increase the adoption of PWCS, since
@@ -180,7 +180,7 @@ the second phase is estimated to be completed
 by 2027.
 
 
-![Integrated Waste Management Facility (IWMF)](/images/ch4-IWMF.png)
+![Integrated Waste Management Facility (IWMF)](/images/ch4-iwmf.png)
 
 **What makes the IWMF novel?**
 
@@ -271,5 +271,5 @@ treat the waste disposed of more efficiently,
 maximise resource recovery and reduce waste
 residues sent to Semakau Landfill.
 
-![IBA pit at Tuas South Incineration Plant](/images/ch4-IBA-pit.jpg)
+![IBA pit at Tuas South Incineration Plant](/images/ch4-iba-pit.jpg)
 <caption>IBA pit at Tuas South Incineration Plant. NEA is studying the use of IBA for non-structural construction purposes</caption>

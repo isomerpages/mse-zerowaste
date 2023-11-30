@@ -1,6 +1,6 @@
 ---
 title: 'Overcoming the environmental challenges of our past'
-permalink: /zero-waste-masterplan/chapter1/our-past
+permalink: /zero-waste-masterplan/chapter1/our-past/
 breadcrumb: 'Zero Waste Masterplan - Chapter 1 - Towards a Zero Waste Nation'
 third_nav_title: 'Chapter 1 - Towards a Zero Waste Nation'
 
@@ -96,7 +96,7 @@ located at Ulu Pandan, was completed at a
 cost of $130 million, a hefty investment at the
 time.
 
-![Ulu Pandan Refuse Incineration Plant](/images/ch1_ulu_pandan_IP.jpg)
+![Ulu Pandan Refuse Incineration Plant](/images/ch1_ulu_pandan_ip.jpg)
 <caption>Ulu Pandan Refuse Incineration Plant</caption>
 
 Singapore took a $25 million loan from the

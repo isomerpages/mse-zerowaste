@@ -214,7 +214,7 @@ as ladders and trolleys, the People’s
 Association (PA) launched Resource Centre
 @ Residents’ Committee (RC) in 2016.
 
-![Alternative text for screen readers](/images/ch2_PA_resource_centre.jpg)
+![Alternative text for screen readers](/images/ch2_pa_resource_centre.jpg)
 <caption>Need a chiller box for a house party or a trolley to move some furniture? These items can be
 borrowed from your nearby RC or Residents’ Network (RN) Resource Centre. PA launched the
 Resource Centre @ RC in 2016 across 460 RCs in Singapore. Photo: PA</caption>

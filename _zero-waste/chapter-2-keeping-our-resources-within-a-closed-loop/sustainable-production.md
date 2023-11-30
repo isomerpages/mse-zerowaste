@@ -151,7 +151,7 @@ implemented in manufacturing use-cases
 or test process improvements without
 disrupting their own operations.
 
-![Advanced Remanufacturing and Technology Centre](/images/ch2_ARTC.jpg)
+![Advanced Remanufacturing and Technology Centre](/images/ch2_artc.jpg)
 
 **Secure connectivity and intelligent system**
 

@@ -18,7 +18,7 @@ It will take a whole-of-nation effort to create the changes we need. Your views 
 
 #### Join this conversation and share your views 
 
-**Step 1**: Read the <a href="/files/ZWConsultation.pdf" onclick="ga('send', 'event', 'PDF', 'Download', 'PDF Download');">Public Consultation Document</a>
+**Step 1**: Read the <a href="/files/zwconsultation.pdf" onclick="ga('send', 'event', 'PDF', 'Download', 'PDF Download');">Public Consultation Document</a>
 
 **Step 2**: [Fill up the survey form](http://mewr.sg/zerowasteconsultation){:target="_blank"} 
 
