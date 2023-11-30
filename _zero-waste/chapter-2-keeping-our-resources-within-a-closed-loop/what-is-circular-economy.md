@@ -1,12 +1,10 @@
 ---
-title: 'What is Circular Economy?'
+title: What is Circular Economy?
 permalink: /zero-waste-masterplan/chapter2/circular-economy/
-breadcrumb: 'Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop'
-third_nav_title: 'Chapter 2 - Keeping Our Resources Within A Closed Loop'
-
+breadcrumb: Zero Waste Masterplan - Chapter 2 - Keeping Our Resources Within A Closed Loop
+third_nav_title: Chapter 2 - Keeping Our Resources Within A Closed Loop
+variant: markdown
 ---
-
-
 ### Unlike the linear economy, the circular economy focuses on designing waste out of the resource ecosystem and maximising the value of resources by keeping them in use for as long as possible.
 
 Many countries, such as the Netherlands,
@@ -35,7 +33,7 @@ ones, and the recycling of waste and their
 reintroduction into the value chain.
 
 ![Alternative text for screen readers](/images/ch2_circular_economy.png)
-<caption>A circular economy approach will require measures to be taken across the entire value chain</caption>
+A circular economy approach will require measures to be taken across the entire value chain
 
 We have already embraced the circular
 economy approach in several areas through
@@ -54,13 +52,12 @@ Singapore to reintroduce up to almost
 our system each day.
 
 ![Closing the water loop](/images/ch2_water_loop.png)
-<caption>Closing the water loop in Singapore. Credit: PUB</caption>
+Closing the water loop in Singapore. Credit: PUB
 
 
 ### SETTING NEW TARGETS TOWARDS ZERO WASTE
 
-Under the [Sustainable Singapore Blueprint
-2015](http://www.sustainablesingapore.gov.sg){:target="_blank"}, we set the 2030 target of increasing
+Under the Sustainable Singapore Blueprint 2015, we set the 2030 target of increasing
 our national recycling rate to 70%, domestic
 recycling rate to 30% and non-domestic
 recycling rate to 81%.
