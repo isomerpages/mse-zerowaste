@@ -126,7 +126,7 @@ Project Homecoming is an ink and toner cartridge recycling programme led by Cano
 
 **5. IKEA's Light Bulb Recycling Programme**
 IKEA is the first major retailer in Singapore to provide light bulb recycling services. The collection bins can be found at the lighting department and wrapping stations at both IKEA outlets. 
-* Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit [IKEA's website](https://www.ikea.com/ms/en_SG/this-is-ikea/people-and-planet/local-efforts/index.html){:target="_blank"} for more info)
+* Where to Recycle: IKEA stores at 317 Alexandra Road and 60 Tampines North Drive 2 (visit [IKEA's website](https://www.ikea.com/be/en/customer-service/services/recycling-pubdbaf74da){:target="_blank"} for more info)
 * What to Recycle: Light bulbs and fluorescent tubes
 
 **6. Other Recycling Programmes**
