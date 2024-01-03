@@ -73,7 +73,7 @@ Ground-Up Initiative (GUI) is a non-profit community, guided by the spirit of in
 Foodscape Collective is a community initiative that connects stakeholders from across our local foodscape, empowers individuals with skills and knowledge in food sustainability, and supports projects for a fair and compassionate food system that protects our environment and communities.
 
 * [Facebook](https://www.facebook.com/FoodscapeCollective/){:target="_blank"} 
-* [Website](https://foodscapecollective.org){:target="_blank"} 
+* [Website](https://foodscapecollective.com){:target="_blank"} 
 * [Instagram](https://www.instagram.com/foodscapecollective/){:target="_blank"} 
 
 ***************
