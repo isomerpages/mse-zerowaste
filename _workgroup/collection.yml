@@ -1,0 +1,5 @@
+collections:
+  workgroup:
+    output: true
+    order:
+      - recycle-right-citizens-workgroup.md

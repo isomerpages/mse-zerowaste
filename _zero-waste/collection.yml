@@ -1,0 +1,25 @@
+collections:
+  zero-waste:
+    output: true
+    order:
+      - introduction.md
+      - foreword.md
+      - chapter-1-towards-a-zero-waste-nation/.keep
+      - chapter-1-towards-a-zero-waste-nation/overview.md
+      - chapter-1-towards-a-zero-waste-nation/the-case-for-zero-waste.md
+      - chapter-1-towards-a-zero-waste-nation/overcoming-the-environmental-challenges-of-our-past.md
+      - chapter-2-keeping-our-resources-within-a-closed-loop/.keep
+      - chapter-2-keeping-our-resources-within-a-closed-loop/overview.md
+      - chapter-2-keeping-our-resources-within-a-closed-loop/what-is-circular-economy.md
+      - chapter-2-keeping-our-resources-within-a-closed-loop/sustainable-production.md
+      - chapter-2-keeping-our-resources-within-a-closed-loop/sustainable-consumption.md
+      - chapter-2-keeping-our-resources-within-a-closed-loop/how-do-we-manage-waste-sustainably.md
+      - chapter-3-a-circular-economy-approach-to-closing-three-resource-loops/.keep
+      - chapter-3-a-circular-economy-approach-to-closing-three-resource-loops/overview.md
+      - chapter-3-a-circular-economy-approach-to-closing-three-resource-loops/food.md
+      - chapter-3-a-circular-economy-approach-to-closing-three-resource-loops/electrical-and-electronic-equipment.md
+      - chapter-3-a-circular-economy-approach-to-closing-three-resource-loops/packaging.md
+      - chapter-4-optimising-infrastructure-for-maximum-resource-recovery.md
+      - chapter-5-transforming-the-environmental-services-industry.md
+      - chapter-6-shaping-a-greener-future-with-science-and-technology.md
+      - chapter-7-towards-a-zero-waste-nation-together.md
